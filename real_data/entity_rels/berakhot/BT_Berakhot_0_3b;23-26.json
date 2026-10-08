@@ -1,0 +1,29 @@
+﻿{
+    "res": {
+        "en_summary": "Gemara discusses neshef meaning evening or morning.",
+        "heb_summary": "הגמרא דנה במשמעות נשף ערב או בוקר.",
+        "passage_types": [
+            "PHILOSOPHIC",
+            "STORY"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "David"
+                },
+                {
+                    "en_name": "Rava"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "2",
+                    "number_category": "Misc",
+                    "en_unit": "time",
+                    "en_context": "neshef meanings"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_3b:23-26"
+}

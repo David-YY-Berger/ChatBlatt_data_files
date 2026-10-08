@@ -1,0 +1,39 @@
+﻿COST: Tokens: Total=8609 approx cost=$0.006369 (Prompt=6888, Completion=1721)
+SOURCE:
+Berakhot (Zeraim) 3b:23-26
+
+HEBREW:
+ו״נשף״ אורתא הוא? הא ״נשף״ צפרא הוא! דכתיב: ״ויכם דוד מהנשף ועד הערב למחרתם״. מאי לאו — מצפרא ועד ליליא?לא, מאורתא ועד אורתא.אי הכי, לכתוב ״מהנשף ועד הנשף״ או ״מהערב ועד הערב״!אלא אמר רבא: תרי נשפי הוו — נשף ליליא ואתי יממא, נשף יממא ואתי ליליא.
+
+ENGLISH:
+To this point, the discussion has been based on the assumption that neshef means evening. The Gemara asks: Does neshef really mean evening? Doesnt neshef mean morning? As it is written: And David slew them from the neshef until the evening of the next day (I Samuel 30:17). Doesnt this verse mean from the morning until the night, in which case neshef must mean morning?The Gemara responds: No, this verse means that David slew them from one evening until the next evening. The Gemara rejects this response: If so, let the verse be written: From the neshef until the neshef , or from the evening until the evening. Why would the verse employ two different terms for a single concept? Rather, Rava said: There are two times referred to as neshef , and the word can refer to either evening or morning. Neshef must be understood in accordance with its Aramaic root: The night moves past [ neshaf ] and the day arrives, and the day moves past [ neshaf ] and the night arrives.
+
+EXTRACTED (JSON):
+{
+  "res": {
+    "en_summary": "Gemara discusses neshef meaning evening or morning.",
+    "heb_summary": "הגמרא דנה במשמעות נשף ערב או בוקר.",
+    "passage_types": [
+      "PHILOSOPHIC",
+      "STORY"
+    ],
+    "Entities": {
+      "Person": [
+        {
+          "en_name": "David"
+        },
+        {
+          "en_name": "Rava"
+        }
+      ],
+      "Number": [
+        {
+          "en_name": "2",
+          "number_category": "Misc",
+          "en_unit": "time",
+          "en_context": "neshef meanings"
+        }
+      ]
+    }
+  }
+}
