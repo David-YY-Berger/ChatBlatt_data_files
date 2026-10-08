@@ -1,0 +1,129 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac73963b9ad2bcc0401a06a",
+            "entityType": "Person",
+            "roles": [
+                "Prophet"
+            ],
+            "display_en_name": "micah"
+        },
+        {
+            "key": "6ac73992b9ad2bcc0401a125",
+            "entityType": "Person",
+            "display_heb_name": "משה",
+            "display_en_name": "moses"
+        },
+        {
+            "key": "6ac739abb9ad2bcc0401a180",
+            "entityType": "Place",
+            "display_heb_name": "גלגל",
+            "placeType": "City",
+            "display_en_name": "gilgal"
+        },
+        {
+            "key": "6ac73a1fb9ad2bcc0401a311",
+            "entityType": "Place",
+            "display_heb_name": "שיטים",
+            "placeType": "City",
+            "display_en_name": "shittim"
+        },
+        {
+            "key": "6ac748a68944908bc22a1213",
+            "entityType": "Person",
+            "display_heb_name": "ישראל",
+            "display_en_name": "israel"
+        },
+        {
+            "key": "6ac748be8944908bc22a1275",
+            "entityType": "Person",
+            "display_heb_name": "רבי יוסי",
+            "display_en_name": "rabbi yosei"
+        },
+        {
+            "key": "6ac748cc8944908bc22a12ac",
+            "entityType": "Person",
+            "display_heb_name": "רבי יוחנן",
+            "display_en_name": "rabbi yohanan"
+        },
+        {
+            "key": "6ac748cc8944908bc22a12ad",
+            "entityType": "Person",
+            "display_heb_name": "רבי אלעזר",
+            "display_en_name": "rabbi elazar"
+        },
+        {
+            "key": "6ac748cc8944908bc22a12ae",
+            "entityType": "Person",
+            "display_heb_name": "רבי אבינא",
+            "timePeriod": "Amoraim",
+            "display_en_name": "rabbi avina"
+        },
+        {
+            "key": "6ac748d98944908bc22a12e3",
+            "entityType": "Person",
+            "display_heb_name": "הקדוש ברוך הוא",
+            "display_en_name": "god"
+        },
+        {
+            "key": "6ac7491b8944908bc22a13e1",
+            "entityType": "Person",
+            "display_heb_name": "בלעם",
+            "timePeriod": "Tanach",
+            "isNonJew": true,
+            "display_en_name": "balaam"
+        },
+        {
+            "key": "6ac7491b8944908bc22a13e2",
+            "entityType": "Person",
+            "display_heb_name": "בלק",
+            "timePeriod": "Tanach",
+            "isNonJew": true,
+            "roles": [
+                "King"
+            ],
+            "display_en_name": "balak"
+        },
+        {
+            "key": "6ac7491b8944908bc22a13e3",
+            "entityType": "Person",
+            "display_heb_name": "רבי אבין",
+            "timePeriod": "Amoraim",
+            "display_en_name": "rabbi avin"
+        },
+        {
+            "key": "6ac7491c8944908bc22a13e4",
+            "entityType": "Person",
+            "display_heb_name": "בעור",
+            "timePeriod": "Tanach",
+            "isNonJew": true,
+            "display_en_name": "beor"
+        },
+        {
+            "key": "6ac7491c8944908bc22a13e5",
+            "entityType": "Nation",
+            "display_heb_name": "מואב",
+            "display_en_name": "moab"
+        },
+        {
+            "key": "6ac7491d8944908bc22a13e6",
+            "entityType": "Symbol",
+            "display_heb_name": "עגל",
+            "symbolType": "Holy Object",
+            "display_en_name": "golden calf"
+        },
+        {
+            "key": "6ac7491d8944908bc22a13e7",
+            "entityType": "Number",
+            "heb_unit": "שעה",
+            "contexts": [
+                {
+                    "en_context": "duration of god's anger",
+                    "heb_context": "משך זעם האל"
+                }
+            ],
+            "display_en_name": "1.7e-05"
+        }
+    ],
+    "key": "BT_Berakhot_0_7a:5-15"
+}

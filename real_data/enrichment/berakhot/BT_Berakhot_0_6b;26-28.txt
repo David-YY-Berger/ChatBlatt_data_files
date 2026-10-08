@@ -1,0 +1,106 @@
+﻿COST: Tokens: Total=4827 approx cost=$0.005155 (Prompt=3142, Completion=1685)
+SOURCE:
+Berakhot (Zeraim) 6b:26-28
+
+ENTITIES TO ENRICH (10):
+{"key":"6ac748a68944908bc22a1212","display_en_name":"elijah","display_heb_name":"אליהו","all_en_names":["Elijah"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","roles":["Prophet"]}
+{"key":"6ac748a68944908bc22a1213","display_en_name":"israel","display_heb_name":"ישראל","all_en_names":["Israel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isNonJew":false,"isGroup":true,"roles":[]}
+{"key":"6ac748d98944908bc22a12e3","display_en_name":"god","display_heb_name":"קודשא בריך הוא","all_en_names":["God"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isNonJew":false,"isGroup":false,"roles":[]}
+{"key":"6ac748f68944908bc22a135b","display_en_name":"huna","display_heb_name":"רב הונא","all_en_names":["Huna"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac749048944908bc22a1393","display_en_name":"abraham","display_heb_name":"אברהם","all_en_names":["Abraham"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isNonJew":false,"roles":[]}
+{"key":"6ac749068944908bc22a1399","display_en_name":"helbo","display_heb_name":"רבי חלבו","all_en_names":["Helbo"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac7490e8944908bc22a13b7","display_en_name":"isaac","display_heb_name":"","all_en_names":["Isaac"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac7490f8944908bc22a13b8","display_en_name":"nahman bar yitzhak","display_heb_name":"","all_en_names":["Nahman Bar Yitzhak"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac7490f8944908bc22a13b9","display_en_name":"fire","display_heb_name":"","all_en_names":["Fire"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac7490f8944908bc22a13ba","display_en_name":"incense","display_heb_name":"","all_en_names":["Incense"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+And Rabbi Helbo said that Rav Huna said: One must always be vigilant with regard to the afternoon prayer, as Elijahs prayer was only answered in the afternoon prayer, as it is stated: And it was at the time of the afternoon offering that Elijah the Prophet came near, and he said: Lord, God of Abraham, Isaac and Israel, let it be known on this day that You are God in Israel, and that I am Your servant, and that I have done all these things at Your word. Answer me, Lord, answer me, that this people will know that You, Lord, are God (I Kings 18:36-37). Because Elijah was answered in the afternoon prayer, it has particular significance.In passing, the Gemara explains why it was necessary for Elijah to repeat, answer me, Lord, answer me: The first answer me was the request that fire descend from the heavens, while the second answer me was the request that Israel should accept complete faith in God and not say that the fire descending from the heavens was an act of sorcery. Rabbi Yohanan said: One must be vigilant with regard to the evening prayer as well, as it is stated: Let my prayer come forth as incense before You, the lifting of my hands as the evening offering (Psalms 141:2). Rav Nahman bar Yitzhak said: One must be vigilant with regard to the morning prayer as well, as it is stated: Lord, in the morning You shall hear my voice; in the morning I will order my prayer unto You and will look forward (Psalms 5:4).
+
+HEBREW:
+ואמר רבי חלבו, אמר רב הונא: לעולם יהא אדם זהיר בתפלת המנחה, שהרי אליהו לא נענה אלא בתפלת המנחה, שנאמר: ״ויהי בעלות המנחה ויגש אליהו הנביא ויאמר וגו׳ ענני ה׳ ענני״.״ענני״ — שתרד אש מן השמים, ו״ענני״ — שלא יאמרו מעשה כשפים הם.רבי יוחנן אמר: אף בתפלת ערבית, שנאמר: ״תכון תפלתי קטרת לפניך משאת כפי מנחת ערב״. רב נחמן בר יצחק אמר: אף תפלת שחרית, שנאמר: ״ה׳ בקר תשמע קולי, בקר אערך לך ואצפה״.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748a68944908bc22a1212",
+      "entityType": "Person",
+      "display_heb_name": "אליהו הנביא",
+      "timePeriod": "Tanach",
+      "roles": [
+        "Prophet"
+      ]
+    },
+    {
+      "key": "6ac748a68944908bc22a1213",
+      "entityType": "Person",
+      "display_heb_name": "ישראל",
+      "timePeriod": "Tanach",
+      "isNonJew": false,
+      "isGroup": true
+    },
+    {
+      "key": "6ac748d98944908bc22a12e3",
+      "entityType": "Person",
+      "display_heb_name": "ה׳",
+      "timePeriod": "No Time Period",
+      "isNonJew": false,
+      "isGroup": false
+    },
+    {
+      "key": "6ac748f68944908bc22a135b",
+      "entityType": "Person",
+      "display_heb_name": "רב הונא",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac749048944908bc22a1393",
+      "entityType": "Person",
+      "display_heb_name": "אברהם",
+      "timePeriod": "Tanach",
+      "isNonJew": false
+    },
+    {
+      "key": "6ac749068944908bc22a1399",
+      "entityType": "Person",
+      "display_heb_name": "רבי חלבו",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac7490e8944908bc22a13b7",
+      "entityType": "Person",
+      "display_heb_name": "יצחק",
+      "timePeriod": "Tanach",
+      "isNonJew": false
+    },
+    {
+      "key": "6ac7490f8944908bc22a13b8",
+      "entityType": "Person",
+      "display_heb_name": "רב נחמן בר יצחק",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac7490f8944908bc22a13b9",
+      "entityType": "Symbol",
+      "display_heb_name": "אש",
+      "symbolType": "Part of Nature"
+    },
+    {
+      "key": "6ac7490f8944908bc22a13ba",
+      "entityType": "Symbol",
+      "display_heb_name": "קטרת",
+      "symbolType": "Holy Object"
+    }
+  ]
+}

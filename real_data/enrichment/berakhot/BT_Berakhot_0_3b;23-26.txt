@@ -1,0 +1,49 @@
+﻿COST: Tokens: Total=4628 approx cost=$0.006154 (Prompt=2462, Completion=2166)
+SOURCE:
+Berakhot (Zeraim) 3b:23-26
+
+ENTITIES TO ENRICH (3):
+{"key":"6ac73970b9ad2bcc0401a0a4","display_en_name":"david","display_heb_name":"דוד","all_en_names":["David"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isNonJew":false,"isGroup":false,"roles":["King"]}
+{"key":"6ac748e28944908bc22a1306","display_en_name":"rava","display_heb_name":"","all_en_names":["Rava"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749588944908bc22a14be","display_en_name":"2","display_heb_name":"","all_en_names":["2"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Misc","en_unit":"time","contexts":[{"en_context":"reading bible text","source_keys":["BT_Berakhot_0_8a:30-8b:7"]},{"en_context":"neshef meanings","source_keys":["BT_Berakhot_0_3b:23-26"]}]}
+
+PASSAGE:
+ENGLISH:
+To this point, the discussion has been based on the assumption that neshef means evening. The Gemara asks: Does neshef really mean evening? Doesnt neshef mean morning? As it is written: And David slew them from the neshef until the evening of the next day (I Samuel 30:17). Doesnt this verse mean from the morning until the night, in which case neshef must mean morning?The Gemara responds: No, this verse means that David slew them from one evening until the next evening. The Gemara rejects this response: If so, let the verse be written: From the neshef until the neshef , or from the evening until the evening. Why would the verse employ two different terms for a single concept? Rather, Rava said: There are two times referred to as neshef , and the word can refer to either evening or morning. Neshef must be understood in accordance with its Aramaic root: The night moves past [ neshaf ] and the day arrives, and the day moves past [ neshaf ] and the night arrives.
+
+HEBREW:
+ו״נשף״ אורתא הוא? הא ״נשף״ צפרא הוא! דכתיב: ״ויכם דוד מהנשף ועד הערב למחרתם״. מאי לאו — מצפרא ועד ליליא?לא, מאורתא ועד אורתא.אי הכי, לכתוב ״מהנשף ועד הנשף״ או ״מהערב ועד הערב״!אלא אמר רבא: תרי נשפי הוו — נשף ליליא ואתי יממא, נשף יממא ואתי ליליא.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac73970b9ad2bcc0401a0a4",
+      "entityType": "Person",
+      "display_heb_name": "דוד",
+      "timePeriod": "Tanach",
+      "isNonJew": false,
+      "isGroup": false
+    },
+    {
+      "key": "6ac748e28944908bc22a1306",
+      "entityType": "Person",
+      "display_heb_name": "רבא",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac749588944908bc22a14be",
+      "entityType": "Number",
+      "heb_unit": "זמן",
+      "contexts": [
+        {
+          "en_context": "neshef meanings",
+          "heb_context": "משמעויות נשף"
+        }
+      ]
+    }
+  ]
+}

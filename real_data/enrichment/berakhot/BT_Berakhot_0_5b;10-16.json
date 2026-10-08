@@ -1,0 +1,54 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748cc8944908bc22a12ac",
+            "entityType": "Person",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabbi yohanan"
+        },
+        {
+            "key": "6ac748cc8944908bc22a12ad",
+            "entityType": "Person",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabbi elazar"
+        },
+        {
+            "key": "6ac748eb8944908bc22a132c",
+            "entityType": "Person",
+            "display_heb_name": "רבי חייא בר אבא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabbi hiyya bar abba"
+        },
+        {
+            "key": "6ac748eb8944908bc22a132d",
+            "entityType": "Person",
+            "display_heb_name": "רבי חנינא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabbi hanina"
+        },
+        {
+            "key": "6ac748eb8944908bc22a132e",
+            "entityType": "Number",
+            "heb_unit": "שולחן",
+            "contexts": [
+                {
+                    "en_context": "sustenance and torah",
+                    "heb_context": "מזוני ותורה"
+                }
+            ],
+            "display_en_name": "2"
+        }
+    ],
+    "key": "BT_Berakhot_0_5b:10-16"
+}

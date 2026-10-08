@@ -1,0 +1,80 @@
+﻿COST: Tokens: Total=5665 approx cost=$0.006883 (Prompt=3309, Completion=2356)
+SOURCE:
+Berakhot (Zeraim) 7b:1-5
+
+ENTITIES TO ENRICH (9):
+{"key":"6ac73960b9ad2bcc0401a05d","display_en_name":"judah","display_heb_name":"","all_en_names":["Judah"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"book_references":["Genesis","Numbers"],"timePeriod":"Tanach","isWoman":false,"isNonJew":false,"isGroup":false,"roles":[]}
+{"key":"6ac739c4b9ad2bcc0401a1dc","display_en_name":"leah","display_heb_name":"","all_en_names":["Leah"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isGroup":false,"roles":[]}
+{"key":"6ac748a18944908bc22a11fd","display_en_name":"holy one","display_heb_name":"הקדוש ברוך הוא","all_en_names":["Holy One"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isNonJew":false,"isGroup":false,"roles":[]}
+{"key":"6ac748a28944908bc22a11ff","display_en_name":"rav","display_heb_name":"רב","all_en_names":["Rav"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748ba8944908bc22a1261","display_en_name":"daniel","display_heb_name":"דניאל","all_en_names":["Daniel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","roles":[]}
+{"key":"6ac748be8944908bc22a1275","display_en_name":"rabbi yosei","display_heb_name":"רבי יוסי","all_en_names":["Rabbi Yosei"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","roles":["Tanna"]}
+{"key":"6ac748cc8944908bc22a12ac","display_en_name":"rabbi yohanan","display_heb_name":"רבי יוחנן","all_en_names":["Rabbi Yohanan"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac749048944908bc22a1393","display_en_name":"abraham","display_heb_name":"אברהם","all_en_names":["Abraham"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isNonJew":false,"roles":[]}
+{"key":"6ac749308944908bc22a142e","display_en_name":"rabbi shimon ben yohai","display_heb_name":"","all_en_names":["Rabbi Shimon Ben Yohai"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+
+PASSAGE:
+ENGLISH:
+Until now, the Gemara has cited statements made by Rabbi Yohanan in the name of the tanna , Rabbi Yosei. Now, the Gemara begins to cite what Rabbi Yohanan said in the name of Rabbi Shimon ben Yohai: From the day that the Holy One, Blessed be He, created the world there was no person who called him Lord until Abraham came and called him Lord. As it is stated: And he said, My Lord, God, by what shall I know that I will inherit it? (Genesis 15:8).The Gemara cites another statement extolling that virtue of Abraham is mentioned, as Rav said: Even Daniels prayers were only answered on account of Abraham, as it is stated: And now listen, God, to the prayer of Your servant and to his supplication; and cause Your face to shine upon Your desolate Temple, for the sake of the Lord (Daniel 9:17). The verse should have said: And cause Your face to shine upon Your desolate Temple, for Your sake, as Daniel was addressing the Lord. Rather, this verse contains an allusion that the prayer should be accepted for the sake of Abraham, who called You, Lord. Daniel utilized that name of God in order to evoke Abrahams virtue and enhance his prayer. And Rabbi Yohanan said in the name of Rabbi Shimon ben Yohai: From where is it derived that one must not placate a person while the person in the throes of his anger? As it is stated: My face will go, and I will give you rest (Exodus 33:14). And Rabbi Yohanan said in the name of Rabbi Shimon ben Yohai: From the day the Holy One, Blessed be He, created the world, no one thanked the Holy One, Blessed be He, until Leah came and thanked Him, as it is stated: And she became pregnant and gave birth to a son, and she said, This time I will give thanks to God, and thus he was called Judah (Genesis 29:35).
+
+HEBREW:
+אמר רבי יוחנן משום רבי שמעון בן יוחי: מיום שברא הקדוש ברוך הוא את העולם, לא היה אדם שקראו להקדוש ברוך הוא ״אדון״, עד שבא אברהם וקראו אדון, שנאמר: ״ויאמר אדני אלהים במה אדע כי אירשנה״.אמר רב: אף דניאל לא נענה אלא בשביל אברהם, שנאמר: ״ועתה שמע אלהינו אל תפלת עבדך ואל תחנוניו והאר פניך על מקדשך השמם למען אדני״, ״למענך״ מבעי ליה.אלא — למען אברהם שקראך ״אדון״.ואמר רבי יוחנן משום רבי שמעון בן יוחי: מנין שאין מרצין לו לאדם בשעת כעסו — שנאמר: ״פני ילכו והנחותי לך״.ואמר רבי יוחנן משום רבי שמעון בן יוחי: מיום שברא הקדוש ברוך הוא את עולמו לא היה אדם שהודה להקדוש ברוך הוא, עד שבאתה לאה והודתו, שנאמר: ״הפעם אודה את ה׳״.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac73960b9ad2bcc0401a05d",
+      "entityType": "Person",
+      "isWoman": false
+    },
+    {
+      "key": "6ac739c4b9ad2bcc0401a1dc",
+      "entityType": "Person",
+      "display_heb_name": "לאה",
+      "isWoman": true
+    },
+    {
+      "key": "6ac748a18944908bc22a11fd",
+      "entityType": "Person",
+      "display_heb_name": "הקדוש ברוך הוא"
+    },
+    {
+      "key": "6ac748a28944908bc22a11ff",
+      "entityType": "Person",
+      "display_heb_name": "רב"
+    },
+    {
+      "key": "6ac748ba8944908bc22a1261",
+      "entityType": "Person",
+      "display_heb_name": "דניאל"
+    },
+    {
+      "key": "6ac748be8944908bc22a1275",
+      "entityType": "Person",
+      "display_heb_name": "רבי יוסי",
+      "roles": [
+        "Tanna"
+      ]
+    },
+    {
+      "key": "6ac748cc8944908bc22a12ac",
+      "entityType": "Person",
+      "display_heb_name": "רבי יוחנן"
+    },
+    {
+      "key": "6ac749048944908bc22a1393",
+      "entityType": "Person",
+      "display_heb_name": "אברהם"
+    },
+    {
+      "key": "6ac749308944908bc22a142e",
+      "entityType": "Person",
+      "display_heb_name": "רבי שמעון בן יוחי",
+      "timePeriod": "Tanaim",
+      "roles": [
+        "Tanna"
+      ]
+    }
+  ]
+}

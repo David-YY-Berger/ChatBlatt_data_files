@@ -1,0 +1,118 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748988944908bc22a11d7",
+            "entityType": "Person",
+            "display_heb_name": "רבה בר רב שילא",
+            "display_en_name": "rabba bar rav sheila"
+        },
+        {
+            "key": "6ac748cd8944908bc22a12af",
+            "entityType": "Person",
+            "display_heb_name": "רב נחמן בר יצחק",
+            "timePeriod": "Amoraim",
+            "display_en_name": "rav nahman bar yitzhak"
+        },
+        {
+            "key": "6ac748de8944908bc22a12f7",
+            "entityType": "Person",
+            "display_heb_name": "מר זוטרא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "mar zutra"
+        },
+        {
+            "key": "6ac748eb8944908bc22a132d",
+            "entityType": "Person",
+            "display_heb_name": "רבי חנינא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabbi hanina"
+        },
+        {
+            "key": "6ac749408944908bc22a145f",
+            "entityType": "Person",
+            "display_heb_name": "רבי נתן",
+            "display_en_name": "rabbi natan"
+        },
+        {
+            "key": "6ac749478944908bc22a1476",
+            "entityType": "Person",
+            "display_heb_name": "רבי אברהם משה הורוביץ",
+            "display_en_name": "rabbi abraham moshe horovitz"
+        },
+        {
+            "key": "6ac749478944908bc22a1477",
+            "entityType": "Symbol",
+            "display_heb_name": "חיים",
+            "symbolType": "Not Physical",
+            "display_en_name": "life"
+        },
+        {
+            "key": "6ac749488944908bc22a1478",
+            "entityType": "Symbol",
+            "display_heb_name": "מיתה",
+            "symbolType": "Not Physical",
+            "display_en_name": "death"
+        },
+        {
+            "key": "6ac749488944908bc22a1479",
+            "entityType": "Symbol",
+            "display_heb_name": "קבר",
+            "symbolType": "Other",
+            "display_en_name": "grave"
+        },
+        {
+            "key": "6ac749488944908bc22a147a",
+            "entityType": "Symbol",
+            "display_heb_name": "בית הכסא",
+            "symbolType": "Other",
+            "display_en_name": "lavatory"
+        },
+        {
+            "key": "6ac749488944908bc22a147b",
+            "entityType": "Symbol",
+            "display_heb_name": "מצא",
+            "symbolType": "Not Physical",
+            "display_en_name": "matza"
+        },
+        {
+            "key": "6ac749488944908bc22a147c",
+            "entityType": "Symbol",
+            "display_heb_name": "מוצא",
+            "symbolType": "Not Physical",
+            "display_en_name": "motzeh"
+        },
+        {
+            "key": "6ac749498944908bc22a147d",
+            "entityType": "Symbol",
+            "display_heb_name": "אסכרא",
+            "symbolType": "Other",
+            "display_en_name": "croup"
+        },
+        {
+            "key": "6ac749498944908bc22a147e",
+            "entityType": "Symbol",
+            "display_heb_name": "נשיקה",
+            "symbolType": "Not Physical",
+            "display_en_name": "kiss of death"
+        },
+        {
+            "key": "6ac749498944908bc22a147f",
+            "entityType": "Number",
+            "heb_unit": "מין",
+            "contexts": [
+                {
+                    "en_context": "death in world",
+                    "heb_context": "מיתה בעולם"
+                }
+            ],
+            "display_en_name": "903"
+        }
+    ],
+    "key": "BT_Berakhot_0_8a:9-15"
+}

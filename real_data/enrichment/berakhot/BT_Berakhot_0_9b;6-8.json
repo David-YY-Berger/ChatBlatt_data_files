@@ -1,0 +1,17 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac749638944908bc22a14e7",
+            "entityType": "Symbol",
+            "display_heb_name": "המזבח",
+            "display_en_name": "altar"
+        },
+        {
+            "key": "6ac749698944908bc22a14ff",
+            "entityType": "Place",
+            "placeType": "Mountain",
+            "display_en_name": "mount carmel"
+        }
+    ],
+    "key": "BT_Berakhot_0_9b:6-8"
+}

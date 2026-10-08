@@ -1,0 +1,47 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748a28944908bc22a11ff",
+            "entityType": "Person",
+            "display_heb_name": "רב",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rav"
+        },
+        {
+            "key": "6ac749be8944908bc22a1628",
+            "entityType": "Person",
+            "display_heb_name": "רבה בר עולא",
+            "display_en_name": "rabba bar ulla"
+        },
+        {
+            "key": "6ac749bf8944908bc22a1629",
+            "entityType": "Symbol",
+            "display_heb_name": "השם",
+            "symbolType": "Not Physical",
+            "display_en_name": "gods name"
+        },
+        {
+            "key": "6ac749bf8944908bc22a162a",
+            "entityType": "Symbol",
+            "display_heb_name": "מלכות",
+            "symbolType": "Not Physical",
+            "display_en_name": "gods sovereignty"
+        },
+        {
+            "key": "6ac749bf8944908bc22a162b",
+            "entityType": "Food",
+            "display_heb_name": "שכרא",
+            "display_en_name": "beer"
+        },
+        {
+            "key": "6ac749bf8944908bc22a162c",
+            "entityType": "Food",
+            "display_heb_name": "תמרי",
+            "display_en_name": "date"
+        }
+    ],
+    "key": "BT_Berakhot_0_12a:10-22"
+}

@@ -1,0 +1,137 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748ab8944908bc22a1228",
+            "entityType": "Person",
+            "display_heb_name": "רבי יהושע בן לוי",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "yehoshua ben levi"
+        },
+        {
+            "key": "6ac748ba8944908bc22a1260",
+            "entityType": "Person",
+            "display_heb_name": "רבי יוחנן",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "yohanan"
+        },
+        {
+            "key": "6ac748c78944908bc22a129a",
+            "entityType": "Person",
+            "display_heb_name": "מר",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "mar"
+        },
+        {
+            "key": "6ac748c78944908bc22a129b",
+            "entityType": "Person",
+            "display_heb_name": "רבינא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "ravina"
+        },
+        {
+            "key": "6ac748c88944908bc22a129c",
+            "entityType": "Symbol",
+            "display_heb_name": "תפלה",
+            "symbolType": "Not Physical",
+            "display_en_name": "prayer"
+        },
+        {
+            "key": "6ac748c88944908bc22a129d",
+            "entityType": "Symbol",
+            "display_heb_name": "גאולה",
+            "symbolType": "Not Physical",
+            "display_en_name": "blessing of redemption"
+        },
+        {
+            "key": "6ac748c88944908bc22a129e",
+            "entityType": "Symbol",
+            "display_heb_name": "תפלה של ערבית",
+            "symbolType": "Not Physical",
+            "display_en_name": "evening prayer"
+        },
+        {
+            "key": "6ac748c98944908bc22a129f",
+            "entityType": "Symbol",
+            "display_heb_name": "קריאת שמע של שחרית",
+            "symbolType": "Not Physical",
+            "display_en_name": "morning shema"
+        },
+        {
+            "key": "6ac748c98944908bc22a12a0",
+            "entityType": "Symbol",
+            "display_heb_name": "קריאת שמע של ערבית",
+            "symbolType": "Not Physical",
+            "display_en_name": "evening shema"
+        },
+        {
+            "key": "6ac748c98944908bc22a12a1",
+            "entityType": "Symbol",
+            "display_heb_name": "גאולה",
+            "symbolType": "Not Physical",
+            "display_en_name": "redemption"
+        },
+        {
+            "key": "6ac748c98944908bc22a12a2",
+            "entityType": "Symbol",
+            "display_heb_name": "קרא",
+            "symbolType": "Not Physical",
+            "display_en_name": "verse"
+        },
+        {
+            "key": "6ac748ca8944908bc22a12a3",
+            "entityType": "Symbol",
+            "display_heb_name": "השכיבנו",
+            "symbolType": "Not Physical",
+            "display_en_name": "help us lie down"
+        },
+        {
+            "key": "6ac748ca8944908bc22a12a4",
+            "entityType": "Number",
+            "heb_unit": "ברכה",
+            "contexts": [
+                {
+                    "en_context": "prayer structure",
+                    "heb_context": "מבנה תפלה"
+                }
+            ],
+            "display_en_name": "2"
+        },
+        {
+            "key": "6ac748ca8944908bc22a12a5",
+            "entityType": "Number",
+            "heb_unit": "פרק",
+            "contexts": [
+                {
+                    "en_context": "psalms reference",
+                    "heb_context": "הפניה לתהילים"
+                }
+            ],
+            "display_en_name": "51"
+        },
+        {
+            "key": "6ac748cb8944908bc22a12a6",
+            "entityType": "Number",
+            "heb_unit": "פרק",
+            "contexts": [
+                {
+                    "en_context": "psalms reference",
+                    "heb_context": "הפניה לתהילים"
+                }
+            ],
+            "display_en_name": "19"
+        }
+    ],
+    "key": "BT_Berakhot_0_4b:6-15"
+}

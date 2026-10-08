@@ -1,0 +1,15 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac749a08944908bc22a15b6",
+            "entityType": "Person",
+            "display_heb_name": "רבי מני",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabbi mani"
+        }
+    ],
+    "key": "BT_Berakhot_0_10b:31-36"
+}

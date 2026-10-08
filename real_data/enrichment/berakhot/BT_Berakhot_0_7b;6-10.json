@@ -1,0 +1,78 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac7395eb9ad2bcc0401a058",
+            "entityType": "Person",
+            "display_heb_name": "יוסף",
+            "display_en_name": "joseph"
+        },
+        {
+            "key": "6ac73970b9ad2bcc0401a0a4",
+            "entityType": "Person",
+            "display_heb_name": "דוד",
+            "display_en_name": "david"
+        },
+        {
+            "key": "6ac7399db9ad2bcc0401a14e",
+            "entityType": "Person",
+            "display_heb_name": "רות",
+            "isWoman": true,
+            "display_en_name": "ruth"
+        },
+        {
+            "key": "6ac739a5b9ad2bcc0401a169",
+            "entityType": "Person",
+            "display_heb_name": "ראובן",
+            "display_en_name": "reuben"
+        },
+        {
+            "key": "6ac739bbb9ad2bcc0401a1bb",
+            "entityType": "Person",
+            "display_heb_name": "עשו",
+            "display_en_name": "esau"
+        },
+        {
+            "key": "6ac739c3b9ad2bcc0401a1da",
+            "entityType": "Person",
+            "display_heb_name": "יעקב",
+            "display_en_name": "jacob"
+        },
+        {
+            "key": "6ac739c4b9ad2bcc0401a1dc",
+            "entityType": "Person",
+            "display_heb_name": "לאה",
+            "display_en_name": "leah"
+        },
+        {
+            "key": "6ac739f9b9ad2bcc0401a295",
+            "entityType": "TribeOfIsrael",
+            "display_heb_name": "יוסף",
+            "display_en_name": "joseph"
+        },
+        {
+            "key": "6ac7488f8944908bc22a11b1",
+            "entityType": "Person",
+            "display_heb_name": "רבי אליעזר",
+            "display_en_name": "rabbi eliezer"
+        },
+        {
+            "key": "6ac748cc8944908bc22a12ac",
+            "entityType": "Person",
+            "display_heb_name": "רבי יוחנן",
+            "display_en_name": "rabbi yohanan"
+        },
+        {
+            "key": "6ac748cc8944908bc22a12ad",
+            "entityType": "Person",
+            "display_heb_name": "רבי אלעזר",
+            "display_en_name": "rabbi elazar"
+        },
+        {
+            "key": "6ac748d98944908bc22a12e3",
+            "entityType": "Person",
+            "display_heb_name": "הקדוש ברוך הוא",
+            "display_en_name": "god"
+        }
+    ],
+    "key": "BT_Berakhot_0_7b:6-10"
+}

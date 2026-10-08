@@ -1,0 +1,146 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac7489b8944908bc22a11e3",
+            "entityType": "Person",
+            "display_heb_name": "רבי יהודה",
+            "timePeriod": "Tanaim",
+            "isWoman": false,
+            "isNonJew": false,
+            "isGroup": false,
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "yehuda"
+        },
+        {
+            "key": "6ac748ab8944908bc22a1228",
+            "entityType": "Person",
+            "display_heb_name": "רבי יהושע בן לוי",
+            "timePeriod": "Amoraim",
+            "isWoman": false,
+            "isNonJew": false,
+            "isGroup": false,
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "yehoshua ben levi"
+        },
+        {
+            "key": "6ac748da8944908bc22a12e8",
+            "entityType": "Symbol",
+            "display_heb_name": "לוחות",
+            "symbolType": "Holy Object",
+            "display_en_name": "tablets of the covenant"
+        },
+        {
+            "key": "6ac748f78944908bc22a135c",
+            "entityType": "Person",
+            "display_heb_name": "רב ביבי בר אביי",
+            "timePeriod": "Amoraim",
+            "isWoman": false,
+            "isNonJew": false,
+            "isGroup": false,
+            "display_en_name": "beivai bar abaye"
+        },
+        {
+            "key": "6ac749558944908bc22a14b2",
+            "entityType": "Person",
+            "display_heb_name": "חייא בר רב",
+            "timePeriod": "Amoraim",
+            "isWoman": false,
+            "isNonJew": false,
+            "isGroup": false,
+            "display_en_name": "hiyya bar rav"
+        },
+        {
+            "key": "6ac749568944908bc22a14b3",
+            "entityType": "Place",
+            "display_heb_name": "עטרות",
+            "placeType": "City",
+            "display_en_name": "atarot"
+        },
+        {
+            "key": "6ac749568944908bc22a14b4",
+            "entityType": "Place",
+            "display_heb_name": "דיבן",
+            "placeType": "City",
+            "display_en_name": "divon"
+        },
+        {
+            "key": "6ac749568944908bc22a14b5",
+            "entityType": "Place",
+            "placeType": "City",
+            "display_en_name": "yazer"
+        },
+        {
+            "key": "6ac749568944908bc22a14b6",
+            "entityType": "Place",
+            "placeType": "City",
+            "display_en_name": "nimra"
+        },
+        {
+            "key": "6ac749568944908bc22a14b7",
+            "entityType": "Place",
+            "placeType": "City",
+            "display_en_name": "heshbon"
+        },
+        {
+            "key": "6ac749578944908bc22a14b8",
+            "entityType": "Place",
+            "placeType": "City",
+            "display_en_name": "elaleh"
+        },
+        {
+            "key": "6ac749578944908bc22a14b9",
+            "entityType": "Place",
+            "placeType": "City",
+            "display_en_name": "sevam"
+        },
+        {
+            "key": "6ac749578944908bc22a14ba",
+            "entityType": "Place",
+            "placeType": "City",
+            "display_en_name": "nevo"
+        },
+        {
+            "key": "6ac749578944908bc22a14bb",
+            "entityType": "Place",
+            "placeType": "City",
+            "display_en_name": "beon"
+        },
+        {
+            "key": "6ac749578944908bc22a14bc",
+            "entityType": "Place",
+            "display_heb_name": "דפתי",
+            "placeType": "City",
+            "display_en_name": "difti"
+        },
+        {
+            "key": "6ac749588944908bc22a14bd",
+            "entityType": "Symbol",
+            "display_heb_name": "ארון",
+            "symbolType": "Holy Object",
+            "display_en_name": "ark of the covenant"
+        },
+        {
+            "key": "6ac749588944908bc22a14be",
+            "entityType": "Number",
+            "heb_unit": "פעם",
+            "contexts": [
+                {
+                    "en_context": "reading bible text",
+                    "heb_context": "מקרא"
+                }
+            ],
+            "display_en_name": "2"
+        },
+        {
+            "key": "6ac749588944908bc22a14c0",
+            "entityType": "Animal",
+            "display_heb_name": "ציפור",
+            "display_en_name": "bird"
+        }
+    ],
+    "key": "BT_Berakhot_0_8a:30-8b:7"
+}

@@ -1,0 +1,88 @@
+﻿COST: Tokens: Total=5584 approx cost=$0.006286 (Prompt=3488, Completion=2096)
+SOURCE:
+Berakhot (Zeraim) 5a:6-8
+
+ENTITIES TO ENRICH (9):
+{"key":"6ac748a18944908bc22a11fd","display_en_name":"holy one","display_heb_name":"הקדוש ברוך הוא","all_en_names":["Holy One"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","roles":[]}
+{"key":"6ac748a68944908bc22a1213","display_en_name":"israel","display_heb_name":"ישראל","all_en_names":["Israel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isGroup":true,"roles":[]}
+{"key":"6ac748b88944908bc22a125b","display_en_name":"yoshiyahu pinto","display_heb_name":"רבי יושיהו פינטו","all_en_names":["Yoshiyahu Pinto"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748ba8944908bc22a1260","display_en_name":"yohanan","display_heb_name":"רבי יוחנן","all_en_names":["Yohanan"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748d98944908bc22a12e2","display_en_name":"shimon ben lakish","display_heb_name":"רבי שמעון בן לקיש","all_en_names":["Shimon Ben Lakish"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748df8944908bc22a12fc","display_en_name":"zeira","display_heb_name":"","all_en_names":["Zeira"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748df8944908bc22a12fd","display_en_name":"hanina bar pappa","display_heb_name":"","all_en_names":["Hanina Bar Pappa"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748e08944908bc22a12fe","display_en_name":"sparks","display_heb_name":"","all_en_names":["Sparks"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748e08944908bc22a12ff","display_en_name":"good","display_heb_name":"","all_en_names":["Good"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+Regarding this unclear verse, Rabbi Shimon ben Lakish said: If one engages in Torah study, suffering stays away from him, as it is stated: And the sparks fly upward. And fly means nothing other than Torah, as it is stated: Will you set your eyes upon it? It is gone; and sparks means nothing other than suffering, as it is stated: Wasting of hunger, and the devouring of the sparks, equating devouring sparks with wasting hunger, as both are types of suffering. From here, we derive that through Torah, fly, one is able to distance himself, upward, from suffering, sparks. Rabbi Yohanan said to him: Even schoolchildren, who learn only the Written Torah, know this concept as it is stated: And He said you shall surely hear the voice of the Lord your God, and what is upright in His eyes you shall do and you shall listen to His mitzvot and guard His statutes; any disease that I have placed upon Egypt I will not place upon you for I am the Lord your healer (Exodus 15:26). Rather, one must interpret the verse: Anyone who is able to engage in Torah study yet does not engage in that study, not only does the Holy One, Blessed be He, fail to protect him, but He brings upon him hideous afflictions, that embarrass him and trouble him, as it is stated: I was mute with silence; I was silent from good, and my pain was strong (Psalms 39:3). The word good means nothing other than Torah, as it is stated: For I have given you a good portion, My Torah, do not abandon it (Proverbs 4:2). The verse should be understood: I have been silent from the study of Torah, and my pain was strong.With regard to the verse: For I have given you a good portion, Rabbi Zeira, and some say Rabbi Hanina bar Pappa, said: Come and see how the characteristics of the Holy One, Blessed be He, are unlike the characteristics of flesh and blood. It is characteristic of flesh and blood that when one sells an object to another person, the seller grieves the loss of his possession and the buyer rejoices. With regard to the Holy One, Blessed be He, however, this is not so. He gave the Torah to Israel and rejoiced, as it is stated: For I have given you a good portion, My Torah, do not abandon it. A good portion is understood as a good purchase; although God sold Torah to Israel, He rejoices in the sale and praises the object before its new owner (Rabbi Yoshiyahu Pinto).
+
+HEBREW:
+אמר רבי שמעון בן לקיש: כל העוסק בתורה — יסורין בדילין הימנו, שנאמר: ״ובני רשף יגביהו עוף״. ואין ״עוף״ אלא תורה, שנאמר ״התעיף עיניך בו ואיננו״, ואין ״רשף״ אלא יסורין, שנאמר: ״מזי רעב ולחמי רשף״.אמר ליה רבי יוחנן: הא אפילו תינוקות של בית רבן, יודעין אותו, שנאמר ״ויאמר אם שמוע תשמע לקול ה׳ אלהיך והישר בעיניו תעשה והאזנת למצותיו ושמרת כל חקיו כל המחלה אשר שמתי במצרים לא אשים עליך כי אני ה׳ רופאך״. אלא: כל שאפשר לו לעסוק בתורה ואינו עוסק — הקדוש ברוך הוא מביא עליו יסורין מכוערין ועוכרין אותו, שנאמר: ״נאלמתי דומיה החשיתי מטוב וכאבי נעכר״, ואין ״טוב״ אלא תורה, שנאמר: ״כי לקח טוב נתתי לכם תורתי אל תעזבו״.אמר רבי זירא ואיתימא רבי חנינא בר פפא: בא וראה שלא כמדת הקדוש ברוך הוא מדת בשר ודם. מדת בשר ודם, אדם מוכר חפץ לחבירו, מוכר עצב, ולוקח שמח, אבל הקדוש ברוך הוא אינו כן, נתן להם תורה לישראל — ושמח, שנאמר: ״כי לקח טוב נתתי לכם תורתי אל תעזבו״.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748a18944908bc22a11fd",
+      "entityType": "Person",
+      "display_heb_name": "הקדוש ברוך הוא",
+      "timePeriod": "No Time Period",
+      "isNonJew": false,
+      "isGroup": false
+    },
+    {
+      "key": "6ac748a68944908bc22a1213",
+      "entityType": "Person",
+      "display_heb_name": "ישראל",
+      "timePeriod": "Tanach",
+      "isNonJew": false,
+      "isGroup": true
+    },
+    {
+      "key": "6ac748b88944908bc22a125b",
+      "entityType": "Person",
+      "display_heb_name": "רבי יושיהו פינטו"
+    },
+    {
+      "key": "6ac748ba8944908bc22a1260",
+      "entityType": "Person",
+      "display_heb_name": "רבי יוחנן",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748d98944908bc22a12e2",
+      "entityType": "Person",
+      "display_heb_name": "רבי שמעון בן לקיש",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748df8944908bc22a12fc",
+      "entityType": "Person",
+      "display_heb_name": "רבי זירא"
+    },
+    {
+      "key": "6ac748df8944908bc22a12fd",
+      "entityType": "Person",
+      "display_heb_name": "רבי חנינא בר פפא"
+    },
+    {
+      "key": "6ac748e08944908bc22a12fe",
+      "entityType": "Symbol",
+      "display_heb_name": "רשף",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac748e08944908bc22a12ff",
+      "entityType": "Symbol",
+      "display_heb_name": "טוב",
+      "symbolType": "Not Physical"
+    }
+  ]
+}

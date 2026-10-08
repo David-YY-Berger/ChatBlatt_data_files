@@ -1,0 +1,192 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac73970b9ad2bcc0401a0a4",
+            "entityType": "Person",
+            "display_heb_name": "דוד",
+            "timePeriod": "Tanach",
+            "isNonJew": false,
+            "isGroup": false,
+            "roles": [
+                "King"
+            ],
+            "display_en_name": "david"
+        },
+        {
+            "key": "6ac73992b9ad2bcc0401a125",
+            "entityType": "Person",
+            "display_heb_name": "משה",
+            "timePeriod": "Tanach",
+            "isNonJew": false,
+            "roles": [
+                "Prophet"
+            ],
+            "display_en_name": "moses"
+        },
+        {
+            "key": "6ac73994b9ad2bcc0401a12b",
+            "entityType": "Place",
+            "display_heb_name": "מצרים",
+            "placeType": "Country or Region",
+            "display_en_name": "egypt"
+        },
+        {
+            "key": "6ac748a68944908bc22a1213",
+            "entityType": "Person",
+            "display_heb_name": "ישראל",
+            "timePeriod": "Tanach",
+            "isGroup": true,
+            "display_en_name": "israel"
+        },
+        {
+            "key": "6ac748af8944908bc22a1236",
+            "entityType": "Person",
+            "display_heb_name": "רבי זירא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabbi zeira"
+        },
+        {
+            "key": "6ac748b08944908bc22a1237",
+            "entityType": "Person",
+            "display_heb_name": "רב אשי",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rav ashi"
+        },
+        {
+            "key": "6ac748b18944908bc22a123d",
+            "entityType": "Person",
+            "display_heb_name": "בניהו",
+            "timePeriod": "Tanach",
+            "roles": [
+                "Kohen"
+            ],
+            "display_en_name": "benayahu"
+        },
+        {
+            "key": "6ac748b18944908bc22a123e",
+            "entityType": "Person",
+            "display_heb_name": "יהוידע",
+            "timePeriod": "Tanach",
+            "display_en_name": "yehoyada"
+        },
+        {
+            "key": "6ac748b18944908bc22a123f",
+            "entityType": "Person",
+            "display_heb_name": "אביתר",
+            "timePeriod": "Tanach",
+            "roles": [
+                "Kohen"
+            ],
+            "display_en_name": "evyatar"
+        },
+        {
+            "key": "6ac748b28944908bc22a1240",
+            "entityType": "Person",
+            "timePeriod": "Tanach",
+            "display_en_name": "ahimelekh"
+        },
+        {
+            "key": "6ac748b28944908bc22a1241",
+            "entityType": "Person",
+            "timePeriod": "Tanach",
+            "display_en_name": "ahitophel"
+        },
+        {
+            "key": "6ac748b28944908bc22a1242",
+            "entityType": "Person",
+            "display_heb_name": "יואב",
+            "timePeriod": "Tanach",
+            "display_en_name": "yoav"
+        },
+        {
+            "key": "6ac748b38944908bc22a1243",
+            "entityType": "Person",
+            "display_heb_name": "רב יצחק בר אדא"
+        },
+        {
+            "key": "6ac748b38944908bc22a1244",
+            "entityType": "Person",
+            "display_heb_name": "רב יצחק",
+            "display_en_name": "rav yitzhak"
+        },
+        {
+            "key": "6ac748b38944908bc22a1245",
+            "entityType": "Person",
+            "display_heb_name": "רב אידי",
+            "display_en_name": "rav idi"
+        },
+        {
+            "key": "6ac748b48944908bc22a1246",
+            "entityType": "Person",
+            "display_heb_name": "פרעה",
+            "timePeriod": "Tanach",
+            "isNonJew": true
+        },
+        {
+            "key": "6ac748b48944908bc22a1247",
+            "entityType": "Person",
+            "display_heb_name": "סנהדרין",
+            "timePeriod": "Tanach",
+            "isGroup": true,
+            "display_en_name": "sanhedrin"
+        },
+        {
+            "key": "6ac748b48944908bc22a1248",
+            "entityType": "Person",
+            "display_heb_name": "הקדוש ברוך הוא",
+            "timePeriod": "No Time Period",
+            "display_en_name": "holy one, blessed be he"
+        },
+        {
+            "key": "6ac748b48944908bc22a1249",
+            "entityType": "Nation",
+            "display_heb_name": "מצרים",
+            "display_en_name": "egypt"
+        },
+        {
+            "key": "6ac748b48944908bc22a124a",
+            "entityType": "Symbol",
+            "display_heb_name": "אורים ותומים",
+            "symbolType": "Holy Object",
+            "display_en_name": "urim vetummim"
+        },
+        {
+            "key": "6ac748b58944908bc22a124b",
+            "entityType": "Symbol",
+            "display_heb_name": "כנור",
+            "symbolType": "Other",
+            "display_en_name": "lyre"
+        },
+        {
+            "key": "6ac748b68944908bc22a1250",
+            "entityType": "Number",
+            "heb_unit": "יום",
+            "contexts": [
+                {
+                    "en_context": "moses prophecy",
+                    "heb_context": "נבואת משה"
+                }
+            ],
+            "display_en_name": "13"
+        },
+        {
+            "key": "6ac748b68944908bc22a1251",
+            "entityType": "Number",
+            "heb_unit": "יום",
+            "contexts": [
+                {
+                    "en_context": "moses prophecy",
+                    "heb_context": "נבואת משה"
+                }
+            ],
+            "display_en_name": "14"
+        }
+    ],
+    "key": "BT_Berakhot_0_3b:27-4a:7"
+}

@@ -1,0 +1,75 @@
+﻿COST: Tokens: Total=6816 approx cost=$0.011045 (Prompt=2725, Completion=4091)
+SOURCE:
+Berakhot (Zeraim) 11b:8-9
+
+ENTITIES TO ENRICH (8):
+{"key":"6ac7489a8944908bc22a11e0","display_en_name":"rabbis","display_heb_name":"רבנן","all_en_names":["Rabbis"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","isGroup":true,"roles":["Tanna"]}
+{"key":"6ac748cc8944908bc22a12ad","display_en_name":"rabbi elazar","display_heb_name":"רבי אלעזר","all_en_names":["Rabbi Elazar"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748ed8944908bc22a1335","display_en_name":"rav yehuda","display_heb_name":"רב יהודה","all_en_names":["Rav Yehuda"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac7498f8944908bc22a1585","display_en_name":"shmuel","display_heb_name":"שמואל","all_en_names":["Shmuel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac749ad8944908bc22a15e5","display_en_name":"rabbi pedat","display_heb_name":"","all_en_names":["Rabbi Pedat"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749ad8944908bc22a15e6","display_en_name":"abounding love","display_heb_name":"","all_en_names":["Abounding Love"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac749ad8944908bc22a15e7","display_en_name":"eternal love","display_heb_name":"","all_en_names":["Eternal Love"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac749ae8944908bc22a15e8","display_en_name":"31","display_heb_name":"","all_en_names":["31"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Misc","en_unit":"chapter","contexts":[{"en_context":"jeremiah book reference","source_keys":["BT_Berakhot_0_11b:8-9"]}]}
+
+PASSAGE:
+ENGLISH:
+The Gemara asks: And what is the formula of the other blessing recited before Shema ? Rav Yehuda said in the name of Shmuel: An abounding love [ ahava rabba ]. And Rabbi Elazar instructed his son, Rabbi Pedat, to also say: An abounding love. That was also taught in a baraita : One does not recite: An eternal love [ ahavat olam ]; rather, one recites: An abounding love. And the Rabbis say that one recites: An eternal love, and so it says: And an eternal love I have loved you, therefore I have drawn you with kindness (Jeremiah 31:3).
+
+HEBREW:
+ואידך מאי היא? אמר רב יהודה אמר שמואל: ״אהבה רבה״. וכן אורי ליה רבי אלעזר לרבי פדת בריה, ״אהבה רבה״.תניא נמי הכי: אין אומרים ״אהבת עולם״, אלא ״אהבה רבה״. ורבנן אמרי אהבת עולם, וכן הוא אומר: ״ואהבת עולם אהבתיך על כן משכתיך חסד״.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac7489a8944908bc22a11e0",
+      "entityType": "Person",
+      "display_heb_name": "רבנן",
+      "isGroup": true
+    },
+    {
+      "key": "6ac748cc8944908bc22a12ad",
+      "entityType": "Person",
+      "display_heb_name": "רבי אלעזר"
+    },
+    {
+      "key": "6ac748ed8944908bc22a1335",
+      "entityType": "Person",
+      "display_heb_name": "רב יהודה"
+    },
+    {
+      "key": "6ac7498f8944908bc22a1585",
+      "entityType": "Person",
+      "display_heb_name": "שמואל"
+    },
+    {
+      "key": "6ac749ad8944908bc22a15e5",
+      "entityType": "Person",
+      "display_heb_name": "רבי פדת"
+    },
+    {
+      "key": "6ac749ad8944908bc22a15e6",
+      "entityType": "Symbol",
+      "display_heb_name": "אהבה רבה",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac749ad8944908bc22a15e7",
+      "entityType": "Symbol",
+      "display_heb_name": "אהבת עולם",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac749ae8944908bc22a15e8",
+      "entityType": "Number",
+      "heb_unit": "פרק",
+      "contexts": [
+        {
+          "en_context": "jeremiah book reference",
+          "heb_context": "הפניה לספר ירמיהו"
+        }
+      ]
+    }
+  ]
+}

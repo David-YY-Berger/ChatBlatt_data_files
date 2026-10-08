@@ -1,0 +1,142 @@
+﻿COST: Tokens: Total=8610 approx cost=$0.012769 (Prompt=3980, Completion=4630)
+SOURCE:
+Berakhot (Zeraim) 4b:16-22
+
+ENTITIES TO ENRICH (16):
+{"key":"6ac73970b9ad2bcc0401a0a4","display_en_name":"david","display_heb_name":"דוד","all_en_names":["David"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isNonJew":false,"isGroup":false,"roles":["Judge","King"]}
+{"key":"6ac748988944908bc22a11d8","display_en_name":"eretz yisrael","display_heb_name":"","all_en_names":["Eretz Yisrael"],"all_heb_names":[],"entityType":"Place","alias_keys":[],"placeType":"Country or Region"}
+{"key":"6ac748cc8944908bc22a12ac","display_en_name":"rabbi yohanan","display_heb_name":"","all_en_names":["Rabbi Yohanan"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748cc8944908bc22a12ad","display_en_name":"rabbi elazar","display_heb_name":"","all_en_names":["Rabbi Elazar"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748cc8944908bc22a12ae","display_en_name":"rabbi avina","display_heb_name":"","all_en_names":["Rabbi Avina"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748cd8944908bc22a12af","display_en_name":"rav nahman bar yitzhak","display_heb_name":"","all_en_names":["Rav Nahman Bar Yitzhak"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748cd8944908bc22a12b0","display_en_name":"amos","display_heb_name":"","all_en_names":["Amos"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748cd8944908bc22a12b1","display_en_name":"a psalm of david (psalms 145)","display_heb_name":"","all_en_names":["A Psalm Of David (Psalms 145)"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748ce8944908bc22a12b2","display_en_name":"psalms 119","display_heb_name":"","all_en_names":["Psalms 119"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748ce8944908bc22a12b3","display_en_name":"psalms 136","display_heb_name":"","all_en_names":["Psalms 136"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748ce8944908bc22a12b4","display_en_name":"psalms 84:5","display_heb_name":"","all_en_names":["Psalms 84:5"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748ce8944908bc22a12b5","display_en_name":"psalms 145:16","display_heb_name":"","all_en_names":["Psalms 145:16"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748ce8944908bc22a12b6","display_en_name":"psalms 136:25","display_heb_name":"","all_en_names":["Psalms 136:25"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748cf8944908bc22a12b7","display_en_name":"psalms 145:14","display_heb_name":"","all_en_names":["Psalms 145:14"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748cf8944908bc22a12b8","display_en_name":"amos 5:2","display_heb_name":"","all_en_names":["Amos 5:2"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748cf8944908bc22a12b9","display_en_name":"8","display_heb_name":"","all_en_names":["8"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Misc","en_unit":"time","contexts":[{"en_context":"alphabetical arrangement","source_keys":["BT_Berakhot_0_4b:16-22"]}]}
+
+PASSAGE:
+ENGLISH:
+Tangential to Rabbi Yohanans statement that one who juxtaposes redemption and prayer is assured of a place in the World-to-Come, a similar statement is cited. Rabbi Elazar said that Rabbi Avina said: Anyone who recites: A Psalm of David (Psalms 145) three times every day is assured of a place in the World-to-Come. This statement extolling the significance of this particular chapter of Psalms, usually referred to as ashrei because its recitation is preceded by recitation of the verse, Happy [ ashrei ] are those who dwell in Your House, they praise You Selah (Psalms 84:5), raises the question: What is the reason that such significance is ascribed to this particular chapter? If you say that it is because it is arranged alphabetically, then let us say: Happy are they who are upright in the way (Psalms 119) where the alphabetical arrangement appears eight times . Rather, if you suggest that this particular chapter is recited because it contains praise for Gods provision of sustenance to all of creation: You open Your hand and satisfy every living thing with favor (Psalms 145:16), then let him recite the great hallel (Psalms 136), in which numerous praises are written, including: Who provides food to all flesh, Whose kindness endures forever (Psalms 136:25). Rather, the reason why tehilla leDavid is accorded preference is because it contains both an alphabetic acrostic as well as mention of Gods provision of sustenance to all creation.Additionally, with regard to this psalm, Rabbi Yohanan said: Why is there no verse beginning with the letter nun in ashrei ? Because it contains an allusion to the downfall of the enemies of Israel, a euphemism for Israel itself. As it is written: The virgin of Israel has fallen and she will rise no more; abandoned in her land, none will raise her up (Amos 5:2), which begins with the letter nun . Due to this verse, ashrei does not include a verse beginning with the letter nun .In order to ease the harsh meaning of this verse, in the West, in Eretz Yisrael, they interpreted it with a slight adjustment: She has fallen but she shall fall no more; rise, virgin of Israel. Rav Nahman bar Yitzhak adds: Even so, David went and provided support, through divine inspiration. Although King David did not include a verse beginning with the letter nun alluding to Israels downfall, he foresaw the verse that would be written by Amos through divine inspiration; and the very next verse, which begins with the letter samekh , reads: The Lord upholds the fallen and raises up those who are bowed down (Psalms 145:14). Therefore, through divine inspiration, David offered hope and encouragement; although the virgin of Israel may have fallen, the Lord upholds the fallen.
+
+HEBREW:
+אמר רבי אלעזר, אמר רבי אבינא: כל האומר ״תהלה לדוד״ בכל יום שלש פעמים — מובטח לו שהוא בן העולם הבא.מאי טעמא?אילימא משום דאתיא באלף בית, נימא ״אשרי תמימי דרך״ דאתיא בתמניא אפין.אלא משום דאית ביה ״פותח את ידך״, נימא ״הלל הגדול״ דכתיב ביה ״נתן לחם לכל בשר״.אלא משום דאית ביה תרתי.אמר רבי יוחנן: מפני מה לא נאמר נון ב״אשרי״ — מפני שיש בה מפלתן של שונאי ישראל, דכתיב: ״נפלה לא תוסיף קום בתולת ישראל״.במערבא מתרצי לה הכי: ״נפלה ולא תוסיף לנפול עוד, קום בתולת ישראל״. אמר רב נחמן בר יצחק: אפילו הכי, חזר דוד וסמכן ברוח הקדש, שנאמר ״סומך ה׳ לכל הנפלים״.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac73970b9ad2bcc0401a0a4",
+      "entityType": "Person",
+      "display_heb_name": "דוד",
+      "timePeriod": "Tanach",
+      "isNonJew": false,
+      "roles": [
+        "King"
+      ]
+    },
+    {
+      "key": "6ac748988944908bc22a11d8",
+      "entityType": "Place",
+      "display_heb_name": "ארץ ישראל",
+      "placeType": "Country or Region"
+    },
+    {
+      "key": "6ac748cc8944908bc22a12ac",
+      "entityType": "Person",
+      "display_heb_name": "רבי יוחנן",
+      "timePeriod": "Amoraim"
+    },
+    {
+      "key": "6ac748cc8944908bc22a12ad",
+      "entityType": "Person",
+      "display_heb_name": "רבי אלעזר",
+      "timePeriod": "Amoraim"
+    },
+    {
+      "key": "6ac748cc8944908bc22a12ae",
+      "entityType": "Person",
+      "display_heb_name": "רבי אבינא",
+      "timePeriod": "Amoraim"
+    },
+    {
+      "key": "6ac748cd8944908bc22a12af",
+      "entityType": "Person",
+      "display_heb_name": "רב נחמן בר יצחק",
+      "timePeriod": "Amoraim"
+    },
+    {
+      "key": "6ac748cd8944908bc22a12b0",
+      "entityType": "Person",
+      "display_heb_name": "עמוס",
+      "timePeriod": "Tanach",
+      "roles": [
+        "Prophet"
+      ]
+    },
+    {
+      "key": "6ac748cd8944908bc22a12b1",
+      "entityType": "Symbol",
+      "display_heb_name": "תהלה לדוד",
+      "symbolType": "Holy Object"
+    },
+    {
+      "key": "6ac748ce8944908bc22a12b2",
+      "entityType": "Symbol",
+      "display_heb_name": "אשרי תמימי דרך",
+      "symbolType": "Holy Object"
+    },
+    {
+      "key": "6ac748ce8944908bc22a12b3",
+      "entityType": "Symbol",
+      "display_heb_name": "הלל הגדול",
+      "symbolType": "Holy Object"
+    },
+    {
+      "key": "6ac748ce8944908bc22a12b4",
+      "entityType": "Symbol",
+      "display_heb_name": "אשרי יושבי ביתך עוד יהללוך סלה",
+      "symbolType": "Holy Object"
+    },
+    {
+      "key": "6ac748ce8944908bc22a12b5",
+      "entityType": "Symbol",
+      "display_heb_name": "פותח את ידך ומשביע לכל חי רצון",
+      "symbolType": "Holy Object"
+    },
+    {
+      "key": "6ac748ce8944908bc22a12b6",
+      "entityType": "Symbol",
+      "display_heb_name": "נתן לחם לכל בשר כי לעולם חסדו",
+      "symbolType": "Holy Object"
+    },
+    {
+      "key": "6ac748cf8944908bc22a12b7",
+      "entityType": "Symbol",
+      "display_heb_name": "סומך ה׳ לכל הנפלים וזוקף לכל הכפופים",
+      "symbolType": "Holy Object"
+    },
+    {
+      "key": "6ac748cf8944908bc22a12b8",
+      "entityType": "Symbol",
+      "display_heb_name": "נפלה לא תוסיף קום בתולת ישראל",
+      "symbolType": "Holy Object"
+    },
+    {
+      "key": "6ac748cf8944908bc22a12b9",
+      "entityType": "Number",
+      "heb_unit": "פעמים",
+      "contexts": [
+        {
+          "en_context": "alphabetical arrangement",
+          "heb_context": "אלף בית"
+        }
+      ]
+    }
+  ]
+}

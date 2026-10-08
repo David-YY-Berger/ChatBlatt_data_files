@@ -1,0 +1,124 @@
+﻿COST: Tokens: Total=6798 approx cost=$0.007308 (Prompt=4403, Completion=2395)
+SOURCE:
+Berakhot (Zeraim) 10a:12-20
+
+ENTITIES TO ENRICH (15):
+{"key":"6ac73970b9ad2bcc0401a0a4","display_en_name":"david","display_heb_name":"דוד","all_en_names":["David"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isNonJew":false,"isGroup":false,"roles":["Judge","King"]}
+{"key":"6ac748988944908bc22a11d7","display_en_name":"rabba bar rav sheila","display_heb_name":"רבה בר רב שילא","all_en_names":["Rabba Bar Rav Sheila"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748ba8944908bc22a1262","display_en_name":"solomon","display_heb_name":"שלמה","all_en_names":["Solomon"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","roles":["King"]}
+{"key":"6ac748d98944908bc22a12e3","display_en_name":"god","display_heb_name":"הקדוש ברוך הוא","all_en_names":["God"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isNonJew":false,"isGroup":false,"roles":[]}
+{"key":"6ac749118944908bc22a13c0","display_en_name":"abbahu","display_heb_name":"רבי אבהו","all_en_names":["Abbahu"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac7493b8944908bc22a1450","display_en_name":"shimon ben yohai","display_heb_name":"רבי שמעון בן יוחי","all_en_names":["Shimon Ben Yohai"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","roles":["Tanna"]}
+{"key":"6ac7497e8944908bc22a1543","display_en_name":"mattana","display_heb_name":"","all_en_names":["Mattana"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac7497e8944908bc22a1544","display_en_name":"mother's womb","display_heb_name":"","all_en_names":["Mother's Womb"],"all_heb_names":[],"entityType":"Place","alias_keys":[]}
+{"key":"6ac7497e8944908bc22a1545","display_en_name":"atmosphere of the world","display_heb_name":"","all_en_names":["Atmosphere Of The World"],"all_heb_names":[],"entityType":"Place","alias_keys":[]}
+{"key":"6ac7497e8944908bc22a1546","display_en_name":"mother's breast","display_heb_name":"","all_en_names":["Mother's Breast"],"all_heb_names":[],"entityType":"Place","alias_keys":[]}
+{"key":"6ac7497f8944908bc22a1547","display_en_name":"5","display_heb_name":"","all_en_names":["5"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Misc","en_unit":"world","contexts":[{"en_context":"david's life stages","source_keys":["BT_Berakhot_0_10a:12-20"]}]}
+{"key":"6ac7497f8944908bc22a1548","display_en_name":"103","display_heb_name":"","all_en_names":["103"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Misc","en_unit":"psalm","contexts":[{"en_context":"david's psalm","source_keys":["BT_Berakhot_0_10a:12-20"]}]}
+{"key":"6ac749808944908bc22a154a","display_en_name":"28","display_heb_name":"","all_en_names":["28"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Misc","en_unit":"isaiah","contexts":[{"en_context":"isaiah reference","source_keys":["BT_Berakhot_0_10a:12-20"]}]}
+{"key":"6ac749808944908bc22a154b","display_en_name":"104","display_heb_name":"","all_en_names":["104"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Misc","en_unit":"psalm","contexts":[{"en_context":"david's psalm","source_keys":["BT_Berakhot_0_10a:12-20"]}]}
+{"key":"6ac749818944908bc22a154e","display_en_name":"milk","display_heb_name":"","all_en_names":["Milk"],"all_heb_names":[],"entityType":"Food","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+Rabbi Yohanan said explanations of other verses in the name of Rabbi Shimon ben Yohai: What is the meaning of that which is written: She opens her mouth with wisdom, and the teaching of loving-kindness is on her tongue (Proverbs 31:26)? The Sages explain that this chapter discusses the wisdom of Torah and those who engage in its study, so with reference to whom did Solomon say this verse? He said this verse about none other than his father, David, who was the clearest example of one who opens his mouth in wisdom, and who resided in five worlds or stages of life and his soul said a song of praise corresponding to each of them. Five times David said: Bless the Lord, O my soul, each corresponding to a different stage of life. He resided in his mothers womb, his first world, and said a song of praise of the pregnancy, as it is stated: Of David. Bless the Lord, O my soul and all that is within me bless His holy name (Psalms 103:1), in which he thanks God for creating all that is within his mother, i.e., her womb. He emerged into the atmosphere of the world, his second world, looked upon the stars and constellations and said a song of praise of God for the entirety of creation, as it is stated: Bless the Lord, His angels, mighty in strength, that fulfill His word, listening to the voice of His word. Bless the Lord, all His hosts, His servants, that do His will. Bless the Lord, all His works, in all places of His kingship, bless my soul, Lord (Psalms 103:20-23). David saw the grandeur of all creation and recognized that they are mere servants, carrying out the will of their Creator ( Maayan HaBerakhot ). He nursed from his mothers breast, his third world, and he looked upon her bosom and said a song of praise, as it is stated: Bless the Lord, O my soul, and do not forget all His benefits [ gemulav ] (Psalms 103:2). The etymological association is between gemulav and gemulei mehalav , which means weaned from milk (Isaiah 28:9).We still must understand, however, what is meant by all His benefits? What in particular is praiseworthy in what God provided, beyond merely providing for the infant? Rabbi Abbahu said: In contrast with most other animals, God placed her breasts near her heart, the place that is the source of understanding. What is the reason that God did this? Rav Yehuda said: So that the nursing child would not look upon the place of his mothers nakedness. Rav Mattana said: So that the child would not nurse from a place of uncleanliness. He witnessed in both vision and reality the downfall of the wicked and he said a song of praise, as it is stated: Let sinners cease from the earth, and let the wicked be no more. Bless the Lord, O my soul, Halleluya (Psalms 104:35).The fifth world was when David looked upon the day of death and said a song of praise, as it is stated: Bless the Lord, O my soul. Lord my God, You are very great; You are clothed in glory and majesty (Psalms 104:1); for even death is a time of transcendence for the righteous.The connection between this final praise and the day of death is unclear. The Gemara asks: From where is it inferred that this verse was stated with regard to the day of death? Rabba bar Rav Sheila says: We can derive this from the verses at the end of the matter, where it is written: You hide Your face, they vanish; You gather Your breath, they perish and return to the dust (Psalms 104:29).
+
+HEBREW:
+אמר רבי יוחנן משום רבי שמעון בן יוחי. מאי דכתיב, ״פיה פתחה בחכמה ותורת חסד על לשונה״. כנגד מי אמר שלמה מקרא זה? — לא אמרו אלא כנגד דוד אביו, שדר בחמשה עולמים, ואמר שירה.דר במעי אמו ואמר שירה, שנאמר: ״ברכי נפשי את ה׳ וכל קרבי את שם קדשו״.יצא לאויר העולם ונסתכל בכוכבים ומזלות ואמר שירה, שנאמר: ״ברכו ה׳ מלאכיו גברי כח עושי דברו לשמע בקול דברו ברכו ה׳ כל צבאיו וגו׳״.ינק משדי אמו ונסתכל בדדיה ואמר שירה, שנאמר: ״ברכי נפשי את ה׳ ואל תשכחי כל גמוליו״.מאי ״כל גמוליו״. אמר רבי אבהו: שעשה לה דדים במקום בינה.טעמא מאי? אמר רב יהודה: כדי שלא יסתכל במקום ערוה. רב מתנא אמר: כדי שלא יינק ממקום הטנופת.ראה במפלתן של רשעים, ואמר שירה, שנאמר: ״יתמו חטאים מן הארץ ורשעים עוד אינם ברכי נפשי את ה׳ הללויה״.נסתכל ביום המיתה, ואמר שירה, שנאמר: ״ברכי נפשי את ה׳, ה׳ אלהי גדלת מאד הוד והדר לבשת״.מאי משמע דעל יום המיתה נאמר? אמר רבה בר רב שילא, מסיפא דעניינא, דכתיב: ״תסתיר פניך יבהלון תסף רוחם יגועון וגו׳״.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac73970b9ad2bcc0401a0a4",
+      "entityType": "Person",
+      "roles": [
+        "King"
+      ]
+    },
+    {
+      "key": "6ac748988944908bc22a11d7",
+      "entityType": "Person",
+      "display_heb_name": "רבה בר רב שילא"
+    },
+    {
+      "key": "6ac748ba8944908bc22a1262",
+      "entityType": "Person",
+      "roles": [
+        "King"
+      ]
+    },
+    {
+      "key": "6ac7497e8944908bc22a1543",
+      "entityType": "Person",
+      "display_heb_name": "רב מתנא"
+    },
+    {
+      "key": "6ac7497e8944908bc22a1544",
+      "entityType": "Place",
+      "display_heb_name": "מעי אמו",
+      "placeType": "Other"
+    },
+    {
+      "key": "6ac7497e8944908bc22a1545",
+      "entityType": "Place",
+      "display_heb_name": "אויר העולם",
+      "placeType": "Other"
+    },
+    {
+      "key": "6ac7497e8944908bc22a1546",
+      "entityType": "Place",
+      "display_heb_name": "שדי אמו",
+      "placeType": "Other"
+    },
+    {
+      "key": "6ac7497f8944908bc22a1547",
+      "entityType": "Number",
+      "heb_unit": "עולם",
+      "contexts": [
+        {
+          "en_context": "david's life stages",
+          "heb_context": "עולמות חיי דוד"
+        }
+      ]
+    },
+    {
+      "key": "6ac7497f8944908bc22a1548",
+      "entityType": "Number",
+      "heb_unit": "תהילים",
+      "contexts": [
+        {
+          "en_context": "david's psalm",
+          "heb_context": "תהילים של דוד"
+        }
+      ]
+    },
+    {
+      "key": "6ac749808944908bc22a154a",
+      "entityType": "Number",
+      "heb_unit": "ישעיהו",
+      "contexts": [
+        {
+          "en_context": "isaiah reference",
+          "heb_context": "הפניה לישעיהו"
+        }
+      ]
+    },
+    {
+      "key": "6ac749808944908bc22a154b",
+      "entityType": "Number",
+      "heb_unit": "תהילים",
+      "contexts": [
+        {
+          "en_context": "david's psalm",
+          "heb_context": "תהילים של דוד"
+        }
+      ]
+    },
+    {
+      "key": "6ac749818944908bc22a154e",
+      "entityType": "Food",
+      "display_heb_name": "חלב"
+    }
+  ]
+}

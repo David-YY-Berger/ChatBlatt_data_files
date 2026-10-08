@@ -1,0 +1,100 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac73970b9ad2bcc0401a0a4",
+            "entityType": "Person",
+            "display_heb_name": "דוד",
+            "timePeriod": "Tanach",
+            "display_en_name": "david"
+        },
+        {
+            "key": "6ac73977b9ad2bcc0401a0c1",
+            "entityType": "Person",
+            "display_heb_name": "שמואל",
+            "timePeriod": "Tanach",
+            "display_en_name": "samuel"
+        },
+        {
+            "key": "6ac739c1b9ad2bcc0401a1d1",
+            "entityType": "Person",
+            "display_heb_name": "חנה",
+            "timePeriod": "Tanach",
+            "isWoman": true,
+            "display_en_name": "hannah"
+        },
+        {
+            "key": "6ac748d98944908bc22a12e3",
+            "entityType": "Person",
+            "display_heb_name": "הקדוש ברוך הוא",
+            "timePeriod": "No Time Period",
+            "display_en_name": "god"
+        },
+        {
+            "key": "6ac749758944908bc22a1529",
+            "entityType": "Person",
+            "display_heb_name": "רבי שמעון בן פזי",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "shimon ben pazi"
+        },
+        {
+            "key": "6ac749828944908bc22a1553",
+            "entityType": "Person",
+            "display_heb_name": "רב שימי בר עוקבא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rav shimi bar ukva"
+        },
+        {
+            "key": "6ac749828944908bc22a1554",
+            "entityType": "Person",
+            "display_heb_name": "מר עוקבא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "mar ukva"
+        },
+        {
+            "key": "6ac749838944908bc22a1555",
+            "entityType": "Person",
+            "display_heb_name": "רבי יהודה בר מנסיא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "yehuda ben menasya"
+        },
+        {
+            "key": "6ac749838944908bc22a1556",
+            "entityType": "Symbol",
+            "display_heb_name": "נשמה",
+            "symbolType": "Not Physical",
+            "display_en_name": "soul"
+        },
+        {
+            "key": "6ac749848944908bc22a1557",
+            "entityType": "Symbol",
+            "display_heb_name": "צור",
+            "symbolType": "Not Physical",
+            "display_en_name": "rock"
+        },
+        {
+            "key": "6ac749848944908bc22a1558",
+            "entityType": "Number",
+            "heb_unit": "דבר",
+            "contexts": [
+                {
+                    "en_context": "david praises god",
+                    "heb_context": "דוד משבח את ה׳"
+                }
+            ],
+            "display_en_name": "5"
+        }
+    ],
+    "key": "BT_Berakhot_0_10a:21-25"
+}

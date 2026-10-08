@@ -1,0 +1,228 @@
+﻿COST: Tokens: Total=11223 approx cost=$0.015005 (Prompt=5933, Completion=5290)
+SOURCE:
+Berakhot (Zeraim) 10a:26-10b:5
+
+ENTITIES TO ENRICH (24):
+{"key":"6ac73970b9ad2bcc0401a0a4","display_en_name":"david","display_heb_name":"דוד","all_en_names":["David"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isNonJew":false,"isGroup":false,"roles":["Judge","King"]}
+{"key":"6ac73979b9ad2bcc0401a0c6","display_en_name":"hezekiah","display_heb_name":"חזקיהו","all_en_names":["Hezekiah"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isGroup":false,"roles":[]}
+{"key":"6ac73981b9ad2bcc0401a0e4","display_en_name":"ahab","display_heb_name":"","all_en_names":["Ahab"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isGroup":false,"roles":[]}
+{"key":"6ac748a28944908bc22a11ff","display_en_name":"rav","display_heb_name":"רב","all_en_names":["Rav"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748a68944908bc22a1212","display_en_name":"elijah","display_heb_name":"אליהו","all_en_names":["Elijah"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","roles":["Prophet"]}
+{"key":"6ac748b88944908bc22a1259","display_en_name":"levi","display_heb_name":"לוי","all_en_names":["Levi"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":[]}
+{"key":"6ac748ba8944908bc22a1262","display_en_name":"solomon","display_heb_name":"שלמה","all_en_names":["Solomon"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","roles":["King"]}
+{"key":"6ac748d98944908bc22a12e2","display_en_name":"shimon ben lakish","display_heb_name":"רבי שמעון בן לקיש","all_en_names":["Shimon Ben Lakish"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748d98944908bc22a12e3","display_en_name":"god","display_heb_name":"הקדוש ברוך הוא","all_en_names":["God"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isNonJew":false,"isGroup":false,"roles":[]}
+{"key":"6ac748f38944908bc22a134e","display_en_name":"isaiah","display_heb_name":"ישעיהו","all_en_names":["Isaiah"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","roles":["Prophet"]}
+{"key":"6ac7493e8944908bc22a145b","display_en_name":"elisha","display_heb_name":"אלישע","all_en_names":["Elisha"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","roles":[]}
+{"key":"6ac749868944908bc22a1560","display_en_name":"hamnuna","display_heb_name":"","all_en_names":["Hamnuna"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749868944908bc22a1561","display_en_name":"yehoram","display_heb_name":"","all_en_names":["Yehoram"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749868944908bc22a1562","display_en_name":"amoz","display_heb_name":"","all_en_names":["Amoz"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749878944908bc22a1563","display_en_name":"menashe","display_heb_name":"","all_en_names":["Menashe"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749878944908bc22a1564","display_en_name":"job","display_heb_name":"","all_en_names":["Job"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749888944908bc22a1565","display_en_name":"hanan","display_heb_name":"","all_en_names":["Hanan"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749888944908bc22a1566","display_en_name":"judea","display_heb_name":"","all_en_names":["Judea"],"all_heb_names":[],"entityType":"Place","alias_keys":[]}
+{"key":"6ac749888944908bc22a1567","display_en_name":"shunem","display_heb_name":"","all_en_names":["Shunem"],"all_heb_names":[],"entityType":"Place","alias_keys":[]}
+{"key":"6ac749898944908bc22a1568","display_en_name":"temple sanctuary","display_heb_name":"","all_en_names":["Temple Sanctuary"],"all_heb_names":[],"entityType":"Place","alias_keys":[]}
+{"key":"6ac749898944908bc22a1569","display_en_name":"edom","display_heb_name":"","all_en_names":["Edom"],"all_heb_names":[],"entityType":"Nation","alias_keys":[]}
+{"key":"6ac749898944908bc22a156a","display_en_name":"sharp sword","display_heb_name":"","all_en_names":["Sharp Sword"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac749898944908bc22a156b","display_en_name":"wall","display_heb_name":"","all_en_names":["Wall"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac7498a8944908bc22a156c","display_en_name":"book of remedies","display_heb_name":"","all_en_names":["Book Of Remedies"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+With regard to redemption and prayer, the Gemara tells the story of Hezekiahs illness, his prayer to God, and subsequent recuperation. Rav Hamnuna said: What is the meaning of that which is written praising the Holy One, Blessed be He: Who is like the wise man, and who knows the interpretation [ pesher ] of the matter (Ecclesiastes 8:1)? This verse means: Who is like the Holy One, Blessed be He, Who knows how to effect compromise [ peshara ] between two righteous individuals, between Hezekiah, the king of Judea, and Isaiah the prophet. They disagreed over which of them should visit the other. Hezekiah said: Let Isaiah come to me, as that is what we find with regard to Elijah the prophet, who went to Ahab, the king of Israel, as it is stated: And Elijah went to appear to Ahab (I Kings 18:2). This proves that it is the prophet who must seek out the king. And Isaiah said: Let Hezekiah come to me, as that is what we find with regard to Yehoram ben Ahab, king of Israel, who went to Elisha the prophet, as it is stated: So the king of Israel, Jehosaphat and the king of Edom went down to him (II Kings 3:12). What did the Holy One, Blessed be He, do to effect compromise between Hezekiah and Isaiah? He brought the suffering of illness upon Hezekiah and told Isaiah: Go and visit the sick. Isaiah did as God instructed, as it is stated: In those days Hezekiah became deathly ill, and Isaiah ben Amoz the prophet came and said to him: Thus says the Lord of Hosts: Set your house in order, for you will die and you will not live (Isaiah 38:1). This seems redundant; what is the meaning of you will die and you will not live? This repetition means: You will die in this world, and you will not live, you will have no share, in the World-to-Come. Hezekiah said to him: What is all of this? For what transgression am I being punished? Isaiah said to him: Because you did not marry and engage in procreation. Hezekiah apologized and said: I had no children because I envisaged through divine inspiration that the children that emerge from me will not be virtuous. Hezekiah meant that he had seen that his children were destined to be evil. In fact, his son Menashe sinned extensively, and he thought it preferable to have no children at all.Isaiah said to him: Why do you involve yourself with the secrets of the Holy One, Blessed be He? That which you have been commanded, the mitzva of procreation, you are required to perform, and that which is acceptable in the eyes of the Holy One, Blessed be He, let Him perform, as He has so decided.Hezekiah said to Isaiah: Now give me your daughter as my wife; perhaps my merit and your merit will cause virtuous children to emerge from me. Isaiah said to him: The decree has already been decreed against you and this judgment cannot be changed. Hezekiah said to him: Son of Amoz, cease your prophecy and leave. As long as the prophet spoke as Gods emissary, Hezekiah was obligated to listen to him. He was not, however, obligated to accept Isaiahs personal opinion that there was no possibility for mercy and healing.Hezekiah continued: I have received a tradition from the house of my fathers father, from King David, the founding father of the dynasty of kings of Judea: Even if a sharp sword rests upon a persons neck, he should not prevent himself from praying for mercy. One may still hold out hope that his prayers will be answered, as was David himself when he saw the Angel of Destruction, but nonetheless prayed for mercy and his prayers were answered.With regard to the fact that one should not despair of Gods mercy, the Gemara cites that it was also said that Rabbi Yohanan and Rabbi Eliezer both said: Even if a sharp sword is resting upon a persons neck, he should not prevent himself from praying for mercy, as it is stated in the words of Job: Though He slay me, I will trust in Him (Job 13:15). Even though God is about to take his life, he still prays for Gods mercy.Similarly, Rabbi Hanan said: Even if the master of dreams, in a true dream, an angel ( Maayan HaBerakhot ) tells a person that tomorrow he will die, he should not prevent himself from praying for mercy, as it is stated: For in the multitude of dreams and vanities there are many words; but fear God (Ecclesiastes 5:6). Although the dream may seem real to him, that is not necessarily the case, and one must place his trust in God.Having heard Isaiahs harsh prophecy, immediately Hezekiah turned his face toward the wall and prayed to the Lord (Isaiah 38:2).The Gemara asks: What is meant by the word wall [ kir ] in this context? Why did Hezekiah turn his face to a wall? Rabbi Shimon ben Lakish said: This symbolically alludes to the fact that Hezekiah prayed to God from the chambers [ kirot ] of his heart, as it is stated elsewhere: My anguish, my anguish, I am in pain. The chambers of my heart. My heart moans within me (Jeremiah 4:19). Rabbi Levi said: Hezekiah intended to evoke matters relating to a wall, and he said before God: Master of the Universe, and if the woman from Shunem, who made only a single small wall on the roof for the prophet Elisha, and you revived her son, all the more so should you bring life to the descendant of my fathers father, King Solomon, who covered the entire Temple Sanctuary with silver and gold. In his prayer, Hezekiah said: Please, Lord, please remember that I walked before You in truth, and with a complete heart, and what was good in Your eyes I did. And Hezekiah wept sore (Isaiah 38:3).The Gemara asks: To what specific action was he referring when he said: And what was good in your sight I did? Various opinions are offered: Mentioning Hezekiahs merits, Rav Yehuda said in the name of Rav that he juxtaposed redemption and prayer at sunrise instead of sleeping late, as was the custom of most kings ( Iyyun Yaakov ). Rabbi Levi said: He suppressed the Book of Remedies upon which everyone relied.
+
+HEBREW:
+אמר רב המנונא: מאי דכתיב ״מי כהחכם ומי יודע פשר דבר״ — מי כהקדוש ברוך הוא שיודע לעשות פשרה בין שני צדיקים, בין חזקיהו לישעיהו. חזקיהו אמר: ליתי ישעיהו גבאי, דהכי אשכחן באליהו דאזל לגבי אחאב, שנאמר: ״וילך אליהו להראות אל אחאב״. ישעיהו אמר: ליתי חזקיהו גבאי דהכי אשכחן ביהורם בן אחאב דאזל לגבי אלישע.מה עשה הקדוש ברוך הוא — הביא יסורים על חזקיהו, ואמר לו לישעיהו: לך ובקר את החולה. שנאמר: ״בימים ההם חלה חזקיהו למות ויבא אליו ישעיהו בן אמוץ הנביא ויאמר אליו כה אמר ה׳ צבאות צו לביתך כי מת אתה ולא תחיה וגו׳״. מאי ״כי מת אתה ולא תחיה״: מת אתה — בעולם הזה, ולא תחיה — לעולם הבא.אמר ליה: מאי כולי האי? אמר ליה: משום דלא עסקת בפריה ורביה. אמר ליה: משום דחזאי לי ברוח הקדש דנפקי מינאי בנין דלא מעלו.אמר ליה: בהדי כבשי דרחמנא למה לך? מאי דמפקדת איבעי לך למעבד, ומה דניחא קמיה קודשא בריך הוא — לעביד.אמר ליה: השתא הב לי ברתך, אפשר דגרמא זכותא דידי ודידך, ונפקי מנאי בנין דמעלו. אמר ליה: כבר נגזרה עליך גזירה. אמר ליה: בן אמוץ, כלה נבואתך וצא!כך מקובלני מבית אבי אבא, אפילו חרב חדה מונחת על צוארו של אדם, אל ימנע עצמו מן הרחמים.אתמר נמי, רבי יוחנן ורבי אליעזר דאמרי תרוייהו: אפילו חרב חדה מונחת על צוארו של אדם, אל ימנע עצמו מן הרחמים. שנאמר: ״הן יקטלני לו איחל״.אמר רבי חנן: אפילו בעל החלומות אומר לו לאדם למחר הוא מת — אל ימנע עצמו מן הרחמים. שנאמר: ״כי ברב חלמות והבלים ודברים הרבה כי את האלהים ירא״.מיד ״ויסב חזקיהו פניו אל הקיר ויתפלל אל ה׳״.מאי ״קיר״? אמר רבי שמעון בן לקיש: מקירות לבו, שנאמר: ״מעי מעי אוחילה קירות לבי וגו׳״.רבי לוי אמר: על עסקי הקיר, אמר לפניו: רבונו של עולם, ומה שונמית שלא עשתה אלא קיר אחת קטנה החיית את בנה, אבי אבא שחפה את ההיכל כולו בכסף ובזהב על אחת כמה וכמה. ״זכר נא את אשר התהלכתי לפניך באמת ובלב שלם והטוב בעיניך עשיתי״.מאי ״והטוב בעיניך עשיתי״? אמר רב יהודה אמר רב: שסמך גאולה לתפלה. רבי לוי אמר: שגנז ספר רפואות.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac73970b9ad2bcc0401a0a4",
+      "entityType": "Person",
+      "display_heb_name": "דוד",
+      "timePeriod": "Tanach",
+      "isNonJew": false,
+      "isGroup": false,
+      "roles": [
+        "King"
+      ]
+    },
+    {
+      "key": "6ac73979b9ad2bcc0401a0c6",
+      "entityType": "Person",
+      "display_heb_name": "חזקיהו",
+      "timePeriod": "Tanach",
+      "isGroup": false,
+      "roles": [
+        "King"
+      ]
+    },
+    {
+      "key": "6ac73981b9ad2bcc0401a0e4",
+      "entityType": "Person",
+      "display_heb_name": "אחאב",
+      "timePeriod": "Tanach",
+      "isGroup": false,
+      "roles": [
+        "King"
+      ]
+    },
+    {
+      "key": "6ac748a28944908bc22a11ff",
+      "entityType": "Person",
+      "display_heb_name": "רב",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748a68944908bc22a1212",
+      "entityType": "Person",
+      "display_heb_name": "אליהו",
+      "timePeriod": "Tanach",
+      "roles": [
+        "Prophet"
+      ]
+    },
+    {
+      "key": "6ac748b88944908bc22a1259",
+      "entityType": "Person",
+      "display_heb_name": "רבי לוי",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748ba8944908bc22a1262",
+      "entityType": "Person",
+      "display_heb_name": "שלמה",
+      "timePeriod": "Tanach",
+      "roles": [
+        "King"
+      ]
+    },
+    {
+      "key": "6ac748d98944908bc22a12e2",
+      "entityType": "Person",
+      "display_heb_name": "רבי שמעון בן לקיש",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748d98944908bc22a12e3",
+      "entityType": "Person",
+      "display_heb_name": "הקדוש ברוך הוא",
+      "timePeriod": "No Time Period",
+      "isNonJew": false,
+      "isGroup": false
+    },
+    {
+      "key": "6ac748f38944908bc22a134e",
+      "entityType": "Person",
+      "display_heb_name": "ישעיהו",
+      "timePeriod": "Tanach",
+      "roles": [
+        "Prophet"
+      ]
+    },
+    {
+      "key": "6ac7493e8944908bc22a145b",
+      "entityType": "Person",
+      "display_heb_name": "אלישע",
+      "timePeriod": "Tanach",
+      "roles": [
+        "Prophet"
+      ]
+    },
+    {
+      "key": "6ac749868944908bc22a1560",
+      "entityType": "Person",
+      "display_heb_name": "רב המנונא",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac749868944908bc22a1561",
+      "entityType": "Person",
+      "display_heb_name": "יהורם בן אחאב",
+      "timePeriod": "Tanach",
+      "roles": [
+        "King"
+      ]
+    },
+    {
+      "key": "6ac749868944908bc22a1562",
+      "entityType": "Person",
+      "display_heb_name": "אמוץ",
+      "timePeriod": "Tanach"
+    },
+    {
+      "key": "6ac749878944908bc22a1563",
+      "entityType": "Person",
+      "display_heb_name": "מנשה",
+      "timePeriod": "Tanach"
+    },
+    {
+      "key": "6ac749878944908bc22a1564",
+      "entityType": "Person",
+      "timePeriod": "Tanach"
+    },
+    {
+      "key": "6ac749888944908bc22a1565",
+      "entityType": "Person",
+      "display_heb_name": "רבי חנן",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac749888944908bc22a1566",
+      "entityType": "Place",
+      "display_heb_name": "יהודה",
+      "placeType": "Country or Region"
+    },
+    {
+      "key": "6ac749888944908bc22a1567",
+      "entityType": "Place",
+      "placeType": "City"
+    },
+    {
+      "key": "6ac749898944908bc22a1568",
+      "entityType": "Place",
+      "display_heb_name": "ההיכל",
+      "placeType": "Building or Structure"
+    },
+    {
+      "key": "6ac749898944908bc22a1569",
+      "entityType": "Nation",
+      "display_heb_name": "אדום"
+    },
+    {
+      "key": "6ac749898944908bc22a156a",
+      "entityType": "Symbol",
+      "display_heb_name": "חרב חדה",
+      "symbolType": "Weapon"
+    },
+    {
+      "key": "6ac749898944908bc22a156b",
+      "entityType": "Symbol",
+      "display_heb_name": "קיר",
+      "symbolType": "Other"
+    },
+    {
+      "key": "6ac7498a8944908bc22a156c",
+      "entityType": "Symbol",
+      "display_heb_name": "ספר רפואות",
+      "symbolType": "Other"
+    }
+  ]
+}

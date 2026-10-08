@@ -1,0 +1,137 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac73979b9ad2bcc0401a0c6",
+            "entityType": "Person",
+            "display_heb_name": "חזקיהו",
+            "timePeriod": "Tanach",
+            "roles": [
+                "King"
+            ],
+            "display_en_name": "hezekiah"
+        },
+        {
+            "key": "6ac7397ab9ad2bcc0401a0c8",
+            "entityType": "Person",
+            "display_heb_name": "אחז",
+            "timePeriod": "Tanach",
+            "roles": [
+                "King"
+            ],
+            "display_en_name": "ahaz"
+        },
+        {
+            "key": "6ac748a68944908bc22a1213",
+            "entityType": "Person",
+            "display_heb_name": "ישראל",
+            "timePeriod": "No Time Period",
+            "isNonJew": false,
+            "isGroup": true,
+            "display_en_name": "israel"
+        },
+        {
+            "key": "6ac7490a8944908bc22a13a8",
+            "entityType": "Number",
+            "heb_unit": "פרק",
+            "contexts": [
+                {
+                    "en_context": "exodus verse",
+                    "heb_context": "שמות פסוק"
+                }
+            ],
+            "display_en_name": "12"
+        },
+        {
+            "key": "6ac7498f8944908bc22a1585",
+            "entityType": "Person",
+            "display_heb_name": "שמואל",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "shmuel"
+        },
+        {
+            "key": "6ac749908944908bc22a1586",
+            "entityType": "Place",
+            "display_heb_name": "גיחון",
+            "placeType": "Body of Water",
+            "display_en_name": "gihon"
+        },
+        {
+            "key": "6ac749908944908bc22a1587",
+            "entityType": "Place",
+            "placeType": "Body of Water",
+            "display_en_name": "pool of siloam"
+        },
+        {
+            "key": "6ac749908944908bc22a1588",
+            "entityType": "Nation",
+            "display_heb_name": "אשור",
+            "display_en_name": "assyria"
+        },
+        {
+            "key": "6ac749908944908bc22a1589",
+            "entityType": "Symbol",
+            "display_heb_name": "נחש הנחשת",
+            "symbolType": "Holy Object",
+            "display_en_name": "copper snake"
+        },
+        {
+            "key": "6ac749918944908bc22a158a",
+            "entityType": "Symbol",
+            "display_heb_name": "דלתות",
+            "symbolType": "Other",
+            "display_en_name": "doors"
+        },
+        {
+            "key": "6ac749918944908bc22a158b",
+            "entityType": "Number",
+            "heb_unit": "פעולה",
+            "contexts": [
+                {
+                    "en_context": "hezekiah's innovations",
+                    "heb_context": "חידושי חזקיהו"
+                }
+            ],
+            "display_en_name": "6"
+        },
+        {
+            "key": "6ac749918944908bc22a158c",
+            "entityType": "Number",
+            "heb_unit": "פעולה",
+            "contexts": [
+                {
+                    "en_context": "sages agreed",
+                    "heb_context": "הודו לו חכמים"
+                }
+            ],
+            "display_en_name": "3"
+        },
+        {
+            "key": "6ac749918944908bc22a158d",
+            "entityType": "Number",
+            "heb_unit": "פרק",
+            "contexts": [
+                {
+                    "en_context": "numbers verse",
+                    "heb_context": "במדבר פסוק"
+                }
+            ],
+            "display_en_name": "21"
+        },
+        {
+            "key": "6ac749928944908bc22a158e",
+            "entityType": "Number",
+            "heb_unit": "פרק",
+            "contexts": [
+                {
+                    "en_context": "kings verse",
+                    "heb_context": "מלכים פסוק"
+                }
+            ],
+            "display_en_name": "18"
+        }
+    ],
+    "key": "BT_Berakhot_0_10b:6-10"
+}

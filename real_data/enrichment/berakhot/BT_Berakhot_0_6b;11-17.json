@@ -1,0 +1,85 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748ac8944908bc22a1229",
+            "entityType": "Person",
+            "display_heb_name": "רב אשי",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "ashi"
+        },
+        {
+            "key": "6ac748d68944908bc22a12d6",
+            "entityType": "Person",
+            "display_heb_name": "אביי",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "abaye"
+        },
+        {
+            "key": "6ac748df8944908bc22a12fc",
+            "entityType": "Person",
+            "display_heb_name": "רבי זירא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "zeira"
+        },
+        {
+            "key": "6ac748e28944908bc22a1306",
+            "entityType": "Person",
+            "display_heb_name": "רבא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rava"
+        },
+        {
+            "key": "6ac748f38944908bc22a134e",
+            "entityType": "Person",
+            "display_heb_name": "ישעיהו",
+            "timePeriod": "Tanach",
+            "roles": [
+                "Prophet"
+            ],
+            "display_en_name": "isaiah"
+        },
+        {
+            "key": "6ac749088944908bc22a13a0",
+            "entityType": "Person",
+            "display_heb_name": "רב פפא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "pappa"
+        },
+        {
+            "key": "6ac749088944908bc22a13a1",
+            "entityType": "Person",
+            "display_heb_name": "מר זוטרא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "zutra"
+        },
+        {
+            "key": "6ac749088944908bc22a13a2",
+            "entityType": "Person",
+            "display_heb_name": "רב ששת",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "sheshet"
+        }
+    ],
+    "key": "BT_Berakhot_0_6b:11-17"
+}

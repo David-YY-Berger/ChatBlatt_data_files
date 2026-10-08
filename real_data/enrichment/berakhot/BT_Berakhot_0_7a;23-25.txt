@@ -1,0 +1,48 @@
+﻿COST: Tokens: Total=4435 approx cost=$0.004272 (Prompt=3098, Completion=1337)
+SOURCE:
+Berakhot (Zeraim) 7a:23-25
+
+ENTITIES TO ENRICH (7):
+{"key":"6ac73992b9ad2bcc0401a125","display_en_name":"moses","display_heb_name":"משה","all_en_names":["Moses"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isNonJew":false,"isGroup":false,"roles":["Prophet"]}
+{"key":"6ac748a68944908bc22a1211","display_en_name":"yosei","display_heb_name":"רבי יוסי","all_en_names":["Yosei"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","roles":["Tanna"]}
+{"key":"6ac748a68944908bc22a1213","display_en_name":"israel","display_heb_name":"ישראל","all_en_names":["Israel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isNonJew":false,"isGroup":true,"roles":[]}
+{"key":"6ac748d98944908bc22a12e3","display_en_name":"god","display_heb_name":"הקדוש ברוך הוא","all_en_names":["God"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isNonJew":false,"isGroup":false,"roles":[]}
+{"key":"6ac749258944908bc22a1406","display_en_name":"righteous person","display_heb_name":"","all_en_names":["Righteous Person"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749258944908bc22a1407","display_en_name":"wicked person","display_heb_name":"","all_en_names":["Wicked Person"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749268944908bc22a1408","display_en_name":"3","display_heb_name":"","all_en_names":["3"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Misc","en_unit":"thing","contexts":[{"en_context":"moses requests granted","source_keys":["BT_Berakhot_0_7a:23-25"]}]}
+
+PASSAGE:
+ENGLISH:
+And Rabbi Yohanan said in the name of Rabbi Yosei regarding Moses request that the Divine Presence rest upon Israel as it once had: Moses requested three things from the Holy One, Blessed be He, at that time, all of which were granted him. He requested that the Divine Presence rest upon Israel and not leave, and He granted it to him, as it is stated: For how can it be known that I have found grace in Your sight, I and Your people? Is it not in that You go with us, so that we are distinguished, I and Your people, from all the people that are on the face of the earth? (Exodus 33:16). The request: Is it not in that You go with us, refers to the resting of the Divine Presence upon Israel.Moses requested that the Divine Presence not rest upon the nations of the world, and He granted it to him, as it is stated: So that we are distinguished, I and Your people, from all the people on the face of the earth (Exodus 33:16).Lastly, Moses requested that the ways in which God conducts the world be revealed to him, and He granted it to him, as it is stated: Show me Your ways and I will know You (Exodus 33:13). Moses said before God: Master of the Universe. Why is it that the righteous prosper, the righteous suffer, the wicked prosper, the wicked suffer? God said to him: Moses, the righteous person who prospers is a righteous person, the son of a righteous person, who is rewarded for the actions of his ancestors. The righteous person who suffers is a righteous person, the son of a wicked person, who is punished for the transgressions of his ancestors. The wicked person who prospers is a wicked person, the son of a righteous person, who is rewarded for the actions of his ancestors. The wicked person who suffers is a wicked person, the son of a wicked person, who is punished for the transgressions of his ancestors.
+
+HEBREW:
+ואמר רבי יוחנן משום רבי יוסי: שלשה דברים בקש משה מלפני הקדוש ברוך הוא, ונתן לו. בקש שתשרה שכינה על ישראל, ונתן לו, שנאמר: ״הלוא בלכתך עמנו״.בקש שלא תשרה שכינה על עובדי כוכבים, ונתן לו, שנאמר: ״ונפלינו אני ועמך״.בקש להודיעו דרכיו של הקדוש ברוך הוא, ונתן לו, שנאמר: ״הודיעני נא את דרכיך״, אמר לפניו: רבונו של עולם! מפני מה יש צדיק וטוב לו, ויש צדיק ורע לו, יש רשע וטוב לו, ויש רשע ורע לו? אמר לו: משה, צדיק וטוב לו — צדיק בן צדיק. צדיק ורע לו — צדיק בן רשע. רשע וטוב לו — רשע בן צדיק. רשע ורע לו — רשע בן רשע.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac749258944908bc22a1406",
+      "entityType": "Person",
+      "display_heb_name": "צדיק",
+      "isGroup": false
+    },
+    {
+      "key": "6ac749258944908bc22a1407",
+      "entityType": "Person",
+      "display_heb_name": "רשע",
+      "isGroup": false
+    },
+    {
+      "key": "6ac749268944908bc22a1408",
+      "entityType": "Number",
+      "heb_unit": "דבר",
+      "contexts": [
+        {
+          "en_context": "moses requests granted",
+          "heb_context": "בקשות משה שנענו"
+        }
+      ]
+    }
+  ]
+}

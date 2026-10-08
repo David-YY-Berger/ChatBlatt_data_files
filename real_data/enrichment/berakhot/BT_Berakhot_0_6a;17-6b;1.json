@@ -1,0 +1,23 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748fe8944908bc22a137b",
+            "entityType": "Symbol",
+            "symbolType": "Holy Object",
+            "display_en_name": "phylactery of the head"
+        },
+        {
+            "key": "6ac748fe8944908bc22a137c",
+            "entityType": "Symbol",
+            "symbolType": "Holy Object",
+            "display_en_name": "phylactery of the arm"
+        },
+        {
+            "key": "6ac748ff8944908bc22a137d",
+            "entityType": "Symbol",
+            "symbolType": "Holy Object",
+            "display_en_name": "parchment"
+        }
+    ],
+    "key": "BT_Berakhot_0_6a:17-6b:1"
+}

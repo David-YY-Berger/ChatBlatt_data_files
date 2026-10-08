@@ -1,0 +1,71 @@
+﻿COST: Tokens: Total=9533 approx cost=$0.016080 (Prompt=3524, Completion=6009)
+SOURCE:
+Berakhot (Zeraim) 9b:11-15
+
+ENTITIES TO ENRICH (11):
+{"key":"6ac748a08944908bc22a11f8","display_en_name":"rabbi meir","display_heb_name":"רבי מאיר","all_en_names":["Rabbi Meir"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","isGroup":false,"roles":["Tanna"]}
+{"key":"6ac748af8944908bc22a1236","display_en_name":"rabbi zeira","display_heb_name":"רבי זירא","all_en_names":["Rabbi Zeira"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748d68944908bc22a12d6","display_en_name":"abaye","display_heb_name":"אביי","all_en_names":["Abaye"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748e28944908bc22a1309","display_en_name":"rav huna","display_heb_name":"רב הונא","all_en_names":["Rav Huna"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac7494e8944908bc22a1495","display_en_name":"4","display_heb_name":"","all_en_names":["4"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Measurement","en_unit":"cubit","heb_unit":"אמה","contexts":[{"en_context":"halakha study area","heb_context":"אמות של הלכה","source_keys":["BT_Berakhot_0_8a:16-20"]},{"en_context":"recognize acquaintance distance","source_keys":["BT_Berakhot_0_9b:11-15"]}]}
+{"key":"6ac749628944908bc22a14e3","display_en_name":"rabbi akiva","display_heb_name":"רבי עקיבא","all_en_names":["Rabbi Akiva"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","isNonJew":false,"isGroup":false,"roles":["Tanna"]}
+{"key":"6ac7496b8944908bc22a1505","display_en_name":"aherim","display_heb_name":"","all_en_names":["Aherim"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac7496c8944908bc22a1506","display_en_name":"vatikin","display_heb_name":"","all_en_names":["Vatikin"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac7496c8944908bc22a1507","display_en_name":"ritual fringes","display_heb_name":"","all_en_names":["Ritual Fringes"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac7496d8944908bc22a1508","display_en_name":"wolf","display_heb_name":"","all_en_names":["Wolf"],"all_heb_names":[],"entityType":"Animal","alias_keys":[]}
+{"key":"6ac7496d8944908bc22a1509","display_en_name":"wild donkey","display_heb_name":"","all_en_names":["Wild Donkey"],"all_heb_names":[],"entityType":"Animal","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+GEMARA: The mishna stated that the time for the recitation of the morning Shema begins when one can distinguish between sky-blue and white. The Gemara asks: To what is between sky-blue and white referring? If you say that it means distinguishing between a pile of white wool and a pile of sky-blue wool, wouldnt one know the difference at night, as well? Rather, it must be a reference to ritual fringes made with sky-blue strings (see Numbers 15:38) along with white strings, and one must be able to distinguish between the sky-blue strings in the ritual fringes and the white strings in the ritual fringes. With regard to the beginning of the time for the recitation of the morning Shema , a baraita cites additional opinions not cited in the mishna. It was taught in a baraita : Rabbi Meir says that the day begins when one can distinguish between two similar animals, e.g., a wolf and a dog. Rabbi Akiva provides a different sign, and says that the day begins when there is sufficient light to distinguish between a donkey and a wild donkey. And Aherim say: When one can see another person, who is merely an acquaintance (Jerusalem Talmud) from a distance of four cubits and recognize him. Rav Huna said: The halakha is in accordance with Aherim . Abaye said: Regarding the time from which one may don phylacteries, a mitzva incumbent only by day, the halakha is in accordance with Aherim . But with regard to the recitation of Shema , one should conduct himself in accordance with the custom of the vatikin , pious individuals who were scrupulous in their performance of mitzvot. As Rabbi Yohanan said: The vatikin would conclude the recitation of Shema with sunrise, and one should act accordingly. It was also taught in a baraita : The vatikin would conclude the recitation of Shema with sunrise in order to juxtapose the blessing of redemption, which immediately follows the recitation of Shema, with prayer, and pray during the day. Regarding this custom of the vatikin , Rabbi Zeira said: What verse is the source for this tradition? They shall fear You with the sun, and before the moon for all generations (Psalms 72:5). This verse indicates that one should express ones awe of Heaven, they shall fear You, immediately before sunrise, with the sun.
+
+HEBREW:
+גמ׳ מאי בין תכלת ללבן? אילימא בין גבבא דעמרא חיורא לגבבא דעמרא דתכלתא — הא בליליא נמי מידע ידעי. אלא, בין תכלת שבה ללבן שבה.תניא: רבי מאיר אומר: משיכיר בין זאב לכלב. רבי עקיבא אומר: בין חמור לערוד. ואחרים אומרים: משיראה את חברו רחוק ארבע אמות, ויכירנו.אמר רב הונא: הלכה כאחרים. אמר אביי: לתפילין כאחרים. לקריאת שמע כותיקין. דאמר רבי יוחנן ותיקין היו גומרין אותה עם הנץ החמה.תניא נמי הכי: ותיקין היו גומרין אותה עם הנץ החמה, כדי שיסמוך גאולה לתפלה, ונמצא מתפלל ביום.אמר רבי זירא: מאי קראה — ״ייראוך עם שמש ולפני ירח דור דורים״.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac7494e8944908bc22a1495",
+      "entityType": "Number",
+      "contexts": [
+        {
+          "en_context": "recognize acquaintance distance",
+          "heb_context": "הכרת חבר מרחוק"
+        }
+      ]
+    },
+    {
+      "key": "6ac7496b8944908bc22a1505",
+      "entityType": "Person",
+      "display_heb_name": "אחרים",
+      "timePeriod": "Tanaim",
+      "isGroup": true,
+      "roles": [
+        "Tanna"
+      ]
+    },
+    {
+      "key": "6ac7496c8944908bc22a1506",
+      "entityType": "Person",
+      "display_heb_name": "ותיקין",
+      "timePeriod": "Tanaim",
+      "isGroup": true
+    },
+    {
+      "key": "6ac7496c8944908bc22a1507",
+      "entityType": "Symbol",
+      "symbolType": "Holy Object"
+    },
+    {
+      "key": "6ac7496d8944908bc22a1508",
+      "entityType": "Animal",
+      "display_heb_name": "זאב"
+    },
+    {
+      "key": "6ac7496d8944908bc22a1509",
+      "entityType": "Animal",
+      "display_heb_name": "ערוד"
+    }
+  ]
+}

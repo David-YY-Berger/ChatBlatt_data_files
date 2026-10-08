@@ -1,0 +1,84 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac739c3b9ad2bcc0401a1da",
+            "entityType": "Person",
+            "timePeriod": "Tanach",
+            "isNonJew": false,
+            "isGroup": false,
+            "display_en_name": "jacob"
+        },
+        {
+            "key": "6ac739c4b9ad2bcc0401a1dc",
+            "entityType": "Person",
+            "timePeriod": "Tanach",
+            "isWoman": true,
+            "isGroup": false,
+            "display_en_name": "leah"
+        },
+        {
+            "key": "6ac739f6b9ad2bcc0401a28c",
+            "entityType": "Person",
+            "display_heb_name": "רחל",
+            "timePeriod": "Tanach",
+            "isWoman": true,
+            "isGroup": false,
+            "display_en_name": "rachel"
+        },
+        {
+            "key": "6ac7488f8944908bc22a11b0",
+            "entityType": "Person",
+            "timePeriod": "Tanaim",
+            "isNonJew": false,
+            "isGroup": false,
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "rabban gamliel"
+        },
+        {
+            "key": "6ac7495b8944908bc22a14ca",
+            "entityType": "Person",
+            "display_heb_name": "רבי עקיבא",
+            "timePeriod": "Tanaim",
+            "isNonJew": false,
+            "isGroup": false,
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "akiva"
+        },
+        {
+            "key": "6ac7495b8944908bc22a14cb",
+            "entityType": "Person",
+            "display_heb_name": "רב אדא בר אהבה",
+            "timePeriod": "Amoraim",
+            "isNonJew": false,
+            "isGroup": false,
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rav adda bar ahava"
+        },
+        {
+            "key": "6ac7495c8944908bc22a14cc",
+            "entityType": "Place",
+            "display_heb_name": "גיהנם",
+            "placeType": "Not Physical",
+            "display_en_name": "gehenna"
+        },
+        {
+            "key": "6ac7495c8944908bc22a14cd",
+            "entityType": "Nation",
+            "display_heb_name": "מדיים",
+            "display_en_name": "media"
+        },
+        {
+            "key": "6ac7495c8944908bc22a14ce",
+            "entityType": "Nation",
+            "display_heb_name": "פרסיים",
+            "display_en_name": "persia"
+        }
+    ],
+    "key": "BT_Berakhot_0_8b:13-16"
+}

@@ -1,0 +1,65 @@
+﻿COST: Tokens: Total=4758 approx cost=$0.005359 (Prompt=2971, Completion=1787)
+SOURCE:
+Berakhot (Zeraim) 9b:19-24
+
+ENTITIES TO ENRICH (6):
+{"key":"6ac748ac8944908bc22a1229","display_en_name":"ashi","display_heb_name":"רב אשי","all_en_names":["Ashi"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748d28944908bc22a12c7","display_en_name":"elazar","display_heb_name":"רבי אלעזר","all_en_names":["Elazar"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac749728944908bc22a151c","display_en_name":"gemara","display_heb_name":"","all_en_names":["Gemara"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749728944908bc22a151d","display_en_name":"lord, open my lips","display_heb_name":"","all_en_names":["Lord, Open My Lips"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac749728944908bc22a151e","display_en_name":"may the words of my mouth and the meditation of my heart be acceptable before you, lord, my rock, and my redeemer","display_heb_name":"","all_en_names":["May The Words Of My Mouth And The Meditation Of My Heart Be Acceptable Before You, Lord, My Rock, And My Redeemer"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac749738944908bc22a151f","display_en_name":"help us lie down [hashkivenu]","display_heb_name":"","all_en_names":["Help Us Lie Down [Hashkivenu]"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+In practice, the Gemara asks: How is one able to juxtapose redemption and prayer? Didnt Rabbi Yohanan say: At the beginning of prayer, one says: Lord, open my lips, that my mouth may declare Your glory (Psalms 51:17), and at the end of prayer one says: May the words of my mouth and the meditation of my heart be acceptable before You, Lord, my Rock, and my Redeemer (Psalms 19:15). If so, the first verse is an interruption between redemption and prayer. Rabbi Elazar said: Let this verse, Lord, open my lips, be recited only in the evening prayer but not in the morning prayer.The Gemara asks: Didnt Rabbi Yohanan say: Who is worthy of a place in the World-to-Come? He who juxtaposes redemption of the evening prayer to the evening prayer. Therefore, this verse from Psalms should not be recited before the evening prayer either. Rather, Rabbi Elazar said: Let this verse: Lord, open my lips, be recited only before the afternoon prayer. Rav Ashi said another explanation: Even if you say that Rabbi Yohanan holds that Lord, open my lips is recited before all prayers, including the morning and the evening prayers. Since the Sages instituted this verse, it is considered as an extended prayer; it is an inseparable part of the prayers, and if redemption is juxtaposed to this verse, it is no different than if redemption was juxtaposed to prayer directly.Rabbi Ashi supports his claim: As if you do not say so, how does one juxtapose redemption of the evening prayer to the evening prayer? Mustnt one recite: Help us lie down [ hashkivenu ] after redemption? Rather, since the Sages instituted the recitation of: Help us lie down, it is considered as an extended blessing of redemption. So, too, since the Sages instituted this verse in prayer, it is considered as an extended prayer.
+
+HEBREW:
+היכי מצי סמיך? והא אמר רבי יוחנן: בתחלה הוא אומר: ״ה׳ שפתי תפתח״, ולבסוף הוא אומר: ״יהיו לרצון אמרי פי וגו׳״!אמר רבי אלעזר: תהא בתפלה של ערבית.והא אמר רבי יוחנן: איזהו בן העולם הבא — זהו הסומך גאולה של ערבית לתפלה של ערבית!אלא אמר רבי אלעזר: תהא בתפלת המנחה.רב אשי אמר: אפילו תימא אכולהו, וכיון דקבעוה רבנן בתפלה — כתפלה אריכתא דמיא.דאי לא תימא הכי, ערבית היכי מצי סמיך, והא בעי למימר ״השכיבנו״! אלא כיון דתקינו רבנן השכיבנו — כגאולה אריכתא דמיא. הכי נמי כיון דקבעוה רבנן בתפלה — כתפלה אריכתא דמיא.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748ac8944908bc22a1229",
+      "entityType": "Person",
+      "display_heb_name": "רב אשי",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748d28944908bc22a12c7",
+      "entityType": "Person",
+      "display_heb_name": "רבי אלעזר",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac749728944908bc22a151c",
+      "entityType": "Person",
+      "display_heb_name": "הגמרא"
+    },
+    {
+      "key": "6ac749728944908bc22a151d",
+      "entityType": "Symbol",
+      "display_heb_name": "ה׳ שפתי תפתח",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac749728944908bc22a151e",
+      "entityType": "Symbol",
+      "display_heb_name": "יהיו לרצון אמרי פי וגו׳",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac749738944908bc22a151f",
+      "entityType": "Symbol",
+      "display_heb_name": "השכיבנו",
+      "symbolType": "Not Physical"
+    }
+  ]
+}

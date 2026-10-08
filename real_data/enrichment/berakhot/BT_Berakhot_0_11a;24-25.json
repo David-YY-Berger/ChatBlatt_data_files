@@ -1,0 +1,49 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac749a98944908bc22a15d8",
+            "entityType": "Symbol",
+            "symbolType": "Not Physical",
+            "display_en_name": "radiant lights"
+        },
+        {
+            "key": "6ac749a98944908bc22a15d9",
+            "entityType": "Symbol",
+            "symbolType": "Not Physical",
+            "display_en_name": "love of torah"
+        },
+        {
+            "key": "6ac749a98944908bc22a15da",
+            "entityType": "Symbol",
+            "symbolType": "Not Physical",
+            "display_en_name": "true and firm"
+        },
+        {
+            "key": "6ac749a98944908bc22a15db",
+            "entityType": "Symbol",
+            "symbolType": "Not Physical",
+            "display_en_name": "love of god"
+        },
+        {
+            "key": "6ac749aa8944908bc22a15dc",
+            "entityType": "Symbol",
+            "symbolType": "Not Physical",
+            "display_en_name": "true and faithful"
+        },
+        {
+            "key": "6ac749aa8944908bc22a15dd",
+            "entityType": "Symbol",
+            "display_heb_name": "ארוכה",
+            "symbolType": "Not Physical",
+            "display_en_name": "long formula"
+        },
+        {
+            "key": "6ac749aa8944908bc22a15de",
+            "entityType": "Symbol",
+            "display_heb_name": "קצרה",
+            "symbolType": "Not Physical",
+            "display_en_name": "short formula"
+        }
+    ],
+    "key": "BT_Berakhot_0_11a:24-25"
+}

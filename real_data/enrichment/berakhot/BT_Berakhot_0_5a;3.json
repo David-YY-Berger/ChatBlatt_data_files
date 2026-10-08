@@ -1,0 +1,144 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac73992b9ad2bcc0401a125",
+            "entityType": "Person",
+            "display_heb_name": "משה",
+            "timePeriod": "Tanach",
+            "isNonJew": false,
+            "isGroup": false,
+            "roles": [
+                "Prophet"
+            ],
+            "display_en_name": "moses"
+        },
+        {
+            "key": "6ac748918944908bc22a11b9",
+            "entityType": "Symbol",
+            "display_heb_name": "משנה",
+            "symbolType": "Not Physical",
+            "display_en_name": "mishna"
+        },
+        {
+            "key": "6ac748948944908bc22a11c5",
+            "entityType": "Symbol",
+            "display_heb_name": "תלמוד",
+            "symbolType": "Not Physical",
+            "display_en_name": "talmud"
+        },
+        {
+            "key": "6ac748d88944908bc22a12e1",
+            "entityType": "Person",
+            "display_heb_name": "רבי לוי בר חמא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "levi bar hama"
+        },
+        {
+            "key": "6ac748d98944908bc22a12e2",
+            "entityType": "Person",
+            "display_heb_name": "רבי שמעון בן לקיש",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "shimon ben lakish"
+        },
+        {
+            "key": "6ac748d98944908bc22a12e3",
+            "entityType": "Person",
+            "timePeriod": "No Time Period",
+            "isNonJew": false,
+            "isGroup": false,
+            "display_en_name": "god"
+        },
+        {
+            "key": "6ac748d98944908bc22a12e4",
+            "entityType": "Place",
+            "display_heb_name": "סיני",
+            "placeType": "Mountain",
+            "display_en_name": "sinai"
+        },
+        {
+            "key": "6ac748d98944908bc22a12e5",
+            "entityType": "Symbol",
+            "display_heb_name": "לחת האבן",
+            "symbolType": "Holy Object",
+            "display_en_name": "stone tablets"
+        },
+        {
+            "key": "6ac748da8944908bc22a12e6",
+            "entityType": "Symbol",
+            "display_heb_name": "מצוה",
+            "symbolType": "Not Physical",
+            "display_en_name": "mitzva"
+        },
+        {
+            "key": "6ac748da8944908bc22a12e7",
+            "entityType": "Symbol",
+            "display_heb_name": "עשרת הדברות",
+            "symbolType": "Holy Object",
+            "display_en_name": "ten commandments"
+        },
+        {
+            "key": "6ac748db8944908bc22a12e9",
+            "entityType": "Symbol",
+            "display_heb_name": "נביאים",
+            "symbolType": "Not Physical",
+            "display_en_name": "prophets"
+        },
+        {
+            "key": "6ac748db8944908bc22a12ea",
+            "entityType": "Symbol",
+            "display_heb_name": "כתובים",
+            "symbolType": "Not Physical",
+            "display_en_name": "writings"
+        },
+        {
+            "key": "6ac748db8944908bc22a12eb",
+            "entityType": "Symbol",
+            "display_heb_name": "הלכה",
+            "symbolType": "Not Physical",
+            "display_en_name": "halakha"
+        },
+        {
+            "key": "6ac748db8944908bc22a12ec",
+            "entityType": "Number",
+            "heb_unit": "פרק",
+            "contexts": [
+                {
+                    "en_context": "exodus chapter",
+                    "heb_context": "שמות פרק"
+                }
+            ],
+            "display_en_name": "24"
+        },
+        {
+            "key": "6ac748dc8944908bc22a12ee",
+            "entityType": "Number",
+            "heb_unit": "דברה",
+            "contexts": [
+                {
+                    "en_context": "number of commandments",
+                    "heb_context": "מספר דברות"
+                }
+            ],
+            "display_en_name": "10"
+        },
+        {
+            "key": "6ac748dc8944908bc22a12ef",
+            "entityType": "Number",
+            "heb_unit": "ספר",
+            "contexts": [
+                {
+                    "en_context": "books of moses",
+                    "heb_context": "ספרי משה"
+                }
+            ],
+            "display_en_name": "5"
+        }
+    ],
+    "key": "BT_Berakhot_0_5a:3"
+}

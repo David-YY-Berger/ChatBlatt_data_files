@@ -1,0 +1,96 @@
+﻿COST: Tokens: Total=12715 approx cost=$0.022772 (Prompt=4098, Completion=8617)
+SOURCE:
+Berakhot (Zeraim) 7b:6-10
+
+ENTITIES TO ENRICH (17):
+{"key":"6ac7395eb9ad2bcc0401a058","display_en_name":"joseph","display_heb_name":"","all_en_names":["Joseph"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"book_references":["Genesis","Exodus"],"timePeriod":"Tanach","isWoman":false,"isNonJew":false,"isGroup":false,"roles":[]}
+{"key":"6ac73960b9ad2bcc0401a05d","display_en_name":"judah","display_heb_name":"","all_en_names":["Judah"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"book_references":["Genesis","Numbers"],"timePeriod":"Tanach","isWoman":false,"isNonJew":false,"isGroup":false,"roles":[]}
+{"key":"6ac73970b9ad2bcc0401a0a4","display_en_name":"david","display_heb_name":"דוד","all_en_names":["David"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isNonJew":false,"isGroup":false,"roles":["Judge","King"]}
+{"key":"6ac7399db9ad2bcc0401a14e","display_en_name":"ruth","display_heb_name":"","all_en_names":["Ruth"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isGroup":false,"roles":[]}
+{"key":"6ac739a4b9ad2bcc0401a167","display_en_name":"judah","display_heb_name":"","all_en_names":["Judah"],"all_heb_names":[],"entityType":"TribeOfIsrael","alias_keys":[]}
+{"key":"6ac739a5b9ad2bcc0401a169","display_en_name":"reuben","display_heb_name":"","all_en_names":["Reuben"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isGroup":false,"roles":[]}
+{"key":"6ac739a6b9ad2bcc0401a16c","display_en_name":"reuben","display_heb_name":"","all_en_names":["Reuben"],"all_heb_names":[],"entityType":"TribeOfIsrael","alias_keys":[]}
+{"key":"6ac739bbb9ad2bcc0401a1bb","display_en_name":"esau","display_heb_name":"","all_en_names":["Esau"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isGroup":false,"roles":[]}
+{"key":"6ac739c3b9ad2bcc0401a1da","display_en_name":"jacob","display_heb_name":"יעקב","all_en_names":["Jacob"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isNonJew":false,"isGroup":false,"roles":[]}
+{"key":"6ac739c4b9ad2bcc0401a1dc","display_en_name":"leah","display_heb_name":"לאה","all_en_names":["Leah"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isWoman":true,"isGroup":false,"roles":[]}
+{"key":"6ac739f9b9ad2bcc0401a295","display_en_name":"joseph","display_heb_name":"","all_en_names":["Joseph"],"all_heb_names":[],"entityType":"TribeOfIsrael","alias_keys":[]}
+{"key":"6ac7488f8944908bc22a11b1","display_en_name":"rabbi eliezer","display_heb_name":"רבי אליעזר","all_en_names":["Rabbi Eliezer"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","isNonJew":false,"isGroup":false,"roles":["Tanna"]}
+{"key":"6ac748a68944908bc22a1213","display_en_name":"israel","display_heb_name":"ישראל","all_en_names":["Israel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isNonJew":false,"isGroup":true,"roles":[]}
+{"key":"6ac748cc8944908bc22a12ac","display_en_name":"rabbi yohanan","display_heb_name":"רבי יוחנן","all_en_names":["Rabbi Yohanan"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748cc8944908bc22a12ad","display_en_name":"rabbi elazar","display_heb_name":"רבי אלעזר","all_en_names":["Rabbi Elazar"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748d98944908bc22a12e3","display_en_name":"god","display_heb_name":"הקדוש ברוך הוא","all_en_names":["God"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isNonJew":false,"isGroup":false,"roles":[]}
+{"key":"6ac7490e8944908bc22a13b7","display_en_name":"isaac","display_heb_name":"יצחק","all_en_names":["Isaac"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isNonJew":false,"roles":[]}
+
+PASSAGE:
+ENGLISH:
+Tangential to the mention of Leahs son, Judah, and the reason for his name, the Gemara explains the sources for other names, including Reuben. Rabbi Elazar said: Reubens name should be considered a prophecy by Leah, as Leah said: See [ reu ] the difference between my son [ beni ] and the son of my father-in-law, Esau, son of Isaac. Even though Esau knowingly sold his birthright to his brother Jacob, as it is written: And he sold his birthright to Jacob (Genesis 25:33), nonetheless, behold what is written about him: And Esau hated Jacob (Genesis 27:41).Esau was not only angry over Isaacs blessing, but he was angry about another matter as well, as it is written: And he said, Is he not rightly named Jacob, for he has supplanted me twice? He took my birthright, and behold, now he has taken my blessing (Genesis 27:36). Despite having sold his birthright, he refused to relinquish it. While my son, Reuben, even though Joseph took his birthright from him by force, as it is written: And the sons of Reuben the firstborn of Israel, for he was the firstborn; but, since he defiled his fathers bed, his birthright was given to the sons of Joseph, son of Israel (I Chronicles 5:1). Nevertheless, he was not jealous of him, as it is written when Josephs brothers sought to kill him: And Reuben heard and he saved him from their hands, saying Let us not take his life (Genesis 37:21).Continuing on the topic of names, the Gemara asks: What is the meaning of the name Ruth? Rabbi Yohanan said: That she had the privilege that David, who inundated the Holy One, Blessed be He, with songs and praises, would descend from her. The name Ruth [ Rut ] is etymologically similar in Hebrew to the word inundate [ riva ].Regarding the basic assumption that these homiletic interpretations of names are allusions to ones future, the Gemara asks: From where do we derive that the name affects ones life? Rabbi Eliezer said that the verse says: Go, see the works of the Lord, who has made desolations [ shamot ] upon the earth (Psalms 46:9). Do not read the word as shamot , rather as shemot , names. The names given to people are, therefore, the works of the Lord upon the earth.
+
+HEBREW:
+ראובן. אמר רבי אלעזר: אמרה לאה: ראו מה בין בני לבן חמי. דאילו בן חמי, אף על גב דמדעתיה זבניה לבכירותיה, דכתיב: ״וימכר את בכרתו ליעקב״, חזו מה כתיב ביה: ״וישטם עשו את יעקב״.וכתיב: ״ויאמר הכי קרא שמו יעקב ויעקבני זה פעמים״ וגו׳.ואילו בני, אף על גב דעל כרחיה שקליה יוסף לבכירותיה מניה, דכתיב: ״ובחללו יצועי אביו נתנה בכרתו לבני יוסף״, אפילו הכי — לא אקנא ביה, דכתיב: ״וישמע ראובן ויצלהו מידם״.רות, מאי ״רות״? אמר רבי יוחנן: שזכתה ויצא ממנה דוד שריוהו להקדוש ברוך הוא בשירות ותשבחות.מנא לן דשמא גרים? אמר רבי אליעזר, דאמר קרא: ״לכו חזו מפעלות ה׳ אשר שם שמות בארץ״, אל תקרי ״שמות״ אלא ״שמות״.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac7395eb9ad2bcc0401a058",
+      "entityType": "Person",
+      "display_heb_name": "יוסף"
+    },
+    {
+      "key": "6ac73970b9ad2bcc0401a0a4",
+      "entityType": "Person",
+      "display_heb_name": "דוד"
+    },
+    {
+      "key": "6ac7399db9ad2bcc0401a14e",
+      "entityType": "Person",
+      "display_heb_name": "רות",
+      "isWoman": true
+    },
+    {
+      "key": "6ac739a5b9ad2bcc0401a169",
+      "entityType": "Person",
+      "display_heb_name": "ראובן"
+    },
+    {
+      "key": "6ac739bbb9ad2bcc0401a1bb",
+      "entityType": "Person",
+      "display_heb_name": "עשו"
+    },
+    {
+      "key": "6ac739c3b9ad2bcc0401a1da",
+      "entityType": "Person",
+      "display_heb_name": "יעקב"
+    },
+    {
+      "key": "6ac739c4b9ad2bcc0401a1dc",
+      "entityType": "Person",
+      "display_heb_name": "לאה"
+    },
+    {
+      "key": "6ac739f9b9ad2bcc0401a295",
+      "entityType": "TribeOfIsrael",
+      "display_heb_name": "יוסף"
+    },
+    {
+      "key": "6ac7488f8944908bc22a11b1",
+      "entityType": "Person",
+      "display_heb_name": "רבי אליעזר"
+    },
+    {
+      "key": "6ac748cc8944908bc22a12ac",
+      "entityType": "Person",
+      "display_heb_name": "רבי יוחנן"
+    },
+    {
+      "key": "6ac748cc8944908bc22a12ad",
+      "entityType": "Person",
+      "display_heb_name": "רבי אלעזר"
+    },
+    {
+      "key": "6ac748d98944908bc22a12e3",
+      "entityType": "Person",
+      "display_heb_name": "הקדוש ברוך הוא"
+    }
+  ]
+}

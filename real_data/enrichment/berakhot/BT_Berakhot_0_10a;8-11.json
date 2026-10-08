@@ -1,0 +1,99 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac73970b9ad2bcc0401a0a4",
+            "entityType": "Person",
+            "display_heb_name": "דוד",
+            "timePeriod": "Tanach",
+            "isNonJew": false,
+            "isGroup": false,
+            "display_en_name": "david"
+        },
+        {
+            "key": "6ac748ba8944908bc22a1263",
+            "entityType": "Symbol",
+            "display_heb_name": "תהילים",
+            "symbolType": "Holy Object",
+            "display_en_name": "psalms"
+        },
+        {
+            "key": "6ac749388944908bc22a1443",
+            "entityType": "Number",
+            "heb_unit": "פרק",
+            "contexts": [
+                {
+                    "en_context": "psalm chapter",
+                    "heb_context": "תהילים פרק"
+                },
+                {
+                    "en_context": "psalm reference",
+                    "heb_context": "הפניה למזמור"
+                }
+            ],
+            "display_en_name": "3"
+        },
+        {
+            "key": "6ac749768944908bc22a152b",
+            "entityType": "Person",
+            "display_heb_name": "מינא",
+            "timePeriod": "Amoraim",
+            "isNonJew": true,
+            "isGroup": false,
+            "display_en_name": "heretic"
+        },
+        {
+            "key": "6ac749788944908bc22a1535",
+            "entityType": "Person",
+            "display_heb_name": "רבי אבהו",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabbi abbahu"
+        },
+        {
+            "key": "6ac749798944908bc22a1536",
+            "entityType": "Nation",
+            "display_heb_name": "גוג",
+            "display_en_name": "gog"
+        },
+        {
+            "key": "6ac749798944908bc22a1537",
+            "entityType": "Nation",
+            "display_heb_name": "מגוג",
+            "display_en_name": "magog"
+        },
+        {
+            "key": "6ac749798944908bc22a1538",
+            "entityType": "Symbol",
+            "display_heb_name": "מצוה",
+            "symbolType": "Not Physical",
+            "display_en_name": "commandment"
+        },
+        {
+            "key": "6ac7497a8944908bc22a1539",
+            "entityType": "Number",
+            "heb_unit": "פרק",
+            "contexts": [
+                {
+                    "en_context": "psalm reference",
+                    "heb_context": "הפניה למזמור"
+                }
+            ],
+            "display_en_name": "57"
+        },
+        {
+            "key": "6ac7497a8944908bc22a153a",
+            "entityType": "Number",
+            "heb_unit": "פרק",
+            "contexts": [
+                {
+                    "en_context": "psalm reference",
+                    "heb_context": "הפניה למזמור"
+                }
+            ],
+            "display_en_name": "111"
+        }
+    ],
+    "key": "BT_Berakhot_0_10a:8-11"
+}

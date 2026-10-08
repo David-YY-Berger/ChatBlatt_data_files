@@ -1,0 +1,85 @@
+﻿COST: Tokens: Total=5338 approx cost=$0.006197 (Prompt=3249, Completion=2089)
+SOURCE:
+Berakhot (Zeraim) 7a:1-4
+
+ENTITIES TO ENRICH (9):
+{"key":"6ac748a28944908bc22a11ff","display_en_name":"rav","display_heb_name":"רב","all_en_names":["Rav"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":[]}
+{"key":"6ac748a68944908bc22a1211","display_en_name":"yosei","display_heb_name":"רבי יוסי","all_en_names":["Yosei"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","roles":["Tanna"]}
+{"key":"6ac748d98944908bc22a12e3","display_en_name":"god","display_heb_name":"הקדוש ברוך הוא","all_en_names":["God"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isNonJew":false,"isGroup":false,"roles":[]}
+{"key":"6ac749178944908bc22a13d1","display_en_name":"zutra bar tovia","display_heb_name":"","all_en_names":["Zutra Bar Tovia"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749178944908bc22a13d2","display_en_name":"yishmael ben elisha","display_heb_name":"","all_en_names":["Yishmael Ben Elisha"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749178944908bc22a13d3","display_en_name":"my holy mountain","display_heb_name":"","all_en_names":["My Holy Mountain"],"all_heb_names":[],"entityType":"Place","alias_keys":[]}
+{"key":"6ac749188944908bc22a13d4","display_en_name":"house of my prayer","display_heb_name":"","all_en_names":["House Of My Prayer"],"all_heb_names":[],"entityType":"Place","alias_keys":[]}
+{"key":"6ac749188944908bc22a13d5","display_en_name":"innermost sanctum","display_heb_name":"","all_en_names":["Innermost Sanctum"],"all_heb_names":[],"entityType":"Place","alias_keys":[]}
+{"key":"6ac749188944908bc22a13d6","display_en_name":"throne","display_heb_name":"","all_en_names":["Throne"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+Along the same lines, Rabbi Yohanan said in the name of Rabbi Yosei: From where is it derived that the Holy One, Blessed be He, prays? As it is stated: I will bring them to My holy mountain, and make them joyful in the house of My prayer (Isaiah 56:7). The verse does not say the house of their prayer, but rather, the house of My prayer; from here we see that the Holy One, Blessed be He, prays. The Gemara asks: What does God pray? Rav Zutra bar Tovia said that Rav said: God says: May it be My will that My mercy will overcome My anger towards Israel for their transgressions, and may My mercy prevail over My other attributes through which Israel is punished, and may I conduct myself toward My children, Israel, with the attribute of mercy, and may I enter before them beyond the letter of the law. Similarly, it was taught in a baraita that Rabbi Yishmael ben Elisha, the High Priest, said: Once, on Yom Kippur, I entered the innermost sanctum, the Holy of Holies, to offer incense, and in a vision I saw Akatriel Ya, the Lord of Hosts, one of the names of God expressing His ultimate authority, seated upon a high and exalted throne (see Isaiah 6). And He said to me: Yishmael, My son, bless Me. I said to Him the prayer that God prays: May it be Your will that Your mercy overcome Your anger, and may Your mercy prevail over Your other attributes, and may You act toward Your children with the attribute of mercy, and may You enter before them beyond the letter of the law. The Holy One, Blessed be He, nodded His head and accepted the blessing. This event teaches us that you should not take the blessing of an ordinary person lightly. If God asked for and accepted a mans blessing, all the more so that a man must value the blessing of another man.
+
+HEBREW:
+אמר רבי יוחנן משום רבי יוסי: מנין שהקדוש ברוך הוא מתפלל? שנאמר: ״והביאותים אל הר קדשי ושמחתים בבית תפלתי״, ״תפלתם״ לא נאמר, אלא ״תפלתי״, מכאן שהקדוש ברוך הוא מתפלל.מאי מצלי?אמר רב זוטרא בר טוביה, אמר רב: ״יהי רצון מלפני שיכבשו רחמי את כעסי, ויגולו רחמי על מדותי, ואתנהג עם בני במדת רחמים, ואכנס להם לפנים משורת הדין״.תניא, אמר רבי ישמעאל בן אלישע: פעם אחת, נכנסתי להקטיר קטורת לפני ולפנים, וראיתי אכתריאל יה ה׳ צבאות, שהוא יושב על כסא רם ונשא, ואמר לי: ״ישמעאל בני, ברכני!״ אמרתי לו: ״יהי רצון מלפניך, שיכבשו רחמיך את כעסך, ויגולו רחמיך על מדותיך, ותתנהג עם בניך במדת הרחמים, ותכנס להם לפנים משורת הדין״. ונענע לי בראשו. וקמשמע לן, שלא תהא ברכת הדיוט קלה בעיניך.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748a28944908bc22a11ff",
+      "entityType": "Person",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748a68944908bc22a1211",
+      "entityType": "Person"
+    },
+    {
+      "key": "6ac748d98944908bc22a12e3",
+      "entityType": "Person"
+    },
+    {
+      "key": "6ac749178944908bc22a13d1",
+      "entityType": "Person",
+      "display_heb_name": "רב זוטרא בר טוביה",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac749178944908bc22a13d2",
+      "entityType": "Person",
+      "display_heb_name": "רבי ישמעאל בן אלישע",
+      "timePeriod": "Tanaim",
+      "roles": [
+        "Kohen",
+        "Tanna"
+      ]
+    },
+    {
+      "key": "6ac749178944908bc22a13d3",
+      "entityType": "Place",
+      "display_heb_name": "הר קדשי",
+      "placeType": "Mountain"
+    },
+    {
+      "key": "6ac749188944908bc22a13d4",
+      "entityType": "Place",
+      "display_heb_name": "בית תפלתי",
+      "placeType": "Building or Structure"
+    },
+    {
+      "key": "6ac749188944908bc22a13d5",
+      "entityType": "Place",
+      "display_heb_name": "לפני ולפנים",
+      "placeType": "Building or Structure"
+    },
+    {
+      "key": "6ac749188944908bc22a13d6",
+      "entityType": "Symbol",
+      "display_heb_name": "כסא",
+      "symbolType": "Holy Object"
+    }
+  ]
+}

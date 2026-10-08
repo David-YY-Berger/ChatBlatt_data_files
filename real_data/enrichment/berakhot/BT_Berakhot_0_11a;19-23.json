@@ -1,0 +1,52 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac749a68944908bc22a15ce",
+            "entityType": "Person",
+            "display_heb_name": "רב יחזקאל",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "yehezkel"
+        },
+        {
+            "key": "6ac749a78944908bc22a15cf",
+            "entityType": "Person",
+            "display_heb_name": "רב יוסף",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "yosef"
+        },
+        {
+            "key": "6ac749a78944908bc22a15d0",
+            "entityType": "Person",
+            "display_heb_name": "רבי יוחנן בן החורנית",
+            "timePeriod": "Tanaim",
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "yohanan ben hahoranit"
+        },
+        {
+            "key": "6ac749a78944908bc22a15d1",
+            "entityType": "Person",
+            "display_heb_name": "רבי טרפון",
+            "timePeriod": "Tanaim",
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "tarfon"
+        },
+        {
+            "key": "6ac749a78944908bc22a15d2",
+            "entityType": "Symbol",
+            "display_heb_name": "סוכה",
+            "symbolType": "Holy Object",
+            "display_en_name": "sukka"
+        }
+    ],
+    "key": "BT_Berakhot_0_11a:19-23"
+}

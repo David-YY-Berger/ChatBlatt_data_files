@@ -1,0 +1,31 @@
+﻿COST: Tokens: Total=2885 approx cost=$0.001693 (Prompt=2509, Completion=376)
+SOURCE:
+Berakhot (Zeraim) 2a:12-13
+
+ENTITIES TO ENRICH (2):
+{"key":"6ac748978944908bc22a11d2","display_en_name":"atonement offering","display_heb_name":"","all_en_names":["Atonement Offering"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748978944908bc22a11d3","display_en_name":"bread","display_heb_name":"","all_en_names":["Bread"],"all_heb_names":[],"entityType":"Food","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+The Gemara proceeds to clarify the rest of the mishna. The Master said in the mishna that the beginning of the period when one recites Shema in the evening is when the priests enter to partake of their teruma . However, this does not specify a definitive time. When do the priests enter to partake of their teruma ? From the time of the emergence of the stars. If that is the case, then let the tanna teach that the time for the recitation of the evening Shema is from the time of the emergence of the stars. The Gemara responds: Indeed it would have been simpler to say that the time for the recitation of the evening Shema begins with the emergence of the stars, but the particular expression used by the tanna teaches us another matter in passing: When do priests partake of their teruma ? From the time of the emergence of the stars. And the tanna teaches us a new halakha parenthetically: failure to bring an atonement offering does not prevent a priest from eating teruma . In cases where an impure priest is required to immerse himself in a ritual bath and bring an atonement offering, even if he already immersed himself, he is not completely ritually pure until he brings the atonement offering. Nevertheless, he is still permitted to partake of teruma . Taught in passing in our mishna, this is articulated fully in a baraita , based on a close reading of the biblical passages. As it was taught in a baraita with regard to the laws of ritual impurity, it is said: One who touches it remains impure until evening. He should not eat of the consecrated items and he must wash his flesh with water. And the sun sets and it is purified. Afterwards, he may eat from the teruma , for it is his bread (Leviticus 22:6-7). From the passage: And the sun sets and it is purified, that the absence of the setting of his sun prevents him from partaking of teruma , but failure to bring the atonement offering does not prevent him from partaking of teruma , may be inferred.
+
+HEBREW:
+אמר מר משעה שהכהנים נכנסים לאכול בתרומתן. מכדי כהנים אימת קא אכלי תרומה? — משעת צאת הכוכבים, לתני: ״משעת צאת הכוכבים״!מלתא אגב אורחיה קמשמע לן — כהנים אימת קא אכלי בתרומה — משעת צאת הכוכבים. והא קמשמע לן דכפרה לא מעכבא. כדתניא: ״ובא השמש וטהר״ — ביאת שמשו מעכבתו מלאכול בתרומה, ואין כפרתו מעכבתו מלאכול בתרומה.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748978944908bc22a11d2",
+      "entityType": "Symbol",
+      "display_heb_name": "כפרה",
+      "symbolType": "Holy Object"
+    },
+    {
+      "key": "6ac748978944908bc22a11d3",
+      "entityType": "Food",
+      "display_heb_name": "לחם"
+    }
+  ]
+}

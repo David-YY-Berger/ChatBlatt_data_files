@@ -1,0 +1,64 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748b48944908bc22a1248",
+            "entityType": "Person",
+            "display_heb_name": "הקדוש ברוך הוא",
+            "timePeriod": "No Time Period",
+            "display_en_name": "holy one, blessed be he"
+        },
+        {
+            "key": "6ac748cc8944908bc22a12ac",
+            "entityType": "Person",
+            "display_heb_name": "רבי יוחנן",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabbi yohanan"
+        },
+        {
+            "key": "6ac748e28944908bc22a1309",
+            "entityType": "Person",
+            "display_heb_name": "רב הונא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rav huna"
+        },
+        {
+            "key": "6ac749048944908bc22a1392",
+            "entityType": "Person",
+            "display_heb_name": "רבי חלבו",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabbi helbo"
+        },
+        {
+            "key": "6ac749048944908bc22a1393",
+            "entityType": "Person",
+            "display_heb_name": "אברהם",
+            "timePeriod": "Tanach",
+            "isNonJew": false,
+            "display_en_name": "abraham"
+        },
+        {
+            "key": "6ac749058944908bc22a1395",
+            "entityType": "Person",
+            "display_heb_name": "פינחס",
+            "timePeriod": "Tanach",
+            "display_en_name": "pinehas"
+        },
+        {
+            "key": "6ac749058944908bc22a1396",
+            "entityType": "Person",
+            "display_heb_name": "אלהי אברהם",
+            "timePeriod": "No Time Period",
+            "display_en_name": "god of abraham"
+        }
+    ],
+    "key": "BT_Berakhot_0_6b:5-8"
+}

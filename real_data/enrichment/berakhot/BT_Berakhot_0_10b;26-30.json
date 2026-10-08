@@ -1,0 +1,70 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac7489b8944908bc22a11e4",
+            "entityType": "Person",
+            "display_heb_name": "רבי חנינא",
+            "isNonJew": false,
+            "isGroup": false,
+            "display_en_name": "hanina"
+        },
+        {
+            "key": "6ac748a68944908bc22a1211",
+            "entityType": "Person",
+            "display_heb_name": "רבי יוסי",
+            "isNonJew": false,
+            "isGroup": false,
+            "display_en_name": "yosei"
+        },
+        {
+            "key": "6ac748a78944908bc22a1214",
+            "entityType": "Person",
+            "display_heb_name": "מהרשא",
+            "display_en_name": "maharsha"
+        },
+        {
+            "key": "6ac748b48944908bc22a1248",
+            "entityType": "Person",
+            "display_heb_name": "הקדוש ברוך הוא",
+            "isNonJew": false,
+            "isGroup": false,
+            "display_en_name": "holy one, blessed be he"
+        },
+        {
+            "key": "6ac748b88944908bc22a125a",
+            "entityType": "Person",
+            "display_heb_name": "רבי יצחק",
+            "isNonJew": false,
+            "isGroup": false,
+            "display_en_name": "yitzhak"
+        },
+        {
+            "key": "6ac748d98944908bc22a12e3",
+            "entityType": "Person",
+            "display_heb_name": "המקום",
+            "isNonJew": false,
+            "isGroup": false,
+            "display_en_name": "god"
+        },
+        {
+            "key": "6ac7499d8944908bc22a15b0",
+            "entityType": "Person",
+            "display_heb_name": "רבי אליעזר בן יעקב",
+            "timePeriod": "Tanaim",
+            "isNonJew": false,
+            "isGroup": false,
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "eliezer ben yaakov"
+        },
+        {
+            "key": "6ac7499e8944908bc22a15b1",
+            "entityType": "Symbol",
+            "display_heb_name": "מלכות שמים",
+            "symbolType": "Not Physical",
+            "display_en_name": "kingdom of heaven"
+        }
+    ],
+    "key": "BT_Berakhot_0_10b:26-30"
+}

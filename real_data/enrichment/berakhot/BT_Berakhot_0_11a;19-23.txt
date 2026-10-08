@@ -1,0 +1,67 @@
+﻿COST: Tokens: Total=5424 approx cost=$0.006417 (Prompt=3247, Completion=2177)
+SOURCE:
+Berakhot (Zeraim) 11a:19-23
+
+ENTITIES TO ENRICH (7):
+{"key":"6ac749a18944908bc22a15ba","display_en_name":"beit shammai","display_heb_name":"בית שמאי","all_en_names":["Beit Shammai"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","isGroup":true,"roles":["Tanna"]}
+{"key":"6ac749a18944908bc22a15bb","display_en_name":"beit hillel","display_heb_name":"בית הלל","all_en_names":["Beit Hillel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","isGroup":true,"roles":["Tanna"]}
+{"key":"6ac749a68944908bc22a15ce","display_en_name":"yehezkel","display_heb_name":"","all_en_names":["Yehezkel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749a78944908bc22a15cf","display_en_name":"yosef","display_heb_name":"","all_en_names":["Yosef"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749a78944908bc22a15d0","display_en_name":"yohanan ben hahoranit","display_heb_name":"","all_en_names":["Yohanan Ben Hahoranit"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749a78944908bc22a15d1","display_en_name":"tarfon","display_heb_name":"","all_en_names":["Tarfon"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749a78944908bc22a15d2","display_en_name":"sukka","display_heb_name":"","all_en_names":["Sukka"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+Rav Yehezkel taught: One who acted in accordance with the opinion of Beit Shammai has acted appropriately and is not in violation of the halakha . One who acted in accordance with the opinion of Beit Hillel acted appropriately as well. According to this opinion, Beit Hillel and Beit Shammai agree that one who acted in accordance with the opinion of the other fulfilled his obligation. Although the halakha was ruled in accordance with the opinion of Beit Hillel, Beit Hillel would agree that one who acted in accordance with the opinion of Beit Shammai fulfilled his obligation.However, Rav Yosef said: One who acts in accordance with the opinion of Beit Shammai has done nothing and must repeat Shema in accordance with the opinion of Beit Hillel, as we learned in the mishna with regard to the halakhot of a sukka : One who had his head and most of his body in the sukka , and his table upon which he was eating inside the house, Beit Shammai invalidate his action, as he is liable to be drawn after the table and end up eating outside the sukka . And Beit Hillel validate his action, since his head and most of his body remain inside the sukka . Beit Hillel said to Beit Shammai as a proof: There was an incident where the elders of Beit Shammai and the elders of Beit Hillel went on Sukkot to visit Rabbi Yohanan ben HaHoranit. They found him with his head and most of his body in the sukka and his table inside the house and they said nothing to him. In other words, even Beit Shammai did not object.Beit Shammai said to them: And is there proof from there? That is not what happened, rather they said to him explicitly: If you have been accustomed to act in this manner, you have never in your life fulfilled the mitzva of sukka . We see that Beit Shammai held that anyone who did not act in accordance with their opinion, did not fulfill his obligation at all. Similarly, since Beit Hillels opinion was accepted as halakha , anyone who acts in accordance with the opinion of Beit Shammai fails to fulfill his obligation. Rav Nahman bar Yitzhak stated an even more extreme opinion: One who acted in accordance with the opinion of Beit Shammai has acted so egregiously that he is liable to receive the death penalty, as we learned in our mishna that Rabbi Tarfon said to his colleagues: Once, I was coming on the road when I stopped and reclined to recite Shema in accordance with the statement of Beit Shammai. Yet in so doing, I endangered myself due to the highwaymen who accost travelers. The Sages said to him: You deserved to be in a position where you were liable to pay with your life, as you transgressed the statement of Beit Hillel.
+
+HEBREW:
+תני רב יחזקאל: עשה כדברי בית שמאי — עשה, כדברי בית הלל — עשה. רב יוסף אמר: עשה כדברי בית שמאי — לא עשה ולא כלום. דתנן: מי שהיה ראשו ורובו בסוכה ושלחנו בתוך הבית, בית שמאי פוסלין, ובית הלל מכשירין.אמרו להם בית הלל לבית שמאי: מעשה שהלכו זקני בית שמאי וזקני בית הלל לבקר את רבי יוחנן בן החורנית, מצאוהו שהיה ראשו ורובו בסוכה ושלחנו בתוך הבית, ולא אמרו לו כלום.אמרו להם: ומשם ראיה?! אף הם אמרו לו: אם כן היית נוהג לא קיימת מצות סוכה מימיך. רב נחמן בר יצחק אמר: עשה כדברי בית שמאי — חייב מיתה. דתנן, אמר רבי טרפון: אני הייתי בא בדרך והטתי לקרות כדברי בית שמאי וסכנתי בעצמי מפני הלסטים, אמרו לו: כדאי היית לחוב בעצמך, שעברת על דברי בית הלל.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac749a68944908bc22a15ce",
+      "entityType": "Person",
+      "display_heb_name": "רב יחזקאל",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac749a78944908bc22a15cf",
+      "entityType": "Person",
+      "display_heb_name": "רב יוסף",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac749a78944908bc22a15d0",
+      "entityType": "Person",
+      "display_heb_name": "רבי יוחנן בן החורנית",
+      "timePeriod": "Tanaim",
+      "roles": [
+        "Tanna"
+      ]
+    },
+    {
+      "key": "6ac749a78944908bc22a15d1",
+      "entityType": "Person",
+      "display_heb_name": "רבי טרפון",
+      "timePeriod": "Tanaim",
+      "roles": [
+        "Tanna"
+      ]
+    },
+    {
+      "key": "6ac749a78944908bc22a15d2",
+      "entityType": "Symbol",
+      "display_heb_name": "סוכה",
+      "symbolType": "Holy Object"
+    }
+  ]
+}

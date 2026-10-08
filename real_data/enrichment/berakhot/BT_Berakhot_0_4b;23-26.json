@@ -1,0 +1,92 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748a68944908bc22a1212",
+            "entityType": "Person",
+            "display_heb_name": "אליהו",
+            "timePeriod": "Tanach",
+            "roles": [
+                "Prophet"
+            ],
+            "display_en_name": "elijah"
+        },
+        {
+            "key": "6ac748ba8944908bc22a1260",
+            "entityType": "Person",
+            "display_heb_name": "רבי יוחנן",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "yohanan"
+        },
+        {
+            "key": "6ac748d28944908bc22a12c7",
+            "entityType": "Person",
+            "display_heb_name": "רבי אלעזר",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "elazar"
+        },
+        {
+            "key": "6ac748d38944908bc22a12c8",
+            "entityType": "Person",
+            "display_heb_name": "אבינא",
+            "timePeriod": "Amoraim",
+            "display_en_name": "avina"
+        },
+        {
+            "key": "6ac748d38944908bc22a12c9",
+            "entityType": "Person",
+            "display_heb_name": "מיכאל",
+            "timePeriod": "No Time Period",
+            "display_en_name": "michael"
+        },
+        {
+            "key": "6ac748d38944908bc22a12ca",
+            "entityType": "Person",
+            "display_heb_name": "גבריאל",
+            "timePeriod": "No Time Period",
+            "display_en_name": "gabriel"
+        },
+        {
+            "key": "6ac748d48944908bc22a12cc",
+            "entityType": "Number",
+            "heb_unit": "טיסה",
+            "contexts": [
+                {
+                    "en_context": "gabriel's mission",
+                    "heb_context": "משימת גבריאל"
+                }
+            ],
+            "display_en_name": "2"
+        },
+        {
+            "key": "6ac748d48944908bc22a12cd",
+            "entityType": "Number",
+            "heb_unit": "טיסה",
+            "contexts": [
+                {
+                    "en_context": "elijah's travel",
+                    "heb_context": "מסע אליהו"
+                }
+            ],
+            "display_en_name": "4"
+        },
+        {
+            "key": "6ac748d48944908bc22a12ce",
+            "entityType": "Number",
+            "heb_unit": "טיסה",
+            "contexts": [
+                {
+                    "en_context": "angel of death's travel",
+                    "heb_context": "מסע מלאך המות"
+                }
+            ],
+            "display_en_name": "8"
+        }
+    ],
+    "key": "BT_Berakhot_0_4b:23-26"
+}

@@ -1,0 +1,49 @@
+﻿COST: Tokens: Total=4606 approx cost=$0.004895 (Prompt=3009, Completion=1597)
+SOURCE:
+Berakhot (Zeraim) 8b:17-9a:4
+
+ENTITIES TO ENRICH (7):
+{"key":"6ac7489b8944908bc22a11e4","display_en_name":"hanina","display_heb_name":"רבי חנינא","all_en_names":["Hanina"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","roles":["Tanna"]}
+{"key":"6ac7489c8944908bc22a11e6","display_en_name":"aha","display_heb_name":"רבי אחא","all_en_names":["Aha"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","roles":["Tanna"]}
+{"key":"6ac748df8944908bc22a12fc","display_en_name":"zeira","display_heb_name":"רבי זירא","all_en_names":["Zeira"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac7495b8944908bc22a14ca","display_en_name":"akiva","display_heb_name":"רבי עקיבא","all_en_names":["Akiva"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","isNonJew":false,"isGroup":false,"roles":["Tanna"]}
+{"key":"6ac7495e8944908bc22a14d4","display_en_name":"shimon","display_heb_name":"","all_en_names":["Shimon"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac7495e8944908bc22a14d5","display_en_name":"yitzhak bar yosef","display_heb_name":"","all_en_names":["Yitzhak Bar Yosef"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac7495f8944908bc22a14d6","display_en_name":"hashkivenu","display_heb_name":"","all_en_names":["Hashkivenu"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+The Gemara answers: No, there is no contradiction. Actually, the time just before sunrise is considered day and the fact that it is referred to here as night is because there are people who are still asleep at that time and, if the need arises, it can be characterized as beshokhbekha [when you lie down] despite the fact that it is already day. Rabbi Aha, son of Rabbi Hanina, said that Rabbi Yehoshua ben Levi said: The halakha is in accordance with the opinion of Rabbi Shimon who said it in the name of Rabbi Akiva. Rabbi Zeira said: As long as he will not recite: Help us lie down [ hashkivenu ] as well, after reciting the evening Shema before sunrise, as the blessing: Help us lie down, is a prayer that we sleep in peace, which is inappropriate in the morning.That is how the halakha was taught in the study hall. However, when Rav Yitzhak bar Yosef came to Babylonia from Eretz Yisrael, where Rabbi Yehoshua ben Levi lived, he said that this ruling that Rabbi Aha, son of Rabbi Hanina, said that Rabbi Yehoshua ben Levi said, was not said explicitly by Rabbi Yehoshua ben Levi. Rather, it was stated that he held that the halakha is in accordance with the opinion of Rabbi Shimon who said it in the name of Rabbi Akiva based on inference. The incident was as follows: This pair of Sages got drunk at the wedding of Rabbi Yehoshua ben Levis son and fell asleep before reciting the evening Shema . By the time they awoke, dawn had already passed. They came before Rabbi Yehoshua ben Levi and asked him if they could still recite the evening Shema . He said to them: Rabbi Shimon is worthy to rely upon in exigent circumstances. Rabbi Yehoshua ben Levi did not rule in accordance with the opinion of Rabbi Shimon, and, in a case where there are no exigent circumstances, one may not rely on this ruling.
+
+HEBREW:
+לא, לעולם יממא הוא, והאי דקרו ליה ״ליליא״ — דאיכא אינשי דגנו בההיא שעתא.אמר רבי אחא ברבי חנינא, אמר רבי יהושע בן לוי: הלכה כרבי שמעון שאמר משום רבי עקיבא. אמר רבי זירא: ובלבד שלא יאמר ״השכיבנו״.כי אתא רב יצחק בר יוסף, אמר: הא דרבי אחא ברבי חנינא אמר רבי יהושע בן לוי, לאו בפירוש איתמר, אלא מכללא איתמר.דההוא זוגא דרבנן דאשתכור בהלולא דבריה דרבי יהושע בן לוי. אתו לקמיה דרבי יהושע בן לוי, אמר: כדאי הוא רבי שמעון לסמוך עליו בשעת הדחק.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac7495e8944908bc22a14d4",
+      "entityType": "Person",
+      "display_heb_name": "רבי שמעון",
+      "timePeriod": "Tanaim",
+      "roles": [
+        "Tanna"
+      ]
+    },
+    {
+      "key": "6ac7495e8944908bc22a14d5",
+      "entityType": "Person",
+      "display_heb_name": "רב יצחק בר יוסף",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac7495f8944908bc22a14d6",
+      "entityType": "Symbol",
+      "display_heb_name": "השכיבנו",
+      "symbolType": "Not Physical"
+    }
+  ]
+}

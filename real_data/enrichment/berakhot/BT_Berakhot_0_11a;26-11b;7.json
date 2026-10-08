@@ -1,0 +1,61 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748d68944908bc22a12d6",
+            "entityType": "Person",
+            "display_heb_name": "אביי",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "abaye"
+        },
+        {
+            "key": "6ac748e28944908bc22a1306",
+            "entityType": "Person",
+            "display_heb_name": "רבא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rava"
+        },
+        {
+            "key": "6ac748f38944908bc22a134e",
+            "entityType": "Person",
+            "display_heb_name": "ישעיהו",
+            "timePeriod": "Tanach",
+            "roles": [
+                "Prophet"
+            ],
+            "display_en_name": "isaiah"
+        },
+        {
+            "key": "6ac749998944908bc22a159e",
+            "entityType": "Person",
+            "display_heb_name": "יעקב",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "yaakov"
+        },
+        {
+            "key": "6ac749ab8944908bc22a15e0",
+            "entityType": "Person",
+            "display_heb_name": "אושעיא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "oshaya"
+        },
+        {
+            "key": "6ac749ab8944908bc22a15e1",
+            "entityType": "Symbol",
+            "symbolType": "Holy Object",
+            "display_en_name": "bible"
+        }
+    ],
+    "key": "BT_Berakhot_0_11a:26-11b:7"
+}

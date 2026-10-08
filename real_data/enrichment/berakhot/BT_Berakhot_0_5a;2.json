@@ -1,0 +1,33 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748d78944908bc22a12db",
+            "entityType": "Person",
+            "display_heb_name": "רבי לוי בר חמא",
+            "timePeriod": "Amoraim",
+            "display_en_name": "rabbi levi bar hama"
+        },
+        {
+            "key": "6ac748d78944908bc22a12dc",
+            "entityType": "Person",
+            "display_heb_name": "רבי שמעון בן לקיש",
+            "timePeriod": "Amoraim",
+            "display_en_name": "rabbi shimon ben lakish"
+        },
+        {
+            "key": "6ac748d78944908bc22a12dd",
+            "entityType": "Symbol",
+            "display_heb_name": "יצר טוב",
+            "symbolType": "Not Physical",
+            "display_en_name": "good inclination"
+        },
+        {
+            "key": "6ac748d88944908bc22a12de",
+            "entityType": "Symbol",
+            "display_heb_name": "יצר הרע",
+            "symbolType": "Not Physical",
+            "display_en_name": "evil inclination"
+        }
+    ],
+    "key": "BT_Berakhot_0_5a:2"
+}

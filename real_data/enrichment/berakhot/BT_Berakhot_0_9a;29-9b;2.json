@@ -1,0 +1,17 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac749678944908bc22a14f8",
+            "entityType": "Number",
+            "heb_unit": "שנה",
+            "contexts": [
+                {
+                    "en_context": "enslavement in foreign land",
+                    "heb_context": "שעבוד בארץ לא להם"
+                }
+            ],
+            "display_en_name": "400"
+        }
+    ],
+    "key": "BT_Berakhot_0_9a:29-9b:2"
+}

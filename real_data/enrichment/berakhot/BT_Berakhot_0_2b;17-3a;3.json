@@ -1,0 +1,16 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748a08944908bc22a11f8",
+            "entityType": "Person",
+            "display_heb_name": "רבי מאיר",
+            "timePeriod": "Tanaim",
+            "isGroup": false,
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "rabbi meir"
+        }
+    ],
+    "key": "BT_Berakhot_0_2b:17-3a:3"
+}

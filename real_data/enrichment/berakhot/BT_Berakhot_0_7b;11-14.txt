@@ -1,0 +1,169 @@
+﻿COST: Tokens: Total=9910 approx cost=$0.015995 (Prompt=3991, Completion=5919)
+SOURCE:
+Berakhot (Zeraim) 7b:11-14
+
+ENTITIES TO ENRICH (13):
+{"key":"6ac73970b9ad2bcc0401a0a4","display_en_name":"david","display_heb_name":"דוד","all_en_names":["David"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isNonJew":false,"isGroup":false,"roles":["Judge","King"]}
+{"key":"6ac73a18b9ad2bcc0401a2fd","display_en_name":"bathsheba","display_heb_name":"","all_en_names":["Bathsheba"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isGroup":false,"roles":[]}
+{"key":"6ac73a38b9ad2bcc0401a365","display_en_name":"absalom","display_heb_name":"","all_en_names":["Absalom"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isGroup":false,"roles":[]}
+{"key":"6ac748ab8944908bc22a1225","display_en_name":"natan","display_heb_name":"רבי נתן","all_en_names":["Natan"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","roles":["Tanna"]}
+{"key":"6ac748cc8944908bc22a12ac","display_en_name":"rabbi yohanan","display_heb_name":"רבי יוחנן","all_en_names":["Rabbi Yohanan"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748d98944908bc22a12e3","display_en_name":"god","display_heb_name":"הקדוש ברוך הוא","all_en_names":["God"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isNonJew":false,"isGroup":false,"roles":[]}
+{"key":"6ac7490a8944908bc22a13a8","display_en_name":"12","display_heb_name":"","all_en_names":["12"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Misc","en_unit":"chapter","heb_unit":"פרק","contexts":[{"en_context":"psalms reference","heb_context":"הפניה לתהילים","source_keys":["BT_Berakhot_0_6b:18-20"]},{"en_context":"samuel chapter","source_keys":["BT_Berakhot_0_7b:11-14"]},{"en_context":"exodus verse","source_keys":["BT_Berakhot_0_10b:6-10"]}]}
+{"key":"6ac749308944908bc22a142e","display_en_name":"rabbi shimon ben yohai","display_heb_name":"רבי שמעון בן יוחי","all_en_names":["Rabbi Shimon Ben Yohai"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","roles":["Tanna"]}
+{"key":"6ac749378944908bc22a1440","display_en_name":"gog","display_heb_name":"","all_en_names":["Gog"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749378944908bc22a1441","display_en_name":"magog","display_heb_name":"","all_en_names":["Magog"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749388944908bc22a1442","display_en_name":"rabbi shimon ben avishalom","display_heb_name":"","all_en_names":["Rabbi Shimon Ben Avishalom"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749388944908bc22a1443","display_en_name":"3","display_heb_name":"","all_en_names":["3"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Misc","en_unit":"chapter","contexts":[{"en_context":"psalm chapter","source_keys":["BT_Berakhot_0_7b:11-14"]},{"en_context":"psalm reference","source_keys":["BT_Berakhot_0_10a:8-11"]}]}
+{"key":"6ac749388944908bc22a1445","display_en_name":"2","display_heb_name":"","all_en_names":["2"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Misc","en_unit":"chapter","contexts":[{"en_context":"psalm chapter","source_keys":["BT_Berakhot_0_7b:11-14"]},{"en_context":"psalms chapters","source_keys":["BT_Berakhot_0_9b:25-10a:1"]},{"en_context":"psalm reference","source_keys":["BT_Berakhot_0_10a:8-11"]},{"en_context":"biblical citation","source_keys":["BT_Berakhot_0_12a:23-12b:1"]}]}
+
+PASSAGE:
+ENGLISH:
+And Rabbi Yohanan said other aggadic statements in the name of Rabbi Shimon ben Yohai: The existence of wayward children in a persons home is more troublesome than the war of Gog and Magog, the ultimate war, the climax of the travails of Messianic times. As it is stated: A Psalm of David, when he fled from his son, Absalom (Psalms 3:1). And it is written thereafter: Lord, how numerous are my enemies, many have risen against me (Psalms 3:2). While concerning the war of Gog and Magog, which is alluded to in the second chapter of Psalms, it is written: Why are the nations in an uproar? And why do the peoples speak for naught? The kings of the earth stand up and the rulers take counsel together, against the Lord, and against His anointed...He that sits in heaven laughs, the Lord mocks them (Psalms 2:1-4). Yet in this chapter describing the war of Gog and Magog how numerous are my enemies is not written, as it is not as difficult as raising a wayward son like Absalom.Regarding the opening phrase of the psalm, which serves as its title, the Gemara wonders: It is said: A Psalm of David, when fleeing his son, Absalom. A Psalm of David? It should have said: A lament of David. Rabbi Shimon ben Avishalom said a parable: To what is this similar? It is similar to a person about whom a promissory note was issued stating that he must repay a debt to the lender. Before he repaid it, he was despondent, worried how he will manage to repay the debt. After he repaid it, he was glad. So too was the case with David. When the Holy One, Blessed be He, told him, through Natan the prophet, after the incident with Bathsheba, Behold, I will raise up evil against you from your house (II Samuel 12:11), David was despondent. He said: Perhaps it will be a slave or a mamzer who will rise up in my house, a person of such lowly status, who will have no pity on me. But once David saw that Absalom was the one through whom the prophecy was to be fulfilled, he rejoiced, as he was certain that Absalom would show him mercy. That is why David said a psalm, not a lament, thanking God for punishing him in the least severe manner possible.
+
+HEBREW:
+ואמר רבי יוחנן משום רבי שמעון בן יוחי: קשה תרבות רעה בתוך ביתו של אדם יותר ממלחמת גוג ומגוג. שנאמר: ״מזמור לדוד בברחו מפני אבשלום בנו״, וכתיב בתריה: ״ה׳ מה רבו צרי רבים קמים עלי״, ואילו גבי מלחמת גוג ומגוג, כתיב: ״למה רגשו גוים ולאמים יהגו ריק״. ואילו ״מה רבו צרי״ לא כתיב.״מזמור לדוד בברחו מפני אבשלום בנו״, ״מזמור לדוד״?! ״קינה לדוד״ מיבעי ליה!אמר רבי שמעון בן אבישלום: משל למה הדבר דומה? — לאדם שיצא עליו שטר חוב. קודם שפרעו היה עצב, לאחר שפרעו שמח.אף כן דוד, כיון שאמר לו הקדוש ברוך הוא: ״הנני מקים עליך רעה מביתך״, היה עצב, אמר: שמא עבד או ממזר הוא, דלא חייס עלי. כיון דחזא דאבשלום הוא — שמח. משום הכי אמר ״מזמור״.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac73970b9ad2bcc0401a0a4",
+      "entityType": "Person",
+      "display_heb_name": "דוד",
+      "timePeriod": "Tanach",
+      "isNonJew": false,
+      "isGroup": false,
+      "roles": [
+        "King"
+      ]
+    },
+    {
+      "key": "6ac73a18b9ad2bcc0401a2fd",
+      "entityType": "Person",
+      "timePeriod": "Tanach",
+      "isWoman": true,
+      "isNonJew": false,
+      "isGroup": false
+    },
+    {
+      "key": "6ac73a38b9ad2bcc0401a365",
+      "entityType": "Person",
+      "display_heb_name": "אבשלום",
+      "timePeriod": "Tanach",
+      "isWoman": false,
+      "isNonJew": false,
+      "isGroup": false
+    },
+    {
+      "key": "6ac748ab8944908bc22a1225",
+      "entityType": "Person",
+      "timePeriod": "Tanach",
+      "isWoman": false,
+      "isNonJew": false,
+      "isGroup": false,
+      "roles": [
+        "Prophet"
+      ]
+    },
+    {
+      "key": "6ac748cc8944908bc22a12ac",
+      "entityType": "Person",
+      "display_heb_name": "רבי יוחנן",
+      "timePeriod": "Amoraim",
+      "isWoman": false,
+      "isNonJew": false,
+      "isGroup": false,
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748d98944908bc22a12e3",
+      "entityType": "Person",
+      "display_heb_name": "הקדוש ברוך הוא",
+      "timePeriod": "No Time Period",
+      "isNonJew": false,
+      "isGroup": false
+    },
+    {
+      "key": "6ac7490a8944908bc22a13a8",
+      "entityType": "Number",
+      "heb_unit": "פרק",
+      "contexts": [
+        {
+          "en_context": "samuel chapter",
+          "heb_context": "שמואל פרק"
+        }
+      ]
+    },
+    {
+      "key": "6ac749308944908bc22a142e",
+      "entityType": "Person",
+      "display_heb_name": "רבי שמעון בן יוחי",
+      "timePeriod": "Tanaim",
+      "isWoman": false,
+      "isNonJew": false,
+      "isGroup": false,
+      "roles": [
+        "Tanna"
+      ]
+    },
+    {
+      "key": "6ac749378944908bc22a1440",
+      "entityType": "Person",
+      "display_heb_name": "גוג",
+      "timePeriod": "No Time Period",
+      "isWoman": false,
+      "isNonJew": true,
+      "isGroup": false
+    },
+    {
+      "key": "6ac749378944908bc22a1441",
+      "entityType": "Person",
+      "display_heb_name": "מגוג",
+      "timePeriod": "No Time Period",
+      "isWoman": false,
+      "isNonJew": true,
+      "isGroup": false
+    },
+    {
+      "key": "6ac749388944908bc22a1442",
+      "entityType": "Person",
+      "display_heb_name": "רבי שמעון בן אבישלום",
+      "isWoman": false,
+      "isNonJew": false,
+      "isGroup": false
+    },
+    {
+      "key": "6ac749388944908bc22a1443",
+      "entityType": "Number",
+      "heb_unit": "פרק",
+      "contexts": [
+        {
+          "en_context": "psalm chapter",
+          "heb_context": "תהילים פרק"
+        }
+      ]
+    },
+    {
+      "key": "6ac749388944908bc22a1445",
+      "entityType": "Number",
+      "heb_unit": "פרק",
+      "contexts": [
+        {
+          "en_context": "psalm chapter",
+          "heb_context": "תהילים פרק"
+        },
+        {
+          "en_context": "psalms chapters",
+          "heb_context": "תהילים פרקים"
+        },
+        {
+          "en_context": "biblical citation",
+          "heb_context": "ציטוט מקראי"
+        }
+      ]
+    }
+  ]
+}

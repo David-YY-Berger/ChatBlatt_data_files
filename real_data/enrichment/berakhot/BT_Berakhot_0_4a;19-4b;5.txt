@@ -1,0 +1,41 @@
+﻿COST: Tokens: Total=4522 approx cost=$0.004712 (Prompt=2997, Completion=1525)
+SOURCE:
+Berakhot (Zeraim) 4a:19-4b:5
+
+ENTITIES TO ENRICH (3):
+{"key":"6ac7489a8944908bc22a11e0","display_en_name":"rabbis","display_heb_name":"חכמים","all_en_names":["Rabbis"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","isGroup":true,"roles":["Tanna"]}
+{"key":"6ac748c68944908bc22a1297","display_en_name":"gamliel","display_heb_name":"","all_en_names":["Gamliel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748c78944908bc22a1298","display_en_name":"2","display_heb_name":"","all_en_names":["2"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Misc","en_unit":"answer","contexts":[{"en_context":"gemara offers explanation","source_keys":["BT_Berakhot_0_4a:19-4b:5"]}]}
+
+PASSAGE:
+ENGLISH:
+And if they explain this verse in accordance with the opinion of Rabban Gamliel who says that when you lie down refers to the entire night, then let the Rabbis also say that one may recite the evening Shema until dawn, in accordance with the opinion of Rabban Gamliel. The Gemara answers: Actually, the Rabbis hold in accordance with the opinion of Rabban Gamliel, and the fact that they say until midnight is in order to distance a person from transgression. As it was taught in a baraita , the Rabbis created a fence for their pronouncements with regard to the recitation of Shema in order to prevent a situation where a person comes home from the field in the evening, tired from his days work, and knowing that he is permitted to recite Shema until dawn says to himself: I will go home, eat a little, drink a little, sleep a little and then I will recite Shema and recite the evening prayer. In the meantime, he is overcome by sleep and ends up sleeping all night. However, since one is concerned lest he fall asleep and fail to wake up before midnight in order to recite Shema at the appropriate time, he will come from the field in the evening, enter the synagogue, and until it is time to pray, he will immerse himself in Torah. If he is accustomed to reading the Bible, he reads. If he is accustomed to learning mishnayot , a more advanced level of study, he learns. And then he recites Shema and prays as he should. When he arrives home, he eats his meal with a contented heart and recites a blessing. The baraita concludes with a warning: Anyone who transgresses the pronouncements of the Sages is liable to receive the death penalty.This is a startling conclusion. What is different in all other places that it is not taught that one is liable to receive the death penalty and what is different here that it is taught that he is liable to receive the death penalty? There is no unique stringency apparent in the rabbinic restriction on the recitation of Shema .The Gemara offers two answers, explaining that the conclusion of the baraita essentially stems not from the magnitude of the transgression, but rather from concern that the fence created around this particular mitzva may be neglected. If you wish, say that one returning from work is quite anxious to go to sleep, and due to the risk that he will be overcome by sleep, he must be particularly vigilant in the recitation of Shema . And if you wish, say instead that strong language is employed here in order to exclude the opinion of he who says that although the morning prayer and the afternoon prayer are mandatory, the evening prayer is optional. Therefore, it teaches us that the evening prayer is mandatory, and anyone who transgresses the pronouncement of the Sages in this regard is liable to receive the death penalty.
+
+HEBREW:
+ואי כרבן גמליאל סבירא להו — לימרו כרבן גמליאל.לעולם כרבן גמליאל סבירא להו, והא דקא אמרי ״עד חצות״, כדי להרחיק את האדם מן העבירה. כדתניא, חכמים עשו סייג לדבריהם, כדי שלא יהא אדם בא מן השדה בערב, ואומר: ״אלך לביתי ואוכל קימעא ואשתה קימעא, ואישן קימעא, ואחר כך אקרא קריאת שמע ואתפלל״, וחוטפתו שינה ונמצא ישן כל הלילה. אבל אדם בא מן השדה בערב, נכנס לבית הכנסת, אם רגיל לקרות — קורא. ואם רגיל לשנות — שונה, וקורא קריאת שמע ומתפלל, ואוכל פתו ומברך.וכל העובר על דברי חכמים חייב מיתה.מאי שנא בכל דוכתא דלא קתני ״חייב מיתה״, ומאי שנא הכא דקתני ״חייב מיתה״?איבעית אימא משום דאיכא אונס שינה. ואיבעית אימא: לאפוקי ממאן דאמר ״תפלת ערבית רשות״, קא משמע לן דחובה.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748c68944908bc22a1297",
+      "entityType": "Person",
+      "display_heb_name": "רבן גמליאל",
+      "timePeriod": "Tanaim",
+      "roles": [
+        "Tanna"
+      ]
+    },
+    {
+      "key": "6ac748c78944908bc22a1298",
+      "entityType": "Number",
+      "heb_unit": "תשובה",
+      "contexts": [
+        {
+          "en_context": "gemara offers explanation",
+          "heb_context": "הגמרא מציעה הסבר"
+        }
+      ]
+    }
+  ]
+}

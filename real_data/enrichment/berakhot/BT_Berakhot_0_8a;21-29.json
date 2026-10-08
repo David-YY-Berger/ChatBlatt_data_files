@@ -1,0 +1,109 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748ab8944908bc22a1227",
+            "entityType": "Person",
+            "display_heb_name": "רבי אמי",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "ami"
+        },
+        {
+            "key": "6ac748ba8944908bc22a1262",
+            "entityType": "Person",
+            "display_heb_name": "שלמה",
+            "timePeriod": "Tanach",
+            "roles": [
+                "King"
+            ],
+            "display_en_name": "solomon"
+        },
+        {
+            "key": "6ac749088944908bc22a13a0",
+            "entityType": "Person",
+            "display_heb_name": "רב פפא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "pappa"
+        },
+        {
+            "key": "6ac749088944908bc22a13a2",
+            "entityType": "Person",
+            "display_heb_name": "רב ששת",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "sheshet"
+        },
+        {
+            "key": "6ac749118944908bc22a13c0",
+            "entityType": "Person",
+            "display_heb_name": "רבי אבהו",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "abbahu"
+        },
+        {
+            "key": "6ac7494d8944908bc22a1491",
+            "entityType": "Person",
+            "display_heb_name": "עולא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "ulla"
+        },
+        {
+            "key": "6ac749538944908bc22a14a9",
+            "entityType": "Person",
+            "display_heb_name": "רבי חייא בר אמי",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "hiyya bar ami"
+        },
+        {
+            "key": "6ac749538944908bc22a14aa",
+            "entityType": "Person",
+            "display_heb_name": "שמעי בן גרא",
+            "timePeriod": "Tanach",
+            "display_en_name": "shimi ben gera"
+        },
+        {
+            "key": "6ac749538944908bc22a14ab",
+            "entityType": "Person",
+            "display_heb_name": "רב הונא בר יהודה",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "huna bar yehuda"
+        },
+        {
+            "key": "6ac749538944908bc22a14ac",
+            "entityType": "Person",
+            "display_heb_name": "רבי מנחם",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "menahem"
+        },
+        {
+            "key": "6ac749548944908bc22a14ad",
+            "entityType": "Symbol",
+            "display_heb_name": "ספר תורה",
+            "symbolType": "Holy Object",
+            "display_en_name": "torah scroll"
+        }
+    ],
+    "key": "BT_Berakhot_0_8a:21-29"
+}

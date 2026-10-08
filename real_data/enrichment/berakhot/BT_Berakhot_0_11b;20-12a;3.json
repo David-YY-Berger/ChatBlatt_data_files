@@ -1,0 +1,107 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748d78944908bc22a12dc",
+            "entityType": "Person",
+            "display_heb_name": "רבי שמעון בן לקיש",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabbi shimon ben lakish"
+        },
+        {
+            "key": "6ac748dc8944908bc22a12ee",
+            "entityType": "Number",
+            "contexts": [
+                {
+                    "en_context": "shema recitation",
+                    "heb_context": "קריאת הדברות"
+                }
+            ],
+            "display_en_name": "10"
+        },
+        {
+            "key": "6ac7490c8944908bc22a13ae",
+            "entityType": "Person",
+            "display_heb_name": "רבי אמי",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabbi ami"
+        },
+        {
+            "key": "6ac749b48944908bc22a1601",
+            "entityType": "Person",
+            "display_heb_name": "הממונה",
+            "timePeriod": "Tanaim",
+            "roles": [
+                "Kohen"
+            ],
+            "display_en_name": "deputy high priest"
+        },
+        {
+            "key": "6ac749b48944908bc22a1602",
+            "entityType": "Person",
+            "display_heb_name": "משמר",
+            "timePeriod": "Tanaim",
+            "isGroup": true,
+            "roles": [
+                "Kohen"
+            ],
+            "display_en_name": "priestly watch"
+        },
+        {
+            "key": "6ac749b58944908bc22a1603",
+            "entityType": "Person",
+            "display_heb_name": "רבי יוסי בר אבא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabbi yosei bar abba"
+        },
+        {
+            "key": "6ac749b58944908bc22a1604",
+            "entityType": "Person",
+            "display_heb_name": "רב מתנה",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rav mattana"
+        },
+        {
+            "key": "6ac749b58944908bc22a1605",
+            "entityType": "Person",
+            "display_heb_name": "רבי זריקא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabbi zerika"
+        },
+        {
+            "key": "6ac749b68944908bc22a1606",
+            "entityType": "Person",
+            "display_heb_name": "רב יצחק בר יוסף",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rav yitzhak bar yosef"
+        },
+        {
+            "key": "6ac749b68944908bc22a1607",
+            "entityType": "Number",
+            "heb_unit": "ברכה",
+            "contexts": [
+                {
+                    "en_context": "priestly watch blessings",
+                    "heb_context": "ברכות העם"
+                }
+            ],
+            "display_en_name": "3"
+        }
+    ],
+    "key": "BT_Berakhot_0_11b:20-12a:3"
+}

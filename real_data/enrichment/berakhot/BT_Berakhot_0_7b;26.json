@@ -1,0 +1,31 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748a68944908bc22a1212",
+            "entityType": "Person",
+            "display_heb_name": "אליהו",
+            "display_en_name": "elijah"
+        },
+        {
+            "key": "6ac7493b8944908bc22a1450",
+            "entityType": "Person",
+            "display_heb_name": "רבי שמעון בן יוחי",
+            "display_en_name": "shimon ben yohai"
+        },
+        {
+            "key": "6ac7493e8944908bc22a145b",
+            "entityType": "Person",
+            "display_heb_name": "אלישע",
+            "timePeriod": "Tanach",
+            "display_en_name": "elisha"
+        },
+        {
+            "key": "6ac7493f8944908bc22a145c",
+            "entityType": "Person",
+            "display_heb_name": "שפט",
+            "timePeriod": "Tanach",
+            "display_en_name": "shafat"
+        }
+    ],
+    "key": "BT_Berakhot_0_7b:26"
+}

@@ -1,0 +1,88 @@
+﻿COST: Tokens: Total=5558 approx cost=$0.007416 (Prompt=2945, Completion=2613)
+SOURCE:
+Berakhot (Zeraim) 6b:9-10
+
+ENTITIES TO ENRICH (8):
+{"key":"6ac73959b9ad2bcc0401a041","display_en_name":"hosea","display_heb_name":"","all_en_names":["Hosea"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"book_references":["Hosea"],"timePeriod":"Tanach","isWoman":false,"isNonJew":false,"isGroup":false,"roles":[]}
+{"key":"6ac748ab8944908bc22a1228","display_en_name":"yehoshua ben levi","display_heb_name":"רבי יהושע בן לוי","all_en_names":["Yehoshua Ben Levi"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748b88944908bc22a125b","display_en_name":"yoshiyahu pinto","display_heb_name":"רבי יושיהו פינטו","all_en_names":["Yoshiyahu Pinto"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748d68944908bc22a12d6","display_en_name":"abaye","display_heb_name":"אביי","all_en_names":["Abaye"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":[]}
+{"key":"6ac748df8944908bc22a12fc","display_en_name":"zeira","display_heb_name":"רבי זירא","all_en_names":["Zeira"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748f68944908bc22a135b","display_en_name":"huna","display_heb_name":"רב הונא","all_en_names":["Huna"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac749068944908bc22a1399","display_en_name":"helbo","display_heb_name":"","all_en_names":["Helbo"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749068944908bc22a139a","display_en_name":"tanhum","display_heb_name":"","all_en_names":["Tanhum"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+
+PASSAGE:
+ENGLISH:
+Rabbi Helbo said that Rav Huna said: One who leaves the synagogue should not take large strides because it creates the impression that he is eager to leave. Abaye explained Rav Hunas statement and said: This halakha was only said with regard to leaving the synagogue, where large strides seem particularly disrespectful. However, with regard to entering a synagogue, it is a mitzva to run and one is permitted to rush and take large strides (Rabbi Yoshiyahu Pinto). As it is said: And let us know, eagerly strive to know the Lord (Hosea 6:3). One who eagerly enters a synagogue displays his enthusiasm to follow the path of God. Rabbi Zeira said: Initially, when I saw the Sages running to the Rabbis lecture on Shabbat, I said: These Sages are desecrating Shabbat. One is prohibited from running on Shabbat in deference to the sanctity of the day. Once I heard that which Rabbi Tanhum said that Rabbi Yehoshua ben Levi said: One should always run for a matter of halakha , even on Shabbat, as it is stated: They shall walk after the Lord, who will roar like a lion (Hosea 11:10). In other words, one should rush as though he were chased by a lion ( Birkat Hashem ), I too run.
+
+HEBREW:
+אמר רבי חלבו, אמר רב הונא: היוצא מבית הכנסת אל יפסיע פסיעה גסה. אמר אביי: לא אמרן, אלא למיפק. אבל למיעל — מצוה למרהט, שנאמר: ״נרדפה לדעת את ה׳״.אמר רבי זירא: מריש כי הוה חזינא להו לרבנן דקא רהטי לפרקא בשבתא, אמינא: ״קא מחליין רבנן שבתא״. כיון דשמענא להא דרבי תנחום אמר רבי יהושע בן לוי: לעולם ירוץ אדם לדבר הלכה ואפילו בשבת, שנאמר: ״אחרי ה׳ ילכו כאריה ישאג״ וגו׳, אנא נמי רהיטנא.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac73959b9ad2bcc0401a041",
+      "entityType": "Person",
+      "timePeriod": "Tanach",
+      "roles": [
+        "Prophet"
+      ]
+    },
+    {
+      "key": "6ac748ab8944908bc22a1228",
+      "entityType": "Person",
+      "display_heb_name": "רבי יהושע בן לוי",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748d68944908bc22a12d6",
+      "entityType": "Person",
+      "display_heb_name": "אביי",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748df8944908bc22a12fc",
+      "entityType": "Person",
+      "display_heb_name": "רבי זירא",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748f68944908bc22a135b",
+      "entityType": "Person",
+      "display_heb_name": "רב הונא",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac749068944908bc22a1399",
+      "entityType": "Person",
+      "display_heb_name": "רבי חלבו",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac749068944908bc22a139a",
+      "entityType": "Person",
+      "display_heb_name": "רבי תנחום",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    }
+  ]
+}

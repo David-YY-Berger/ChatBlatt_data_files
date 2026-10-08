@@ -1,0 +1,140 @@
+﻿COST: Tokens: Total=8220 approx cost=$0.011462 (Prompt=4131, Completion=4089)
+SOURCE:
+Berakhot (Zeraim) 5a:20-5b:9
+
+ENTITIES TO ENRICH (14):
+{"key":"6ac748988944908bc22a11d9","display_en_name":"babylonia","display_heb_name":"","all_en_names":["Babylonia"],"all_heb_names":[],"entityType":"Place","alias_keys":[],"placeType":"Country or Region"}
+{"key":"6ac748ba8944908bc22a1260","display_en_name":"yohanan","display_heb_name":"רבי יוחנן","all_en_names":["Yohanan"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748c08944908bc22a127b","display_en_name":"babylonia","display_heb_name":"","all_en_names":["Babylonia"],"all_heb_names":[],"entityType":"Nation","alias_keys":[]}
+{"key":"6ac748e78944908bc22a131d","display_en_name":"shimon bar yohai","display_heb_name":"","all_en_names":["Shimon Bar Yohai"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748e88944908bc22a131e","display_en_name":"eretz yisrael","display_heb_name":"","all_en_names":["Eretz Yisrael"],"all_heb_names":[],"entityType":"Nation","alias_keys":[]}
+{"key":"6ac748e88944908bc22a131f","display_en_name":"mercy","display_heb_name":"","all_en_names":["Mercy"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748e88944908bc22a1320","display_en_name":"truth","display_heb_name":"","all_en_names":["Truth"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748e88944908bc22a1321","display_en_name":"charity","display_heb_name":"","all_en_names":["Charity"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748e98944908bc22a1322","display_en_name":"iniquity","display_heb_name":"","all_en_names":["Iniquity"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748e98944908bc22a1323","display_en_name":"altar of atonement","display_heb_name":"","all_en_names":["Altar Of Atonement"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748e98944908bc22a1324","display_en_name":"leprosy","display_heb_name":"","all_en_names":["Leprosy"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748e98944908bc22a1325","display_en_name":"affliction of love","display_heb_name":"","all_en_names":["Affliction Of Love"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748ea8944908bc22a1326","display_en_name":"4","display_heb_name":"","all_en_names":["4"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Misc","en_unit":"sign","contexts":[{"en_context":"leprosy signs","source_keys":["BT_Berakhot_0_5a:20-5b:9"]}]}
+{"key":"6ac748ea8944908bc22a1327","display_en_name":"10","display_heb_name":"","all_en_names":["10"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"People","en_unit":"son","contexts":[{"en_context":"rabbi yohanan son","source_keys":["BT_Berakhot_0_5a:20-5b:9"]},{"en_context":"rabbi yohanan children","source_keys":["BT_Berakhot_0_5b:10-16"]}]}
+
+PASSAGE:
+ENGLISH:
+and buries his sons, all his transgressions are forgiven. Rabbi Yohanan said to him: What is your source for this? Granted, if one engages in Torah and acts of charity, his transgressions are forgiven, as it is written: With mercy and truth, iniquity is expiated (Proverbs 16:6); mercy refers to acts of charity, as it is stated: He who pursues charity and mercy finds life, charity and honor (Proverbs 21:21), mercy and charity are listed together. And truth refers to Torah, as it is stated: Buy truth and do not sell it; also wisdom, guidance and understanding (Proverbs 23:23). However, from where is it derived that the transgressions of one who buries his sons are also forgiven?An answer was provided to Rabbi Yohanan when a certain elder taught him in the name of Rabbi Shimon bar Yohai: This conclusion is derived from a verbal analogy between the words iniquity and iniquity. Here, it is written: With mercy and truth, iniquity is expiated, and there it is written: He repays the iniquity of the fathers onto the bosom of their children (Jeremiah 32:18). Because he repays the iniquity of the fathers onto the bosom of their children, the fathers transgressions are forgiven. Rabbi Yohanan said: Leprosy and suffering due to children are not afflictions of love. The Gemara asks: Is leprosy not an affliction of love? Didnt we learn in a baraita : If one has any of the four signs of leprosy (Leviticus 13) they are nothing other than an altar of atonement? The Gemara answers: Although the signs of leprosy are an altar of atonement for ones transgressions, they are not an affliction of love. And if you wish, say instead: This baraita , which says that leprosy is an affliction of love, is for us in Babylonia, because outside of Eretz Yisrael we are not as careful of the laws of ritual impurity, and one afflicted with leprosy may interact with others, mitigating his suffering. And that statement of Rabbi Yohanan, that leprosy is not an affliction of love, is for them in Eretz Yisrael, where they are exceedingly careful of the laws of ritual impurity and the suffering of a leper is great because he is banished from society (Rav Hai Gaon). And if you wish, say instead: This baraita , which says that leprosy is an affliction of love, refers to concealed leprosy that only strikes the concealed areas of ones body. But that statement of Rabbi Yohanan refers to visible leprosy that causes those who see it to distance themselves from the leper.The Gemara continues to object: And suffering due to children is not an affliction of love? The Gemara clarifies: What are the circumstances? If you say that he had children and they died, didnt Rabbi Yohanan himself say, while consoling the victim of a catastrophe: This is the bone of my tenth son? Rabbi Yohanan experienced the death of ten of his children, and he kept a small bone from his tenth child as a painful memorial. He would show that bone to others in order to console them, and since he showed it to them, the deaths of his children must certainly have been affliction of love. He consoled others by displaying that there is an element of intimacy with God that exists in that suffering ( Tosafot ). Why, then, would Rabbi Yohanan have said that suffering due to children is not afflictions of love? Rather, one must conclude that when Rabbi Yohanan said that those afflictions are not afflictions of love, he was speaking with regard to one who has no children, and when one had children who died, this could very well be considered afflictions of love.
+
+HEBREW:
+וקובר את בניו — מוחלין לו על כל עונותיו.אמר ליה רבי יוחנן: בשלמא תורה וגמילות חסדים, דכתיב: ״בחסד ואמת יכפר עון״. ״חסד״ — זו גמילות חסדים, שנאמר: ״רודף צדקה וחסד ימצא חיים צדקה וכבוד״. ״אמת״ — זו תורה, שנאמר: ״אמת קנה ואל תמכר״. אלא ״קובר את בניו״ מנין?תנא ליה ההוא סבא, משום רבי שמעון בן יוחאי: אתיא, ״עון״ ״עון״. כתיב הכא ״בחסד ואמת יכפר עון״, וכתיב התם ״ומשלם עון אבות אל חיק בניהם״.אמר רבי יוחנן: נגעים ובנים — אינן יסורין של אהבה.ונגעים לא? והתניא: כל מי שיש בו אחד מארבעה מראות נגעים הללו — אינן אלא מזבח כפרה!מזבח כפרה — הוו, יסורין של אהבה — לא הוו.ואי בעית אימא: הא — לן. והא — להו.ואי בעית אימא: הא — בצנעא, הא — בפרהסיא.ובנים לא?! היכי דמי, אילימא דהוו להו ומתו, והא אמר רבי יוחנן, דין גרמא דעשיראה ביר? אלא הא — דלא הוו ליה כלל. והא — דהוו ליה ומתו.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748988944908bc22a11d9",
+      "entityType": "Place",
+      "display_heb_name": "בבל",
+      "placeType": "Country or Region"
+    },
+    {
+      "key": "6ac748ba8944908bc22a1260",
+      "entityType": "Person",
+      "display_heb_name": "רבי יוחנן",
+      "timePeriod": "Amoraim",
+      "isWoman": false,
+      "isNonJew": false,
+      "isGroup": false,
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748c08944908bc22a127b",
+      "entityType": "Nation",
+      "display_heb_name": "בבל"
+    },
+    {
+      "key": "6ac748e78944908bc22a131d",
+      "entityType": "Person",
+      "display_heb_name": "רבי שמעון בן יוחאי",
+      "timePeriod": "Tanaim",
+      "isWoman": false,
+      "isNonJew": false,
+      "isGroup": false,
+      "roles": [
+        "Tanna"
+      ]
+    },
+    {
+      "key": "6ac748e88944908bc22a131e",
+      "entityType": "Nation",
+      "display_heb_name": "ארץ ישראל"
+    },
+    {
+      "key": "6ac748e88944908bc22a131f",
+      "entityType": "Symbol",
+      "display_heb_name": "חסד",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac748e88944908bc22a1320",
+      "entityType": "Symbol",
+      "display_heb_name": "אמת",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac748e88944908bc22a1321",
+      "entityType": "Symbol",
+      "display_heb_name": "צדקה",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac748e98944908bc22a1322",
+      "entityType": "Symbol",
+      "display_heb_name": "עון",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac748e98944908bc22a1323",
+      "entityType": "Symbol",
+      "display_heb_name": "מזבח כפרה",
+      "symbolType": "Holy Object"
+    },
+    {
+      "key": "6ac748e98944908bc22a1324",
+      "entityType": "Symbol",
+      "display_heb_name": "נגעים",
+      "symbolType": "Other"
+    },
+    {
+      "key": "6ac748e98944908bc22a1325",
+      "entityType": "Symbol",
+      "display_heb_name": "יסורין של אהבה",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac748ea8944908bc22a1326",
+      "entityType": "Number",
+      "heb_unit": "סימן",
+      "contexts": [
+        {
+          "en_context": "leprosy signs",
+          "heb_context": "מראות נגעים"
+        }
+      ]
+    },
+    {
+      "key": "6ac748ea8944908bc22a1327",
+      "entityType": "Number",
+      "heb_unit": "בן",
+      "contexts": [
+        {
+          "en_context": "rabbi yohanan son",
+          "heb_context": "בן רבי יוחנן"
+        },
+        {
+          "en_context": "rabbi yohanan children",
+          "heb_context": "בני רבי יוחנן"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+﻿COST: Tokens: Total=4028 approx cost=$0.003862 (Prompt=2822, Completion=1206)
+SOURCE:
+Berakhot (Zeraim) 3b:20-22
+
+ENTITIES TO ENRICH (7):
+{"key":"6ac73970b9ad2bcc0401a0a4","display_en_name":"david","display_heb_name":"דוד","all_en_names":["David"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isGroup":false,"roles":["King"]}
+{"key":"6ac748918944908bc22a11b8","display_en_name":"torah","display_heb_name":"","all_en_names":["Torah"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748af8944908bc22a1234","display_en_name":"rabbi oshaya","display_heb_name":"","all_en_names":["Rabbi Oshaya"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748af8944908bc22a1235","display_en_name":"rabbi aha","display_heb_name":"","all_en_names":["Rabbi Aha"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748af8944908bc22a1236","display_en_name":"rabbi zeira","display_heb_name":"","all_en_names":["Rabbi Zeira"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748b08944908bc22a1237","display_en_name":"rav ashi","display_heb_name":"","all_en_names":["Rav Ashi"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748b08944908bc22a1238","display_en_name":"horse","display_heb_name":"","all_en_names":["Horse"],"all_heb_names":[],"entityType":"Animal","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+Incidental to the Gemaras mention of King David, other sources are cited that describe his actions. Regarding that which was cited above, that he would rise in the middle of the night in order to serve his Creator, the Gemara asks: Did David rise at midnight? He rose in the evening. As it is written: I rose with the neshef and cried, I hoped for Your word (Psalms 119:147). And how do we know that this neshef is the evening? As it is written: In the neshef , in the evening of the day, in the blackness of night and the darkness (Proverbs 7:9). Apparently, King David did indeed rise when it was still evening.The Gemara suggests several ways to resolve this contradiction. Rabbi Oshaya said that Rabbi Aha said: David said as follows: Midnight never passed me by in my sleep. Sometimes I fulfilled the verse, I rose with the neshef and cried, but I always, at least, fulfilled the verse, At midnight I rise to give thanks for Your righteous laws. Rabbi Zeira said: Until midnight, David would doze like a horse, as a horse dozes, but never sleeps deeply. From midnight on, he would gain the strength of a lion. Rav Ashi said: Until midnight, he would study Torah, as it is written: I rose with the neshef and cried, I hoped for Your word, and from midnight on, he would engage in songs and praise, as it is written: At midnight I rise to give thanks.
+
+HEBREW:
+ודוד בפלגא דליליא הוה קאי? מאורתא הוה קאי! דכתיב: ״קדמתי בנשף ואשועה״, וממאי דהאי ״נשף״ אורתא הוא? — דכתיב: ״בנשף בערב יום באישון לילה ואפלה״!אמר רב אושעיא, אמר רבי אחא: הכי קאמר (דוד): מעולם לא עבר עלי חצות לילה בשינה.רבי זירא אמר: עד חצות לילה היה מתנמנם כסוס, מכאן ואילך היה מתגבר כארי. רב אשי אמר: עד חצות לילה היה עוסק בדברי תורה, מכאן ואילך בשירות ותשבחות.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac73970b9ad2bcc0401a0a4",
+      "entityType": "Person",
+      "isNonJew": false
+    },
+    {
+      "key": "6ac748918944908bc22a11b8",
+      "entityType": "Symbol",
+      "display_heb_name": "תורה",
+      "symbolType": "Holy Object"
+    },
+    {
+      "key": "6ac748af8944908bc22a1234",
+      "entityType": "Person",
+      "display_heb_name": "רב אושעיא",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748af8944908bc22a1235",
+      "entityType": "Person",
+      "display_heb_name": "רבי אחא",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748af8944908bc22a1236",
+      "entityType": "Person",
+      "display_heb_name": "רבי זירא",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748b08944908bc22a1237",
+      "entityType": "Person",
+      "display_heb_name": "רב אשי",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748b08944908bc22a1238",
+      "entityType": "Animal",
+      "display_heb_name": "סוס"
+    }
+  ]
+}

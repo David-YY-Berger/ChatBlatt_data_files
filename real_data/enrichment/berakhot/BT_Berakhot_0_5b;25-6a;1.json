@@ -1,0 +1,42 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748f38944908bc22a134d",
+            "entityType": "Person",
+            "isGroup": true,
+            "display_en_name": "talmidei rabbeinu yona"
+        },
+        {
+            "key": "6ac748f38944908bc22a134e",
+            "entityType": "Person",
+            "display_heb_name": "ישעיהו",
+            "timePeriod": "Tanach",
+            "roles": [
+                "Prophet"
+            ],
+            "display_en_name": "isaiah"
+        },
+        {
+            "key": "6ac748f48944908bc22a134f",
+            "entityType": "Symbol",
+            "display_heb_name": "נהר",
+            "symbolType": "Part of Nature",
+            "display_en_name": "river"
+        },
+        {
+            "key": "6ac748f48944908bc22a1350",
+            "entityType": "Symbol",
+            "display_heb_name": "גלי הים",
+            "symbolType": "Part of Nature",
+            "display_en_name": "waves of the sea"
+        },
+        {
+            "key": "6ac748f48944908bc22a1351",
+            "entityType": "Symbol",
+            "display_heb_name": "חול",
+            "symbolType": "Part of Nature",
+            "display_en_name": "sand"
+        }
+    ],
+    "key": "BT_Berakhot_0_5b:25-6a:1"
+}

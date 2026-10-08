@@ -1,0 +1,27 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748c68944908bc22a1297",
+            "entityType": "Person",
+            "display_heb_name": "רבן גמליאל",
+            "timePeriod": "Tanaim",
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "gamliel"
+        },
+        {
+            "key": "6ac748c78944908bc22a1298",
+            "entityType": "Number",
+            "heb_unit": "תשובה",
+            "contexts": [
+                {
+                    "en_context": "gemara offers explanation",
+                    "heb_context": "הגמרא מציעה הסבר"
+                }
+            ],
+            "display_en_name": "2"
+        }
+    ],
+    "key": "BT_Berakhot_0_4a:19-4b:5"
+}

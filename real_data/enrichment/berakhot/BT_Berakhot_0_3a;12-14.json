@@ -1,0 +1,75 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748a18944908bc22a11fd",
+            "entityType": "Person",
+            "timePeriod": "No Time Period",
+            "display_en_name": "holy one"
+        },
+        {
+            "key": "6ac748a68944908bc22a1211",
+            "entityType": "Person",
+            "display_heb_name": "רבי יוסי",
+            "timePeriod": "Tanaim",
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "yosei"
+        },
+        {
+            "key": "6ac748a68944908bc22a1212",
+            "entityType": "Person",
+            "display_heb_name": "אליהו",
+            "timePeriod": "Tanach",
+            "roles": [
+                "Prophet"
+            ],
+            "display_en_name": "elijah"
+        },
+        {
+            "key": "6ac748a68944908bc22a1213",
+            "entityType": "Person",
+            "display_heb_name": "ישראל",
+            "timePeriod": "No Time Period",
+            "isGroup": true,
+            "display_en_name": "israel"
+        },
+        {
+            "key": "6ac748a78944908bc22a1216",
+            "entityType": "Symbol",
+            "display_heb_name": "בת קול",
+            "symbolType": "Not Physical",
+            "display_en_name": "heavenly voice"
+        },
+        {
+            "key": "6ac748a88944908bc22a1217",
+            "entityType": "Symbol",
+            "display_heb_name": "קדיש",
+            "symbolType": "Not Physical",
+            "display_en_name": "kaddish prayer"
+        },
+        {
+            "key": "6ac748a88944908bc22a1218",
+            "entityType": "Number",
+            "heb_unit": "פעם",
+            "contexts": [
+                {
+                    "en_context": "voice cries out",
+                    "heb_context": "קול אומרת"
+                },
+                {
+                    "en_context": "daily recitation",
+                    "heb_context": "אמירה יומית"
+                }
+            ],
+            "display_en_name": "3"
+        },
+        {
+            "key": "6ac748a88944908bc22a1219",
+            "entityType": "Animal",
+            "display_heb_name": "יונה",
+            "display_en_name": "dove"
+        }
+    ],
+    "key": "BT_Berakhot_0_3a:12-14"
+}

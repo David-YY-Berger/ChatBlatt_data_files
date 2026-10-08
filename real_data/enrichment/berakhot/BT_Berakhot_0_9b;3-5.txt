@@ -1,0 +1,20 @@
+﻿COST: Tokens: Total=3813 approx cost=$0.004065 (Prompt=2485, Completion=1328)
+SOURCE:
+Berakhot (Zeraim) 9b:3-5
+
+ENTITIES TO ENRICH (3):
+{"key":"6ac748a68944908bc22a1213","display_en_name":"israel","display_heb_name":"ישראל","all_en_names":["Israel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isNonJew":false,"isGroup":true,"roles":[]}
+{"key":"6ac7490c8944908bc22a13ae","display_en_name":"rabbi ami","display_heb_name":"רבי אמי","all_en_names":["Rabbi Ami"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":[]}
+{"key":"6ac749438944908bc22a146a","display_en_name":"reish lakish","display_heb_name":"ריש לקיש","all_en_names":["Reish Lakish"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+
+PASSAGE:
+ENGLISH:
+With regard to the spoils taken from Egypt described in the verse: And the Lord gave the nation grace in the eyes of Egypt, and they gave them what they requested and they emptied Egypt (Exodus 12:36), Rabbi Ami said: This teaches that the Egyptians gave them what they requested against their will. There is a dispute with regard to the question: Against whose will? Some say it was given against the will of the Egyptians, and some say it was given against the will of Israel. The proponent of each position cites support for his opinion. The one who said that it was given against the will of the Egyptians cites the verse describing Israels exit from Egypt, as it is written: And she who tarries at home divides the spoils (Psalms 68:13). That which the woman in the verse requested from her counterpart was actually spoils taken against the will of an enemy. The one who said that it was given against the will of Israel, claims that they did not want the vessels because of the burden of carrying a heavy load on a long journey.With regard to the continuation of the verse: And they emptied Egypt, Rabbi Ami said: This indicates that they made Egypt like a trap in which there is no grain that serves as bait to attract birds. Reish Lakish said: They made Egypt like an abyss in the sea without fish.
+
+HEBREW:
+״וישאלום״, אמר רבי אמי: מלמד שהשאילום בעל כרחם. איכא דאמרי בעל כרחם דמצרים, ואיכא דאמרי בעל כרחם דישראל.מאן דאמר בעל כרחם דמצרים — דכתיב: ״ונות בית תחלק שלל״. מאן דאמר בעל כרחם דישראל — משום משוי.״וינצלו את מצרים״. אמר רבי אמי מלמד שעשאוה כמצודה שאין בה דגן, וריש לקיש אמר, עשאוה כמצולה שאין בה דגים.
+
+EXTRACTED (JSON):
+{
+  "entities": []
+}

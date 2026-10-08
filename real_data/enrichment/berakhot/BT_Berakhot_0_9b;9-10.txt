@@ -1,0 +1,35 @@
+﻿COST: Tokens: Total=3490 approx cost=$0.003192 (Prompt=2515, Completion=975)
+SOURCE:
+Berakhot (Zeraim) 9b:9-10
+
+ENTITIES TO ENRICH (3):
+{"key":"6ac7488f8944908bc22a11b1","display_en_name":"rabbi eliezer","display_heb_name":"רבי אליעזר","all_en_names":["Rabbi Eliezer"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","isNonJew":false,"isGroup":false,"roles":["Tanna"]}
+{"key":"6ac748bb8944908bc22a1267","display_en_name":"3","display_heb_name":"","all_en_names":["3"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Time","en_unit":"hour","heb_unit":"שעה","contexts":[{"en_context":"kings sleep","heb_context":"מלכי מזרח ומערב ישנים","source_keys":["BT_Berakhot_0_4a:8-13"]},{"en_context":"divine anger","heb_context":"כעס אלוהי","source_keys":["BT_Berakhot_0_7a:16-21"]},{"en_context":"kings rise","source_keys":["BT_Berakhot_0_9b:9-10"]},{"en_context":"shema recitation","source_keys":["BT_Berakhot_0_10b:31-36"]}]}
+{"key":"6ac749628944908bc22a14e4","display_en_name":"rabbi yehoshua","display_heb_name":"רבי יהושע","all_en_names":["Rabbi Yehoshua"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","isNonJew":false,"isGroup":false,"roles":["Tanna"]}
+
+PASSAGE:
+ENGLISH:
+MISHNA: From when does one recite Shema in the morning ? From when a person can distinguish between sky-blue [ tekhelet ] and white. Rabbi Eliezer says: From when one can distinguish between sky-blue and leek-green. And one must finish reciting Shema until the end of the period when you rise, i.e., sunrise, when the sun begins to shine. Rabbi Yehoshua says: One may recite the morning Shema until three hours of the day, which this is still considered when you rise, as that is the habit of kings to rise from their sleep at three hours of the day.While there is a set time frame for the recitation of Shema , one who recites Shema from that time onward loses nothing. Although he does not fulfill the mitzva of reciting of Shema at its appointed time, he is nevertheless considered like one who reads the Torah, and is rewarded accordingly.
+
+HEBREW:
+מתני׳ מאימתי קורין את שמע בשחרית? משיכיר בין תכלת ללבן. רבי אליעזר אומר: בין תכלת לכרתי. וגומרה, עד הנץ החמה, רבי יהושע אומר עד שלש שעות, שכן דרך מלכים לעמוד בשלש שעות.הקורא מכאן ואילך — לא הפסיד, כאדם הקורא בתורה.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748bb8944908bc22a1267",
+      "entityType": "Number",
+      "contexts": [
+        {
+          "en_context": "kings rise",
+          "heb_context": "מלכים לעמוד"
+        },
+        {
+          "en_context": "shema recitation",
+          "heb_context": "קורין את שמע"
+        }
+      ]
+    }
+  ]
+}

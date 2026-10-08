@@ -1,0 +1,95 @@
+﻿COST: Tokens: Total=8557 approx cost=$0.013213 (Prompt=3718, Completion=4839)
+SOURCE:
+Berakhot (Zeraim) 8a:5-8
+
+ENTITIES TO ENRICH (12):
+{"key":"6ac73960b9ad2bcc0401a05d","display_en_name":"judah","display_heb_name":"","all_en_names":["Judah"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"book_references":["Genesis","Numbers"],"timePeriod":"Tanach","isWoman":false,"isNonJew":false,"isGroup":false,"roles":[]}
+{"key":"6ac748a68944908bc22a1213","display_en_name":"israel","display_heb_name":"ישראל","all_en_names":["Israel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isNonJew":false,"isGroup":true,"roles":[]}
+{"key":"6ac748af8944908bc22a1235","display_en_name":"rabbi aha","display_heb_name":"רבי אחא","all_en_names":["Rabbi Aha"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748e28944908bc22a1307","display_en_name":"rav hisda","display_heb_name":"רב חסדא","all_en_names":["Rav Hisda"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748eb8944908bc22a132d","display_en_name":"rabbi hanina","display_heb_name":"רבי חנינא","all_en_names":["Rabbi Hanina"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748f08944908bc22a1340","display_en_name":"rabbi yehoshua ben levi","display_heb_name":"רבי יהושע בן לוי","all_en_names":["Rabbi Yehoshua Ben Levi"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac749438944908bc22a146a","display_en_name":"reish lakish","display_heb_name":"","all_en_names":["Reish Lakish"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749448944908bc22a146b","display_en_name":"judah","display_heb_name":"","all_en_names":["Judah"],"all_heb_names":[],"entityType":"Nation","alias_keys":[]}
+{"key":"6ac749448944908bc22a146c","display_en_name":"inheritance","display_heb_name":"","all_en_names":["Inheritance"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac749458944908bc22a146d","display_en_name":"door post","display_heb_name":"","all_en_names":["Door Post"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac749458944908bc22a146e","display_en_name":"synagogue","display_heb_name":"","all_en_names":["Synagogue"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac749458944908bc22a146f","display_en_name":"2","display_heb_name":"","all_en_names":["2"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Measurement","en_unit":"doorway","contexts":[{"en_context":"synagogue entry","source_keys":["BT_Berakhot_0_8a:5-8"]}]}
+
+PASSAGE:
+ENGLISH:
+Continuing to extol communal prayer, Reish Lakish said: One who has a synagogue nearby in his city but does not enter to pray there is called an evil neighbor, as it is stated: Thus said the Lord: As for all My evil neighbors who touch My inheritance which I have caused My people Israel to inherit, behold, I will pluck them up from off their land, and will pluck the house of Judah up from among them (Jeremiah 12:14). One who only touches, but does not enter the place of prayer, My inheritance, is considered an evil neighbor. And furthermore, he is punished in that he causes himself and his children to go into exile, as it is stated: Behold, I will pluck them up from off their land, and will pluck the house of Judah up from among them. The Gemara relates that when the Sages told Rabbi Yohanan that there are elders in Babylonia, he was confounded and said: It is written: So that your days will be lengthened and the days of your children upon the land the Lord swore to your forefathers to give to them like the days of heaven on the earth (Deuteronomy 11:21); lengthened in Eretz Yisrael but not outside of the Land. Why then, do the residents of Babylonia live long lives? When they told him that the people in Babylonia go early in the morning and go late in the evening to the synagogue, he said: That is what was effective for them in extending their lives. As Rabbi Yehoshua ben Levi said to his sons: Go early and go late and enter the synagogue, so that your lives will be extended. And Rabbi Aha, son of Rabbi Hanina, said: Upon what verse is this based? As it is stated: Happy is the man who listens to Me, watching daily at My gates, guarding at My door posts (Proverbs 8:34). And the reward for doing so is written thereafter: For whoso finds Me finds life and obtains the favor of the Lord (Proverbs 8:35).Based on this verse, Rav Hisda said: A person should always enter two doorways into the synagogue. This statement is unclear. Immediately, the Gemara asks: Does it enter your mind that Rav Hisda meant that one should enter two doorways literally? What if a synagogue only has a single doorway? Rather, emend his statement and say that Rav Hisda meant that one should enter a distance of two doorways into the synagogue and then pray. In entering a distance of two doorways, one fulfills the verse: Guarding at My door posts, in the plural.
+
+HEBREW:
+אמר ריש לקיש: כל מי שיש לו בית הכנסת בעירו, ואינו נכנס שם להתפלל, נקרא ״שכן רע״, שנאמר: ״כה אמר ה׳ על כל שכני הרעים הנגעים בנחלה אשר הנחלתי את עמי את ישראל״. ולא עוד אלא שגורם גלות לו ולבניו, שנאמר: ״הנני נתשם מעל אדמתם ואת בית יהודה אתוש מתוכם״.אמרו ליה לרבי יוחנן: איכא סבי בבבל. תמה ואמר: ״למען ירבו ימיכם וימי בניכם על האדמה״ כתיב, אבל בחוצה לארץ — לא? כיון דאמרי ליה מקדמי ומחשכי לבי כנישתא, אמר: היינו דאהני להו.דאמר רבי יהושע בן לוי לבניה: קדימו וחשיכו ועיילו לבי כנישתא, כי היכי דתורכו חיי. אמר רבי אחא ברבי חנינא: מאי קרא — ״אשרי אדם שמע לי לשקד על דלתתי יום יום לשמור מזוזת פתחי״, וכתיב בתריה: ״כי מצאי מצא חיים״.אמר רב חסדא: לעולם יכנס אדם שני פתחים בבית הכנסת. שני פתחים סלקא דעתך?! אלא אימא, שיעור שני פתחים, ואחר כך יתפלל.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748a68944908bc22a1213",
+      "entityType": "Person",
+      "display_heb_name": "ישראל",
+      "timePeriod": "Tanach"
+    },
+    {
+      "key": "6ac748af8944908bc22a1235",
+      "entityType": "Person",
+      "display_heb_name": "רבי אחא"
+    },
+    {
+      "key": "6ac748e28944908bc22a1307",
+      "entityType": "Person",
+      "display_heb_name": "רב חסדא"
+    },
+    {
+      "key": "6ac748eb8944908bc22a132d",
+      "entityType": "Person",
+      "display_heb_name": "רבי חנינא"
+    },
+    {
+      "key": "6ac748f08944908bc22a1340",
+      "entityType": "Person",
+      "display_heb_name": "רבי יהושע בן לוי"
+    },
+    {
+      "key": "6ac749438944908bc22a146a",
+      "entityType": "Person",
+      "display_heb_name": "ריש לקיש"
+    },
+    {
+      "key": "6ac749448944908bc22a146b",
+      "entityType": "Nation",
+      "display_heb_name": "בית יהודה"
+    },
+    {
+      "key": "6ac749448944908bc22a146c",
+      "entityType": "Symbol",
+      "display_heb_name": "נחלה",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac749458944908bc22a146d",
+      "entityType": "Symbol",
+      "display_heb_name": "מזוזה",
+      "symbolType": "Other"
+    },
+    {
+      "key": "6ac749458944908bc22a146e",
+      "entityType": "Symbol",
+      "display_heb_name": "בית הכנסת",
+      "symbolType": "Holy Object"
+    },
+    {
+      "key": "6ac749458944908bc22a146f",
+      "entityType": "Number",
+      "heb_unit": "פתח",
+      "contexts": [
+        {
+          "en_context": "synagogue entry",
+          "heb_context": "כניסה לבית הכנסת"
+        }
+      ]
+    }
+  ]
+}

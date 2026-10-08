@@ -1,0 +1,36 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac73970b9ad2bcc0401a0a4",
+            "entityType": "Person",
+            "display_heb_name": "דוד",
+            "timePeriod": "Tanach",
+            "isNonJew": false,
+            "isGroup": false,
+            "display_en_name": "david"
+        },
+        {
+            "key": "6ac748e28944908bc22a1306",
+            "entityType": "Person",
+            "display_heb_name": "רבא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rava"
+        },
+        {
+            "key": "6ac749588944908bc22a14be",
+            "entityType": "Number",
+            "heb_unit": "זמן",
+            "contexts": [
+                {
+                    "en_context": "neshef meanings",
+                    "heb_context": "משמעויות נשף"
+                }
+            ],
+            "display_en_name": "2"
+        }
+    ],
+    "key": "BT_Berakhot_0_3b:23-26"
+}

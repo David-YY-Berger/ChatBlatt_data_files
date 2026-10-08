@@ -1,0 +1,115 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748ba8944908bc22a1260",
+            "entityType": "Person",
+            "display_heb_name": "רבי יוחנן",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "yohanan"
+        },
+        {
+            "key": "6ac748d98944908bc22a12e2",
+            "entityType": "Person",
+            "display_heb_name": "רבי שמעון בן לקיש",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "shimon ben lakish"
+        },
+        {
+            "key": "6ac748d98944908bc22a12e3",
+            "entityType": "Person",
+            "display_heb_name": "אלהים",
+            "timePeriod": "No Time Period",
+            "isNonJew": false,
+            "isGroup": false,
+            "display_en_name": "god"
+        },
+        {
+            "key": "6ac748e48944908bc22a130f",
+            "entityType": "Person",
+            "display_heb_name": "רבי יעקב בר אידי",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "yaakov bar idi"
+        },
+        {
+            "key": "6ac748e48944908bc22a1310",
+            "entityType": "Person",
+            "display_heb_name": "רבי אחא בר חנינא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "aha bar hanina"
+        },
+        {
+            "key": "6ac748e48944908bc22a1311",
+            "entityType": "Person",
+            "display_heb_name": "רבי אבא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "abba"
+        },
+        {
+            "key": "6ac748e48944908bc22a1312",
+            "entityType": "Person",
+            "display_heb_name": "רבי חייא בר אבא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "hiyya bar abba"
+        },
+        {
+            "key": "6ac748e58944908bc22a1313",
+            "entityType": "Symbol",
+            "display_heb_name": "ברית",
+            "symbolType": "Not Physical",
+            "display_en_name": "covenant"
+        },
+        {
+            "key": "6ac748e58944908bc22a1314",
+            "entityType": "Symbol",
+            "display_heb_name": "מנחה",
+            "symbolType": "Holy Object",
+            "display_en_name": "meal-offering"
+        },
+        {
+            "key": "6ac748e58944908bc22a1315",
+            "entityType": "Symbol",
+            "display_heb_name": "קרבן",
+            "symbolType": "Holy Object",
+            "display_en_name": "sacrifice"
+        },
+        {
+            "key": "6ac748e68944908bc22a1316",
+            "entityType": "Symbol",
+            "display_heb_name": "שן",
+            "symbolType": "Body Part",
+            "display_en_name": "tooth"
+        },
+        {
+            "key": "6ac748e68944908bc22a1317",
+            "entityType": "Symbol",
+            "display_heb_name": "עין",
+            "symbolType": "Body Part",
+            "display_en_name": "eye"
+        },
+        {
+            "key": "6ac748e68944908bc22a1318",
+            "entityType": "Food",
+            "display_heb_name": "בשר",
+            "display_en_name": "meat"
+        }
+    ],
+    "key": "BT_Berakhot_0_5a:14-19"
+}

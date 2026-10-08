@@ -1,0 +1,58 @@
+﻿COST: Tokens: Total=3500 approx cost=$0.003254 (Prompt=2498, Completion=1002)
+SOURCE:
+Berakhot (Zeraim) 3b:17-19
+
+ENTITIES TO ENRICH (4):
+{"key":"6ac748ab8944908bc22a1226","display_en_name":"zerika","display_heb_name":"רבי זריקא","all_en_names":["Zerika"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748ab8944908bc22a1227","display_en_name":"ami","display_heb_name":"רבי אמי","all_en_names":["Ami"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748ab8944908bc22a1228","display_en_name":"yehoshua ben levi","display_heb_name":"רבי יהושע בן לוי","all_en_names":["Yehoshua Ben Levi"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748ae8944908bc22a1232","display_en_name":"abba bar kahana","display_heb_name":"","all_en_names":["Abba Bar Kahana"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+
+PASSAGE:
+ENGLISH:
+Following this discussion, another halakha that Rabbi Zerika said that Rabbi Ami said that Rabbi Yehoshua ben Levi said is cited: Before the dead, one may speak only of matters relating to the dead, as speaking of other matters appears to be contemptuous of the deceased, underscoring that he is unable to talk while those around him can. Therefore, one must remain fully engaged in matters relating to him.Two traditions exist with regard to the details of this halakha in the name of Rabbi Abba bar Kahana. According to one version, Rabbi Abba bar Kahana said: This halakha was only said with regard to matters of Torah. Speaking of other matters, however, is not prohibited, since no contempt is expressed for the deceased by the fact that he is unable to speak of such topics. Others say another version of this halakha in the name of Rabbi Abba bar Kahana: This halakha was said even with regard to matters of Torah, and all the more so with regard to other matters. If one must refrain from speaking of matters of Torah, regarding which one is commanded to speak, and limit himself to matters concerning the deceased, all the more so should he refrain from speaking of other matters, regarding which one is not commanded to speak.
+
+HEBREW:
+ואמר רבי זריקא, אמר רבי אמי, אמר רבי יהושע בן לוי: אין אומרין בפני המת אלא דבריו של מת.אמר רבי אבא בר כהנא: לא אמרן אלא בדברי תורה, אבל מילי דעלמא לית לן בה.ואיכא דאמרי: אמר רבי אבא בר כהנא לא אמרן אלא [אפילו] בדברי תורה וכל שכן מילי דעלמא.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748ab8944908bc22a1226",
+      "entityType": "Person",
+      "display_heb_name": "רבי זריקא",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748ab8944908bc22a1227",
+      "entityType": "Person",
+      "display_heb_name": "רבי אמי",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748ab8944908bc22a1228",
+      "entityType": "Person",
+      "display_heb_name": "רבי יהושע בן לוי",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748ae8944908bc22a1232",
+      "entityType": "Person",
+      "display_heb_name": "רבי אבא בר כהנא",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    }
+  ]
+}

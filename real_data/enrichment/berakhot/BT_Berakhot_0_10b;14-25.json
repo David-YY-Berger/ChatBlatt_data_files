@@ -1,0 +1,129 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac73953b9ad2bcc0401a028",
+            "entityType": "Person",
+            "display_heb_name": "רבי אליעזר בן יעקב",
+            "display_en_name": "eliezer"
+        },
+        {
+            "key": "6ac73977b9ad2bcc0401a0c1",
+            "entityType": "Person",
+            "display_heb_name": "שמואל הרמתי",
+            "roles": [
+                "Prophet"
+            ],
+            "display_en_name": "samuel"
+        },
+        {
+            "key": "6ac7489b8944908bc22a11e4",
+            "entityType": "Person",
+            "display_heb_name": "רבי חנינא",
+            "display_en_name": "hanina"
+        },
+        {
+            "key": "6ac748a28944908bc22a11ff",
+            "entityType": "Person",
+            "display_heb_name": "רב",
+            "display_en_name": "rav"
+        },
+        {
+            "key": "6ac748a68944908bc22a1211",
+            "entityType": "Person",
+            "display_heb_name": "רבי יוסי",
+            "display_en_name": "yosei"
+        },
+        {
+            "key": "6ac748b88944908bc22a125a",
+            "entityType": "Person",
+            "display_heb_name": "רבי יצחק",
+            "display_en_name": "yitzhak"
+        },
+        {
+            "key": "6ac748d68944908bc22a12d6",
+            "entityType": "Person",
+            "display_heb_name": "אביי",
+            "display_en_name": "abaye"
+        },
+        {
+            "key": "6ac7493e8944908bc22a145b",
+            "entityType": "Person",
+            "display_heb_name": "אלישע",
+            "display_en_name": "elisha"
+        },
+        {
+            "key": "6ac749888944908bc22a1567",
+            "entityType": "Place",
+            "display_heb_name": "שונם",
+            "placeType": "City",
+            "display_en_name": "shunem"
+        },
+        {
+            "key": "6ac7498f8944908bc22a1585",
+            "entityType": "Person",
+            "display_heb_name": "שמואל",
+            "display_en_name": "shmuel"
+        },
+        {
+            "key": "6ac749998944908bc22a159e",
+            "entityType": "Person",
+            "display_heb_name": "יעקב",
+            "display_en_name": "yaakov"
+        },
+        {
+            "key": "6ac749998944908bc22a159f",
+            "entityType": "Person",
+            "display_heb_name": "גיחזי",
+            "timePeriod": "Tanach",
+            "display_en_name": "geihazi"
+        },
+        {
+            "key": "6ac7499a8944908bc22a15a0",
+            "entityType": "Place",
+            "display_heb_name": "רמה",
+            "placeType": "City"
+        },
+        {
+            "key": "6ac7499a8944908bc22a15a1",
+            "entityType": "Symbol",
+            "display_heb_name": "מטה",
+            "symbolType": "Other",
+            "display_en_name": "bed"
+        },
+        {
+            "key": "6ac7499a8944908bc22a15a2",
+            "entityType": "Symbol",
+            "display_heb_name": "שלחן",
+            "symbolType": "Other",
+            "display_en_name": "table"
+        },
+        {
+            "key": "6ac7499a8944908bc22a15a3",
+            "entityType": "Symbol",
+            "display_heb_name": "כסא",
+            "symbolType": "Other",
+            "display_en_name": "stool"
+        },
+        {
+            "key": "6ac7499a8944908bc22a15a4",
+            "entityType": "Symbol",
+            "display_heb_name": "מנורה",
+            "symbolType": "Other",
+            "display_en_name": "candlestick"
+        },
+        {
+            "key": "6ac7499b8944908bc22a15a5",
+            "entityType": "Symbol",
+            "display_heb_name": "תמידין",
+            "symbolType": "Holy Object",
+            "display_en_name": "daily offering"
+        },
+        {
+            "key": "6ac7499b8944908bc22a15a6",
+            "entityType": "Animal",
+            "display_heb_name": "זבוב",
+            "display_en_name": "fly"
+        }
+    ],
+    "key": "BT_Berakhot_0_10b:14-25"
+}

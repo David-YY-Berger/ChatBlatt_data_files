@@ -1,0 +1,168 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac73970b9ad2bcc0401a0a4",
+            "entityType": "Person",
+            "display_heb_name": "דוד",
+            "timePeriod": "Tanach",
+            "isNonJew": false,
+            "isGroup": false,
+            "roles": [
+                "King"
+            ],
+            "display_en_name": "david"
+        },
+        {
+            "key": "6ac739b8b9ad2bcc0401a1b1",
+            "entityType": "Place",
+            "placeType": "Country or Region",
+            "display_en_name": "canaan"
+        },
+        {
+            "key": "6ac739bbb9ad2bcc0401a1bb",
+            "entityType": "Person",
+            "timePeriod": "Tanach",
+            "isGroup": false,
+            "display_en_name": "esau"
+        },
+        {
+            "key": "6ac739c3b9ad2bcc0401a1da",
+            "entityType": "Person",
+            "display_heb_name": "יעקב",
+            "timePeriod": "Tanach",
+            "isNonJew": false,
+            "isGroup": false,
+            "display_en_name": "jacob"
+        },
+        {
+            "key": "6ac748988944908bc22a11d8",
+            "entityType": "Place",
+            "placeType": "Country or Region",
+            "display_en_name": "eretz yisrael"
+        },
+        {
+            "key": "6ac748a68944908bc22a1213",
+            "entityType": "Person",
+            "display_heb_name": "ישראל",
+            "timePeriod": "Tanach",
+            "isGroup": true,
+            "display_en_name": "israel"
+        },
+        {
+            "key": "6ac748b48944908bc22a1248",
+            "entityType": "Person",
+            "display_heb_name": "הקדוש ברוך הוא",
+            "timePeriod": "No Time Period",
+            "display_en_name": "holy one, blessed be he"
+        },
+        {
+            "key": "6ac748be8944908bc22a1275",
+            "entityType": "Person",
+            "display_heb_name": "רבי יוסי",
+            "timePeriod": "Tanaim",
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "rabbi yosei"
+        },
+        {
+            "key": "6ac748bf8944908bc22a1276",
+            "entityType": "Person",
+            "display_heb_name": "יהושע",
+            "timePeriod": "Tanach",
+            "display_en_name": "joshua"
+        },
+        {
+            "key": "6ac748bf8944908bc22a1277",
+            "entityType": "Person",
+            "display_heb_name": "עזרא",
+            "timePeriod": "No Time Period",
+            "display_en_name": "ezra"
+        },
+        {
+            "key": "6ac748bf8944908bc22a1278",
+            "entityType": "Person",
+            "display_heb_name": "יהושע בן נון",
+            "timePeriod": "Tanach",
+            "display_en_name": "joshua bin nun"
+        },
+        {
+            "key": "6ac748c08944908bc22a1279",
+            "entityType": "Place",
+            "display_heb_name": "ארץ חיים",
+            "placeType": "Not Physical",
+            "display_en_name": "land of the living"
+        },
+        {
+            "key": "6ac748c08944908bc22a127a",
+            "entityType": "Place",
+            "display_heb_name": "לעתיד לבוא",
+            "placeType": "Not Physical",
+            "display_en_name": "world-to-come"
+        },
+        {
+            "key": "6ac748c18944908bc22a127c",
+            "entityType": "Symbol",
+            "display_heb_name": "טוב ה׳",
+            "symbolType": "Not Physical",
+            "display_en_name": "goodness of the lord"
+        },
+        {
+            "key": "6ac748c18944908bc22a127f",
+            "entityType": "Number",
+            "heb_unit": "פרק",
+            "contexts": [
+                {
+                    "en_context": "psalms reference",
+                    "heb_context": "הפניה לתהילים"
+                }
+            ],
+            "display_en_name": "27"
+        },
+        {
+            "key": "6ac748c28944908bc22a1281",
+            "entityType": "Number",
+            "heb_unit": "פרק",
+            "contexts": [
+                {
+                    "en_context": "avot reference",
+                    "heb_context": "הפניה לאבות"
+                }
+            ],
+            "display_en_name": "34"
+        },
+        {
+            "key": "6ac748c28944908bc22a1282",
+            "entityType": "Number",
+            "heb_unit": "פרק",
+            "contexts": [
+                {
+                    "en_context": "genesis reference",
+                    "heb_context": "הפניה לבראשית"
+                },
+                {
+                    "en_context": "chronicles verse",
+                    "heb_context": "פסוק בדברי הימים"
+                }
+            ],
+            "display_en_name": "28"
+        },
+        {
+            "key": "6ac748c28944908bc22a1284",
+            "entityType": "Number",
+            "heb_unit": "פרק",
+            "contexts": [
+                {
+                    "en_context": "genesis reference",
+                    "heb_context": "הפניה לבראשית"
+                },
+                {
+                    "en_context": "chronicles verse",
+                    "heb_context": "פסוק בדברי הימים"
+                }
+            ],
+            "display_en_name": "32"
+        }
+    ],
+    "key": "BT_Berakhot_0_4a:14-18"
+}

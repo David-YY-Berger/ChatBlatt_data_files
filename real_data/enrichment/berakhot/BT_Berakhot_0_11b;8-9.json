@@ -1,0 +1,62 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac7489a8944908bc22a11e0",
+            "entityType": "Person",
+            "display_heb_name": "רבנן",
+            "isGroup": true,
+            "display_en_name": "rabbis"
+        },
+        {
+            "key": "6ac748cc8944908bc22a12ad",
+            "entityType": "Person",
+            "display_heb_name": "רבי אלעזר",
+            "display_en_name": "rabbi elazar"
+        },
+        {
+            "key": "6ac748ed8944908bc22a1335",
+            "entityType": "Person",
+            "display_heb_name": "רב יהודה",
+            "display_en_name": "rav yehuda"
+        },
+        {
+            "key": "6ac7498f8944908bc22a1585",
+            "entityType": "Person",
+            "display_heb_name": "שמואל",
+            "display_en_name": "shmuel"
+        },
+        {
+            "key": "6ac749ad8944908bc22a15e5",
+            "entityType": "Person",
+            "display_heb_name": "רבי פדת",
+            "display_en_name": "rabbi pedat"
+        },
+        {
+            "key": "6ac749ad8944908bc22a15e6",
+            "entityType": "Symbol",
+            "display_heb_name": "אהבה רבה",
+            "symbolType": "Not Physical",
+            "display_en_name": "abounding love"
+        },
+        {
+            "key": "6ac749ad8944908bc22a15e7",
+            "entityType": "Symbol",
+            "display_heb_name": "אהבת עולם",
+            "symbolType": "Not Physical",
+            "display_en_name": "eternal love"
+        },
+        {
+            "key": "6ac749ae8944908bc22a15e8",
+            "entityType": "Number",
+            "heb_unit": "פרק",
+            "contexts": [
+                {
+                    "en_context": "jeremiah book reference",
+                    "heb_context": "הפניה לספר ירמיהו"
+                }
+            ],
+            "display_en_name": "31"
+        }
+    ],
+    "key": "BT_Berakhot_0_11b:8-9"
+}

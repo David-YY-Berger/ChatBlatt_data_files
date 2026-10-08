@@ -1,0 +1,26 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac73970b9ad2bcc0401a0a4",
+            "entityType": "Person",
+            "display_heb_name": "דוד",
+            "timePeriod": "Tanach",
+            "isNonJew": false,
+            "isGroup": false,
+            "display_en_name": "david"
+        },
+        {
+            "key": "6ac749388944908bc22a1445",
+            "entityType": "Number",
+            "heb_unit": "פרק",
+            "contexts": [
+                {
+                    "en_context": "psalm reference",
+                    "heb_context": "אסמכתא למזמור"
+                }
+            ],
+            "display_en_name": "2"
+        }
+    ],
+    "key": "BT_Berakhot_0_9b:25-10a:1"
+}

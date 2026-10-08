@@ -1,0 +1,43 @@
+﻿COST: Tokens: Total=3443 approx cost=$0.003209 (Prompt=2454, Completion=989)
+SOURCE:
+Berakhot (Zeraim) 7b:23-25
+
+ENTITIES TO ENRICH (4):
+{"key":"6ac748a68944908bc22a1213","display_en_name":"israel","display_heb_name":"ישראל","all_en_names":["Israel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isNonJew":false,"isGroup":true,"roles":[]}
+{"key":"6ac748f68944908bc22a135b","display_en_name":"huna","display_heb_name":"רב הונא","all_en_names":["Huna"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac7493b8944908bc22a1450","display_en_name":"shimon ben yohai","display_heb_name":"רבי שמעון בן יוחי","all_en_names":["Shimon Ben Yohai"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","roles":["Tanna"]}
+{"key":"6ac7493d8944908bc22a1457","display_en_name":"israel","display_heb_name":"","all_en_names":["Israel"],"all_heb_names":[],"entityType":"Place","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+And Rabbi Yohanan said in the name of Rabbi Shimon ben Yohai: Setting a fixed place for prayer is so important that one who sets a fixed place for his prayer, his enemies fall beneath him, as it is said: And I will appoint a place for My nation, Israel, and I will plant them, that they may dwell in their own place. Through setting aside a place for prayer, they will merit to be disturbed no more; neither shall the children of wickedness afflict them anymore, as in the beginning (II Samuel 7:10).This verse, cited by the Gemara, leads to an additional point. Rav Huna raised a contradiction: In the book of Samuel, in this verse it is written : To afflict them, while in the parallel verse in I Chronicles (17:9) it is written : To destroy them. The Gemara resolves this contradiction: The enemies of Israel intend first to afflict them, and, ultimately, to destroy them entirely.
+
+HEBREW:
+ואמר רבי יוחנן משום רבי שמעון בן יוחי: כל הקובע מקום לתפלתו אויביו נופלים תחתיו. שנאמר: ״ושמתי מקום לעמי לישראל ונטעתיו ושכן תחתיו ולא ירגז עוד ולא יסיפו בני עולה לענותו כאשר בראשונה״.רב הונא רמי כתיב ״לענותו״, וכתיב: ״לכלותו״.בתחילה — לענותו, ולבסוף — לכלותו.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748a68944908bc22a1213",
+      "entityType": "Person",
+      "display_heb_name": "ישראל"
+    },
+    {
+      "key": "6ac748f68944908bc22a135b",
+      "entityType": "Person",
+      "display_heb_name": "רב הונא"
+    },
+    {
+      "key": "6ac7493b8944908bc22a1450",
+      "entityType": "Person",
+      "display_heb_name": "רבי שמעון בן יוחי"
+    },
+    {
+      "key": "6ac7493d8944908bc22a1457",
+      "entityType": "Place",
+      "display_heb_name": "ישראל",
+      "placeType": "Country or Region"
+    }
+  ]
+}

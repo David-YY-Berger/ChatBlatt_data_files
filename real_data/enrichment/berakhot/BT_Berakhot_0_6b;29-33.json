@@ -1,0 +1,73 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac73992b9ad2bcc0401a125",
+            "entityType": "Person",
+            "roles": [
+                "Prophet"
+            ],
+            "display_en_name": "moses"
+        },
+        {
+            "key": "6ac749118944908bc22a13c0",
+            "entityType": "Person",
+            "display_heb_name": "רבי אבהו",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "abbahu"
+        },
+        {
+            "key": "6ac749128944908bc22a13c1",
+            "entityType": "Symbol",
+            "display_heb_name": "שופר",
+            "symbolType": "Holy Object",
+            "display_en_name": "shofar"
+        },
+        {
+            "key": "6ac749128944908bc22a13c2",
+            "entityType": "Symbol",
+            "display_heb_name": "תודה",
+            "symbolType": "Holy Object",
+            "display_en_name": "thanks-offering"
+        },
+        {
+            "key": "6ac749138944908bc22a13c3",
+            "entityType": "Number",
+            "heb_unit": "קול",
+            "contexts": [
+                {
+                    "en_context": "groom feast voices",
+                    "heb_context": "קולות סעודת חתן"
+                }
+            ],
+            "display_en_name": "5"
+        },
+        {
+            "key": "6ac749138944908bc22a13c4",
+            "entityType": "Number",
+            "heb_unit": "קול",
+            "contexts": [
+                {
+                    "en_context": "sinai revelation sounds",
+                    "heb_context": "קולות התגלות סיני"
+                }
+            ],
+            "display_en_name": "2"
+        },
+        {
+            "key": "6ac749138944908bc22a13c6",
+            "entityType": "Number",
+            "heb_unit": "קול",
+            "contexts": [
+                {
+                    "en_context": "sinai previous voices",
+                    "heb_context": "קולות סיני קודמים"
+                }
+            ],
+            "display_en_name": "3"
+        }
+    ],
+    "key": "BT_Berakhot_0_6b:29-33"
+}

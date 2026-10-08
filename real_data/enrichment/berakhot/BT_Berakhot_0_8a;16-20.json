@@ -1,0 +1,80 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac7494d8944908bc22a148f",
+            "entityType": "Person",
+            "display_heb_name": "רפרם בר פפא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rafram bar pappa"
+        },
+        {
+            "key": "6ac7494d8944908bc22a1490",
+            "entityType": "Person",
+            "display_heb_name": "רבי חייא בר אמי",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabbi hiyya bar ami"
+        },
+        {
+            "key": "6ac7494d8944908bc22a1491",
+            "entityType": "Person",
+            "display_heb_name": "עולא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "ulla"
+        },
+        {
+            "key": "6ac7494e8944908bc22a1492",
+            "entityType": "Place",
+            "display_heb_name": "ציון",
+            "placeType": "City",
+            "display_en_name": "zion"
+        },
+        {
+            "key": "6ac7494e8944908bc22a1493",
+            "entityType": "Place",
+            "display_heb_name": "טבריא",
+            "placeType": "City",
+            "display_en_name": "tiberias"
+        },
+        {
+            "key": "6ac7494e8944908bc22a1494",
+            "entityType": "Place",
+            "display_heb_name": "בית מדרש",
+            "placeType": "Building or Structure",
+            "display_en_name": "study hall"
+        },
+        {
+            "key": "6ac7494e8944908bc22a1495",
+            "entityType": "Number",
+            "heb_unit": "אמה",
+            "contexts": [
+                {
+                    "en_context": "halakha study area",
+                    "heb_context": "אמות של הלכה"
+                }
+            ],
+            "display_en_name": "4"
+        },
+        {
+            "key": "6ac7494f8944908bc22a1496",
+            "entityType": "Number",
+            "heb_unit": "בית כנסת",
+            "contexts": [
+                {
+                    "en_context": "synagogues in tiberias",
+                    "heb_context": "בי כנישתא בטבריא"
+                }
+            ],
+            "display_en_name": "13"
+        }
+    ],
+    "key": "BT_Berakhot_0_8a:16-20"
+}

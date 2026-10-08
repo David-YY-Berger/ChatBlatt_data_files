@@ -1,0 +1,39 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac749758944908bc22a1529",
+            "entityType": "Person",
+            "display_heb_name": "שמעון בן פזי",
+            "display_en_name": "shimon ben pazi"
+        },
+        {
+            "key": "6ac749768944908bc22a152a",
+            "entityType": "Person",
+            "display_heb_name": "ברוריא",
+            "timePeriod": "Tanaim",
+            "isWoman": true,
+            "isNonJew": false,
+            "isGroup": false,
+            "display_en_name": "berurya"
+        },
+        {
+            "key": "6ac749768944908bc22a152b",
+            "entityType": "Person",
+            "display_heb_name": "מינא",
+            "timePeriod": "Tanaim",
+            "isNonJew": true,
+            "isGroup": false,
+            "display_en_name": "heretic"
+        },
+        {
+            "key": "6ac749768944908bc22a152c",
+            "entityType": "Person",
+            "display_heb_name": "כנסת ישראל",
+            "timePeriod": "No Time Period",
+            "isNonJew": false,
+            "isGroup": true,
+            "display_en_name": "congregation of israel"
+        }
+    ],
+    "key": "BT_Berakhot_0_10a:2-7"
+}

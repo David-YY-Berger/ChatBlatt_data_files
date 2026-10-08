@@ -1,0 +1,81 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748d98944908bc22a12e3",
+            "entityType": "Person",
+            "display_heb_name": "קודשא בריך הוא",
+            "display_en_name": "god"
+        },
+        {
+            "key": "6ac748e28944908bc22a1309",
+            "entityType": "Person",
+            "display_heb_name": "רב הונא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rav huna"
+        },
+        {
+            "key": "6ac748ed8944908bc22a1335",
+            "entityType": "Person",
+            "display_heb_name": "רב יהודה",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rav yehuda"
+        },
+        {
+            "key": "6ac748ed8944908bc22a1336",
+            "entityType": "Person",
+            "display_heb_name": "רב סלא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rav sala"
+        },
+        {
+            "key": "6ac748ee8944908bc22a1337",
+            "entityType": "Person",
+            "display_heb_name": "רב אדא בר אהבה",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "adda bar ahava"
+        },
+        {
+            "key": "6ac748ee8944908bc22a1338",
+            "entityType": "Number",
+            "heb_unit": "דן",
+            "contexts": [
+                {
+                    "en_context": "rav huna's wine",
+                    "heb_context": "חמרא דרב הונא"
+                }
+            ],
+            "display_en_name": "400"
+        },
+        {
+            "key": "6ac748ee8944908bc22a1339",
+            "entityType": "Food",
+            "display_heb_name": "חמרא",
+            "display_en_name": "wine"
+        },
+        {
+            "key": "6ac748ee8944908bc22a133a",
+            "entityType": "Food",
+            "display_heb_name": "חלא",
+            "display_en_name": "vinegar"
+        },
+        {
+            "key": "6ac748ef8944908bc22a133b",
+            "entityType": "Plant",
+            "display_heb_name": "גפן",
+            "display_en_name": "grapevine"
+        }
+    ],
+    "key": "BT_Berakhot_0_5b:17-20"
+}

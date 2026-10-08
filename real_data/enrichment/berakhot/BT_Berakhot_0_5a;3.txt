@@ -1,0 +1,158 @@
+﻿COST: Tokens: Total=6811 approx cost=$0.009354 (Prompt=3488, Completion=3323)
+SOURCE:
+Berakhot (Zeraim) 5a:3
+
+ENTITIES TO ENRICH (17):
+{"key":"6ac73992b9ad2bcc0401a125","display_en_name":"moses","display_heb_name":"משה","all_en_names":["Moses"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isNonJew":false,"isGroup":false,"roles":["Prophet"]}
+{"key":"6ac748918944908bc22a11b9","display_en_name":"mishna","display_heb_name":"","all_en_names":["Mishna"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[],"symbolType":"Not Physical"}
+{"key":"6ac748948944908bc22a11c5","display_en_name":"talmud","display_heb_name":"","all_en_names":["Talmud"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[],"symbolType":"Not Physical"}
+{"key":"6ac748d88944908bc22a12e1","display_en_name":"levi bar hama","display_heb_name":"","all_en_names":["Levi Bar Hama"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748d98944908bc22a12e2","display_en_name":"shimon ben lakish","display_heb_name":"","all_en_names":["Shimon Ben Lakish"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748d98944908bc22a12e3","display_en_name":"god","display_heb_name":"","all_en_names":["God"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748d98944908bc22a12e4","display_en_name":"sinai","display_heb_name":"","all_en_names":["Sinai"],"all_heb_names":[],"entityType":"Place","alias_keys":[]}
+{"key":"6ac748d98944908bc22a12e5","display_en_name":"stone tablets","display_heb_name":"","all_en_names":["Stone Tablets"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748da8944908bc22a12e6","display_en_name":"mitzva","display_heb_name":"","all_en_names":["Mitzva"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748da8944908bc22a12e7","display_en_name":"ten commandments","display_heb_name":"","all_en_names":["Ten Commandments"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748da8944908bc22a12e8","display_en_name":"tablets of the covenant","display_heb_name":"","all_en_names":["Tablets Of The Covenant"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748db8944908bc22a12e9","display_en_name":"prophets","display_heb_name":"","all_en_names":["Prophets"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748db8944908bc22a12ea","display_en_name":"writings","display_heb_name":"","all_en_names":["Writings"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748db8944908bc22a12eb","display_en_name":"halakha","display_heb_name":"","all_en_names":["Halakha"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748db8944908bc22a12ec","display_en_name":"24","display_heb_name":"","all_en_names":["24"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Misc","en_unit":"chapter","contexts":[{"en_context":"exodus chapter","source_keys":["BT_Berakhot_0_5a:3"]}]}
+{"key":"6ac748dc8944908bc22a12ee","display_en_name":"10","display_heb_name":"","all_en_names":["10"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Obligation","en_unit":"commandment","contexts":[{"en_context":"number of commandments","source_keys":["BT_Berakhot_0_5a:3"]},{"en_context":"shema recitation","source_keys":["BT_Berakhot_0_11b:20-12a:3"]}]}
+{"key":"6ac748dc8944908bc22a12ef","display_en_name":"5","display_heb_name":"","all_en_names":["5"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Misc","en_unit":"book","contexts":[{"en_context":"books of moses","source_keys":["BT_Berakhot_0_5a:3"]}]}
+
+PASSAGE:
+ENGLISH:
+And Rabbi Levi bar Hama said that Rabbi Shimon ben Lakish said: God said to Moses, Ascend to me on the mountain and be there, and I will give you the stone tablets and the Torah and the mitzva that I have written that you may teach them (Exodus 24:12), meaning that God revealed to Moses not only the Written Torah, but all of Torah, as it would be transmitted through the generations. The tablets are the ten commandments that were written on the tablets of the Covenant, the Torah is the five books of Moses. The mitzva is the Mishna, which includes explanations for the mitzvot and how they are to be performed. That I have written refers to the Prophets and Writings, written with divine inspiration. That you may teach them refers to the Talmud, which explains the Mishna. These explanations are the foundation for the rulings of practical halakha . This verse teaches that all aspects of Torah were given to Moses from Sinai.
+
+HEBREW:
+ואמר רבי לוי בר חמא, אמר רבי שמעון בן לקיש, מאי דכתיב ״ואתנה לך את לחת האבן והתורה והמצוה אשר כתבתי להורתם״. ״לחת״ — אלו עשרת הדברות, ״תורה״ — זה מקרא, ״והמצוה״ — זו משנה, ״אשר כתבתי״ — אלו נביאים וכתובים, ״להורותם״ — זה תלמוד, מלמד שכולם נתנו למשה מסיני.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac73992b9ad2bcc0401a125",
+      "entityType": "Person",
+      "display_heb_name": "משה",
+      "timePeriod": "Tanach",
+      "isNonJew": false,
+      "isGroup": false,
+      "roles": [
+        "Prophet"
+      ]
+    },
+    {
+      "key": "6ac748918944908bc22a11b9",
+      "entityType": "Symbol",
+      "display_heb_name": "משנה",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac748948944908bc22a11c5",
+      "entityType": "Symbol",
+      "display_heb_name": "תלמוד",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac748d88944908bc22a12e1",
+      "entityType": "Person",
+      "display_heb_name": "רבי לוי בר חמא",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748d98944908bc22a12e2",
+      "entityType": "Person",
+      "display_heb_name": "רבי שמעון בן לקיש",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748d98944908bc22a12e3",
+      "entityType": "Person",
+      "timePeriod": "No Time Period",
+      "isNonJew": false,
+      "isGroup": false
+    },
+    {
+      "key": "6ac748d98944908bc22a12e4",
+      "entityType": "Place",
+      "display_heb_name": "סיני",
+      "placeType": "Mountain"
+    },
+    {
+      "key": "6ac748d98944908bc22a12e5",
+      "entityType": "Symbol",
+      "display_heb_name": "לחת האבן",
+      "symbolType": "Holy Object"
+    },
+    {
+      "key": "6ac748da8944908bc22a12e6",
+      "entityType": "Symbol",
+      "display_heb_name": "מצוה",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac748da8944908bc22a12e7",
+      "entityType": "Symbol",
+      "display_heb_name": "עשרת הדברות",
+      "symbolType": "Holy Object"
+    },
+    {
+      "key": "6ac748db8944908bc22a12e9",
+      "entityType": "Symbol",
+      "display_heb_name": "נביאים",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac748db8944908bc22a12ea",
+      "entityType": "Symbol",
+      "display_heb_name": "כתובים",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac748db8944908bc22a12eb",
+      "entityType": "Symbol",
+      "display_heb_name": "הלכה",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac748db8944908bc22a12ec",
+      "entityType": "Number",
+      "heb_unit": "פרק",
+      "contexts": [
+        {
+          "en_context": "exodus chapter",
+          "heb_context": "שמות פרק"
+        }
+      ]
+    },
+    {
+      "key": "6ac748dc8944908bc22a12ee",
+      "entityType": "Number",
+      "heb_unit": "דברה",
+      "contexts": [
+        {
+          "en_context": "number of commandments",
+          "heb_context": "מספר דברות"
+        }
+      ]
+    },
+    {
+      "key": "6ac748dc8944908bc22a12ef",
+      "entityType": "Number",
+      "heb_unit": "ספר",
+      "contexts": [
+        {
+          "en_context": "books of moses",
+          "heb_context": "ספרי משה"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748a78944908bc22a1214",
+            "entityType": "Person",
+            "display_heb_name": "מהרשא",
+            "display_en_name": "maharsha"
+        },
+        {
+            "key": "6ac749288944908bc22a140f",
+            "entityType": "Person",
+            "display_heb_name": "רבי יהושע בן קרחה",
+            "timePeriod": "Tanaim",
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "rabbi yehoshua ben korha"
+        },
+        {
+            "key": "6ac749288944908bc22a1410",
+            "entityType": "Person",
+            "display_heb_name": "רבי שמואל בר נחמני",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabbi shmuel bar nahmani"
+        },
+        {
+            "key": "6ac749288944908bc22a1411",
+            "entityType": "Person",
+            "display_heb_name": "רבי יונתן",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabbi yonatan"
+        },
+        {
+            "key": "6ac749288944908bc22a1412",
+            "entityType": "Person",
+            "display_heb_name": "רב חנא בר ביזנא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rav hana bar bizna"
+        },
+        {
+            "key": "6ac749298944908bc22a1413",
+            "entityType": "Person",
+            "display_heb_name": "רבי שמעון חסידא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabbi shimon hasida"
+        },
+        {
+            "key": "6ac749298944908bc22a1414",
+            "entityType": "Symbol",
+            "symbolType": "Part of Nature",
+            "display_en_name": "burning bush"
+        },
+        {
+            "key": "6ac749298944908bc22a1415",
+            "entityType": "Symbol",
+            "display_heb_name": "תפילין",
+            "symbolType": "Holy Object",
+            "display_en_name": "phylactery"
+        },
+        {
+            "key": "6ac7492a8944908bc22a1416",
+            "entityType": "Symbol",
+            "display_heb_name": "קשר",
+            "symbolType": "Other",
+            "display_en_name": "knot"
+        },
+        {
+            "key": "6ac7492a8944908bc22a1417",
+            "entityType": "Number",
+            "heb_unit": "דור",
+            "contexts": [
+                {
+                    "en_context": "punishment for ancestors",
+                    "heb_context": "עון אבות"
+                }
+            ],
+            "display_en_name": "3"
+        },
+        {
+            "key": "6ac7492a8944908bc22a1418",
+            "entityType": "Number",
+            "heb_unit": "דור",
+            "contexts": [
+                {
+                    "en_context": "punishment for ancestors",
+                    "heb_context": "עון אבות"
+                }
+            ],
+            "display_en_name": "4"
+        },
+        {
+            "key": "6ac7492a8944908bc22a1419",
+            "entityType": "Number",
+            "heb_unit": "בקשה",
+            "contexts": [
+                {
+                    "en_context": "moses requests granted",
+                    "heb_context": "בקשות משה שנענו"
+                }
+            ],
+            "display_en_name": "2"
+        }
+    ],
+    "key": "BT_Berakhot_0_7a:26-33"
+}

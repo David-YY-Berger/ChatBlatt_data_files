@@ -1,0 +1,50 @@
+﻿COST: Tokens: Total=3688 approx cost=$0.004070 (Prompt=2341, Completion=1347)
+SOURCE:
+Berakhot (Zeraim) 7a:22
+
+ENTITIES TO ENRICH (3):
+{"key":"6ac748a68944908bc22a1211","display_en_name":"yosei","display_heb_name":"רבי יוסי","all_en_names":["Yosei"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","roles":["Tanna"]}
+{"key":"6ac749248944908bc22a1403","display_en_name":"lakish","display_heb_name":"","all_en_names":["Lakish"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749248944908bc22a1404","display_en_name":"100","display_heb_name":"","all_en_names":["100"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Misc","en_unit":"lash","contexts":[{"en_context":"rebuke to fool","source_keys":["BT_Berakhot_0_7a:22"]}]}
+
+PASSAGE:
+ENGLISH:
+And Rabbi Yohanan said in the name of Rabbi Yosei: A single regret or pang of guilt in ones heart is preferable to many lashes administered by others that cause only physical pain, as it is stated: And she chases her lovers, but she does not overtake them; she seeks them, but she will not find them; and she will say I will go and return to my first husband; for it was better for me then than now (Hosea 2:9). Remorse is more effective than any externally imposed punishment listed in the verses that follow (Hosea 2:11-19). And Reish Lakish said that in the Bible, it seems that such remorse is preferable to one hundred lashes, as it is stated: A rebuke enters deeper into a man of understanding than a hundred lashes to a fool (Proverbs 17:10).
+
+HEBREW:
+ואמר רבי יוחנן משום רבי יוסי: טובה מרדות אחת בלבו של אדם יותר מכמה מלקיות. שנאמר: ״ורדפה את מאהביה וגו׳ ואמרה אלכה ואשובה אל אישי הראשון כי טוב לי אז מעתה״. וריש לקיש אמר, יותר ממאה מלקיות, שנאמר: ״תחת גערה במבין מהכות כסיל מאה״.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748a68944908bc22a1211",
+      "entityType": "Person",
+      "display_heb_name": "רבי יוסי",
+      "timePeriod": "Tanaim",
+      "roles": [
+        "Tanna"
+      ]
+    },
+    {
+      "key": "6ac749248944908bc22a1403",
+      "entityType": "Person",
+      "display_heb_name": "ריש לקיש",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac749248944908bc22a1404",
+      "entityType": "Number",
+      "heb_unit": "מלקת",
+      "contexts": [
+        {
+          "en_context": "rebuke to fool",
+          "heb_context": "גערה לכסיל"
+        }
+      ]
+    }
+  ]
+}

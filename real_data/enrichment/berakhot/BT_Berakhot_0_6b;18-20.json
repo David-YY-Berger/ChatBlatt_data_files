@@ -1,0 +1,43 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac749098944908bc22a13a4",
+            "entityType": "Person",
+            "display_heb_name": "גברא",
+            "display_en_name": "individual"
+        },
+        {
+            "key": "6ac749098944908bc22a13a5",
+            "entityType": "Person",
+            "display_heb_name": "הקהל",
+            "isGroup": true,
+            "display_en_name": "congregation"
+        },
+        {
+            "key": "6ac7490a8944908bc22a13a6",
+            "entityType": "Nation",
+            "display_heb_name": "טייעא",
+            "display_en_name": "arab"
+        },
+        {
+            "key": "6ac7490a8944908bc22a13a7",
+            "entityType": "Symbol",
+            "display_heb_name": "ספסרא",
+            "symbolType": "Weapon",
+            "display_en_name": "sword"
+        },
+        {
+            "key": "6ac7490a8944908bc22a13a8",
+            "entityType": "Number",
+            "heb_unit": "פרק",
+            "contexts": [
+                {
+                    "en_context": "psalms reference",
+                    "heb_context": "הפניה לתהילים"
+                }
+            ],
+            "display_en_name": "12"
+        }
+    ],
+    "key": "BT_Berakhot_0_6b:18-20"
+}

@@ -1,0 +1,37 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac749a18944908bc22a15ba",
+            "entityType": "Person",
+            "display_heb_name": "בית שמאי",
+            "timePeriod": "Tanaim",
+            "isGroup": true,
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "beit shammai"
+        },
+        {
+            "key": "6ac749a18944908bc22a15bb",
+            "entityType": "Person",
+            "display_heb_name": "בית הלל",
+            "timePeriod": "Tanaim",
+            "isGroup": true,
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "beit hillel"
+        },
+        {
+            "key": "6ac749a28944908bc22a15bc",
+            "entityType": "Person",
+            "display_heb_name": "רבי טרפון",
+            "timePeriod": "Tanaim",
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "rabbi tarfon"
+        }
+    ],
+    "key": "BT_Berakhot_0_10b:37-41"
+}

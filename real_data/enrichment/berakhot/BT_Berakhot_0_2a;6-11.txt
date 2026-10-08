@@ -1,0 +1,105 @@
+﻿COST: Tokens: Total=6202 approx cost=$0.007530 (Prompt=3625, Completion=2577)
+SOURCE:
+Berakhot (Zeraim) 2a:6-11
+
+ENTITIES TO ENRICH (12):
+{"key":"6ac748908944908bc22a11b3","display_en_name":"priests","display_heb_name":"הכהנים","all_en_names":["Priests"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isNonJew":false,"isGroup":true,"roles":["Kohen"]}
+{"key":"6ac748918944908bc22a11b9","display_en_name":"mishna","display_heb_name":"","all_en_names":["Mishna"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748948944908bc22a11c4","display_en_name":"gemara","display_heb_name":"","all_en_names":["Gemara"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748948944908bc22a11c5","display_en_name":"talmud","display_heb_name":"","all_en_names":["Talmud"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748948944908bc22a11c6","display_en_name":"oral torah","display_heb_name":"","all_en_names":["Oral Torah"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748948944908bc22a11c7","display_en_name":"written torah","display_heb_name":"","all_en_names":["Written Torah"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748958944908bc22a11c8","display_en_name":"morning offering","display_heb_name":"","all_en_names":["Morning Offering"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748958944908bc22a11c9","display_en_name":"evening offering","display_heb_name":"","all_en_names":["Evening Offering"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748958944908bc22a11ca","display_en_name":"creation of the world","display_heb_name":"","all_en_names":["Creation Of The World"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748958944908bc22a11cb","display_en_name":"blessing","display_heb_name":"","all_en_names":["Blessing"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748958944908bc22a11cc","display_en_name":"2","display_heb_name":"","all_en_names":["2"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Obligation","en_unit":"blessing","contexts":[{"en_context":"morning shema before","source_keys":["BT_Berakhot_0_2a:6-11"]},{"en_context":"shema blessings beforehand","source_keys":["BT_Berakhot_0_10b:31-36"]},{"en_context":"morning shema beforehand","source_keys":["BT_Berakhot_0_11a:24-25"]}]}
+{"key":"6ac748968944908bc22a11ce","display_en_name":"teruma","display_heb_name":"","all_en_names":["Teruma"],"all_heb_names":[],"entityType":"Food","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+GEMARA: The Mishna opens with the laws concerning the appropriate time to recite Shema with the question: From when does one recite Shema in the evening? With regard to this question, the Gemara asks: On the basis of what prior knowledge does the tanna of our mishna ask: From when? It would seem from his question that the obligation to recite Shema in the evening was already established, and that the tanna seeks only to clarify details that relate to it. But our mishna is the very first mishna in the Talmud.The Gemara asks: And furthermore, what distinguishes the evening Shema , that it was taught first? Let the tanna teach regarding the recitation of the morning Shema first. Since most mitzvot apply during the day, the tanna should discuss the morning Shema before discussing the evening Shema , just as the daily morning offering is discussed before the evening offering ( Tosefot HaRosh ).The Gemara offers a single response to both questions: The tanna bases himself on the verse as it is written: You will talk of them when you sit in your home, and when you walk along the way, when you lie down, and when you arise (Deuteronomy 6:7). By teaching the laws of the evening Shema first, the tanna has established that the teachings of the Oral Torah correspond to that which is taught in the Written Torah. And based on the Written Torah, the tanna teaches the oral law: When is the time for the recitation of Shema of lying down as commanded in the Torah? From when the priests enter to partake of their teruma . Just as the Written Torah begins with the evening Shema , so too must the Oral Torah.However, there is another possible explanation for why the mishna opens with the evening Shema rather than with the morning Shema . If you wish, you could say instead that the tanna derives the precedence of the evening Shema from the order of the creation of the world. As it is written in the story of creation: And there was evening, and there was morning, one day (Genesis 1:5). According to this verse, day begins with the evening and not the morning. For both of these reasons it was appropriate to open the discussion of the laws of the recitation of Shema with the evening Shema .The Gemara asks: If so, why does the latter clause of the mishna, which appears later in the chapter, teach: In the morning one recites two blessings before Shema and one blessing afterward, and in the evening one recites two blessings before Shema and two afterward? Based upon the above reasoning, the mishna should have taught the blessing recited before and after the evening Shema first. The Gemara answers: Indeed, the tanna began by discussing the laws regarding the recitation of the evening Shema , and then taught the laws regarding the recitation of the morning Shema . Once he was already dealing with the morning Shema , he explained the matters of the morning Shema , and then explained the matters of the evening Shema .
+
+HEBREW:
+גמ׳ תנא היכא קאי דקתני ״מאימתי״?ותו: מאי שנא דתני בערבית ברישא? לתני דשחרית ברישא!תנא אקרא קאי, דכתיב: ״בשכבך ובקומך״. והכי קתני: זמן קריאת שמע דשכיבה אימת? — משעה שהכהנים נכנסין לאכול בתרומתן.ואי בעית אימא: יליף מברייתו של עולם, דכתיב: ״ויהי ערב ויהי בקר יום אחד״.אי הכי, סיפא דקתני ״בשחר מברך שתים לפניה ואחת לאחריה, בערב מברך שתים לפניה ושתים לאחריה״, לתני דערבית ברישא!תנא פתח בערבית, והדר תני בשחרית, עד דקאי בשחרית, פריש מילי דשחרית, והדר פריש מילי דערבית.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748918944908bc22a11b9",
+      "entityType": "Symbol",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac748948944908bc22a11c4",
+      "entityType": "Symbol",
+      "display_heb_name": "גמ׳",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac748948944908bc22a11c5",
+      "entityType": "Symbol",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac748948944908bc22a11c6",
+      "entityType": "Symbol",
+      "display_heb_name": "תורה שבעל פה",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac748948944908bc22a11c7",
+      "entityType": "Symbol",
+      "display_heb_name": "תורה שבכתב",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac748958944908bc22a11c8",
+      "entityType": "Symbol",
+      "display_heb_name": "תמיד של שחר",
+      "symbolType": "Holy Object"
+    },
+    {
+      "key": "6ac748958944908bc22a11c9",
+      "entityType": "Symbol",
+      "display_heb_name": "תמיד של ערב",
+      "symbolType": "Holy Object"
+    },
+    {
+      "key": "6ac748958944908bc22a11ca",
+      "entityType": "Symbol",
+      "display_heb_name": "ברייתו של עולם",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac748958944908bc22a11cb",
+      "entityType": "Symbol",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac748958944908bc22a11cc",
+      "entityType": "Number",
+      "heb_unit": "ברכה",
+      "contexts": [
+        {
+          "en_context": "morning shema before",
+          "heb_context": "שמע של שחר לפני"
+        },
+        {
+          "en_context": "shema blessings beforehand",
+          "heb_context": "ברכות שמע לפני"
+        },
+        {
+          "en_context": "morning shema beforehand",
+          "heb_context": "שמע של שחר לפני"
+        }
+      ]
+    },
+    {
+      "key": "6ac748968944908bc22a11ce",
+      "entityType": "Food",
+      "display_heb_name": "תרומה"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+﻿COST: Tokens: Total=5973 approx cost=$0.007030 (Prompt=3592, Completion=2381)
+SOURCE:
+Berakhot (Zeraim) 3a:12-14
+
+ENTITIES TO ENRICH (10):
+{"key":"6ac748a18944908bc22a11fd","display_en_name":"holy one","display_heb_name":"הקדוש ברוך הוא","all_en_names":["Holy One"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748a68944908bc22a1211","display_en_name":"yosei","display_heb_name":"","all_en_names":["Yosei"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748a68944908bc22a1212","display_en_name":"elijah","display_heb_name":"","all_en_names":["Elijah"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748a68944908bc22a1213","display_en_name":"israel","display_heb_name":"","all_en_names":["Israel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748a78944908bc22a1214","display_en_name":"maharsha","display_heb_name":"","all_en_names":["Maharsha"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748a78944908bc22a1215","display_en_name":"shem tov ibn shaprut","display_heb_name":"","all_en_names":["Shem Tov Ibn Shaprut"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748a78944908bc22a1216","display_en_name":"heavenly voice","display_heb_name":"","all_en_names":["Heavenly Voice"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748a88944908bc22a1217","display_en_name":"kaddish prayer","display_heb_name":"","all_en_names":["Kaddish Prayer"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748a88944908bc22a1218","display_en_name":"3","display_heb_name":"","all_en_names":["3"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Time","en_unit":"time","contexts":[{"en_context":"voice cries out","source_keys":["BT_Berakhot_0_3a:12-14"]},{"en_context":"daily recitation","source_keys":["BT_Berakhot_0_4b:16-22"]}]}
+{"key":"6ac748a88944908bc22a1219","display_en_name":"dove","display_heb_name":"","all_en_names":["Dove"],"all_heb_names":[],"entityType":"Animal","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+Incidental to the mention of the elevated significance of the night watches, the Gemara cites a related story: It was taught in a baraita that Rabbi Yosei said: I was once walking along the road when I entered the ruins of an old, abandoned building among the ruins of Jerusalem in order to pray. I noticed that Elijah, of blessed memory, came and guarded the entrance for me and waited at the entrance until I finished my prayer. When I finished praying and exited the ruin, Elijah said to me, deferentially as one would address a rabbi: Greetings to you, my rabbi. I answered him: Greetings to you, my rabbi, my teacher. And Elijah said to me: My son, why did you enter this ruin? I said to him: In order to pray. And Elijah said to me: You should have prayed on the road. And I said to him: I was unable to pray along the road, because I was afraid that I might be interrupted by travelers and would be unable to focus. Elijah said to me: You should have recited the abbreviated prayer instituted for just such circumstances.Rabbi Yosei concluded: At that time, from that brief exchange, I learned from him three things: I learned that one may not enter a ruin; and I learned that one need not enter a building to pray, but he may pray along the road; and I learned that one who prays along the road recites an abbreviated prayer, so that he may maintain his focus. And after this introduction, Elijah said to me: What voice did you hear in that ruin? I responded: I heard a Heavenly voice, like an echo of that roar of the Holy One, Blessed be He (Maharsha), cooing like a dove and saying: Woe to the children, due to whose sins I destroyed My house, burned My Temple, and exiled them among the nations of the world. And Elijah said to me: By your life and by your head, not only did that voice cry out in that moment, but it cries out three times each and every day. Moreover, any time that Gods greatness is evoked, such as when Israel enters synagogues and study halls and answers in the kaddish prayer, May His great name be blessed, the Holy One, Blessed be He, shakes His head and says: Happy is the king who is thus praised in his house. When the Temple stood, this praise was recited there, but now: How great is the pain of the father who exiled his children, and woe to the children who were exiled from their fathers table, as their pain only adds to that of their father (Rabbi Shem Tov ibn Shaprut).
+
+HEBREW:
+תניא, אמר רבי יוסי: פעם אחת הייתי מהלך בדרך ונכנסתי לחורבה אחת מחורבות ירושלים להתפלל. בא אליהו זכור לטוב ושמר לי על הפתח, (והמתין לי) עד שסיימתי תפלתי. לאחר שסיימתי תפלתי אמר לי: ״שלום עליך, רבי״. ואמרתי לו: ״שלום עליך, רבי ומורי״. ואמר לי: בני, מפני מה נכנסת לחורבה זו? אמרתי לו: להתפלל. ואמר לי: היה לך להתפלל בדרך. ואמרתי לו: מתירא הייתי שמא יפסיקו בי עוברי דרכים, ואמר לי היה לך להתפלל תפלה קצרה.באותה שעה למדתי ממנו שלשה דברים: למדתי שאין נכנסין לחורבה, ולמדתי שמתפללין בדרך, ולמדתי שהמתפלל בדרך מתפלל תפלה קצרה.ואמר לי: בני, מה קול שמעת בחורבה זו? ואמרתי לו: שמעתי בת קול שמנהמת כיונה ואומרת: ״אוי שהחרבתי את ביתי ושרפתי את היכלי והגליתי את בני לבין אומות העולם״. ואמר לי: חייך וחיי ראשך, לא שעה זו בלבד אומרת כך, אלא בכל יום ויום, שלש פעמים אומרת כך. ולא זו בלבד אלא, בשעה שישראל נכנסין לבתי כנסיות ולבתי מדרשות ועונין ״יהא שמיה הגדול מבורך״, הקדוש ברוך הוא מנענע ראשו, ואומר: אשרי המלך שמקלסין אותו בביתו כך, מה לו לאב שהגלה את בניו, ואוי להם לבנים שגלו מעל שולחן אביהם.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748a18944908bc22a11fd",
+      "entityType": "Person",
+      "timePeriod": "No Time Period"
+    },
+    {
+      "key": "6ac748a68944908bc22a1211",
+      "entityType": "Person",
+      "display_heb_name": "רבי יוסי",
+      "timePeriod": "Tanaim",
+      "roles": [
+        "Tanna"
+      ]
+    },
+    {
+      "key": "6ac748a68944908bc22a1212",
+      "entityType": "Person",
+      "display_heb_name": "אליהו",
+      "timePeriod": "Tanach",
+      "roles": [
+        "Prophet"
+      ]
+    },
+    {
+      "key": "6ac748a68944908bc22a1213",
+      "entityType": "Person",
+      "display_heb_name": "ישראל",
+      "timePeriod": "No Time Period",
+      "isGroup": true
+    },
+    {
+      "key": "6ac748a78944908bc22a1216",
+      "entityType": "Symbol",
+      "display_heb_name": "בת קול",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac748a88944908bc22a1217",
+      "entityType": "Symbol",
+      "display_heb_name": "קדיש",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac748a88944908bc22a1218",
+      "entityType": "Number",
+      "heb_unit": "פעם",
+      "contexts": [
+        {
+          "en_context": "voice cries out",
+          "heb_context": "קול אומרת"
+        },
+        {
+          "en_context": "daily recitation",
+          "heb_context": "אמירה יומית"
+        }
+      ]
+    },
+    {
+      "key": "6ac748a88944908bc22a1219",
+      "entityType": "Animal",
+      "display_heb_name": "יונה"
+    }
+  ]
+}

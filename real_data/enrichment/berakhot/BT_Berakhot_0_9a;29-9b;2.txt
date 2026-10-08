@@ -1,0 +1,35 @@
+﻿COST: Tokens: Total=4513 approx cost=$0.005380 (Prompt=2683, Completion=1830)
+SOURCE:
+Berakhot (Zeraim) 9a:29-9b:2
+
+ENTITIES TO ENRICH (6):
+{"key":"6ac73992b9ad2bcc0401a125","display_en_name":"moses","display_heb_name":"משה","all_en_names":["Moses"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isNonJew":false,"isGroup":false,"roles":["Prophet"]}
+{"key":"6ac748a68944908bc22a1213","display_en_name":"israel","display_heb_name":"ישראל","all_en_names":["Israel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isNonJew":false,"isGroup":true,"roles":[]}
+{"key":"6ac748d98944908bc22a12e3","display_en_name":"god","display_heb_name":"הקדוש ברוך הוא","all_en_names":["God"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isNonJew":false,"isGroup":false,"roles":[]}
+{"key":"6ac749048944908bc22a1393","display_en_name":"abraham","display_heb_name":"אברהם","all_en_names":["Abraham"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isNonJew":false,"roles":[]}
+{"key":"6ac749678944908bc22a14f7","display_en_name":"rabbi yannai","display_heb_name":"","all_en_names":["Rabbi Yannai"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749678944908bc22a14f8","display_en_name":"400","display_heb_name":"","all_en_names":["400"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Time","en_unit":"year","contexts":[{"en_context":"enslavement in foreign land","source_keys":["BT_Berakhot_0_9a:29-9b:2"]}]}
+
+PASSAGE:
+ENGLISH:
+that righteous person, Abraham, will not say: God fulfilled His pronouncement: And they will be enslaved and afflicted, but God did not fulfill His pronouncement: And afterward, they will leave with great possessions. As God said to Abraham: Surely you shall know that your descendants will be foreigners in a land that is not theirs, and they will be enslaved and afflicted for four hundred years. And also that nation who enslaves them will I judge. And afterward, they will leave with great possessions (Genesis 15:13-14).The school of Rabbi Yannai continues: Israel said to Moses: If only we could get out ourselves. The Gemara offers a parable to one who was incarcerated in prison, and people would say to him: We promise, we will release you tomorrow and give you much money. He says to them: I beseech you, release me today and I ask for nothing. So too, Israel preferred leaving immediately empty handed rather than leaving later with great riches.
+
+HEBREW:
+אותו צדיק, ״ועבדום וענו אתם״ — קיים בהם, ״ואחרי כן יצאו ברכש גדול״ — לא קיים בהם.אמרו לו: ולואי שנצא בעצמנו! משל: לאדם שהיה חבוש בבית האסורים והיו אומרים לו בני אדם: מוציאין אותך למחר מבית האסורין, ונותנין לך ממון הרבה, ואומר להם: בבקשה מכם, הוציאוני היום, ואיני מבקש כלום.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac749678944908bc22a14f8",
+      "entityType": "Number",
+      "heb_unit": "שנה",
+      "contexts": [
+        {
+          "en_context": "enslavement in foreign land",
+          "heb_context": "שעבוד בארץ לא להם"
+        }
+      ]
+    }
+  ]
+}

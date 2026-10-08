@@ -1,0 +1,52 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748ac8944908bc22a1229",
+            "entityType": "Person",
+            "display_heb_name": "רב אשי",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "ashi"
+        },
+        {
+            "key": "6ac748d28944908bc22a12c7",
+            "entityType": "Person",
+            "display_heb_name": "רבי אלעזר",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "elazar"
+        },
+        {
+            "key": "6ac749728944908bc22a151c",
+            "entityType": "Person",
+            "display_heb_name": "הגמרא",
+            "display_en_name": "gemara"
+        },
+        {
+            "key": "6ac749728944908bc22a151d",
+            "entityType": "Symbol",
+            "display_heb_name": "ה׳ שפתי תפתח",
+            "symbolType": "Not Physical",
+            "display_en_name": "lord, open my lips"
+        },
+        {
+            "key": "6ac749728944908bc22a151e",
+            "entityType": "Symbol",
+            "display_heb_name": "יהיו לרצון אמרי פי וגו׳",
+            "symbolType": "Not Physical",
+            "display_en_name": "may the words of my mouth and the meditation of my heart be acceptable before you, lord, my rock, and my redeemer"
+        },
+        {
+            "key": "6ac749738944908bc22a151f",
+            "entityType": "Symbol",
+            "display_heb_name": "השכיבנו",
+            "symbolType": "Not Physical",
+            "display_en_name": "help us lie down [hashkivenu]"
+        }
+    ],
+    "key": "BT_Berakhot_0_9b:19-24"
+}

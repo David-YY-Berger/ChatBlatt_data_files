@@ -1,0 +1,19 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748d68944908bc22a12d6",
+            "entityType": "Person",
+            "display_heb_name": "אביי",
+            "timePeriod": "Amoraim",
+            "display_en_name": "abaye"
+        },
+        {
+            "key": "6ac748d68944908bc22a12d7",
+            "entityType": "Symbol",
+            "display_heb_name": "בידך אפקיד רוחי, פדיתה אותי ה׳ אל אמת",
+            "symbolType": "Not Physical",
+            "display_en_name": "into your hand i trust my spirit; you have redeemed me, lord, god of truth"
+        }
+    ],
+    "key": "BT_Berakhot_0_4b:27-5a:1"
+}

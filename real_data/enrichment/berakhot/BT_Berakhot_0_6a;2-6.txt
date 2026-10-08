@@ -1,0 +1,113 @@
+﻿COST: Tokens: Total=8505 approx cost=$0.013177 (Prompt=3675, Completion=4830)
+SOURCE:
+Berakhot (Zeraim) 6a:2-6
+
+ENTITIES TO ENRICH (14):
+{"key":"6ac748d68944908bc22a12d6","display_en_name":"abaye","display_heb_name":"אביי","all_en_names":["Abaye"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":[]}
+{"key":"6ac748d98944908bc22a12e3","display_en_name":"god","display_heb_name":"קודשא בריך הוא","all_en_names":["God"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isNonJew":false,"isGroup":false,"roles":[]}
+{"key":"6ac748e28944908bc22a1306","display_en_name":"rava","display_heb_name":"רבא","all_en_names":["Rava"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748f68944908bc22a135a","display_en_name":"binyamin","display_heb_name":"","all_en_names":["Binyamin"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748f68944908bc22a135b","display_en_name":"huna","display_heb_name":"","all_en_names":["Huna"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748f78944908bc22a135c","display_en_name":"beivai bar abaye","display_heb_name":"","all_en_names":["Beivai Bar Abaye"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748f78944908bc22a135d","display_en_name":"demons","display_heb_name":"","all_en_names":["Demons"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748f78944908bc22a135e","display_en_name":"afterbirth","display_heb_name":"","all_en_names":["Afterbirth"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748f78944908bc22a135f","display_en_name":"iron tube","display_heb_name":"","all_en_names":["Iron Tube"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748f88944908bc22a1360","display_en_name":"iron seal","display_heb_name":"","all_en_names":["Iron Seal"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748f88944908bc22a1361","display_en_name":"1000","display_heb_name":"","all_en_names":["1000"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"People","en_unit":"demon","contexts":[{"en_context":"demons abundance","source_keys":["BT_Berakhot_0_6a:2-6"]}]}
+{"key":"6ac748f88944908bc22a1362","display_en_name":"10000","display_heb_name":"","all_en_names":["10000"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"People","en_unit":"demon","contexts":[{"en_context":"demons abundance","source_keys":["BT_Berakhot_0_6a:2-6"]}]}
+{"key":"6ac748f88944908bc22a1363","display_en_name":"cat","display_heb_name":"","all_en_names":["Cat"],"all_heb_names":[],"entityType":"Animal","alias_keys":[]}
+{"key":"6ac748f88944908bc22a1364","display_en_name":"chicken","display_heb_name":"","all_en_names":["Chicken"],"all_heb_names":[],"entityType":"Animal","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+In another baraita it was taught that Abba Binyamin says: If the eye was given permission to see, no creature would be able to withstand the abundance and ubiquity of the demons and continue to live unaffected by them.Similarly, Abaye said: They are more numerous than we are and they stand over us like mounds of earth surrounding a pit. Rav Huna said: Each and every one of us has a thousand demons to his left and ten thousand to his right. God protects man from these demons, as it says in the verse: A thousand may fall at your side, and ten thousand at your right hand; they will not approach you (Psalms 91:7).Summarizing the effects of the demons, Rava said: The crowding at the kalla , the gatherings for Torah study during Elul and Adar, is from the demons; those knees that are fatigued even though one did not exert himself is from the demons; those clothes of the Sages that wear out, despite the fact that they do not engage in physical labor, is from friction with the demons; those feet that are in pain is from the demons. One who seeks to know that the demons exist should place fine ashes around his bed, and in the morning the demons footprints appear like chickens footprints, in the ash. One who seeks to see them should take the afterbirth of a firstborn female black cat, born to a firstborn female black cat, burn it in the fire, grind it and place it in his eyes, and he will see them. He must then place the ashes in an iron tube sealed with an iron seal [ gushpanka ] lest the demons steal it from him, and then seal the opening so he will not be harmed. Rav Beivai bar Abaye performed this procedure, saw the demons, and was harmed. The Sages prayed for mercy on his behalf and he was healed.
+
+HEBREW:
+תניא, אבא בנימין אומר: אלמלי נתנה רשות לעין לראות — אין כל בריה יכולה לעמוד מפני המזיקין.אמר אביי: אינהו נפישי מינן, וקיימי עלן כי כסלא לאוגיא.אמר רב הונא: כל חד וחד מינן, אלפא משמאליה ורבבתא מימיניה.אמר רבא: האי דוחקא דהוי בכלה — מנייהו הוי. הני ברכי דשלהי — מנייהו. הני מאני דרבנן דבלו — מחופיא דידהו. הני כרעי דמנקפן — מנייהו.האי מאן דבעי למידע להו לייתי קיטמא נהילא, ונהדר אפורייה, ובצפרא חזי כי כרעי דתרנגולא. האי מאן דבעי למחזינהו, ליתי שלייתא דשונרתא אוכמתא בת אוכמתא בוכרתא בת בוכרתא, וליקליה בנורא, ולשחקיה, ולימלי עיניה מניה, וחזי להו. ולשדייה בגובתא דפרזלא, ולחתמיה בגושפנקא דפרזלא, דילמא גנבי מניה, ולחתום פומיה, כי היכי דלא ליתזק. רב ביבי בר אביי עבד הכי, חזא ואתזק, בעו רבנן רחמי עליה, ואתסי.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748f68944908bc22a135a",
+      "entityType": "Person",
+      "display_heb_name": "אבא בנימין",
+      "timePeriod": "Tanaim",
+      "roles": [
+        "Tanna"
+      ]
+    },
+    {
+      "key": "6ac748f68944908bc22a135b",
+      "entityType": "Person",
+      "display_heb_name": "רב הונא",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748f78944908bc22a135c",
+      "entityType": "Person",
+      "display_heb_name": "רב ביבי בר אביי",
+      "timePeriod": "Amoraim"
+    },
+    {
+      "key": "6ac748f78944908bc22a135d",
+      "entityType": "Person",
+      "display_heb_name": "המזיקין",
+      "timePeriod": "No Time Period",
+      "isGroup": true
+    },
+    {
+      "key": "6ac748f78944908bc22a135e",
+      "entityType": "Symbol",
+      "display_heb_name": "שלייתא",
+      "symbolType": "Body Part"
+    },
+    {
+      "key": "6ac748f78944908bc22a135f",
+      "entityType": "Symbol",
+      "display_heb_name": "גובתא דפרזלא",
+      "symbolType": "Other"
+    },
+    {
+      "key": "6ac748f88944908bc22a1360",
+      "entityType": "Symbol",
+      "display_heb_name": "גושפנקא דפרזלא",
+      "symbolType": "Other"
+    },
+    {
+      "key": "6ac748f88944908bc22a1361",
+      "entityType": "Number",
+      "heb_unit": "מזיק",
+      "contexts": [
+        {
+          "en_context": "demons abundance",
+          "heb_context": "שפע מזיקים"
+        }
+      ]
+    },
+    {
+      "key": "6ac748f88944908bc22a1362",
+      "entityType": "Number",
+      "heb_unit": "מזיק",
+      "contexts": [
+        {
+          "en_context": "demons abundance",
+          "heb_context": "שפע מזיקים"
+        }
+      ]
+    },
+    {
+      "key": "6ac748f88944908bc22a1363",
+      "entityType": "Animal",
+      "display_heb_name": "שונרתא"
+    },
+    {
+      "key": "6ac748f88944908bc22a1364",
+      "entityType": "Animal",
+      "display_heb_name": "תרנגולא"
+    }
+  ]
+}

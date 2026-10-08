@@ -1,0 +1,33 @@
+﻿COST: Tokens: Total=2893 approx cost=$0.002428 (Prompt=2184, Completion=709)
+SOURCE:
+Berakhot (Zeraim) 4b:27-5a:1
+
+ENTITIES TO ENRICH (3):
+{"key":"6ac748d68944908bc22a12d5","display_en_name":"torah scholar","display_heb_name":"","all_en_names":["Torah Scholar"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748d68944908bc22a12d6","display_en_name":"abaye","display_heb_name":"","all_en_names":["Abaye"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748d68944908bc22a12d7","display_en_name":"into your hand i trust my spirit; you have redeemed me, lord, god of truth","display_heb_name":"","all_en_names":["Into Your Hand I Trust My Spirit; You Have Redeemed Me, Lord, God Of Truth"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+If one is a Torah scholar, he need not recite Shema on his bed since he is always engaged in the study of Torah and will likely fall asleep engrossed in matters of Torah. Abaye said: Even a Torah scholar must recite at least one verse of prayer, such as: Into Your hand I trust my spirit; You have redeemed me, Lord, God of truth (Psalms 31:6).
+
+HEBREW:
+אם תלמיד חכם הוא — אין צריך. אמר אביי: אף תלמיד חכם מיבעי ליה למימר חד פסוקא דרחמי, כגון: ״בידך אפקיד רוחי, פדיתה אותי ה׳ אל אמת״.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748d68944908bc22a12d6",
+      "entityType": "Person",
+      "display_heb_name": "אביי",
+      "timePeriod": "Amoraim"
+    },
+    {
+      "key": "6ac748d68944908bc22a12d7",
+      "entityType": "Symbol",
+      "display_heb_name": "בידך אפקיד רוחי, פדיתה אותי ה׳ אל אמת",
+      "symbolType": "Not Physical"
+    }
+  ]
+}

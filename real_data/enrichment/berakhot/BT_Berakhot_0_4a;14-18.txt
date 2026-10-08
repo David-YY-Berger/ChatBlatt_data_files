@@ -1,0 +1,184 @@
+﻿COST: Tokens: Total=9665 approx cost=$0.014049 (Prompt=4597, Completion=5068)
+SOURCE:
+Berakhot (Zeraim) 4a:14-18
+
+ENTITIES TO ENRICH (21):
+{"key":"6ac73970b9ad2bcc0401a0a4","display_en_name":"david","display_heb_name":"דוד","all_en_names":["David"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isNonJew":false,"isGroup":false,"roles":["Judge","King"]}
+{"key":"6ac739b8b9ad2bcc0401a1b1","display_en_name":"canaan","display_heb_name":"","all_en_names":["Canaan"],"all_heb_names":[],"entityType":"Place","alias_keys":[]}
+{"key":"6ac739bbb9ad2bcc0401a1bb","display_en_name":"esau","display_heb_name":"","all_en_names":["Esau"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isGroup":false,"roles":[]}
+{"key":"6ac739c3b9ad2bcc0401a1da","display_en_name":"jacob","display_heb_name":"","all_en_names":["Jacob"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isGroup":false,"roles":[]}
+{"key":"6ac748988944908bc22a11d8","display_en_name":"eretz yisrael","display_heb_name":"","all_en_names":["Eretz Yisrael"],"all_heb_names":[],"entityType":"Place","alias_keys":[],"placeType":"Country or Region"}
+{"key":"6ac748a68944908bc22a1213","display_en_name":"israel","display_heb_name":"ישראל","all_en_names":["Israel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isGroup":true,"roles":[]}
+{"key":"6ac748b48944908bc22a1248","display_en_name":"holy one, blessed be he","display_heb_name":"הקדוש ברוך הוא","all_en_names":["Holy One, Blessed Be He"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","roles":[]}
+{"key":"6ac748be8944908bc22a1275","display_en_name":"rabbi yosei","display_heb_name":"","all_en_names":["Rabbi Yosei"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748bf8944908bc22a1276","display_en_name":"joshua","display_heb_name":"","all_en_names":["Joshua"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748bf8944908bc22a1277","display_en_name":"ezra","display_heb_name":"","all_en_names":["Ezra"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748bf8944908bc22a1278","display_en_name":"joshua bin nun","display_heb_name":"","all_en_names":["Joshua Bin Nun"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748c08944908bc22a1279","display_en_name":"land of the living","display_heb_name":"","all_en_names":["Land Of The Living"],"all_heb_names":[],"entityType":"Place","alias_keys":[]}
+{"key":"6ac748c08944908bc22a127a","display_en_name":"world-to-come","display_heb_name":"","all_en_names":["World-To-Come"],"all_heb_names":[],"entityType":"Place","alias_keys":[]}
+{"key":"6ac748c08944908bc22a127b","display_en_name":"babylonia","display_heb_name":"","all_en_names":["Babylonia"],"all_heb_names":[],"entityType":"Nation","alias_keys":[]}
+{"key":"6ac748c18944908bc22a127c","display_en_name":"goodness of the lord","display_heb_name":"","all_en_names":["Goodness Of The Lord"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748c18944908bc22a127d","display_en_name":"ladder","display_heb_name":"","all_en_names":["Ladder"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748c18944908bc22a127e","display_en_name":"song of the sea","display_heb_name":"","all_en_names":["Song Of The Sea"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748c18944908bc22a127f","display_en_name":"27","display_heb_name":"","all_en_names":["27"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Misc","en_unit":"chapter","contexts":[{"en_context":"psalms reference","source_keys":["BT_Berakhot_0_4a:14-18"]}]}
+{"key":"6ac748c28944908bc22a1281","display_en_name":"34","display_heb_name":"","all_en_names":["34"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Misc","en_unit":"chapter","contexts":[{"en_context":"avot reference","source_keys":["BT_Berakhot_0_4a:14-18"]}]}
+{"key":"6ac748c28944908bc22a1282","display_en_name":"28","display_heb_name":"","all_en_names":["28"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Misc","en_unit":"chapter","contexts":[{"en_context":"genesis reference","source_keys":["BT_Berakhot_0_4a:14-18"]},{"en_context":"chronicles verse","source_keys":["BT_Berakhot_0_10b:6-10"]}]}
+{"key":"6ac748c28944908bc22a1284","display_en_name":"32","display_heb_name":"","all_en_names":["32"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Misc","en_unit":"chapter","contexts":[{"en_context":"genesis reference","source_keys":["BT_Berakhot_0_4a:14-18"]},{"en_context":"chronicles verse","source_keys":["BT_Berakhot_0_10b:6-10"]}]}
+
+PASSAGE:
+ENGLISH:
+With regard to Davids statement, Keep my soul, for I am pious, the Gemara asks: Did David call himself pious? Isnt it written: If I had not [ luleh ] believed to look upon the goodness of the Lord in the land of the living (Psalms 27:13). The dots that appear over the word luleh in the text indicate doubt and uncertainty of his piety, and whether he was deserving of a place in the land of the living (see Avot DeRabbi Natan 34). In the name of Rabbi Yosei, it was taught in a Tosefta : Why do dots appear over the word luleh , as if there are some reservations? Because David said before the Holy One, Blessed be He: Master of the Universe. I have every confidence in You that You grant an excellent reward to the righteous in the World-to-Come since Gods ultimate goodness is manifest in the land of eternal life, but I still harbor uncertainty with regard to myself, and I do not know whether or not I definitely have a portion among them. In any case, apparently David was uncertain whether or not he deserved to receive a portion of Gods reward for the righteous; how, then, could he characterize himself as pious?The Gemara responds: His concern does not prove anything, as King David knew that he was pious. He was simply concerned lest a transgression that he might commit in the future will cause him to lose his opportunity to look upon the goodness of the Lord in the land of the living.The Gemara cites a proof that there is room for one to fear lest he commit a transgression in the future in accordance with the opinion of Rabbi Yaakov bar Idi, as Rabbi Yaakov bar Idi raised a contradiction between two verses. It is written that God told Jacob in his vision of the ladder: Behold, I am with you and I guard you wherever you go (Genesis 28:15), yet when Jacob returned to Canaan and realized that Esau was coming to greet him, it is written: And Jacob became very afraid, and he was pained (Genesis 32:8). Why did Jacob not rely on Gods promise? Jacob had concerns and said to himself: Lest a transgression that I might have committed after God made His promise to me will cause God to revoke His promise of protection.Apparently, at times, transgression does cause Gods promise to go unfulfilled, as it was taught explicitly in a baraita with regard to the ostensibly redundant language in a verse in the Song of the Sea: Until Your people will cross, Lord, until the people You have acquired will cross. You bring them in and plant them in the mountain of Your inheritance, the place, Lord, which You made for Your dwelling (Exodus 15:16-17).The Gemara interprets homiletically that until Your people will cross refers to the first entry into Eretz Yisrael during the time of Joshua, while until the people You have acquired pass over refers to the second entry following the exile in Babylonia. Based on the juxtaposition of these two entries in this single verse, the Sages said: Israel was worthy of having a miracle performed on its behalf in the time of Ezra the scribe, just as one was performed on their behalf in the time of Joshua bin Nun. However, transgression caused the absence of a miracle.
+
+HEBREW:
+ודוד מי קרי לנפשיה ״חסיד״? והכתיב ״לולא האמנתי לראות בטוב ה׳ בארץ חיים״, ותנא משמיה דרבי יוסי: למה נקוד על ״לולא״? — אמר דוד לפני הקדוש ברוך הוא: רבונו של עולם, מובטח אני בך שאתה משלם שכר טוב לצדיקים לעתיד לבוא, אבל איני יודע אם יש לי חלק ביניהם אם לאו?!שמא יגרום החטא.כדרבי יעקב בר אידי, דרבי יעקב בר אידי רמי, כתיב: ״והנה אנכי עמך ושמרתיך בכל אשר תלך״, וכתיב: ״ויירא יעקב מאד״ אמר: שמא יגרום החטא.כדתניא ״עד יעבר עמך ה׳, עד יעבר עם זו קנית״.״עד יעבר עמך ה׳״ — זו ביאה ראשונה, ״עד יעבר עם זו קנית״ — זו ביאה שניה. מכאן אמרו חכמים: ראוים היו ישראל ליעשות להם נס בימי עזרא כדרך שנעשה להם בימי יהושע בן נון. אלא שגרם החטא.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac73970b9ad2bcc0401a0a4",
+      "entityType": "Person",
+      "display_heb_name": "דוד",
+      "timePeriod": "Tanach",
+      "isNonJew": false,
+      "isGroup": false,
+      "roles": [
+        "King"
+      ]
+    },
+    {
+      "key": "6ac739b8b9ad2bcc0401a1b1",
+      "entityType": "Place",
+      "placeType": "Country or Region"
+    },
+    {
+      "key": "6ac739bbb9ad2bcc0401a1bb",
+      "entityType": "Person",
+      "timePeriod": "Tanach",
+      "isGroup": false
+    },
+    {
+      "key": "6ac739c3b9ad2bcc0401a1da",
+      "entityType": "Person",
+      "display_heb_name": "יעקב",
+      "timePeriod": "Tanach",
+      "isNonJew": false,
+      "isGroup": false
+    },
+    {
+      "key": "6ac748988944908bc22a11d8",
+      "entityType": "Place",
+      "placeType": "Country or Region"
+    },
+    {
+      "key": "6ac748a68944908bc22a1213",
+      "entityType": "Person",
+      "display_heb_name": "ישראל",
+      "timePeriod": "Tanach",
+      "isGroup": true
+    },
+    {
+      "key": "6ac748b48944908bc22a1248",
+      "entityType": "Person",
+      "display_heb_name": "הקדוש ברוך הוא",
+      "timePeriod": "No Time Period"
+    },
+    {
+      "key": "6ac748be8944908bc22a1275",
+      "entityType": "Person",
+      "display_heb_name": "רבי יוסי",
+      "timePeriod": "Tanaim",
+      "roles": [
+        "Tanna"
+      ]
+    },
+    {
+      "key": "6ac748bf8944908bc22a1276",
+      "entityType": "Person",
+      "display_heb_name": "יהושע",
+      "timePeriod": "Tanach"
+    },
+    {
+      "key": "6ac748bf8944908bc22a1277",
+      "entityType": "Person",
+      "display_heb_name": "עזרא",
+      "timePeriod": "No Time Period"
+    },
+    {
+      "key": "6ac748bf8944908bc22a1278",
+      "entityType": "Person",
+      "display_heb_name": "יהושע בן נון",
+      "timePeriod": "Tanach"
+    },
+    {
+      "key": "6ac748c08944908bc22a1279",
+      "entityType": "Place",
+      "display_heb_name": "ארץ חיים",
+      "placeType": "Not Physical"
+    },
+    {
+      "key": "6ac748c08944908bc22a127a",
+      "entityType": "Place",
+      "display_heb_name": "לעתיד לבוא",
+      "placeType": "Not Physical"
+    },
+    {
+      "key": "6ac748c18944908bc22a127c",
+      "entityType": "Symbol",
+      "display_heb_name": "טוב ה׳",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac748c18944908bc22a127f",
+      "entityType": "Number",
+      "heb_unit": "פרק",
+      "contexts": [
+        {
+          "en_context": "psalms reference",
+          "heb_context": "הפניה לתהילים"
+        }
+      ]
+    },
+    {
+      "key": "6ac748c28944908bc22a1281",
+      "entityType": "Number",
+      "heb_unit": "פרק",
+      "contexts": [
+        {
+          "en_context": "avot reference",
+          "heb_context": "הפניה לאבות"
+        }
+      ]
+    },
+    {
+      "key": "6ac748c28944908bc22a1282",
+      "entityType": "Number",
+      "heb_unit": "פרק",
+      "contexts": [
+        {
+          "en_context": "genesis reference",
+          "heb_context": "הפניה לבראשית"
+        },
+        {
+          "en_context": "chronicles verse",
+          "heb_context": "פסוק בדברי הימים"
+        }
+      ]
+    },
+    {
+      "key": "6ac748c28944908bc22a1284",
+      "entityType": "Number",
+      "heb_unit": "פרק",
+      "contexts": [
+        {
+          "en_context": "genesis reference",
+          "heb_context": "הפניה לבראשית"
+        },
+        {
+          "en_context": "chronicles verse",
+          "heb_context": "פסוק בדברי הימים"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac73970b9ad2bcc0401a0a4",
+            "entityType": "Person",
+            "timePeriod": "Tanach",
+            "isNonJew": false,
+            "isGroup": false,
+            "display_en_name": "david"
+        },
+        {
+            "key": "6ac748a68944908bc22a1213",
+            "entityType": "Person",
+            "timePeriod": "No Time Period",
+            "isNonJew": false,
+            "isGroup": true,
+            "display_en_name": "israel"
+        },
+        {
+            "key": "6ac748af8944908bc22a1235",
+            "entityType": "Person",
+            "display_heb_name": "רבי אחא",
+            "timePeriod": "Amoraim",
+            "display_en_name": "rabbi aha"
+        },
+        {
+            "key": "6ac748b48944908bc22a1248",
+            "entityType": "Person",
+            "display_heb_name": "הקדוש ברוך הוא",
+            "timePeriod": "No Time Period",
+            "display_en_name": "holy one, blessed be he"
+        },
+        {
+            "key": "6ac748be8944908bc22a1275",
+            "entityType": "Person",
+            "display_heb_name": "רבי יוסי",
+            "timePeriod": "Tanaim",
+            "display_en_name": "rabbi yosei"
+        },
+        {
+            "key": "6ac748d98944908bc22a12e3",
+            "entityType": "Person",
+            "display_heb_name": "הקדוש ברוך הוא",
+            "timePeriod": "No Time Period",
+            "isNonJew": false,
+            "isGroup": false,
+            "display_en_name": "god"
+        },
+        {
+            "key": "6ac748eb8944908bc22a132d",
+            "entityType": "Person",
+            "display_heb_name": "רבי חנינא",
+            "timePeriod": "Amoraim",
+            "display_en_name": "rabbi hanina"
+        },
+        {
+            "key": "6ac749098944908bc22a13a5",
+            "entityType": "Person",
+            "display_heb_name": "הצבור",
+            "isGroup": true,
+            "display_en_name": "congregation"
+        },
+        {
+            "key": "6ac749408944908bc22a145f",
+            "entityType": "Person",
+            "display_heb_name": "רבי נתן",
+            "display_en_name": "rabbi natan"
+        },
+        {
+            "key": "6ac749418944908bc22a1460",
+            "entityType": "Person",
+            "display_heb_name": "רבים",
+            "isGroup": true,
+            "display_en_name": "masses"
+        },
+        {
+            "key": "6ac749418944908bc22a1461",
+            "entityType": "Nation",
+            "display_heb_name": "אומות העולם",
+            "display_en_name": "nations of the world"
+        },
+        {
+            "key": "6ac749418944908bc22a1462",
+            "entityType": "Symbol",
+            "display_heb_name": "תורה",
+            "symbolType": "Not Physical",
+            "display_en_name": "torah study"
+        },
+        {
+            "key": "6ac749418944908bc22a1463",
+            "entityType": "Symbol",
+            "display_heb_name": "שלום",
+            "symbolType": "Not Physical",
+            "display_en_name": "peace"
+        }
+    ],
+    "key": "BT_Berakhot_0_7b:27-8a:4"
+}

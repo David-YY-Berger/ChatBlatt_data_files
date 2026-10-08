@@ -1,0 +1,77 @@
+﻿COST: Tokens: Total=5167 approx cost=$0.005536 (Prompt=3355, Completion=1812)
+SOURCE:
+Berakhot (Zeraim) 11a:15-18
+
+ENTITIES TO ENRICH (6):
+{"key":"6ac749628944908bc22a14e2","display_en_name":"rabbi elazar ben azarya","display_heb_name":"רבי אלעזר בן עזריה","all_en_names":["Rabbi Elazar Ben Azarya"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","isNonJew":false,"isGroup":false,"roles":["Tanna"]}
+{"key":"6ac749a18944908bc22a15ba","display_en_name":"beit shammai","display_heb_name":"בית שמאי","all_en_names":["Beit Shammai"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","isGroup":true,"roles":["Tanna"]}
+{"key":"6ac749a18944908bc22a15bb","display_en_name":"beit hillel","display_heb_name":"בית הלל","all_en_names":["Beit Hillel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","isGroup":true,"roles":["Tanna"]}
+{"key":"6ac749a48944908bc22a15c6","display_en_name":"rabbi yishmael","display_heb_name":"","all_en_names":["Rabbi Yishmael"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749a58944908bc22a15c7","display_en_name":"rashba","display_heb_name":"","all_en_names":["Rashba"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749a58944908bc22a15c8","display_en_name":"2","display_heb_name":"","all_en_names":["2"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"People","en_unit":"tannai","contexts":[{"en_context":"tannaim at meal","source_keys":["BT_Berakhot_0_11a:15-18"]}]}
+
+PASSAGE:
+ENGLISH:
+The Sages taught in a baraita that Beit Hillel say: One may recite Shema in any situation: Standing and reciting, sitting and reciting, reclining and reciting, walking and reciting and even working and reciting. And in the Tosefta an incident is related where two tannaim , Rabbi Yishmael and Rabbi Elazar ben Azarya, who were both disciples of Beit Hillel, were reclining at a meal in one place together with their students, and Rabbi Yishmael was reclined as was the customary dining position, and Rabbi Elazar ben Azarya was upright. When the time to recite the evening Shema arrived, Rabbi Elazar reclined to recite Shema in accordance with the opinion of Beit Shammai, while Rabbi Yishmael sat upright to recite Shema . Rabbi Elazar ben Azarya appeared to take offense, and said to Rabbi Yishmael: Yishmael, my brother, I will tell you a parable to which this is similar. It is comparable to a situation where one to whom people say as a compliment: Your beard is full and suits you. That man says to them: May it be against those who shave and destroy their beards, i.e., the only reason I grow my beard is to irritate those who cut their own (Rashba). You are the same. As long as I am upright, you are reclined, and now when I reclined lauding your conduct and emulating you, you sat upright as if to demonstrate that whatever I do, you do the opposite.Rabbi Yishmael said to him: I acted in accordance with the opinion of Beit Hillel, according to whom one may recite Shema in any position, while you acted in accordance with the opinion of Beit Shammai. I am the one who acted in accordance with the halakha . And furthermore, I was concerned lest the students see your conduct and establish the halakha for generations accordingly. It was therefore necessary for me to demonstrate that there is no obligation to do so.The Gemara asks: What is the meaning of: And furthermore? Why was it necessary for Rabbi Yishmael to add additional justification for his actions when the reason that he acted in accordance with the opinion of Beit Hillel was sufficient?The Gemara answers: It was necessary for him to add this reason, as if you say: Beit Hillel also hold that one is permitted to recite Shema while reclining and Rabbi Yishmael could have remained reclining even in accordance with the opinion of Beit Hillel, but this only applies when one had already been reclining originally, in which case it is like any other position. However, here, since until now he had been upright, and now he is reclined, the students will say: Conclude from this, that they hold in accordance with the opinion of Beit Shammai. Due to the concern that the students might see and establish the halakha for generations in accordance with the opinion of Beit Shammai, it was necessary for Rabbi Yishmael to sit upright.
+
+HEBREW:
+תנו רבנן, בית הלל אומרים: עומדין וקורין, יושבין וקורין, ומטין וקורין, הולכין בדרך וקורין, עושין במלאכתן וקורין. ומעשה ברבי ישמעאל ורבי אלעזר בן עזריה, שהיו מסובין במקום אחד, והיה רבי ישמעאל מוטה, ורבי אלעזר בן עזריה זקוף. כיון שהגיע זמן קריאת שמע, הטה רבי אלעזר וזקף רבי ישמעאל. אמר לו רבי אלעזר בן עזריה לרבי ישמעאל: ישמעאל אחי, אמשול לך משל למה הדבר דומה — משל לאחד שאומרים לו זקנך מגודל! אמר להם: יהיה כנגד המשחיתים. אף כך אתה, כל זמן שאני זקוף — אתה מוטה, עכשיו כשאני הטתי אתה זקפת.אמר לו: אני עשיתי כדברי בית הלל, ואתה עשית כדברי בית שמאי. ולא עוד אלא שמא יראו התלמידים ויקבעו הלכה לדורות.מאי ״ולא עוד״?וכי תימא: בית הלל נמי אית להו מטין, הני מילי דמטה ואתא מעיקרא. אבל הכא, כיון דעד השתא הוית זקוף והשתא מוטה, אמרי: שמע מינה כבית שמאי סבירא להו, שמא יראו התלמידים ויקבעו הלכה לדורות.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac749628944908bc22a14e2",
+      "entityType": "Person",
+      "display_heb_name": "רבי אלעזר בן עזריה",
+      "timePeriod": "Tanaim",
+      "isNonJew": false,
+      "isGroup": false,
+      "roles": [
+        "Tanna"
+      ]
+    },
+    {
+      "key": "6ac749a18944908bc22a15ba",
+      "entityType": "Person",
+      "display_heb_name": "בית שמאי",
+      "timePeriod": "Tanaim",
+      "isGroup": true,
+      "roles": [
+        "Tanna"
+      ]
+    },
+    {
+      "key": "6ac749a18944908bc22a15bb",
+      "entityType": "Person",
+      "display_heb_name": "בית הלל",
+      "timePeriod": "Tanaim",
+      "isGroup": true,
+      "roles": [
+        "Tanna"
+      ]
+    },
+    {
+      "key": "6ac749a48944908bc22a15c6",
+      "entityType": "Person",
+      "display_heb_name": "רבי ישמעאל",
+      "timePeriod": "Tanaim",
+      "isNonJew": false,
+      "isGroup": false,
+      "roles": [
+        "Tanna"
+      ]
+    },
+    {
+      "key": "6ac749a58944908bc22a15c8",
+      "entityType": "Number",
+      "heb_unit": "תנא",
+      "contexts": [
+        {
+          "en_context": "tannaim at meal",
+          "heb_context": "תנאים מסובין"
+        }
+      ]
+    }
+  ]
+}

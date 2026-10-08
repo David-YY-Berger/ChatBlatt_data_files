@@ -1,0 +1,93 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748a68944908bc22a1212",
+            "entityType": "Person",
+            "display_heb_name": "אליהו הנביא",
+            "timePeriod": "Tanach",
+            "roles": [
+                "Prophet"
+            ],
+            "display_en_name": "elijah"
+        },
+        {
+            "key": "6ac748a68944908bc22a1213",
+            "entityType": "Person",
+            "display_heb_name": "ישראל",
+            "timePeriod": "Tanach",
+            "isNonJew": false,
+            "isGroup": true,
+            "display_en_name": "israel"
+        },
+        {
+            "key": "6ac748d98944908bc22a12e3",
+            "entityType": "Person",
+            "display_heb_name": "ה׳",
+            "timePeriod": "No Time Period",
+            "isNonJew": false,
+            "isGroup": false,
+            "display_en_name": "god"
+        },
+        {
+            "key": "6ac748f68944908bc22a135b",
+            "entityType": "Person",
+            "display_heb_name": "רב הונא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "huna"
+        },
+        {
+            "key": "6ac749048944908bc22a1393",
+            "entityType": "Person",
+            "display_heb_name": "אברהם",
+            "timePeriod": "Tanach",
+            "isNonJew": false,
+            "display_en_name": "abraham"
+        },
+        {
+            "key": "6ac749068944908bc22a1399",
+            "entityType": "Person",
+            "display_heb_name": "רבי חלבו",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "helbo"
+        },
+        {
+            "key": "6ac7490e8944908bc22a13b7",
+            "entityType": "Person",
+            "display_heb_name": "יצחק",
+            "timePeriod": "Tanach",
+            "isNonJew": false,
+            "display_en_name": "isaac"
+        },
+        {
+            "key": "6ac7490f8944908bc22a13b8",
+            "entityType": "Person",
+            "display_heb_name": "רב נחמן בר יצחק",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "nahman bar yitzhak"
+        },
+        {
+            "key": "6ac7490f8944908bc22a13b9",
+            "entityType": "Symbol",
+            "display_heb_name": "אש",
+            "symbolType": "Part of Nature",
+            "display_en_name": "fire"
+        },
+        {
+            "key": "6ac7490f8944908bc22a13ba",
+            "entityType": "Symbol",
+            "display_heb_name": "קטרת",
+            "symbolType": "Holy Object",
+            "display_en_name": "incense"
+        }
+    ],
+    "key": "BT_Berakhot_0_6b:26-28"
+}

@@ -1,0 +1,52 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748b88944908bc22a125a",
+            "entityType": "Person",
+            "display_heb_name": "רבי יצחק",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "yitzhak"
+        },
+        {
+            "key": "6ac748f68944908bc22a135b",
+            "entityType": "Person",
+            "display_heb_name": "רב הונא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "huna"
+        },
+        {
+            "key": "6ac7493b8944908bc22a1450",
+            "entityType": "Person",
+            "display_heb_name": "רבי שמעון בן יוחי",
+            "timePeriod": "Tanaim",
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "shimon ben yohai"
+        },
+        {
+            "key": "6ac7493b8944908bc22a1451",
+            "entityType": "Person",
+            "display_heb_name": "רבי דוסתאי",
+            "timePeriod": "Tanaim",
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "dostai"
+        },
+        {
+            "key": "6ac7493b8944908bc22a1452",
+            "entityType": "Person",
+            "display_heb_name": "רבי מתון",
+            "timePeriod": "Tanaim",
+            "display_en_name": "matun"
+        }
+    ],
+    "key": "BT_Berakhot_0_7b:15-22"
+}

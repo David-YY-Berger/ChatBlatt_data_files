@@ -1,0 +1,20 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748bb8944908bc22a1267",
+            "entityType": "Number",
+            "contexts": [
+                {
+                    "en_context": "kings rise",
+                    "heb_context": "מלכים לעמוד"
+                },
+                {
+                    "en_context": "shema recitation",
+                    "heb_context": "קורין את שמע"
+                }
+            ],
+            "display_en_name": "3"
+        }
+    ],
+    "key": "BT_Berakhot_0_9b:9-10"
+}

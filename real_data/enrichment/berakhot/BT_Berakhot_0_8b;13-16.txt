@@ -1,0 +1,97 @@
+﻿COST: Tokens: Total=4625 approx cost=$0.004775 (Prompt=3085, Completion=1540)
+SOURCE:
+Berakhot (Zeraim) 8b:13-16
+
+ENTITIES TO ENRICH (9):
+{"key":"6ac739c3b9ad2bcc0401a1da","display_en_name":"jacob","display_heb_name":"יעקב","all_en_names":["Jacob"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isNonJew":false,"isGroup":false,"roles":[]}
+{"key":"6ac739c4b9ad2bcc0401a1dc","display_en_name":"leah","display_heb_name":"לאה","all_en_names":["Leah"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isWoman":true,"isGroup":false,"roles":[]}
+{"key":"6ac739f6b9ad2bcc0401a28c","display_en_name":"rachel","display_heb_name":"","all_en_names":["Rachel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isGroup":false,"roles":[]}
+{"key":"6ac7488f8944908bc22a11b0","display_en_name":"rabban gamliel","display_heb_name":"רבן גמליאל","all_en_names":["Rabban Gamliel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","isNonJew":false,"isGroup":false,"roles":["Tanna"]}
+{"key":"6ac7495b8944908bc22a14ca","display_en_name":"akiva","display_heb_name":"","all_en_names":["Akiva"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac7495b8944908bc22a14cb","display_en_name":"rav adda bar ahava","display_heb_name":"","all_en_names":["Rav Adda Bar Ahava"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac7495c8944908bc22a14cc","display_en_name":"gehenna","display_heb_name":"","all_en_names":["Gehenna"],"all_heb_names":[],"entityType":"Place","alias_keys":[]}
+{"key":"6ac7495c8944908bc22a14cd","display_en_name":"media","display_heb_name":"","all_en_names":["Media"],"all_heb_names":[],"entityType":"Nation","alias_keys":[]}
+{"key":"6ac7495c8944908bc22a14ce","display_en_name":"persia","display_heb_name":"","all_en_names":["Persia"],"all_heb_names":[],"entityType":"Nation","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+The Gemara cites a statement from a baraita , along the lines of Ravas advice to refrain from cutting meat on ones hands: Rabbi Akiva said: In three aspects of their conduct, I like the Medes, and we should learn from their practices. When they cut meat, they cut it only on the table and not on their hands; when they kiss, either as a show of affection or honor, they kiss only the back of the hand and do not give the person being kissed an unpleasant feeling; and when they hold counsel, they only hold counsel in the field so others will not hear their secrets. Rav Adda bar Ahava said: From what verse is this derived? From the verse, And Jacob sent and he called Rachel and Leah to the field to his flock (Genesis 31:4); it was only there in the field that he held counsel with them. It was taught in a baraita , Rabban Gamliel said: In three aspects of their conduct, I like the Persians: They are a modest people; they are modest in their eating, they are modest in the lavatory, and they are modest in another matter, i.e., sexual relations.While they have been praised here regarding certain specific aspects of their conduct, the Gemara proceeds to offer another perspective on the Persians based on a verse describing the destruction of Babylonia at the hands of the Persian and Median armies: I have commanded My consecrated ones; I have also called My mighty ones for My anger, even My proudly exulting ones (Isaiah 13:3). Rav Yosef taught a baraita : These are the Persians who are consecrated and designated for Gehenna, for they have been sent by God to carry out his mission of anger, and they will be sent to Gehenna.
+
+HEBREW:
+תניא, אמר רבי עקיבא: בשלשה דברים אוהב אני את המדיים, כשחותכין את הבשר — אין חותכין אלא על גבי השולחן, כשנושקין — אין נושקין אלא על גב היד, וכשיועצין — אין יועצין אלא בשדה.אמר רב אדא בר אהבה: מאי קראה ״וישלח יעקב ויקרא לרחל וללאה השדה אל צאנו״.תניא אמר רבן גמליאל: בשלשה דברים אוהב אני את הפרסיים: הן צנועין באכילתן, וצנועין בבית הכסא, וצנועין בדבר אחר.״אני צויתי למקדשי״, תני רב יוסף: אלו הפרסיים המקודשין ומזומנין לגיהנם.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac739c3b9ad2bcc0401a1da",
+      "entityType": "Person",
+      "timePeriod": "Tanach",
+      "isNonJew": false,
+      "isGroup": false
+    },
+    {
+      "key": "6ac739c4b9ad2bcc0401a1dc",
+      "entityType": "Person",
+      "timePeriod": "Tanach",
+      "isWoman": true,
+      "isGroup": false
+    },
+    {
+      "key": "6ac739f6b9ad2bcc0401a28c",
+      "entityType": "Person",
+      "display_heb_name": "רחל",
+      "timePeriod": "Tanach",
+      "isWoman": true,
+      "isGroup": false
+    },
+    {
+      "key": "6ac7488f8944908bc22a11b0",
+      "entityType": "Person",
+      "timePeriod": "Tanaim",
+      "isNonJew": false,
+      "isGroup": false,
+      "roles": [
+        "Tanna"
+      ]
+    },
+    {
+      "key": "6ac7495b8944908bc22a14ca",
+      "entityType": "Person",
+      "display_heb_name": "רבי עקיבא",
+      "timePeriod": "Tanaim",
+      "isNonJew": false,
+      "isGroup": false,
+      "roles": [
+        "Tanna"
+      ]
+    },
+    {
+      "key": "6ac7495b8944908bc22a14cb",
+      "entityType": "Person",
+      "display_heb_name": "רב אדא בר אהבה",
+      "timePeriod": "Amoraim",
+      "isNonJew": false,
+      "isGroup": false,
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac7495c8944908bc22a14cc",
+      "entityType": "Place",
+      "display_heb_name": "גיהנם",
+      "placeType": "Not Physical"
+    },
+    {
+      "key": "6ac7495c8944908bc22a14cd",
+      "entityType": "Nation",
+      "display_heb_name": "מדיים"
+    },
+    {
+      "key": "6ac7495c8944908bc22a14ce",
+      "entityType": "Nation",
+      "display_heb_name": "פרסיים"
+    }
+  ]
+}

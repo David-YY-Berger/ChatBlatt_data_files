@@ -1,0 +1,207 @@
+﻿COST: Tokens: Total=8378 approx cost=$0.010752 (Prompt=4633, Completion=3745)
+SOURCE:
+Berakhot (Zeraim) 3b:27-4a:7
+
+ENTITIES TO ENRICH (23):
+{"key":"6ac73970b9ad2bcc0401a0a4","display_en_name":"david","display_heb_name":"דוד","all_en_names":["David"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isNonJew":false,"isGroup":false,"roles":["King"]}
+{"key":"6ac73992b9ad2bcc0401a125","display_en_name":"moses","display_heb_name":"","all_en_names":["Moses"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isGroup":false,"roles":[]}
+{"key":"6ac73994b9ad2bcc0401a12b","display_en_name":"egypt","display_heb_name":"","all_en_names":["Egypt"],"all_heb_names":[],"entityType":"Place","alias_keys":[]}
+{"key":"6ac748a68944908bc22a1213","display_en_name":"israel","display_heb_name":"ישראל","all_en_names":["Israel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isGroup":true,"roles":[]}
+{"key":"6ac748af8944908bc22a1236","display_en_name":"rabbi zeira","display_heb_name":"רבי זירא","all_en_names":["Rabbi Zeira"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748b08944908bc22a1237","display_en_name":"rav ashi","display_heb_name":"רב אשי","all_en_names":["Rav Ashi"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748b18944908bc22a123d","display_en_name":"benayahu","display_heb_name":"","all_en_names":["Benayahu"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748b18944908bc22a123e","display_en_name":"yehoyada","display_heb_name":"","all_en_names":["Yehoyada"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748b18944908bc22a123f","display_en_name":"evyatar","display_heb_name":"","all_en_names":["Evyatar"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748b28944908bc22a1240","display_en_name":"ahimelekh","display_heb_name":"","all_en_names":["Ahimelekh"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748b28944908bc22a1241","display_en_name":"ahitophel","display_heb_name":"","all_en_names":["Ahitophel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748b28944908bc22a1242","display_en_name":"yoav","display_heb_name":"","all_en_names":["Yoav"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748b28944908bc22a1243","display_en_name":"rav yitzhak bar adda","display_heb_name":"","all_en_names":["Rav Yitzhak Bar Adda"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748b38944908bc22a1244","display_en_name":"rav yitzhak","display_heb_name":"","all_en_names":["Rav Yitzhak"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748b38944908bc22a1245","display_en_name":"rav idi","display_heb_name":"","all_en_names":["Rav Idi"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748b38944908bc22a1246","display_en_name":"pharaoh","display_heb_name":"","all_en_names":["Pharaoh"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748b48944908bc22a1247","display_en_name":"sanhedrin","display_heb_name":"","all_en_names":["Sanhedrin"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748b48944908bc22a1248","display_en_name":"holy one, blessed be he","display_heb_name":"","all_en_names":["Holy One, Blessed Be He"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748b48944908bc22a1249","display_en_name":"egypt","display_heb_name":"","all_en_names":["Egypt"],"all_heb_names":[],"entityType":"Nation","alias_keys":[]}
+{"key":"6ac748b48944908bc22a124a","display_en_name":"urim vetummim","display_heb_name":"","all_en_names":["Urim Vetummim"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748b58944908bc22a124b","display_en_name":"lyre","display_heb_name":"","all_en_names":["Lyre"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748b68944908bc22a1250","display_en_name":"13","display_heb_name":"","all_en_names":["13"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Time","en_unit":"day","contexts":[{"en_context":"moses prophecy","source_keys":["BT_Berakhot_0_3b:27-4a:7"]}]}
+{"key":"6ac748b68944908bc22a1251","display_en_name":"14","display_heb_name":"","all_en_names":["14"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Time","en_unit":"day","contexts":[{"en_context":"moses prophecy","source_keys":["BT_Berakhot_0_3b:27-4a:7"]}]}
+
+PASSAGE:
+ENGLISH:
+Benayahu ben Yehoyada corresponds to the Sanhedrin, since he was the head of the Sanhedrin, and Evyatar corresponds to the Urim VeTummim , as Evyatar ben Ahimelekh the priest would oversee inquiries directed to the Urim VeTummim (see I Samuel 23:9). And so it says regarding Benayahu ben Yehoyadas position as head of the Sanhedrin: And Benayahu ben Yehoyada was over the Kereti and over the Peleti (II Samuel 20:23). And why was the Sanhedrin called Kereti UPeleti ? It was called Kereti because they were decisive [ koretim ] in their pronouncements. It was called Peleti because their pronouncements and wisdom were wondrous [ muflaim ] . The head of the Kereti UPeleti was the head of the Sanhedrin. According to the order of the verse, upon being instructed by King David to go to war, the Sages first consulted with Ahitophel, then with the Sanhedrin, then they would ask the Urim VeTummim , and only thereafter was the general of the kings army, Yoav, given the command to ready the military for battle. Rav Yitzhak bar Adda, and some say Rav Yitzhak, son of Rav Idi, said: From what verse is it derived that Davids lyre would wake him at midnight? Awake, my glory; awake, harp and lyre; I will wake the dawn (Psalms 57:9). This means that the playing lyre has already woken, and now I must engage in Torah study until dawn. Rabbi Zeira offered a different solution to the question of whether Moses and David knew exactly when it was midnight and said: Moses certainly knew when it was midnight, and David also knew. The Gemara asks: If David knew, then why did he need the lyre? The Gemara answers: He needed the lyre to wake him from his sleep. Similarly with regard to Moses, since Moses knew the precise moment of midnight, why did he say: About midnight, instead of: At midnight? Moses did so because he maintained: Lest Pharaohs astrologers err and believe midnight to be earlier. Since no disaster would have occurred, they would say: Moses is a liar. Moses spoke in accordance with the principle articulated by the Master: Accustom your tongue to say: I do not know, lest you become entangled in a web of deceit. Rav Ashi said: This question is unfounded, as Moses was standing at midnight of the thirteenth, leading into the fourteenth, when he pronounced his prophecy, and Moses told Israel that the Holy One, Blessed be He, said that tomorrow, at the exact time like midnight tonight, I will go out into the midst of Egypt. This indicates that the passage should not be understood to mean about midnight, an approximation; but rather, like midnight, as a comparison, likening midnight tomorrow to midnight tonight.
+
+HEBREW:
+״בניהו בן יהוידע״ זה סנהדרין, ״ואביתר״ אלו אורים ותומים.וכן הוא אומר: ״ובניהו בן יהוידע על הכרתי ועל הפלתי״. ולמה נקרא שמם ״כרתי״ ו״פלתי״? ״כרתי״ שכורתים דבריהם, ״פלתי״ שמופלאים בדבריהם. ואחר כך ״שר צבא למלך יואב״.אמר רב יצחק בר אדא, ואמרי לה אמר רב יצחק בריה דרב אידי: מאי קרא ״עורה כבודי עורה הנבל וכנור אעירה שחר״.רבי זירא אמר: משה לעולם הוה ידע, ודוד נמי הוה ידע.וכיון דדוד הוה ידע, כנור למה ליה? לאתעורי משנתיה.וכיון דמשה הוה ידע, למה ליה למימר ״כחצות״? — משה קסבר: שמא יטעו אצטגניני פרעה, ויאמרו ״משה בדאי הוא״. דאמר מר: למד לשונך לומר ״איני יודע״, שמא תתבדה ותאחז.רב אשי אמר: בפלגא אורתא דתליסר נגהי ארבסר הוה קאי, והכי קאמר משה לישראל, אמר הקדוש ברוך הוא: למחר כחצות הלילה כי האידנא אני יוצא בתוך מצרים.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac73970b9ad2bcc0401a0a4",
+      "entityType": "Person",
+      "display_heb_name": "דוד",
+      "timePeriod": "Tanach",
+      "isNonJew": false,
+      "isGroup": false,
+      "roles": [
+        "King"
+      ]
+    },
+    {
+      "key": "6ac73992b9ad2bcc0401a125",
+      "entityType": "Person",
+      "display_heb_name": "משה",
+      "timePeriod": "Tanach",
+      "isNonJew": false,
+      "roles": [
+        "Prophet"
+      ]
+    },
+    {
+      "key": "6ac73994b9ad2bcc0401a12b",
+      "entityType": "Place",
+      "display_heb_name": "מצרים",
+      "placeType": "Country or Region"
+    },
+    {
+      "key": "6ac748a68944908bc22a1213",
+      "entityType": "Person",
+      "display_heb_name": "ישראל",
+      "timePeriod": "Tanach",
+      "isGroup": true
+    },
+    {
+      "key": "6ac748af8944908bc22a1236",
+      "entityType": "Person",
+      "display_heb_name": "רבי זירא",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748b08944908bc22a1237",
+      "entityType": "Person",
+      "display_heb_name": "רב אשי",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748b18944908bc22a123d",
+      "entityType": "Person",
+      "display_heb_name": "בניהו",
+      "timePeriod": "Tanach",
+      "roles": [
+        "Kohen"
+      ]
+    },
+    {
+      "key": "6ac748b18944908bc22a123e",
+      "entityType": "Person",
+      "display_heb_name": "יהוידע",
+      "timePeriod": "Tanach"
+    },
+    {
+      "key": "6ac748b18944908bc22a123f",
+      "entityType": "Person",
+      "display_heb_name": "אביתר",
+      "timePeriod": "Tanach",
+      "roles": [
+        "Kohen"
+      ]
+    },
+    {
+      "key": "6ac748b28944908bc22a1240",
+      "entityType": "Person",
+      "timePeriod": "Tanach"
+    },
+    {
+      "key": "6ac748b28944908bc22a1241",
+      "entityType": "Person",
+      "timePeriod": "Tanach"
+    },
+    {
+      "key": "6ac748b28944908bc22a1242",
+      "entityType": "Person",
+      "display_heb_name": "יואב",
+      "timePeriod": "Tanach"
+    },
+    {
+      "key": "6ac748b38944908bc22a1243",
+      "entityType": "Person",
+      "display_heb_name": "רב יצחק בר אדא"
+    },
+    {
+      "key": "6ac748b38944908bc22a1244",
+      "entityType": "Person",
+      "display_heb_name": "רב יצחק"
+    },
+    {
+      "key": "6ac748b38944908bc22a1245",
+      "entityType": "Person",
+      "display_heb_name": "רב אידי"
+    },
+    {
+      "key": "6ac748b48944908bc22a1246",
+      "entityType": "Person",
+      "display_heb_name": "פרעה",
+      "timePeriod": "Tanach",
+      "isNonJew": true
+    },
+    {
+      "key": "6ac748b48944908bc22a1247",
+      "entityType": "Person",
+      "display_heb_name": "סנהדרין",
+      "timePeriod": "Tanach",
+      "isGroup": true
+    },
+    {
+      "key": "6ac748b48944908bc22a1248",
+      "entityType": "Person",
+      "display_heb_name": "הקדוש ברוך הוא",
+      "timePeriod": "No Time Period"
+    },
+    {
+      "key": "6ac748b48944908bc22a1249",
+      "entityType": "Nation",
+      "display_heb_name": "מצרים"
+    },
+    {
+      "key": "6ac748b48944908bc22a124a",
+      "entityType": "Symbol",
+      "display_heb_name": "אורים ותומים",
+      "symbolType": "Holy Object"
+    },
+    {
+      "key": "6ac748b58944908bc22a124b",
+      "entityType": "Symbol",
+      "display_heb_name": "כנור",
+      "symbolType": "Other"
+    },
+    {
+      "key": "6ac748b68944908bc22a1250",
+      "entityType": "Number",
+      "heb_unit": "יום",
+      "contexts": [
+        {
+          "en_context": "moses prophecy",
+          "heb_context": "נבואת משה"
+        }
+      ]
+    },
+    {
+      "key": "6ac748b68944908bc22a1251",
+      "entityType": "Number",
+      "heb_unit": "יום",
+      "contexts": [
+        {
+          "en_context": "moses prophecy",
+          "heb_context": "נבואת משה"
+        }
+      ]
+    }
+  ]
+}

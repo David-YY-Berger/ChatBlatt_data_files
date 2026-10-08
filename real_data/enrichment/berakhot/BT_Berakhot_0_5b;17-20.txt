@@ -1,0 +1,95 @@
+﻿COST: Tokens: Total=6601 approx cost=$0.009146 (Prompt=3344, Completion=3257)
+SOURCE:
+Berakhot (Zeraim) 5b:17-20
+
+ENTITIES TO ENRICH (10):
+{"key":"6ac748a48944908bc22a1208","display_en_name":"grape","display_heb_name":"","all_en_names":["Grape"],"all_heb_names":[],"entityType":"Plant","alias_keys":[]}
+{"key":"6ac748d98944908bc22a12e3","display_en_name":"god","display_heb_name":"אלהים","all_en_names":["God"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isNonJew":false,"isGroup":false,"roles":[]}
+{"key":"6ac748e28944908bc22a1309","display_en_name":"rav huna","display_heb_name":"רב הונא","all_en_names":["Rav Huna"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748ed8944908bc22a1335","display_en_name":"rav yehuda","display_heb_name":"","all_en_names":["Rav Yehuda"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748ed8944908bc22a1336","display_en_name":"rav sala","display_heb_name":"","all_en_names":["Rav Sala"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748ee8944908bc22a1337","display_en_name":"adda bar ahava","display_heb_name":"","all_en_names":["Adda Bar Ahava"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748ee8944908bc22a1338","display_en_name":"400","display_heb_name":"","all_en_names":["400"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Misc","en_unit":"barrel","contexts":[{"en_context":"rav huna's wine","source_keys":["BT_Berakhot_0_5b:17-20"]}]}
+{"key":"6ac748ee8944908bc22a1339","display_en_name":"wine","display_heb_name":"","all_en_names":["Wine"],"all_heb_names":[],"entityType":"Food","alias_keys":[]}
+{"key":"6ac748ee8944908bc22a133a","display_en_name":"vinegar","display_heb_name":"","all_en_names":["Vinegar"],"all_heb_names":[],"entityType":"Food","alias_keys":[]}
+{"key":"6ac748ef8944908bc22a133b","display_en_name":"grapevine","display_heb_name":"","all_en_names":["Grapevine"],"all_heb_names":[],"entityType":"Plant","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+The Gemara relates another story regarding acknowledgement of the justice of divine punishment: Four hundred barrels of Rav Hunas wine fermented and turned into vinegar, causing him great financial loss. Rav Yehuda, the brother of Rav Sala the Pious, along with the Sages, and some say Rav Adda bar Ahava, along with the Sages, entered to visit him, and said: The Master should examine his actions, as perhaps he committed a transgression for which he is being punished. Rav Huna said to them: Am I suspect in your eyes? Have I committed a transgression on account of which you advise me to examine my behavior? They said to him: Is the Holy One, Blessed be He, suspect that He exacts punishment without justice? Your loss was certainly just, and you must examine your conduct to find out why. The Sages were aware of a flaw in Rav Hunas conduct, to which they alluded ( Tosafot ).Rav Huna said to them: If someone has heard something improper that I have done, let him say so. They said to him: We have heard that the Master does not give a share of his grapevines to his tenant farmers. A tenant farmer is entitled to a portion of the crop grown on his landlords property, as well as a share of the vines planted during a given year.Rav Huna said to them: Does this tenant farmer leave me anything from the produce that he grows on my property? He steals it all. Consequently, in denying him his share of the grapevines I am simply recouping that which was stolen from me by this tenant farmer. They said to him: That is the meaning of the folk saying: One who steals from a thief has a taste of theft. Despite the fact that the property was stolen to begin with, one nevertheless engages in theft. Although he did not violate a prohibition per se, it is still a form of theft, and one who is held to a higher standard than others will be punished for it. He said to them: I accept upon myself to give my tenant farmer his portion in the future. Thereupon, as a result of Rav Hunas repentance, God restored his loss. Some say his vinegar turned back into wine, and some say that the price of vinegar rose and it was sold at the price of wine.
+
+HEBREW:
+רב הונא תקיפו ליה ארבע מאה דני דחמרא. על לגביה רב יהודה אחוה דרב סלא חסידא ורבנן, ואמרי לה רב אדא בר אהבה ורבנן, ואמרו ליה: לעיין מר במיליה. אמר להו: ומי חשידנא בעינייכו? אמרו ליה: מי חשיד קודשא בריך הוא דעביד דינא בלא דינא?!אמר להו: אי איכא מאן דשמיע עלי מלתא — לימא. אמרו ליה: הכי שמיע לן, דלא יהיב מר שבישא לאריסיה.אמר להו: מי קא שביק לי מידי מיניה? הא קא גניב ליה כוליה!אמרו ליה: היינו דאמרי אינשי: ״בתר גנבא גנוב, וטעמא טעים״. אמר להו: קבילנא עלי דיהיבנא ליה. איכא דאמרי: הדר חלא והוה חמרא. ואיכא דאמרי: אייקר חלא, ואיזדבן בדמי דחמרא.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748d98944908bc22a12e3",
+      "entityType": "Person",
+      "display_heb_name": "קודשא בריך הוא"
+    },
+    {
+      "key": "6ac748e28944908bc22a1309",
+      "entityType": "Person",
+      "display_heb_name": "רב הונא",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748ed8944908bc22a1335",
+      "entityType": "Person",
+      "display_heb_name": "רב יהודה",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748ed8944908bc22a1336",
+      "entityType": "Person",
+      "display_heb_name": "רב סלא",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748ee8944908bc22a1337",
+      "entityType": "Person",
+      "display_heb_name": "רב אדא בר אהבה",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748ee8944908bc22a1338",
+      "entityType": "Number",
+      "heb_unit": "דן",
+      "contexts": [
+        {
+          "en_context": "rav huna's wine",
+          "heb_context": "חמרא דרב הונא"
+        }
+      ]
+    },
+    {
+      "key": "6ac748ee8944908bc22a1339",
+      "entityType": "Food",
+      "display_heb_name": "חמרא"
+    },
+    {
+      "key": "6ac748ee8944908bc22a133a",
+      "entityType": "Food",
+      "display_heb_name": "חלא"
+    },
+    {
+      "key": "6ac748ef8944908bc22a133b",
+      "entityType": "Plant",
+      "display_heb_name": "גפן"
+    }
+  ]
+}

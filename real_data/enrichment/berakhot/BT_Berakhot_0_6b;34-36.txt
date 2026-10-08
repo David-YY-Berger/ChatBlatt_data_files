@@ -1,0 +1,60 @@
+﻿COST: Tokens: Total=6316 approx cost=$0.009621 (Prompt=2804, Completion=3512)
+SOURCE:
+Berakhot (Zeraim) 6b:34-36
+
+ENTITIES TO ENRICH (7):
+{"key":"6ac748ae8944908bc22a1232","display_en_name":"abba bar kahana","display_heb_name":"רבי אבא בר כהנא","all_en_names":["Abba Bar Kahana"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748d28944908bc22a12c7","display_en_name":"elazar","display_heb_name":"רבי אלעזר","all_en_names":["Elazar"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748d98944908bc22a12e3","display_en_name":"god","display_heb_name":"ה׳","all_en_names":["God"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isNonJew":false,"isGroup":false,"roles":[]}
+{"key":"6ac748f68944908bc22a135b","display_en_name":"huna","display_heb_name":"רב הונא","all_en_names":["Huna"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac749068944908bc22a1399","display_en_name":"helbo","display_heb_name":"רבי חלבו","all_en_names":["Helbo"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac749158944908bc22a13cc","display_en_name":"shimon ben azzai","display_heb_name":"","all_en_names":["Shimon Ben Azzai"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749158944908bc22a13cd","display_en_name":"shimon ben zoma","display_heb_name":"","all_en_names":["Shimon Ben Zoma"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+
+PASSAGE:
+ENGLISH:
+And Rabbi Helbo said that Rav Huna said: Any person who has the fear of Heaven, his words are heeded, as it is stated: The end of the matter, all having been heard: Fear God, and keep His commandments; for this is all of man (Ecclesiastes 12:13). The Gemara explains: The end of the matter, all having been heard, refers to the words of one who keeps His commandments; for this is all of man.With regard to the end of this verse, the Gemara asks: What is meant by, for this is all of man? Rabbi Elazar said: The Holy One, Blessed be He, said about him: The entire world was created only for this person. This is the ultimate person for which all of man was created. Rabbi Abba bar Kahana said: The end of this verse teaches that this is equivalent to the entire world, all of man. Rabbi Shimon ben Azzai, and some say Rabbi Shimon ben Zoma, says: Not only is he the equivalent of the entire world, but the entire world was created to serve as companions for him, so that he would have a society in which to live and with which to interact.
+
+HEBREW:
+ואמר רבי חלבו, אמר רב הונא: כל אדם שיש בו יראת שמים — דבריו נשמעין, שנאמר: ״סוף דבר הכל נשמע את האלהים ירא וגו׳״.מאי ״כי זה כל האדם״? אמר רבי אלעזר, אמר הקדוש ברוך הוא: כל העולם כלו לא נברא אלא בשביל זה.רבי אבא בר כהנא אמר: שקול זה כנגד כל העולם כולו, רבי שמעון בן עזאי אומר, ואמרי לה רבי שמעון בן זומא אומר: כל העולם כולו לא נברא אלא לצוות לזה.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748ae8944908bc22a1232",
+      "entityType": "Person",
+      "display_heb_name": "רבי אבא בר כהנא"
+    },
+    {
+      "key": "6ac748d28944908bc22a12c7",
+      "entityType": "Person",
+      "display_heb_name": "רבי אלעזר"
+    },
+    {
+      "key": "6ac748d98944908bc22a12e3",
+      "entityType": "Person",
+      "display_heb_name": "הקדוש ברוך הוא"
+    },
+    {
+      "key": "6ac748f68944908bc22a135b",
+      "entityType": "Person",
+      "display_heb_name": "רב הונא"
+    },
+    {
+      "key": "6ac749068944908bc22a1399",
+      "entityType": "Person",
+      "display_heb_name": "רבי חלבו"
+    },
+    {
+      "key": "6ac749158944908bc22a13cc",
+      "entityType": "Person",
+      "display_heb_name": "רבי שמעון בן עזאי"
+    },
+    {
+      "key": "6ac749158944908bc22a13cd",
+      "entityType": "Person",
+      "display_heb_name": "רבי שמעון בן זומא"
+    }
+  ]
+}

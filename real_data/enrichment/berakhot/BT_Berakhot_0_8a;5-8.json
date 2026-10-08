@@ -1,0 +1,81 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748a68944908bc22a1213",
+            "entityType": "Person",
+            "display_heb_name": "ישראל",
+            "timePeriod": "Tanach",
+            "display_en_name": "israel"
+        },
+        {
+            "key": "6ac748af8944908bc22a1235",
+            "entityType": "Person",
+            "display_heb_name": "רבי אחא",
+            "display_en_name": "rabbi aha"
+        },
+        {
+            "key": "6ac748e28944908bc22a1307",
+            "entityType": "Person",
+            "display_heb_name": "רב חסדא",
+            "display_en_name": "rav hisda"
+        },
+        {
+            "key": "6ac748eb8944908bc22a132d",
+            "entityType": "Person",
+            "display_heb_name": "רבי חנינא",
+            "display_en_name": "rabbi hanina"
+        },
+        {
+            "key": "6ac748f08944908bc22a1340",
+            "entityType": "Person",
+            "display_heb_name": "רבי יהושע בן לוי",
+            "display_en_name": "rabbi yehoshua ben levi"
+        },
+        {
+            "key": "6ac749438944908bc22a146a",
+            "entityType": "Person",
+            "display_heb_name": "ריש לקיש",
+            "display_en_name": "reish lakish"
+        },
+        {
+            "key": "6ac749448944908bc22a146b",
+            "entityType": "Nation",
+            "display_heb_name": "בית יהודה",
+            "display_en_name": "judah"
+        },
+        {
+            "key": "6ac749448944908bc22a146c",
+            "entityType": "Symbol",
+            "display_heb_name": "נחלה",
+            "symbolType": "Not Physical",
+            "display_en_name": "inheritance"
+        },
+        {
+            "key": "6ac749458944908bc22a146d",
+            "entityType": "Symbol",
+            "display_heb_name": "מזוזה",
+            "symbolType": "Other",
+            "display_en_name": "door post"
+        },
+        {
+            "key": "6ac749458944908bc22a146e",
+            "entityType": "Symbol",
+            "display_heb_name": "בית הכנסת",
+            "symbolType": "Holy Object",
+            "display_en_name": "synagogue"
+        },
+        {
+            "key": "6ac749458944908bc22a146f",
+            "entityType": "Number",
+            "heb_unit": "פתח",
+            "contexts": [
+                {
+                    "en_context": "synagogue entry",
+                    "heb_context": "כניסה לבית הכנסת"
+                }
+            ],
+            "display_en_name": "2"
+        }
+    ],
+    "key": "BT_Berakhot_0_8a:5-8"
+}

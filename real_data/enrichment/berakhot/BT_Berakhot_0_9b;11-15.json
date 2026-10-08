@@ -1,0 +1,53 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac7494e8944908bc22a1495",
+            "entityType": "Number",
+            "contexts": [
+                {
+                    "en_context": "recognize acquaintance distance",
+                    "heb_context": "הכרת חבר מרחוק"
+                }
+            ],
+            "display_en_name": "4"
+        },
+        {
+            "key": "6ac7496b8944908bc22a1505",
+            "entityType": "Person",
+            "display_heb_name": "אחרים",
+            "timePeriod": "Tanaim",
+            "isGroup": true,
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "aherim"
+        },
+        {
+            "key": "6ac7496c8944908bc22a1506",
+            "entityType": "Person",
+            "display_heb_name": "ותיקין",
+            "timePeriod": "Tanaim",
+            "isGroup": true,
+            "display_en_name": "vatikin"
+        },
+        {
+            "key": "6ac7496c8944908bc22a1507",
+            "entityType": "Symbol",
+            "symbolType": "Holy Object",
+            "display_en_name": "ritual fringes"
+        },
+        {
+            "key": "6ac7496d8944908bc22a1508",
+            "entityType": "Animal",
+            "display_heb_name": "זאב",
+            "display_en_name": "wolf"
+        },
+        {
+            "key": "6ac7496d8944908bc22a1509",
+            "entityType": "Animal",
+            "display_heb_name": "ערוד",
+            "display_en_name": "wild donkey"
+        }
+    ],
+    "key": "BT_Berakhot_0_9b:11-15"
+}

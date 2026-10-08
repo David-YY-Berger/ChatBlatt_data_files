@@ -1,0 +1,50 @@
+﻿COST: Tokens: Total=3157 approx cost=$0.002252 (Prompt=2564, Completion=593)
+SOURCE:
+Berakhot (Zeraim) 10b:37-41
+
+ENTITIES TO ENRICH (3):
+{"key":"6ac749a18944908bc22a15ba","display_en_name":"beit shammai","display_heb_name":"","all_en_names":["Beit Shammai"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749a18944908bc22a15bb","display_en_name":"beit hillel","display_heb_name":"","all_en_names":["Beit Hillel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749a28944908bc22a15bc","display_en_name":"rabbi tarfon","display_heb_name":"","all_en_names":["Rabbi Tarfon"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+
+PASSAGE:
+ENGLISH:
+MISHNA: Beit Shammai and Beit Hillel disputed the proper way to recite Shema . Beit Shammai say: One should recite Shema in the manner indicated in the text of Shema itself. Therefore, in the evening every person must recline on his side and recite Shema , in fulfillment of the verse: When you lie down, and in the morning he must stand and recite Shema , in fulfillment of the verse: When you rise, as it is stated: When you lie down, and when you rise. And Beit Hillel say: Every person recites Shema as he is, and he may do so in whatever position is most comfortable for him, both day and night, as it is stated: And when you walk along the way, when one is neither standing nor reclining ( Meiri ). If so, according to Beit Hillel, why was it stated: When you lie down, and when you rise? This is merely to denote time; at the time when people lie down and the time when people rise. With regard to this halakha , Rabbi Tarfon said: Once, I was coming on the road when I stopped and reclined to recite Shema in accordance with the statement of Beit Shammai. Although Rabbi Tarfon was a disciple of Beit Hillel, he thought that fulfilling the mitzva in accordance with the opinion of Beit Shammai would be a more meticulous fulfillment of the mitzva, acceptable to all opinions. Yet in so doing, I endangered myself due to the highwaymen [ listim ] who accost travelers.The Sages said to him: You deserved to be in a position where you were liable to pay with your life, as you transgressed the statement of Beit Hillel. This statement will be explained in the Gemara.
+
+HEBREW:
+מתני׳ בית שמאי אומרים: בערב — כל אדם יטה ויקרא. ובבקר יעמוד, שנאמר: ״ובשכבך ובקומך״.ובית הלל אומרים: כל אדם קורא כדרכו. שנאמר ״ובלכתך בדרך״.אם כן למה נאמר ״ובשכבך ובקומך״ — בשעה שבני אדם שוכבים ובשעה שבני אדם עומדים.אמר רבי טרפון: אני הייתי בא בדרך והטתי לקרות כדברי בית שמאי. וסכנתי בעצמי מפני הלסטים.אמרו לו: כדי היית לחוב בעצמך, שעברת על דברי בית הלל.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac749a18944908bc22a15ba",
+      "entityType": "Person",
+      "display_heb_name": "בית שמאי",
+      "timePeriod": "Tanaim",
+      "isGroup": true,
+      "roles": [
+        "Tanna"
+      ]
+    },
+    {
+      "key": "6ac749a18944908bc22a15bb",
+      "entityType": "Person",
+      "display_heb_name": "בית הלל",
+      "timePeriod": "Tanaim",
+      "isGroup": true,
+      "roles": [
+        "Tanna"
+      ]
+    },
+    {
+      "key": "6ac749a28944908bc22a15bc",
+      "entityType": "Person",
+      "display_heb_name": "רבי טרפון",
+      "timePeriod": "Tanaim",
+      "roles": [
+        "Tanna"
+      ]
+    }
+  ]
+}

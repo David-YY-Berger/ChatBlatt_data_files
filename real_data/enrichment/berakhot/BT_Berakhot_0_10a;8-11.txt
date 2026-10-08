@@ -1,0 +1,112 @@
+﻿COST: Tokens: Total=6042 approx cost=$0.007603 (Prompt=3410, Completion=2632)
+SOURCE:
+Berakhot (Zeraim) 10a:8-11
+
+ENTITIES TO ENRICH (10):
+{"key":"6ac73970b9ad2bcc0401a0a4","display_en_name":"david","display_heb_name":"דוד","all_en_names":["David"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isNonJew":false,"isGroup":false,"roles":["Judge","King"]}
+{"key":"6ac748ba8944908bc22a1263","display_en_name":"psalms","display_heb_name":"","all_en_names":["Psalms"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac749388944908bc22a1443","display_en_name":"3","display_heb_name":"","all_en_names":["3"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Misc","en_unit":"chapter","heb_unit":"פרק","contexts":[{"en_context":"psalm chapter","heb_context":"תהילים פרק","source_keys":["BT_Berakhot_0_7b:11-14"]},{"en_context":"psalm reference","source_keys":["BT_Berakhot_0_10a:8-11"]}]}
+{"key":"6ac749768944908bc22a152b","display_en_name":"heretic","display_heb_name":"מינא","all_en_names":["Heretic"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","isNonJew":true,"isGroup":false,"roles":[]}
+{"key":"6ac749788944908bc22a1535","display_en_name":"rabbi abbahu","display_heb_name":"","all_en_names":["Rabbi Abbahu"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749798944908bc22a1536","display_en_name":"gog","display_heb_name":"","all_en_names":["Gog"],"all_heb_names":[],"entityType":"Nation","alias_keys":[]}
+{"key":"6ac749798944908bc22a1537","display_en_name":"magog","display_heb_name":"","all_en_names":["Magog"],"all_heb_names":[],"entityType":"Nation","alias_keys":[]}
+{"key":"6ac749798944908bc22a1538","display_en_name":"commandment","display_heb_name":"","all_en_names":["Commandment"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac7497a8944908bc22a1539","display_en_name":"57","display_heb_name":"","all_en_names":["57"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Misc","en_unit":"chapter","contexts":[{"en_context":"psalm reference","source_keys":["BT_Berakhot_0_10a:8-11"]}]}
+{"key":"6ac7497a8944908bc22a153a","display_en_name":"111","display_heb_name":"","all_en_names":["111"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Misc","en_unit":"chapter","contexts":[{"en_context":"psalm reference","source_keys":["BT_Berakhot_0_10a:8-11"]}]}
+
+PASSAGE:
+ENGLISH:
+In explaining passages from Psalms, the Gemara relates another instance of a response to the question of a heretic: A certain heretic said to Rabbi Abbahu, it is written: A Psalm of David, when he fled from his son, Absalom (Psalms 3:1), and similarly it is said: To the chief musician, al tashhet , a mikhtam of David when fleeing from Saul into the cave (Psalms 57:1). Which event was first? Since the event with Saul was first, it would have been appropriate to write it first. Rabbi Abbahu said to him: For you, who do not employ the homiletic method of juxtaposition of verses, it is difficult. But for us, who employ the homiletic method of juxtaposition of verses, it is not difficult, as the Sages commonly homiletically infer laws and moral lessons from the juxtaposition of two verses.Regarding the juxtaposition of verses, Rabbi Yohanan said: From where in the Bible is it derived that one may draw homiletical inferences from the juxtaposition of verses? As it is said: The works of His hands in truth and justice, all His commandments are sure. Adjoined forever and ever, made in truth and uprightness (Psalms 111:7-8). Conclude from here that it is appropriate to draw inferences from the juxtaposition of Gods commandments. Accordingly, Davids fleeing from Absalom is situated where it is in order to juxtapose it to the next chapter, which mentions the war of Gog and Magog; the second chapter of Psalms opens: Why are the nations in an uproar? Why was the chapter of Absalom juxtaposed with the chapter of Gog and Magog? They are juxtaposed so that if a person should say to you, expressing doubt with regard to the prophecy of the war of Gog and Magog against the Lord and against His anointed: Is there a slave who rebels against his master? Is there someone capable of rebelling against God? You too say to him: Is there a son who rebels against his father and severs the relationship with the one who brought him into the world and raised him? Yet, nevertheless, there was such a son, Absalom, and so too there can be a situation where people will seek to rebel against God.
+
+HEBREW:
+אמר ליה ההוא מינא לרבי אבהו, כתיב: ״מזמור לדוד בברחו מפני אבשלום בנו״, וכתיב: ״לדוד מכתם בברחו מפני שאול במערה״. הי מעשה הוה ברישא? מכדי מעשה שאול הוה ברישא, לכתוב ברישא.אמר ליה: אתון דלא דרשיתון סמוכין — קשיא לכו, אנן דדרשינן סמוכים — לא קשיא לן.דאמר רבי יוחנן: סמוכין מן התורה מנין — שנאמר: ״סמוכים לעד לעולם עשוים באמת וישר״.למה נסמכה פרשת אבשלום לפרשת גוג ומגוג — שאם יאמר לך אדם: כלום יש עבד שמורד ברבו?! אף אתה אמור לו: כלום יש בן שמורד באביו? אלא הוה, הכא נמי הוה.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac73970b9ad2bcc0401a0a4",
+      "entityType": "Person",
+      "display_heb_name": "דוד",
+      "timePeriod": "Tanach",
+      "isNonJew": false,
+      "isGroup": false
+    },
+    {
+      "key": "6ac748ba8944908bc22a1263",
+      "entityType": "Symbol",
+      "display_heb_name": "תהילים",
+      "symbolType": "Holy Object"
+    },
+    {
+      "key": "6ac749388944908bc22a1443",
+      "entityType": "Number",
+      "heb_unit": "פרק",
+      "contexts": [
+        {
+          "en_context": "psalm chapter",
+          "heb_context": "תהילים פרק"
+        },
+        {
+          "en_context": "psalm reference",
+          "heb_context": "הפניה למזמור"
+        }
+      ]
+    },
+    {
+      "key": "6ac749768944908bc22a152b",
+      "entityType": "Person",
+      "display_heb_name": "מינא",
+      "timePeriod": "Amoraim",
+      "isNonJew": true,
+      "isGroup": false
+    },
+    {
+      "key": "6ac749788944908bc22a1535",
+      "entityType": "Person",
+      "display_heb_name": "רבי אבהו",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac749798944908bc22a1536",
+      "entityType": "Nation",
+      "display_heb_name": "גוג"
+    },
+    {
+      "key": "6ac749798944908bc22a1537",
+      "entityType": "Nation",
+      "display_heb_name": "מגוג"
+    },
+    {
+      "key": "6ac749798944908bc22a1538",
+      "entityType": "Symbol",
+      "display_heb_name": "מצוה",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac7497a8944908bc22a1539",
+      "entityType": "Number",
+      "heb_unit": "פרק",
+      "contexts": [
+        {
+          "en_context": "psalm reference",
+          "heb_context": "הפניה למזמור"
+        }
+      ]
+    },
+    {
+      "key": "6ac7497a8944908bc22a153a",
+      "entityType": "Number",
+      "heb_unit": "פרק",
+      "contexts": [
+        {
+          "en_context": "psalm reference",
+          "heb_context": "הפניה למזמור"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+﻿COST: Tokens: Total=4263 approx cost=$0.004119 (Prompt=2972, Completion=1291)
+SOURCE:
+Berakhot (Zeraim) 9b:6-8
+
+ENTITIES TO ENRICH (7):
+{"key":"6ac73992b9ad2bcc0401a125","display_en_name":"moses","display_heb_name":"משה","all_en_names":["Moses"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isNonJew":false,"isGroup":false,"roles":["Prophet"]}
+{"key":"6ac748a68944908bc22a1212","display_en_name":"elijah","display_heb_name":"אליהו","all_en_names":["Elijah"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","roles":["Prophet"]}
+{"key":"6ac748d98944908bc22a12e3","display_en_name":"god","display_heb_name":"הקדוש ברוך הוא","all_en_names":["God"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isNonJew":false,"isGroup":false,"roles":[]}
+{"key":"6ac749118944908bc22a13c0","display_en_name":"abbahu","display_heb_name":"רבי אבהו","all_en_names":["Abbahu"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac749298944908bc22a1414","display_en_name":"burning bush","display_heb_name":"","all_en_names":["Burning Bush"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[],"symbolType":"Part of Nature"}
+{"key":"6ac749638944908bc22a14e7","display_en_name":"altar","display_heb_name":"","all_en_names":["Altar"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[],"symbolType":"Holy Object"}
+{"key":"6ac749698944908bc22a14ff","display_en_name":"mount carmel","display_heb_name":"","all_en_names":["Mount Carmel"],"all_heb_names":[],"entityType":"Place","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+The Gemara proceeds to discuss the promise of redemption from Egypt that God made to Moses at the burning bush. When Moses asked God what to say when Israel asks him Gods name, and God said to Moses: I will be that I will be, and He said: Thus you will say unto the children of Israel: I will be has sent me to you (Exodus 3:14). The Holy One, Blessed be He, told Moses to go and tell Israel: I was with you in this enslavement, and in this redemption, and I will be with you in the enslavement of the kingdoms in the future.Moses said before Him: Master of the Universe, it is enough for them to endure. Let the future suffering be endured at its appointed time. There is no need to mention their future enslavement. The Holy One, Blessed be He, agreed with Moses and said to him: Go and tell the children of Israel only that, I will be has sent me to you. Having explained the use of the double language of I will be that I will be, the Gemara proceeds to explain the double language employed by Elijah on Mount Carmel: Answer me, Lord, answer me, that this people will know that You are the Lord, God, and You have turned their hearts backward (I Kings 18:37). Rabbi Abbahu said: Why did Elijah say answer me twice? This repetition teaches that Elijah said before the Holy One, Blessed be He: Master of the Universe, answer me that fire will descend from heaven and consume everything that is on the altar, and answer me that You will divert their mind from devising alternative explanations for what they witnessed so that they will not say that they were acts of sorcery. As it is stated that Elijah said: And You have turned their hearts backward, God can restore them to the proper path as well.
+
+HEBREW:
+״אהיה אשר אהיה״, אמר לו הקדוש ברוך הוא למשה, לך אמור להם לישראל: אני הייתי עמכם בשעבוד זה, ואני אהיה עמכם בשעבוד מלכיות.אמר לפניו: רבונו של עולם, דיה לצרה בשעתה. אמר לו הקדוש ברוך הוא: לך אמור להם ״אהיה שלחני אליכם״.״ענני ה׳ ענני״. אמר רבי אבהו: למה אמר אליהו ענני שתי פעמים? מלמד שאמר אליהו לפני הקדוש ברוך הוא: רבונו של עולם, ״ענני״ — שתרד אש מן השמים ותאכל כל אשר על המזבח, ו״ענני״ — שתסיח דעתם, כדי שלא יאמרו מעשה כשפים הם. שנאמר: ״ואתה הסבת את לבם אחורנית״:
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac749638944908bc22a14e7",
+      "entityType": "Symbol",
+      "display_heb_name": "המזבח"
+    },
+    {
+      "key": "6ac749698944908bc22a14ff",
+      "entityType": "Place",
+      "placeType": "Mountain"
+    }
+  ]
+}

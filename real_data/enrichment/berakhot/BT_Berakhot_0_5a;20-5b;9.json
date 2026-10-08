@@ -1,0 +1,127 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748988944908bc22a11d9",
+            "entityType": "Place",
+            "display_heb_name": "בבל",
+            "placeType": "Country or Region",
+            "display_en_name": "babylonia"
+        },
+        {
+            "key": "6ac748ba8944908bc22a1260",
+            "entityType": "Person",
+            "display_heb_name": "רבי יוחנן",
+            "timePeriod": "Amoraim",
+            "isWoman": false,
+            "isNonJew": false,
+            "isGroup": false,
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "yohanan"
+        },
+        {
+            "key": "6ac748c08944908bc22a127b",
+            "entityType": "Nation",
+            "display_heb_name": "בבל",
+            "display_en_name": "babylonia"
+        },
+        {
+            "key": "6ac748e78944908bc22a131d",
+            "entityType": "Person",
+            "display_heb_name": "רבי שמעון בן יוחאי",
+            "timePeriod": "Tanaim",
+            "isWoman": false,
+            "isNonJew": false,
+            "isGroup": false,
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "shimon bar yohai"
+        },
+        {
+            "key": "6ac748e88944908bc22a131e",
+            "entityType": "Nation",
+            "display_heb_name": "ארץ ישראל",
+            "display_en_name": "eretz yisrael"
+        },
+        {
+            "key": "6ac748e88944908bc22a131f",
+            "entityType": "Symbol",
+            "display_heb_name": "חסד",
+            "symbolType": "Not Physical",
+            "display_en_name": "mercy"
+        },
+        {
+            "key": "6ac748e88944908bc22a1320",
+            "entityType": "Symbol",
+            "display_heb_name": "אמת",
+            "symbolType": "Not Physical",
+            "display_en_name": "truth"
+        },
+        {
+            "key": "6ac748e88944908bc22a1321",
+            "entityType": "Symbol",
+            "display_heb_name": "צדקה",
+            "symbolType": "Not Physical",
+            "display_en_name": "charity"
+        },
+        {
+            "key": "6ac748e98944908bc22a1322",
+            "entityType": "Symbol",
+            "display_heb_name": "עון",
+            "symbolType": "Not Physical",
+            "display_en_name": "iniquity"
+        },
+        {
+            "key": "6ac748e98944908bc22a1323",
+            "entityType": "Symbol",
+            "display_heb_name": "מזבח כפרה",
+            "symbolType": "Holy Object",
+            "display_en_name": "altar of atonement"
+        },
+        {
+            "key": "6ac748e98944908bc22a1324",
+            "entityType": "Symbol",
+            "display_heb_name": "נגעים",
+            "symbolType": "Other",
+            "display_en_name": "leprosy"
+        },
+        {
+            "key": "6ac748e98944908bc22a1325",
+            "entityType": "Symbol",
+            "display_heb_name": "יסורין של אהבה",
+            "symbolType": "Not Physical",
+            "display_en_name": "affliction of love"
+        },
+        {
+            "key": "6ac748ea8944908bc22a1326",
+            "entityType": "Number",
+            "heb_unit": "סימן",
+            "contexts": [
+                {
+                    "en_context": "leprosy signs",
+                    "heb_context": "מראות נגעים"
+                }
+            ],
+            "display_en_name": "4"
+        },
+        {
+            "key": "6ac748ea8944908bc22a1327",
+            "entityType": "Number",
+            "heb_unit": "בן",
+            "contexts": [
+                {
+                    "en_context": "rabbi yohanan son",
+                    "heb_context": "בן רבי יוחנן"
+                },
+                {
+                    "en_context": "rabbi yohanan children",
+                    "heb_context": "בני רבי יוחנן"
+                }
+            ],
+            "display_en_name": "10"
+        }
+    ],
+    "key": "BT_Berakhot_0_5a:20-5b:9"
+}

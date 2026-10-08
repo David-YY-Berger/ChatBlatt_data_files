@@ -1,0 +1,47 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748ae8944908bc22a1232",
+            "entityType": "Person",
+            "display_heb_name": "רבי אבא בר כהנא",
+            "display_en_name": "abba bar kahana"
+        },
+        {
+            "key": "6ac748d28944908bc22a12c7",
+            "entityType": "Person",
+            "display_heb_name": "רבי אלעזר",
+            "display_en_name": "elazar"
+        },
+        {
+            "key": "6ac748d98944908bc22a12e3",
+            "entityType": "Person",
+            "display_heb_name": "הקדוש ברוך הוא",
+            "display_en_name": "god"
+        },
+        {
+            "key": "6ac748f68944908bc22a135b",
+            "entityType": "Person",
+            "display_heb_name": "רב הונא",
+            "display_en_name": "huna"
+        },
+        {
+            "key": "6ac749068944908bc22a1399",
+            "entityType": "Person",
+            "display_heb_name": "רבי חלבו",
+            "display_en_name": "helbo"
+        },
+        {
+            "key": "6ac749158944908bc22a13cc",
+            "entityType": "Person",
+            "display_heb_name": "רבי שמעון בן עזאי",
+            "display_en_name": "shimon ben azzai"
+        },
+        {
+            "key": "6ac749158944908bc22a13cd",
+            "entityType": "Person",
+            "display_heb_name": "רבי שמעון בן זומא",
+            "display_en_name": "shimon ben zoma"
+        }
+    ],
+    "key": "BT_Berakhot_0_6b:34-36"
+}

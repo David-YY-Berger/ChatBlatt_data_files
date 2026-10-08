@@ -1,0 +1,83 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748ba8944908bc22a1262",
+            "entityType": "Person",
+            "roles": [
+                "King"
+            ],
+            "display_en_name": "solomon"
+        },
+        {
+            "key": "6ac748fb8944908bc22a136d",
+            "entityType": "Person",
+            "display_heb_name": "רב יאשיהו פינטו",
+            "display_en_name": "rav yoshiyahu pinto"
+        },
+        {
+            "key": "6ac748fb8944908bc22a136e",
+            "entityType": "Person",
+            "display_heb_name": "רבין בר רב אדא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "ravin bar rav adda"
+        },
+        {
+            "key": "6ac748fb8944908bc22a136f",
+            "entityType": "Person",
+            "display_heb_name": "שכינה",
+            "timePeriod": "No Time Period",
+            "isNonJew": false,
+            "isGroup": false,
+            "display_en_name": "divine presence"
+        },
+        {
+            "key": "6ac748fc8944908bc22a1370",
+            "entityType": "Person",
+            "display_heb_name": "מלאכי",
+            "timePeriod": "Tanach",
+            "roles": [
+                "Prophet"
+            ],
+            "display_en_name": "malachi"
+        },
+        {
+            "key": "6ac748fc8944908bc22a1371",
+            "entityType": "Place",
+            "display_heb_name": "עֲדַת אֵל",
+            "placeType": "Not Physical",
+            "display_en_name": "congregation of god"
+        },
+        {
+            "key": "6ac748fc8944908bc22a1372",
+            "entityType": "Number",
+            "heb_unit": "אדם",
+            "contexts": [
+                {
+                    "en_context": "congregation quorum",
+                    "heb_context": "מניין קהל"
+                },
+                {
+                    "en_context": "minyan for prayer",
+                    "heb_context": "מניין לתפילה"
+                }
+            ],
+            "display_en_name": "10"
+        },
+        {
+            "key": "6ac748fc8944908bc22a1373",
+            "entityType": "Number",
+            "heb_unit": "דיין",
+            "contexts": [
+                {
+                    "en_context": "court quorum",
+                    "heb_context": "מניין בית דין"
+                }
+            ],
+            "display_en_name": "3"
+        }
+    ],
+    "key": "BT_Berakhot_0_6a:7-16"
+}

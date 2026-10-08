@@ -1,0 +1,215 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac73970b9ad2bcc0401a0a4",
+            "entityType": "Person",
+            "display_heb_name": "דוד",
+            "timePeriod": "Tanach",
+            "isNonJew": false,
+            "isGroup": false,
+            "roles": [
+                "King"
+            ],
+            "display_en_name": "david"
+        },
+        {
+            "key": "6ac73979b9ad2bcc0401a0c6",
+            "entityType": "Person",
+            "display_heb_name": "חזקיהו",
+            "timePeriod": "Tanach",
+            "isGroup": false,
+            "roles": [
+                "King"
+            ],
+            "display_en_name": "hezekiah"
+        },
+        {
+            "key": "6ac73981b9ad2bcc0401a0e4",
+            "entityType": "Person",
+            "display_heb_name": "אחאב",
+            "timePeriod": "Tanach",
+            "isGroup": false,
+            "roles": [
+                "King"
+            ],
+            "display_en_name": "ahab"
+        },
+        {
+            "key": "6ac748a28944908bc22a11ff",
+            "entityType": "Person",
+            "display_heb_name": "רב",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rav"
+        },
+        {
+            "key": "6ac748a68944908bc22a1212",
+            "entityType": "Person",
+            "display_heb_name": "אליהו",
+            "timePeriod": "Tanach",
+            "roles": [
+                "Prophet"
+            ],
+            "display_en_name": "elijah"
+        },
+        {
+            "key": "6ac748b88944908bc22a1259",
+            "entityType": "Person",
+            "display_heb_name": "רבי לוי",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "levi"
+        },
+        {
+            "key": "6ac748ba8944908bc22a1262",
+            "entityType": "Person",
+            "display_heb_name": "שלמה",
+            "timePeriod": "Tanach",
+            "roles": [
+                "King"
+            ],
+            "display_en_name": "solomon"
+        },
+        {
+            "key": "6ac748d98944908bc22a12e2",
+            "entityType": "Person",
+            "display_heb_name": "רבי שמעון בן לקיש",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "shimon ben lakish"
+        },
+        {
+            "key": "6ac748d98944908bc22a12e3",
+            "entityType": "Person",
+            "display_heb_name": "הקדוש ברוך הוא",
+            "timePeriod": "No Time Period",
+            "isNonJew": false,
+            "isGroup": false,
+            "display_en_name": "god"
+        },
+        {
+            "key": "6ac748f38944908bc22a134e",
+            "entityType": "Person",
+            "display_heb_name": "ישעיהו",
+            "timePeriod": "Tanach",
+            "roles": [
+                "Prophet"
+            ],
+            "display_en_name": "isaiah"
+        },
+        {
+            "key": "6ac7493e8944908bc22a145b",
+            "entityType": "Person",
+            "display_heb_name": "אלישע",
+            "timePeriod": "Tanach",
+            "roles": [
+                "Prophet"
+            ],
+            "display_en_name": "elisha"
+        },
+        {
+            "key": "6ac749868944908bc22a1560",
+            "entityType": "Person",
+            "display_heb_name": "רב המנונא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "hamnuna"
+        },
+        {
+            "key": "6ac749868944908bc22a1561",
+            "entityType": "Person",
+            "display_heb_name": "יהורם בן אחאב",
+            "timePeriod": "Tanach",
+            "roles": [
+                "King"
+            ],
+            "display_en_name": "yehoram"
+        },
+        {
+            "key": "6ac749868944908bc22a1562",
+            "entityType": "Person",
+            "display_heb_name": "אמוץ",
+            "timePeriod": "Tanach",
+            "display_en_name": "amoz"
+        },
+        {
+            "key": "6ac749878944908bc22a1563",
+            "entityType": "Person",
+            "display_heb_name": "מנשה",
+            "timePeriod": "Tanach",
+            "display_en_name": "menashe"
+        },
+        {
+            "key": "6ac749878944908bc22a1564",
+            "entityType": "Person",
+            "timePeriod": "Tanach",
+            "display_en_name": "job"
+        },
+        {
+            "key": "6ac749888944908bc22a1565",
+            "entityType": "Person",
+            "display_heb_name": "רבי חנן",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "hanan"
+        },
+        {
+            "key": "6ac749888944908bc22a1566",
+            "entityType": "Place",
+            "display_heb_name": "יהודה",
+            "placeType": "Country or Region",
+            "display_en_name": "judea"
+        },
+        {
+            "key": "6ac749888944908bc22a1567",
+            "entityType": "Place",
+            "placeType": "City",
+            "display_en_name": "shunem"
+        },
+        {
+            "key": "6ac749898944908bc22a1568",
+            "entityType": "Place",
+            "display_heb_name": "ההיכל",
+            "placeType": "Building or Structure",
+            "display_en_name": "temple sanctuary"
+        },
+        {
+            "key": "6ac749898944908bc22a1569",
+            "entityType": "Nation",
+            "display_heb_name": "אדום",
+            "display_en_name": "edom"
+        },
+        {
+            "key": "6ac749898944908bc22a156a",
+            "entityType": "Symbol",
+            "display_heb_name": "חרב חדה",
+            "symbolType": "Weapon",
+            "display_en_name": "sharp sword"
+        },
+        {
+            "key": "6ac749898944908bc22a156b",
+            "entityType": "Symbol",
+            "display_heb_name": "קיר",
+            "symbolType": "Other",
+            "display_en_name": "wall"
+        },
+        {
+            "key": "6ac7498a8944908bc22a156c",
+            "entityType": "Symbol",
+            "display_heb_name": "ספר רפואות",
+            "symbolType": "Other",
+            "display_en_name": "book of remedies"
+        }
+    ],
+    "key": "BT_Berakhot_0_10a:26-10b:5"
+}

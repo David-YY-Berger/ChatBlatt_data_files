@@ -1,0 +1,37 @@
+﻿COST: Tokens: Total=3781 approx cost=$0.004663 (Prompt=2177, Completion=1604)
+SOURCE:
+Berakhot (Zeraim) 6a:17-6b:1
+
+ENTITIES TO ENRICH (4):
+{"key":"6ac748fe8944908bc22a137b","display_en_name":"phylactery of the head","display_heb_name":"","all_en_names":["Phylactery Of The Head"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748fe8944908bc22a137c","display_en_name":"phylactery of the arm","display_heb_name":"","all_en_names":["Phylactery Of The Arm"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748ff8944908bc22a137d","display_en_name":"parchment","display_heb_name":"","all_en_names":["Parchment"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748ff8944908bc22a137e","display_en_name":"4","display_heb_name":"","all_en_names":["4"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Misc","en_unit":"compartment","contexts":[{"en_context":"phylactery of head","source_keys":["BT_Berakhot_0_6a:17-6b:1"]}]}
+
+PASSAGE:
+ENGLISH:
+in the phylacteries of the head, where there are four separate compartments. And all of the verses are written together on one parchment in the phylacteries of the arm, which has only one compartment.
+
+HEBREW:
+וכולהו כתיבי באדרעיה.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748fe8944908bc22a137b",
+      "entityType": "Symbol",
+      "symbolType": "Holy Object"
+    },
+    {
+      "key": "6ac748fe8944908bc22a137c",
+      "entityType": "Symbol",
+      "symbolType": "Holy Object"
+    },
+    {
+      "key": "6ac748ff8944908bc22a137d",
+      "entityType": "Symbol",
+      "symbolType": "Holy Object"
+    }
+  ]
+}

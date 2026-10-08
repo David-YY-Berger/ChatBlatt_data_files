@@ -1,0 +1,74 @@
+﻿COST: Tokens: Total=5184 approx cost=$0.006705 (Prompt=2843, Completion=2341)
+SOURCE:
+Berakhot (Zeraim) 11a:26-11b:7
+
+ENTITIES TO ENRICH (6):
+{"key":"6ac748d68944908bc22a12d6","display_en_name":"abaye","display_heb_name":"אביי","all_en_names":["Abaye"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748e28944908bc22a1306","display_en_name":"rava","display_heb_name":"רבא","all_en_names":["Rava"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748f38944908bc22a134e","display_en_name":"isaiah","display_heb_name":"ישעיהו","all_en_names":["Isaiah"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","roles":["Prophet"]}
+{"key":"6ac749998944908bc22a159e","display_en_name":"yaakov","display_heb_name":"יעקב","all_en_names":["Yaakov"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749ab8944908bc22a15e0","display_en_name":"oshaya","display_heb_name":"","all_en_names":["Oshaya"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749ab8944908bc22a15e1","display_en_name":"bible","display_heb_name":"","all_en_names":["Bible"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+GEMARA: The Gemara begins by determining the formula of the two blessings preceding the morning Shema . The Gemara asks: What blessing does one recite? Rabbi Yaakov said in the name of Rabbi Oshaya: The blessing focuses on the verse: Who forms light and creates darkness, Who makes peace and creates evil, I am the Lord Who does all these things (Isaiah 45:7).With regard to this formula of the blessing, the Gemara asks: Let him say the following formula instead: Who forms light and creates brightness, so as not to mention darkness, which has negative connotations.The Gemara answers: We say the blessing as the verse is written in the Bible and do not alter the formula that appears in the verse.The Gemara strongly objects: But if so, what about the continuation of the verse: Who makes peace and creates evil? Do we say this blessing as it is written in the Bible? Rather, it is written evil and we euphemistically recite the blessing all things to avoid mention of evil. Here, too, let us euphemistically say brightness instead of darkness. Rather, Rava said: The reason we recite: Who creates darkness is in order to mention the attribute of day at night and the attribute of night during the day, and thereby unify day and night as different parts of a single entity.The Gemara continues and asks: Granted, the attribute of night is mentioned during the day, as we say: Who forms light and creates darkness, but where do you find the attribute of day mentioned at night? In the blessing over the radiant lights recited at night there is no mention of Who forms light. Abaye said: Nevertheless, the attribute of day is mentioned at night in the words: Rolling away light before the darkness and darkness before the light.
+
+HEBREW:
+גמ׳ מאי מברך?אמר רבי יעקב אמר רבי אושעיא:״יוצר אור ובורא חשך״.לימא: ״יוצר אור ובורא נוגה״!כדכתיב קאמרינן.אלא מעתה ״עשה שלום ובורא רע״, מי קא אמרינן כדכתיב?! אלא כתיב ״רע״ וקרינן ״הכל״ לישנא מעליא, הכא נמי לימא ״נוגה״, לישנא מעליא!אלא אמר רבא: כדי להזכיר מדת יום בלילה ומדת לילה ביום.בשלמא מדת לילה ביום כדאמרינן: ״יוצר אור ובורא חשך״, אלא מדת יום בלילה, היכי משכחת לה?אמר אביי: ״גולל אור מפני חשך וחשך מפני אור״.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748d68944908bc22a12d6",
+      "entityType": "Person",
+      "display_heb_name": "אביי",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748e28944908bc22a1306",
+      "entityType": "Person",
+      "display_heb_name": "רבא",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748f38944908bc22a134e",
+      "entityType": "Person",
+      "display_heb_name": "ישעיהו",
+      "timePeriod": "Tanach",
+      "roles": [
+        "Prophet"
+      ]
+    },
+    {
+      "key": "6ac749998944908bc22a159e",
+      "entityType": "Person",
+      "display_heb_name": "יעקב",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac749ab8944908bc22a15e0",
+      "entityType": "Person",
+      "display_heb_name": "אושעיא",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac749ab8944908bc22a15e1",
+      "entityType": "Symbol",
+      "symbolType": "Holy Object"
+    }
+  ]
+}

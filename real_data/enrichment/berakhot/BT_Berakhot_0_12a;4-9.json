@@ -1,0 +1,174 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748908944908bc22a11b3",
+            "entityType": "Person",
+            "display_heb_name": "הכהנים",
+            "timePeriod": "Tanach",
+            "isNonJew": false,
+            "isGroup": true,
+            "roles": [
+                "Kohen"
+            ],
+            "display_en_name": "priests"
+        },
+        {
+            "key": "6ac748b08944908bc22a1237",
+            "entityType": "Person",
+            "display_heb_name": "רב אשי",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rav ashi"
+        },
+        {
+            "key": "6ac748e28944908bc22a1307",
+            "entityType": "Person",
+            "display_heb_name": "רב חסדא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rav hisda"
+        },
+        {
+            "key": "6ac748ed8944908bc22a1335",
+            "entityType": "Person",
+            "display_heb_name": "רב יהודה",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rav yehuda"
+        },
+        {
+            "key": "6ac749408944908bc22a145f",
+            "entityType": "Person",
+            "display_heb_name": "רבי נתן",
+            "timePeriod": "Tanaim",
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "rabbi natan"
+        },
+        {
+            "key": "6ac7498f8944908bc22a1585",
+            "entityType": "Person",
+            "display_heb_name": "שמואל",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "shmuel"
+        },
+        {
+            "key": "6ac749a98944908bc22a15da",
+            "entityType": "Symbol",
+            "display_heb_name": "אמת ויציב",
+            "symbolType": "Not Physical",
+            "display_en_name": "true and firm"
+        },
+        {
+            "key": "6ac749ba8944908bc22a1615",
+            "entityType": "Person",
+            "display_heb_name": "המינין",
+            "timePeriod": "Amoraim",
+            "isNonJew": true,
+            "isGroup": true,
+            "display_en_name": "heretics"
+        },
+        {
+            "key": "6ac749ba8944908bc22a1616",
+            "entityType": "Person",
+            "display_heb_name": "רבה בר בר חנה",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabba bar bar hana"
+        },
+        {
+            "key": "6ac749ba8944908bc22a1617",
+            "entityType": "Person",
+            "display_heb_name": "אמימר",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "ameimar"
+        },
+        {
+            "key": "6ac749ba8944908bc22a1618",
+            "entityType": "Person",
+            "display_heb_name": "משמר היוצא",
+            "timePeriod": "Tanach",
+            "isGroup": true,
+            "roles": [
+                "Kohen"
+            ],
+            "display_en_name": "outgoing priestly watch"
+        },
+        {
+            "key": "6ac749bb8944908bc22a1619",
+            "entityType": "Person",
+            "display_heb_name": "משמר הנכנס",
+            "timePeriod": "Tanach",
+            "isGroup": true,
+            "roles": [
+                "Kohen"
+            ],
+            "display_en_name": "incoming priestly watch"
+        },
+        {
+            "key": "6ac749bb8944908bc22a161a",
+            "entityType": "Place",
+            "display_heb_name": "סורא",
+            "placeType": "City",
+            "display_en_name": "sura"
+        },
+        {
+            "key": "6ac749bb8944908bc22a161b",
+            "entityType": "Place",
+            "display_heb_name": "נהרדעא",
+            "placeType": "City",
+            "display_en_name": "nehardea"
+        },
+        {
+            "key": "6ac749bb8944908bc22a161c",
+            "entityType": "Symbol",
+            "display_heb_name": "והיה אם שמוע",
+            "symbolType": "Not Physical",
+            "display_en_name": "vehaya im shamoa"
+        },
+        {
+            "key": "6ac749bc8944908bc22a161d",
+            "entityType": "Symbol",
+            "display_heb_name": "ויאמר",
+            "symbolType": "Not Physical",
+            "display_en_name": "vayomer"
+        },
+        {
+            "key": "6ac749bc8944908bc22a161e",
+            "entityType": "Symbol",
+            "display_heb_name": "עבודה",
+            "symbolType": "Not Physical",
+            "display_en_name": "avoda"
+        },
+        {
+            "key": "6ac749bc8944908bc22a161f",
+            "entityType": "Symbol",
+            "display_heb_name": "ברכת כהנים",
+            "symbolType": "Not Physical",
+            "display_en_name": "priestly benediction"
+        },
+        {
+            "key": "6ac749bc8944908bc22a1620",
+            "entityType": "Symbol",
+            "display_heb_name": "שמו",
+            "symbolType": "Not Physical",
+            "display_en_name": "name"
+        }
+    ],
+    "key": "BT_Berakhot_0_12a:4-9"
+}

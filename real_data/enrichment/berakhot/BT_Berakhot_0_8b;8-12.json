@@ -1,0 +1,72 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748d68944908bc22a12d6",
+            "entityType": "Person",
+            "display_heb_name": "אביי",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "abaye"
+        },
+        {
+            "key": "6ac748e28944908bc22a1306",
+            "entityType": "Person",
+            "display_heb_name": "רבא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rava"
+        },
+        {
+            "key": "6ac748f08944908bc22a1340",
+            "entityType": "Person",
+            "display_heb_name": "רבי יהושע בן לוי",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabbi yehoshua ben levi"
+        },
+        {
+            "key": "6ac749598944908bc22a14c3",
+            "entityType": "Person",
+            "display_heb_name": "רב פפא",
+            "timePeriod": "Amoraim",
+            "display_en_name": "rav pappa"
+        },
+        {
+            "key": "6ac749598944908bc22a14c4",
+            "entityType": "Nation",
+            "display_heb_name": "ארם",
+            "display_en_name": "aram"
+        },
+        {
+            "key": "6ac7495a8944908bc22a14c5",
+            "entityType": "Number",
+            "heb_unit": "עצה",
+            "contexts": [
+                {
+                    "en_context": "rava's advice",
+                    "heb_context": "עצת רבא"
+                }
+            ],
+            "display_en_name": "3"
+        },
+        {
+            "key": "6ac7495a8944908bc22a14c6",
+            "entityType": "Number",
+            "heb_unit": "הסבר",
+            "contexts": [
+                {
+                    "en_context": "meat cutting danger",
+                    "heb_context": "סכנת חיתוך בשר"
+                }
+            ],
+            "display_en_name": "2"
+        }
+    ],
+    "key": "BT_Berakhot_0_8b:8-12"
+}

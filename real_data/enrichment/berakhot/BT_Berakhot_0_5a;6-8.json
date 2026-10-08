@@ -1,0 +1,75 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748a18944908bc22a11fd",
+            "entityType": "Person",
+            "display_heb_name": "הקדוש ברוך הוא",
+            "timePeriod": "No Time Period",
+            "isNonJew": false,
+            "isGroup": false,
+            "display_en_name": "holy one"
+        },
+        {
+            "key": "6ac748a68944908bc22a1213",
+            "entityType": "Person",
+            "display_heb_name": "ישראל",
+            "timePeriod": "Tanach",
+            "isNonJew": false,
+            "isGroup": true,
+            "display_en_name": "israel"
+        },
+        {
+            "key": "6ac748b88944908bc22a125b",
+            "entityType": "Person",
+            "display_heb_name": "רבי יושיהו פינטו",
+            "display_en_name": "yoshiyahu pinto"
+        },
+        {
+            "key": "6ac748ba8944908bc22a1260",
+            "entityType": "Person",
+            "display_heb_name": "רבי יוחנן",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "yohanan"
+        },
+        {
+            "key": "6ac748d98944908bc22a12e2",
+            "entityType": "Person",
+            "display_heb_name": "רבי שמעון בן לקיש",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "shimon ben lakish"
+        },
+        {
+            "key": "6ac748df8944908bc22a12fc",
+            "entityType": "Person",
+            "display_heb_name": "רבי זירא",
+            "display_en_name": "zeira"
+        },
+        {
+            "key": "6ac748df8944908bc22a12fd",
+            "entityType": "Person",
+            "display_heb_name": "רבי חנינא בר פפא",
+            "display_en_name": "hanina bar pappa"
+        },
+        {
+            "key": "6ac748e08944908bc22a12fe",
+            "entityType": "Symbol",
+            "display_heb_name": "רשף",
+            "symbolType": "Not Physical",
+            "display_en_name": "sparks"
+        },
+        {
+            "key": "6ac748e08944908bc22a12ff",
+            "entityType": "Symbol",
+            "display_heb_name": "טוב",
+            "symbolType": "Not Physical",
+            "display_en_name": "good"
+        }
+    ],
+    "key": "BT_Berakhot_0_5a:6-8"
+}

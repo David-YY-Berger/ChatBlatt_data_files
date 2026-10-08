@@ -1,0 +1,97 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748f68944908bc22a135a",
+            "entityType": "Person",
+            "display_heb_name": "אבא בנימין",
+            "timePeriod": "Tanaim",
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "binyamin"
+        },
+        {
+            "key": "6ac748f68944908bc22a135b",
+            "entityType": "Person",
+            "display_heb_name": "רב הונא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "huna"
+        },
+        {
+            "key": "6ac748f78944908bc22a135c",
+            "entityType": "Person",
+            "display_heb_name": "רב ביבי בר אביי",
+            "timePeriod": "Amoraim",
+            "display_en_name": "beivai bar abaye"
+        },
+        {
+            "key": "6ac748f78944908bc22a135d",
+            "entityType": "Person",
+            "display_heb_name": "המזיקין",
+            "timePeriod": "No Time Period",
+            "isGroup": true,
+            "display_en_name": "demons"
+        },
+        {
+            "key": "6ac748f78944908bc22a135e",
+            "entityType": "Symbol",
+            "display_heb_name": "שלייתא",
+            "symbolType": "Body Part",
+            "display_en_name": "afterbirth"
+        },
+        {
+            "key": "6ac748f78944908bc22a135f",
+            "entityType": "Symbol",
+            "display_heb_name": "גובתא דפרזלא",
+            "symbolType": "Other",
+            "display_en_name": "iron tube"
+        },
+        {
+            "key": "6ac748f88944908bc22a1360",
+            "entityType": "Symbol",
+            "display_heb_name": "גושפנקא דפרזלא",
+            "symbolType": "Other",
+            "display_en_name": "iron seal"
+        },
+        {
+            "key": "6ac748f88944908bc22a1361",
+            "entityType": "Number",
+            "heb_unit": "מזיק",
+            "contexts": [
+                {
+                    "en_context": "demons abundance",
+                    "heb_context": "שפע מזיקים"
+                }
+            ],
+            "display_en_name": "1000"
+        },
+        {
+            "key": "6ac748f88944908bc22a1362",
+            "entityType": "Number",
+            "heb_unit": "מזיק",
+            "contexts": [
+                {
+                    "en_context": "demons abundance",
+                    "heb_context": "שפע מזיקים"
+                }
+            ],
+            "display_en_name": "10000"
+        },
+        {
+            "key": "6ac748f88944908bc22a1363",
+            "entityType": "Animal",
+            "display_heb_name": "שונרתא",
+            "display_en_name": "cat"
+        },
+        {
+            "key": "6ac748f88944908bc22a1364",
+            "entityType": "Animal",
+            "display_heb_name": "תרנגולא",
+            "display_en_name": "chicken"
+        }
+    ],
+    "key": "BT_Berakhot_0_6a:2-6"
+}

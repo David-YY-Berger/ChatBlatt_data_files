@@ -1,0 +1,67 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748a08944908bc22a11f8",
+            "entityType": "Person",
+            "display_heb_name": "רבי מאיר",
+            "timePeriod": "Tanaim",
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "rabbi meir"
+        },
+        {
+            "key": "6ac748bb8944908bc22a1267",
+            "entityType": "Number",
+            "heb_unit": "שעה",
+            "contexts": [
+                {
+                    "en_context": "divine anger",
+                    "heb_context": "כעס אלוהי"
+                }
+            ],
+            "display_en_name": "3"
+        },
+        {
+            "key": "6ac748d68944908bc22a12d6",
+            "entityType": "Person",
+            "display_heb_name": "אביי",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "abaye"
+        },
+        {
+            "key": "6ac748f08944908bc22a1340",
+            "entityType": "Person",
+            "display_heb_name": "רבי יהושע בן לוי",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabbi yehoshua ben levi"
+        },
+        {
+            "key": "6ac749228944908bc22a13fd",
+            "entityType": "Symbol",
+            "display_heb_name": "חמה",
+            "symbolType": "Part of Nature",
+            "display_en_name": "sun"
+        },
+        {
+            "key": "6ac749228944908bc22a13fe",
+            "entityType": "Symbol",
+            "display_heb_name": "כתר",
+            "symbolType": "Clothing",
+            "display_en_name": "crown"
+        },
+        {
+            "key": "6ac749248944908bc22a1401",
+            "entityType": "Animal",
+            "display_heb_name": "תרנגול",
+            "display_en_name": "rooster"
+        }
+    ],
+    "key": "BT_Berakhot_0_7a:16-21"
+}

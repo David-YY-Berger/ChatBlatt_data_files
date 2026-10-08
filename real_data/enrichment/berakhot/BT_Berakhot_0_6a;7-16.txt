@@ -1,0 +1,101 @@
+﻿COST: Tokens: Total=6701 approx cost=$0.007156 (Prompt=4362, Completion=2339)
+SOURCE:
+Berakhot (Zeraim) 6a:7-16
+
+ENTITIES TO ENRICH (13):
+{"key":"6ac748b08944908bc22a1237","display_en_name":"rav ashi","display_heb_name":"רב אשי","all_en_names":["Rav Ashi"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748b48944908bc22a1248","display_en_name":"holy one, blessed be he","display_heb_name":"הקדוש ברוך הוא","all_en_names":["Holy One, Blessed Be He"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","roles":[]}
+{"key":"6ac748ba8944908bc22a1262","display_en_name":"solomon","display_heb_name":"שלמה","all_en_names":["Solomon"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","roles":[]}
+{"key":"6ac748d98944908bc22a12e3","display_en_name":"god","display_heb_name":"קודשא בריך הוא","all_en_names":["God"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isNonJew":false,"isGroup":false,"roles":[]}
+{"key":"6ac748dd8944908bc22a12f6","display_en_name":"rabbi yitzhak","display_heb_name":"רבי יצחק","all_en_names":["Rabbi Yitzhak"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748f08944908bc22a133f","display_en_name":"abba binyamin","display_heb_name":"אבא בנימין","all_en_names":["Abba Binyamin"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","roles":["Tanna"]}
+{"key":"6ac748fb8944908bc22a136d","display_en_name":"rav yoshiyahu pinto","display_heb_name":"","all_en_names":["Rav Yoshiyahu Pinto"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748fb8944908bc22a136e","display_en_name":"ravin bar rav adda","display_heb_name":"","all_en_names":["Ravin Bar Rav Adda"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748fb8944908bc22a136f","display_en_name":"divine presence","display_heb_name":"","all_en_names":["Divine Presence"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748fc8944908bc22a1370","display_en_name":"malachi","display_heb_name":"","all_en_names":["Malachi"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748fc8944908bc22a1371","display_en_name":"congregation of god","display_heb_name":"","all_en_names":["Congregation Of God"],"all_heb_names":[],"entityType":"Place","alias_keys":[]}
+{"key":"6ac748fc8944908bc22a1372","display_en_name":"10","display_heb_name":"","all_en_names":["10"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"People","en_unit":"person","contexts":[{"en_context":"congregation quorum","source_keys":["BT_Berakhot_0_6a:7-16"]},{"en_context":"minyan for prayer","source_keys":["BT_Berakhot_0_6b:5-8"]}]}
+{"key":"6ac748fc8944908bc22a1373","display_en_name":"3","display_heb_name":"","all_en_names":["3"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"People","en_unit":"judge","contexts":[{"en_context":"court quorum","source_keys":["BT_Berakhot_0_6a:7-16"]}]}
+
+PASSAGE:
+ENGLISH:
+It was taught in a baraita that Abba Binyamin said: Ones prayer is only fully heard in a synagogue, as it is stated with regard to King Solomons prayer in the Temple: Yet have You turned toward the prayer of Your servant and to his supplication, Lord my God, to listen to the song and the prayer which Your servant prays before You on this day (I Kings 8:28). The following verse concludes: To hear the prayer Your servant directs toward this place (I Kings 8:29). We see that ones prayer is heard specifically in the Temple, of which the synagogue is a microcosm (Rav Yoshiyahu Pinto). It may be inferred that in a place of song, a synagogue where Gods praises are sung, there prayer should be. In explaining Abba Binyamins statement, Ravin bar Rav Adda said that Rabbi Yitzhak said: From where is it derived that the Holy One, Blessed be He, is located in a synagogue? As it is stated: God stands in the congregation of God; in the midst of the judges He judges (Psalms 82:1). The congregation of God is the place where people congregate to sing Gods praises, and God is located among His congregation. And from where is it derived that ten people who pray, the Divine Presence is with them? As it is stated: God stands in the congregation of God, and the minimum number of people that constitute a congregation is a quorum of ten. From where is it derived that three who sit in judgment, the Divine Presence is with them? It is derived from this same verse, as it is stated: In the midst of the judges He judges, and the minimum number of judges that comprises a court is three. From where is it derived that two who sit and engage in Torah study, the Divine Presence is with them? As it is stated: Then they that feared the Lord spoke one with the other, and the Lord listened, and heard, and a book of remembrance was written before Him, for them that fear the Lord, and that think upon His name (Malachi 3:16). The Divine Presence listens to any two God-fearing individuals who speak with each other.With regard to this verse, the Gemara asks: What is the meaning of the phrase, And that think upon His name? Rav Ashi said: If a person intended to perform a mitzva, but due to circumstances beyond his control, he did not perform it, the verse ascribes him credit as if he performed the mitzva, as he is among those that think upon His name.The Gemara returns to Ravin bar Rav Addas statement: And from where is it derived that when even one who sits and engages in Torah study, the Divine Presence is with him? As it is stated: In every place where I cause My Name to be mentioned, I will come to you and bless you (Exodus 20:21); God blesses even a single person who mentions Gods name, a reference to Torah study ( Iyyun Yaakov ).The Gemara asks: Since the Divine Presence rests even upon one who engages in Torah study, was it necessary to say that the Divine Presence rests upon two who study Torah together? The Gemara answers: There is a difference between them. Two people, their words of Torah are written in the book of remembrance, as it is stated: And a book of remembrance was written; however a single individuals words of Torah are not written in a book of remembrance. The Gemara continues: Since the Divine Presence rests even upon two who engage in Torah study, is it necessary to mention three? The Gemara answers: Here too, a special verse is necessary lest you say that judgment is merely to keep the peace among the citizenry, and the Divine Presence does not come and rest upon those who sit in judgment as they are not engaged in Torah study. Ravin bar Rav Adda teaches us that sitting in judgment is also Torah. The Gemara asks: Since the Divine Presence rests even upon three, is it necessary to mention ten? The Gemara answers: The Divine Presence arrives before a group of ten, as the verse: God stands in the congregation of God, indicates that when the ten individuals who comprise a congregation arrive, the Divine Presence is already there. For a group of three judges, however, the Divine Presence does not arrive until they sit and begin their deliberations, as in the midst of the judges He judges. God aids them in their judgment, but does not arrive before them.
+
+HEBREW:
+תניא, אבא בנימין אומר: אין תפלה של אדם נשמעת אלא בבית הכנסת, שנאמר: ״לשמע אל הרנה ואל התפלה״. במקום רנה — שם תהא תפלה.אמר רבין בר רב אדא, אמר רבי יצחק: מנין שהקדוש ברוך הוא מצוי בבית הכנסת — שנאמר: ״אלהים נצב בעדת אל״.ומנין לעשרה שמתפללין ששכינה עמהם — שנאמר: ״אלהים נצב בעדת אל״.ומנין לשלשה שיושבין בדין ששכינה עמהם, שנאמר: ״בקרב אלהים ישפט״.ומנין לשנים שיושבין ועוסקין בתורה ששכינה עמהם — שנאמר: ״אז נדברו יראי ה׳ איש אל רעהו ויקשב ה׳״ וגו׳.מאי ״ולחשבי שמו״? אמר רב אשי: חשב אדם לעשות מצוה, ונאנס, ולא עשאה — מעלה עליו הכתוב כאילו עשאה.ומנין שאפילו אחד שיושב ועוסק בתורה ששכינה עמו — שנאמר: ״בכל המקום אשר אזכיר את שמי אבוא אליך וברכתיך״.וכי מאחר דאפילו חד, תרי מבעיא?! תרי — מכתבן מלייהו בספר הזכרונות, חד — לא מכתבן מליה בספר הזכרונות.וכי מאחר דאפילו תרי, תלתא מבעיא?! מהו דתימא: דינא שלמא בעלמא הוא, ולא אתיא שכינה, קמשמע לן דדינא נמי היינו תורה.וכי מאחר דאפילו תלתא, עשרה מבעיא?! עשרה — קדמה שכינה ואתיא. תלתא — עד דיתבי.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748ba8944908bc22a1262",
+      "entityType": "Person",
+      "roles": [
+        "King"
+      ]
+    },
+    {
+      "key": "6ac748fb8944908bc22a136d",
+      "entityType": "Person",
+      "display_heb_name": "רב יאשיהו פינטו"
+    },
+    {
+      "key": "6ac748fb8944908bc22a136e",
+      "entityType": "Person",
+      "display_heb_name": "רבין בר רב אדא",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748fb8944908bc22a136f",
+      "entityType": "Person",
+      "display_heb_name": "שכינה",
+      "timePeriod": "No Time Period",
+      "isNonJew": false,
+      "isGroup": false
+    },
+    {
+      "key": "6ac748fc8944908bc22a1370",
+      "entityType": "Person",
+      "display_heb_name": "מלאכי",
+      "timePeriod": "Tanach",
+      "roles": [
+        "Prophet"
+      ]
+    },
+    {
+      "key": "6ac748fc8944908bc22a1371",
+      "entityType": "Place",
+      "display_heb_name": "עֲדַת אֵל",
+      "placeType": "Not Physical"
+    },
+    {
+      "key": "6ac748fc8944908bc22a1372",
+      "entityType": "Number",
+      "heb_unit": "אדם",
+      "contexts": [
+        {
+          "en_context": "congregation quorum",
+          "heb_context": "מניין קהל"
+        },
+        {
+          "en_context": "minyan for prayer",
+          "heb_context": "מניין לתפילה"
+        }
+      ]
+    },
+    {
+      "key": "6ac748fc8944908bc22a1373",
+      "entityType": "Number",
+      "heb_unit": "דיין",
+      "contexts": [
+        {
+          "en_context": "court quorum",
+          "heb_context": "מניין בית דין"
+        }
+      ]
+    }
+  ]
+}

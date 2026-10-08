@@ -1,0 +1,39 @@
+﻿COST: Tokens: Total=4180 approx cost=$0.005304 (Prompt=2339, Completion=1841)
+SOURCE:
+Berakhot (Zeraim) 9b:25-10a:1
+
+ENTITIES TO ENRICH (2):
+{"key":"6ac73970b9ad2bcc0401a0a4","display_en_name":"david","display_heb_name":"דוד","all_en_names":["David"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isNonJew":false,"isGroup":false,"roles":["Judge","King"]}
+{"key":"6ac749388944908bc22a1445","display_en_name":"2","display_heb_name":"","all_en_names":["2"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Misc","en_unit":"chapter","heb_unit":"פרק","contexts":[{"en_context":"psalm chapter","heb_context":"תהילים פרק","source_keys":["BT_Berakhot_0_7b:11-14"]},{"en_context":"psalms chapters","heb_context":"תהילים פרקים","source_keys":["BT_Berakhot_0_9b:25-10a:1"]},{"en_context":"psalm reference","source_keys":["BT_Berakhot_0_10a:8-11"]},{"en_context":"biblical citation","heb_context":"ציטוט מקראי","source_keys":["BT_Berakhot_0_12a:23-12b:1"]}]}
+
+PASSAGE:
+ENGLISH:
+Every chapter that was dear to David, he began with happy is and concluded with happy is. He opened with happy is, as it is written: Happy is the man who has not walked in the counsel of the wicked or stood in the way of sinners or sat in the dwelling place of the scornful (Psalms 1:1). And he concluded with happy, as it is written at the end of the chapter: Pay homage in purity, lest He be angry, and you perish on the way when His anger is kindled suddenly. Happy are those who take refuge in Him (Psalms 2:12). We see that these two chapters actually constitute a single chapter.
+
+HEBREW:
+כל פרשה שהיתה חביבה על דוד, פתח בה ב״אשרי״ וסיים בה ב״אשרי״. פתח ב״אשרי״, דכתיב: ״אשרי האיש״. וסיים ב״אשרי״, דכתיב: ״אשרי כל חוסי בו״.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac73970b9ad2bcc0401a0a4",
+      "entityType": "Person",
+      "display_heb_name": "דוד",
+      "timePeriod": "Tanach",
+      "isNonJew": false,
+      "isGroup": false
+    },
+    {
+      "key": "6ac749388944908bc22a1445",
+      "entityType": "Number",
+      "heb_unit": "פרק",
+      "contexts": [
+        {
+          "en_context": "psalm reference",
+          "heb_context": "אסמכתא למזמור"
+        }
+      ]
+    }
+  ]
+}

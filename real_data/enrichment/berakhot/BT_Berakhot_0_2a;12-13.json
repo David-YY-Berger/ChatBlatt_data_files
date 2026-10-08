@@ -1,0 +1,18 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748978944908bc22a11d2",
+            "entityType": "Symbol",
+            "display_heb_name": "כפרה",
+            "symbolType": "Holy Object",
+            "display_en_name": "atonement offering"
+        },
+        {
+            "key": "6ac748978944908bc22a11d3",
+            "entityType": "Food",
+            "display_heb_name": "לחם",
+            "display_en_name": "bread"
+        }
+    ],
+    "key": "BT_Berakhot_0_2a:12-13"
+}

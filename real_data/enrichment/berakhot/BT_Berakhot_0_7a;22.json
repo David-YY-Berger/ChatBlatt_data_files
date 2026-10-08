@@ -1,0 +1,37 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748a68944908bc22a1211",
+            "entityType": "Person",
+            "display_heb_name": "רבי יוסי",
+            "timePeriod": "Tanaim",
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "yosei"
+        },
+        {
+            "key": "6ac749248944908bc22a1403",
+            "entityType": "Person",
+            "display_heb_name": "ריש לקיש",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "lakish"
+        },
+        {
+            "key": "6ac749248944908bc22a1404",
+            "entityType": "Number",
+            "heb_unit": "מלקת",
+            "contexts": [
+                {
+                    "en_context": "rebuke to fool",
+                    "heb_context": "גערה לכסיל"
+                }
+            ],
+            "display_en_name": "100"
+        }
+    ],
+    "key": "BT_Berakhot_0_7a:22"
+}

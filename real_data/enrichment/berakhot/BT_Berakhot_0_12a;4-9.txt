@@ -1,0 +1,188 @@
+﻿COST: Tokens: Total=9979 approx cost=$0.016110 (Prompt=4017, Completion=5962)
+SOURCE:
+Berakhot (Zeraim) 12a:4-9
+
+ENTITIES TO ENRICH (20):
+{"key":"6ac748908944908bc22a11b3","display_en_name":"priests","display_heb_name":"הכהנים","all_en_names":["Priests"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isNonJew":false,"isGroup":true,"roles":["Kohen"]}
+{"key":"6ac748b08944908bc22a1237","display_en_name":"rav ashi","display_heb_name":"רב אשי","all_en_names":["Rav Ashi"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748e28944908bc22a1307","display_en_name":"rav hisda","display_heb_name":"רב חסדא","all_en_names":["Rav Hisda"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748ed8944908bc22a1335","display_en_name":"rav yehuda","display_heb_name":"רב יהודה","all_en_names":["Rav Yehuda"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac749408944908bc22a145f","display_en_name":"rabbi natan","display_heb_name":"רבי נתן","all_en_names":["Rabbi Natan"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac7498f8944908bc22a1585","display_en_name":"shmuel","display_heb_name":"שמואל","all_en_names":["Shmuel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac749a98944908bc22a15da","display_en_name":"true and firm","display_heb_name":"","all_en_names":["True And Firm"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[],"symbolType":"Not Physical"}
+{"key":"6ac749b98944908bc22a1614","display_en_name":"rambam","display_heb_name":"","all_en_names":["Rambam"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749ba8944908bc22a1615","display_en_name":"heretics","display_heb_name":"","all_en_names":["Heretics"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749ba8944908bc22a1616","display_en_name":"rabba bar bar hana","display_heb_name":"","all_en_names":["Rabba Bar Bar Hana"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749ba8944908bc22a1617","display_en_name":"ameimar","display_heb_name":"","all_en_names":["Ameimar"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749ba8944908bc22a1618","display_en_name":"outgoing priestly watch","display_heb_name":"","all_en_names":["Outgoing Priestly Watch"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749bb8944908bc22a1619","display_en_name":"incoming priestly watch","display_heb_name":"","all_en_names":["Incoming Priestly Watch"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749bb8944908bc22a161a","display_en_name":"sura","display_heb_name":"","all_en_names":["Sura"],"all_heb_names":[],"entityType":"Place","alias_keys":[]}
+{"key":"6ac749bb8944908bc22a161b","display_en_name":"nehardea","display_heb_name":"","all_en_names":["Nehardea"],"all_heb_names":[],"entityType":"Place","alias_keys":[]}
+{"key":"6ac749bb8944908bc22a161c","display_en_name":"vehaya im shamoa","display_heb_name":"","all_en_names":["Vehaya Im Shamoa"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac749bc8944908bc22a161d","display_en_name":"vayomer","display_heb_name":"","all_en_names":["Vayomer"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac749bc8944908bc22a161e","display_en_name":"avoda","display_heb_name":"","all_en_names":["Avoda"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac749bc8944908bc22a161f","display_en_name":"priestly benediction","display_heb_name":"","all_en_names":["Priestly Benediction"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac749bc8944908bc22a1620","display_en_name":"name","display_heb_name":"","all_en_names":["Name"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+The Gemara related above that the priests in the Temple read the Ten Commandments, along with the sections of Shema , VeHaya im Shamoa , VaYomer , True and Firm, Avoda, and the priestly benediction. Rav Yehuda said that Shmuel said: Even in the outlying areas, outside the Temple, they sought to recite the Ten Commandments in this manner every day, as they are the basis of the Torah (Rambam), but they had already abolished recitation of the Ten Commandments due to the grievance of the heretics, who argued that the entire Torah, with the exception of the Ten Commandments, did not emanate from God (Jerusalem Talmud). If the Ten Commandments were recited daily, that would lend credence to their claim, so their recitation was expunged from the daily prayers. That was also taught in a baraita that Rabbi Natan says: In the outlying areas, they sought to recite the Ten Commandments in this manner, but they had already abolished their recitation due to the grievance of the heretics. The Gemara relates that several Sages sought to reinstitute recitation of the Ten Commandments, as Rabba bar bar Hana thought to institute this in the city of Sura, but Rav Hisda said to him: They already abolished them due to the grievance of the heretics. So too, Ameimar thought to institute this in the city of Nehardea. Rav Ashi, the most prominent of the Sages in that generation, said to him: They already abolished them due to the grievance of the heretics. We learned in a mishna in tractate Tamid that on Shabbat a single blessing is added to bless the outgoing priestly watch. The Gemara asks: What is that single blessing? Rabbi Helbo said: As they finished their service, the outgoing priestly watch would say to the incoming priestly watch: May He who caused His Name to dwell in this house cause love and brotherhood, peace and camaraderie to dwell among you.
+
+HEBREW:
+וקורין עשרת הדברות ״שמע״, ״והיה אם שמוע״, ״ויאמר״, ״אמת ויציב״, ועבודה, וברכת כהנים.אמר רב יהודה אמר שמואל: אף בגבולין בקשו לקרות כן, אלא שכבר בטלום מפני תרעומת המינין.תניא נמי הכי, רבי נתן אומר: בגבולין בקשו לקרות כן, אלא שכבר בטלום מפני תרעומת המינין.רבה בר בר חנה סבר למקבעינהו בסורא, אמר ליה רב חסדא: כבר בטלום מפני תרעומת המינין.אמימר סבר למקבעינהו בנהרדעא, אמר ליה רב אשי: כבר בטלום מפני תרעומת המינין.ובשבת מוסיפין ברכה אחת למשמר היוצא. מאי ברכה אחת? אמר רבי חלבו: משמר היוצא אומר למשמר הנכנס: ״מי ששכן את שמו בבית הזה, הוא ישכין ביניכם אהבה ואחוה ושלום וריעות״.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748908944908bc22a11b3",
+      "entityType": "Person",
+      "display_heb_name": "הכהנים",
+      "timePeriod": "Tanach",
+      "isNonJew": false,
+      "isGroup": true,
+      "roles": [
+        "Kohen"
+      ]
+    },
+    {
+      "key": "6ac748b08944908bc22a1237",
+      "entityType": "Person",
+      "display_heb_name": "רב אשי",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748e28944908bc22a1307",
+      "entityType": "Person",
+      "display_heb_name": "רב חסדא",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748ed8944908bc22a1335",
+      "entityType": "Person",
+      "display_heb_name": "רב יהודה",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac749408944908bc22a145f",
+      "entityType": "Person",
+      "display_heb_name": "רבי נתן",
+      "timePeriod": "Tanaim",
+      "roles": [
+        "Tanna"
+      ]
+    },
+    {
+      "key": "6ac7498f8944908bc22a1585",
+      "entityType": "Person",
+      "display_heb_name": "שמואל",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac749a98944908bc22a15da",
+      "entityType": "Symbol",
+      "display_heb_name": "אמת ויציב",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac749ba8944908bc22a1615",
+      "entityType": "Person",
+      "display_heb_name": "המינין",
+      "timePeriod": "Amoraim",
+      "isNonJew": true,
+      "isGroup": true
+    },
+    {
+      "key": "6ac749ba8944908bc22a1616",
+      "entityType": "Person",
+      "display_heb_name": "רבה בר בר חנה",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac749ba8944908bc22a1617",
+      "entityType": "Person",
+      "display_heb_name": "אמימר",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac749ba8944908bc22a1618",
+      "entityType": "Person",
+      "display_heb_name": "משמר היוצא",
+      "timePeriod": "Tanach",
+      "isGroup": true,
+      "roles": [
+        "Kohen"
+      ]
+    },
+    {
+      "key": "6ac749bb8944908bc22a1619",
+      "entityType": "Person",
+      "display_heb_name": "משמר הנכנס",
+      "timePeriod": "Tanach",
+      "isGroup": true,
+      "roles": [
+        "Kohen"
+      ]
+    },
+    {
+      "key": "6ac749bb8944908bc22a161a",
+      "entityType": "Place",
+      "display_heb_name": "סורא",
+      "placeType": "City"
+    },
+    {
+      "key": "6ac749bb8944908bc22a161b",
+      "entityType": "Place",
+      "display_heb_name": "נהרדעא",
+      "placeType": "City"
+    },
+    {
+      "key": "6ac749bb8944908bc22a161c",
+      "entityType": "Symbol",
+      "display_heb_name": "והיה אם שמוע",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac749bc8944908bc22a161d",
+      "entityType": "Symbol",
+      "display_heb_name": "ויאמר",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac749bc8944908bc22a161e",
+      "entityType": "Symbol",
+      "display_heb_name": "עבודה",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac749bc8944908bc22a161f",
+      "entityType": "Symbol",
+      "display_heb_name": "ברכת כהנים",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac749bc8944908bc22a1620",
+      "entityType": "Symbol",
+      "display_heb_name": "שמו",
+      "symbolType": "Not Physical"
+    }
+  ]
+}

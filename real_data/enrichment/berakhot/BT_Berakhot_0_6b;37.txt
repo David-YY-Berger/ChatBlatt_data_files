@@ -1,0 +1,46 @@
+﻿COST: Tokens: Total=4129 approx cost=$0.005093 (Prompt=2377, Completion=1752)
+SOURCE:
+Berakhot (Zeraim) 6b:37
+
+ENTITIES TO ENRICH (4):
+{"key":"6ac73970b9ad2bcc0401a0a4","display_en_name":"david","display_heb_name":"דוד","all_en_names":["David"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isNonJew":false,"isGroup":false,"roles":["Judge","King"]}
+{"key":"6ac748e28944908bc22a1309","display_en_name":"rav huna","display_heb_name":"רב הונא","all_en_names":["Rav Huna"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748f38944908bc22a134e","display_en_name":"isaiah","display_heb_name":"ישעיהו","all_en_names":["Isaiah"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","roles":["Prophet"]}
+{"key":"6ac749048944908bc22a1392","display_en_name":"rabbi helbo","display_heb_name":"רבי חלבו","all_en_names":["Rabbi Helbo"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+
+PASSAGE:
+ENGLISH:
+And Rabbi Helbo said that Rav Huna said: One who is aware that another person is accustomed to greet him is not only obligated to return his greeting, but he must greet him first, as it is stated: Seek peace and pursue it (Psalms 34:15). If the other person extended his greeting to him and he did not respond, he is called a robber, as it is stated: It is you who have eaten up the vineyard, the spoils of the poor is in your houses (Isaiah 3:14). The only way to steal from a pauper who owns nothing is to rob him of his dignity by refusing to return his greeting.
+
+HEBREW:
+ואמר רבי חלבו, אמר רב הונא: כל שיודע בחברו שהוא רגיל ליתן לו שלום, יקדים לו שלום, שנאמר: ״בקש שלום ורדפהו״. ואם נתן לו ולא החזיר — נקרא ״גזלן״, שנאמר: ״ואתם בערתם הכרם גזלת העני בבתיכם״.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748e28944908bc22a1309",
+      "entityType": "Person",
+      "display_heb_name": "רב הונא",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748f38944908bc22a134e",
+      "entityType": "Person",
+      "timePeriod": "Tanach",
+      "roles": [
+        "Prophet"
+      ]
+    },
+    {
+      "key": "6ac749048944908bc22a1392",
+      "entityType": "Person",
+      "display_heb_name": "רבי חלבו",
+      "roles": [
+        "Amora"
+      ]
+    }
+  ]
+}

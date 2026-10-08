@@ -1,0 +1,48 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748b08944908bc22a1237",
+            "entityType": "Person",
+            "display_heb_name": "רב אשי",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rav ashi"
+        },
+        {
+            "key": "6ac748dd8944908bc22a12f6",
+            "entityType": "Person",
+            "display_heb_name": "רבי יצחק",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabbi yitzhak"
+        },
+        {
+            "key": "6ac748de8944908bc22a12f7",
+            "entityType": "Person",
+            "display_heb_name": "מר זוטרא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "mar zutra"
+        },
+        {
+            "key": "6ac748de8944908bc22a12f8",
+            "entityType": "Symbol",
+            "display_heb_name": "חרב פיפיות",
+            "symbolType": "Weapon",
+            "display_en_name": "double-edged sword"
+        },
+        {
+            "key": "6ac748de8944908bc22a12f9",
+            "entityType": "Animal",
+            "display_heb_name": "נשר",
+            "display_en_name": "eagle"
+        }
+    ],
+    "key": "BT_Berakhot_0_5a:4-5"
+}

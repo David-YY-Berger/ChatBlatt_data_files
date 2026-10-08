@@ -1,0 +1,33 @@
+﻿COST: Tokens: Total=4999 approx cost=$0.005642 (Prompt=3116, Completion=1883)
+SOURCE:
+Berakhot (Zeraim) 10b:31-36
+
+ENTITIES TO ENRICH (6):
+{"key":"6ac748e28944908bc22a1307","display_en_name":"rav hisda","display_heb_name":"רב חסדא","all_en_names":["Rav Hisda"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748ed8944908bc22a1335","display_en_name":"rav yehuda","display_heb_name":"רב יהודה","all_en_names":["Rav Yehuda"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac749628944908bc22a14e4","display_en_name":"rabbi yehoshua","display_heb_name":"רבי יהושע","all_en_names":["Rabbi Yehoshua"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","isNonJew":false,"isGroup":false,"roles":["Tanna"]}
+{"key":"6ac749828944908bc22a1554","display_en_name":"mar ukva","display_heb_name":"מר עוקבא","all_en_names":["Mar Ukva"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac7498f8944908bc22a1585","display_en_name":"shmuel","display_heb_name":"שמואל","all_en_names":["Shmuel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac749a08944908bc22a15b6","display_en_name":"rabbi mani","display_heb_name":"","all_en_names":["Rabbi Mani"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+
+PASSAGE:
+ENGLISH:
+We learned in the mishna that Rabbi Yehoshua says: One may recite the morning Shema until three hours of the day. Rav Yehuda said that Shmuel said: The halakha is in accordance with the opinion of Rabbi Yehoshua. We also learned in the mishna that one who recites Shema from that time onward loses nothing; although he does not fulfill the mitzva of reciting of Shema at its appointed time, he is nevertheless considered like one who reads the Torah, and is rewarded accordingly.With regard to this ruling, Rav Hisda said that Mar Ukva said: This only applies provided one does not recite: Who forms light [ yotzer or ], or the rest of the blessings recited along with Shema , as they pertain only to the fulfillment of the mitzva of reciting of the morning Shema ; after the third hour, they are inappropriate.The Gemara raises an objection to Rav Hisdas statement from a baraita : One who recites Shema from that time onward loses nothing, and is considered like one who reads Torah, but he recites two blessings beforehand and one blessing thereafter. This directly contradicts Rav Hisdas statement, and the Gemara notes: Indeed, the refutation of the statement of Rav Hisda is a conclusive refutation, and Rav Hisdas opinion is rejected in favor of that of the baraita . Some say that Rav Hisda said that Mar Ukva said the opposite: What is the meaning of: Loses nothing, in the mishna? This means that one who recites Shema after the third hour does not lose the opportunity to recite the blessings and is permitted to recite them although the time for the recitation of Shema has passed. That was also taught in a baraita : One who recites Shema after this time loses nothing, and is considered like one who reads the Torah, but he recites two blessings beforehand and one thereafter. With regard to our mishna, Rabbi Mani said: Greater is one who recites Shema at its appropriate time than one who engages in Torah study. A proof is cited based on what was taught in the mishna: One who recites Shema after this time loses nothing and is considered like one who reads the Torah. This is proven by inference, since one who recites Shema at its appointed time is greater than one who does not, and one who does not is equal to one who reads the Torah, when one recites Shema at its appointed time he fulfills two mitzvot, that of Torah study and that of the recitation of Shema .
+
+HEBREW:
+רבי יהושע אומר עד שלש שעות. אמר רב יהודה אמר שמואל: הלכה כרבי יהושע.הקורא מכאן ואילך, לא הפסיד.אמר רב חסדא אמר מר עוקבא: ובלבד שלא יאמר יוצר אור.מיתיבי: הקורא מכאן ואילך לא הפסיד, כאדם שהוא קורא בתורה, אבל מברך הוא שתים לפניה ואחת לאחריה. תיובתא דרב חסדא, תיובתא.איכא דאמרי אמר רב חסדא אמר מר עוקבא: מאי ״לא הפסיד״ — שלא הפסיד ברכות. תניא נמי הכי: הקורא מכאן ואילך לא הפסיד כאדם שקורא בתורה, אבל מברך הוא שתים לפניה ואחת לאחריה.אמר רבי מני: גדול הקורא קריאת שמע בעונתה יותר מהעוסק בתורה. מדקתני: הקורא מכאן ואילך לא הפסיד כאדם הקורא בתורה. מכלל דקורא בעונתה — עדיף.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac749a08944908bc22a15b6",
+      "entityType": "Person",
+      "display_heb_name": "רבי מני",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    }
+  ]
+}

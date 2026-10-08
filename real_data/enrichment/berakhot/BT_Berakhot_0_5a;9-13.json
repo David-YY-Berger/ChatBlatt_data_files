@@ -1,0 +1,68 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748928944908bc22a11bc",
+            "entityType": "Symbol",
+            "display_heb_name": "אשם",
+            "symbolType": "Holy Object",
+            "display_en_name": "guilt-offering"
+        },
+        {
+            "key": "6ac748d98944908bc22a12e3",
+            "entityType": "Person",
+            "display_heb_name": "הקדוש ברוך הוא",
+            "timePeriod": "No Time Period",
+            "isNonJew": false,
+            "isGroup": false,
+            "display_en_name": "god"
+        },
+        {
+            "key": "6ac748e28944908bc22a1306",
+            "entityType": "Person",
+            "display_heb_name": "רבא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rava"
+        },
+        {
+            "key": "6ac748e28944908bc22a1307",
+            "entityType": "Person",
+            "display_heb_name": "רב חסדא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rav hisda"
+        },
+        {
+            "key": "6ac748e28944908bc22a1308",
+            "entityType": "Person",
+            "display_heb_name": "רב סחורה",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rav sehora"
+        },
+        {
+            "key": "6ac748e28944908bc22a1309",
+            "entityType": "Person",
+            "display_heb_name": "רב הונא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rav huna"
+        },
+        {
+            "key": "6ac748e38944908bc22a130a",
+            "entityType": "Symbol",
+            "display_heb_name": "יסורין",
+            "symbolType": "Not Physical",
+            "display_en_name": "suffering"
+        }
+    ],
+    "key": "BT_Berakhot_0_5a:9-13"
+}

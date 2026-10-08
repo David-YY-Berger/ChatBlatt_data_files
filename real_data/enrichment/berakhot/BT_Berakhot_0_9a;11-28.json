@@ -1,0 +1,143 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac749628944908bc22a14e2",
+            "entityType": "Person",
+            "display_heb_name": "רבי אלעזר בן עזריה",
+            "timePeriod": "Tanaim",
+            "isNonJew": false,
+            "isGroup": false,
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "rabbi elazar ben azarya"
+        },
+        {
+            "key": "6ac749628944908bc22a14e3",
+            "entityType": "Person",
+            "display_heb_name": "רבי עקיבא",
+            "timePeriod": "Tanaim",
+            "isNonJew": false,
+            "isGroup": false,
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "rabbi akiva"
+        },
+        {
+            "key": "6ac749628944908bc22a14e4",
+            "entityType": "Person",
+            "display_heb_name": "רבי יהושע",
+            "timePeriod": "Tanaim",
+            "isNonJew": false,
+            "isGroup": false,
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "rabbi yehoshua"
+        },
+        {
+            "key": "6ac749628944908bc22a14e5",
+            "entityType": "Person",
+            "display_heb_name": "רבי אבא",
+            "timePeriod": "Amoraim",
+            "isNonJew": false,
+            "isGroup": false,
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabbi abba"
+        },
+        {
+            "key": "6ac749638944908bc22a14e6",
+            "entityType": "Person",
+            "display_heb_name": "מצרים",
+            "timePeriod": "Tanach",
+            "isNonJew": true,
+            "isGroup": true,
+            "display_en_name": "egyptians"
+        },
+        {
+            "key": "6ac749638944908bc22a14e7",
+            "entityType": "Symbol",
+            "symbolType": "Holy Object",
+            "display_en_name": "altar"
+        },
+        {
+            "key": "6ac749638944908bc22a14e8",
+            "entityType": "Symbol",
+            "display_heb_name": "הלל",
+            "symbolType": "Holy Object",
+            "display_en_name": "hallel"
+        },
+        {
+            "key": "6ac749638944908bc22a14e9",
+            "entityType": "Symbol",
+            "display_heb_name": "פסח",
+            "symbolType": "Holy Object",
+            "display_en_name": "paschal offering"
+        },
+        {
+            "key": "6ac749648944908bc22a14ea",
+            "entityType": "Symbol",
+            "display_heb_name": "שלמים",
+            "symbolType": "Holy Object",
+            "display_en_name": "peace-offering"
+        },
+        {
+            "key": "6ac749648944908bc22a14eb",
+            "entityType": "Number",
+            "heb_unit": "מקור",
+            "contexts": [
+                {
+                    "en_context": "conflicting opinions",
+                    "heb_context": "דעות חלוקות"
+                }
+            ],
+            "display_en_name": "2"
+        },
+        {
+            "key": "6ac749648944908bc22a14ed",
+            "entityType": "Number",
+            "heb_unit": "זמן",
+            "contexts": [
+                {
+                    "en_context": "paschal lamb mitzvah",
+                    "heb_context": "מצוות הפסח"
+                }
+            ],
+            "display_en_name": "3"
+        },
+        {
+            "key": "6ac749658944908bc22a14ee",
+            "entityType": "Number",
+            "heb_unit": "יום",
+            "contexts": [
+                {
+                    "en_context": "israel left egypt",
+                    "heb_context": "יצאו בני ישראל ממצרים"
+                }
+            ],
+            "display_en_name": "15"
+        },
+        {
+            "key": "6ac749658944908bc22a14ef",
+            "entityType": "Food",
+            "display_heb_name": "פסח",
+            "display_en_name": "paschal lamb"
+        },
+        {
+            "key": "6ac749658944908bc22a14f0",
+            "entityType": "Food",
+            "display_heb_name": "מצות",
+            "display_en_name": "matzah"
+        },
+        {
+            "key": "6ac749658944908bc22a14f1",
+            "entityType": "Food",
+            "display_heb_name": "מרורים",
+            "display_en_name": "bitter herb"
+        }
+    ],
+    "key": "BT_Berakhot_0_9a:11-28"
+}

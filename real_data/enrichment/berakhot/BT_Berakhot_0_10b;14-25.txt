@@ -1,0 +1,143 @@
+﻿COST: Tokens: Total=8496 approx cost=$0.010658 (Prompt=4810, Completion=3686)
+SOURCE:
+Berakhot (Zeraim) 10b:14-25
+
+ENTITIES TO ENRICH (19):
+{"key":"6ac73953b9ad2bcc0401a028","display_en_name":"eliezer","display_heb_name":"","all_en_names":["Eliezer"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"book_references":["Genesis"],"timePeriod":"Tanach","isWoman":false,"isGroup":false,"roles":[]}
+{"key":"6ac73977b9ad2bcc0401a0c1","display_en_name":"samuel","display_heb_name":"שמואל","all_en_names":["Samuel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isGroup":false,"roles":[]}
+{"key":"6ac7489b8944908bc22a11e4","display_en_name":"hanina","display_heb_name":"רבי חנינא","all_en_names":["Hanina"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","roles":["Tanna"]}
+{"key":"6ac748a28944908bc22a11ff","display_en_name":"rav","display_heb_name":"רב","all_en_names":["Rav"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748a68944908bc22a1211","display_en_name":"yosei","display_heb_name":"רבי יוסי","all_en_names":["Yosei"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","roles":["Tanna"]}
+{"key":"6ac748b88944908bc22a125a","display_en_name":"yitzhak","display_heb_name":"רבי יצחק","all_en_names":["Yitzhak"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748d68944908bc22a12d6","display_en_name":"abaye","display_heb_name":"אביי","all_en_names":["Abaye"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac7493e8944908bc22a145b","display_en_name":"elisha","display_heb_name":"אלישע","all_en_names":["Elisha"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","roles":["Prophet"]}
+{"key":"6ac749888944908bc22a1567","display_en_name":"shunem","display_heb_name":"","all_en_names":["Shunem"],"all_heb_names":[],"entityType":"Place","alias_keys":[],"placeType":"City"}
+{"key":"6ac7498f8944908bc22a1585","display_en_name":"shmuel","display_heb_name":"שמואל","all_en_names":["Shmuel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac749998944908bc22a159e","display_en_name":"yaakov","display_heb_name":"","all_en_names":["Yaakov"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749998944908bc22a159f","display_en_name":"geihazi","display_heb_name":"","all_en_names":["Geihazi"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749998944908bc22a15a0","display_en_name":"rama","display_heb_name":"","all_en_names":["Rama"],"all_heb_names":[],"entityType":"Place","alias_keys":[]}
+{"key":"6ac7499a8944908bc22a15a1","display_en_name":"bed","display_heb_name":"","all_en_names":["Bed"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac7499a8944908bc22a15a2","display_en_name":"table","display_heb_name":"","all_en_names":["Table"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac7499a8944908bc22a15a3","display_en_name":"stool","display_heb_name":"","all_en_names":["Stool"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac7499a8944908bc22a15a4","display_en_name":"candlestick","display_heb_name":"","all_en_names":["Candlestick"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac7499b8944908bc22a15a5","display_en_name":"daily offering","display_heb_name":"","all_en_names":["Daily Offering"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac7499b8944908bc22a15a6","display_en_name":"fly","display_heb_name":"","all_en_names":["Fly"],"all_heb_names":[],"entityType":"Animal","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+Having mentioned the chamber on the roof built for Elisha by the woman from Shunem, the Gemara now describes the entire event. The woman from Shunem suggested to her husband: Let us make, I pray thee, a small chamber on the roof, and let us place a bed, table, stool and candlestick for him there, and it will be, when he comes to us, that he will turn in there (II Kings 4:10). Rav and Shmuel argued over the meaning of small chamber. One of them said: They had an uncovered second story on their roof, over which they built a ceiling; and one of them said: There was an enclosed veranda [ akhsadra ] and they divided it in half. The Gemara comments: Granted, according to the one who said that it was an enclosed veranda which they divided in two, it makes sense that the term wall [ kir ] was written. However, according to the one who said that they had an open second story, what is the meaning of wall? The Gemara responds: The one who said that they had an uncovered second story interprets kir not as wall but as ceiling meaning that they built a ceiling [ kirui ] over it.On the other hand, granted, according to the one who said that they had an uncovered second story, it makes sense that the term second story [ aliyat ] was written. But according to the one who said that it was an enclosed veranda, what is the meaning of the term second story? The Gemara responds: The one who said that it was an enclosed veranda interprets aliyat not as second story, but as the most outstanding [ meula ] of the rooms. Incidental to this discussion, the Gemara analyzes the statement made by the woman from Shunem to her husband with regard to the provisions that they would place in the room for Elisha: And let us place a bed, table, stool and candlestick for him there. Abaye, and some say Rabbi Yitzhak, said: A great man who seeks to enjoy the contributions of those who seek to honor him may enjoy those gifts, as Elisha enjoyed gifts given him by the woman from Shunem, among others. And one who does not seek to enjoy these gifts should not enjoy them, as was the practice of the prophet Samuel from Rama, who would not accept gifts from anyone at all. From where do we know that this was Samuels custom? As it is stated: And he returned to Rama, for there was his house, and there he judged Israel, and he built an altar to the Lord (I Samuel 7:17). And similarly, Rabbi Yohanan said: Every place where Samuel went, his house was with him, so he would have everything that he needed and not be forced to benefit from public contributions. One may opt to conduct himself in accordance with either of these paths.Regarding the woman from Shunem: And she said to her husband: Behold now, I perceive that he is a holy man of God who passes by us continually (II Kings 4:9). Rabbi Yosei, son of Rabbi Hanina, said: From here, where the woman from Shunem perceived the prophets greatness before her husband did, derive that a woman recognizes the character of her guests more than a man does.The Gemara notes that the woman from Shunem said that he is holy. The Gemara asks: From where did she know that he was holy? Rav and Shmuel disagreed over this. One of them said: She never saw a fly pass over his table; and the other said: She spread a white linen sheet on his bed, and despite that even the smallest stain is visible on white linen, and nocturnal seminal emissions are not uncommon, she never saw the residue of a seminal emission on it. With regard to the verse: He is holy, Rabbi Yosei, son of Rabbi Hanina, said: The woman from Shunem intimated that: He is holy, but his attendant, Geihazi, is not holy, as she saw no indication of holiness in him ( Iyyun Yaakov ). Here too, she correctly perceived the character of her guest, as it is later stated: And Geihazi approached her to push her away [ lehodfa ] (II Kings 4:27). And Rabbi Yosei, son of Rabbi Hanina, said: He grabbed her by the majesty of her beauty [ hod yofya ], meaning that when he pushed her he grabbed her breasts in a licentious manner.With regard to the phrasing of the verse: He is a holy man of God who passes by us continually, Rabbi Yosei, son of Rabbi Hanina, said in the name of Rabbi Eliezer ben Yaakov: From this verse we derive that one who hosts a Torah scholar in his home and lets him enjoy his possessions, the verse ascribes to him credit as if he is sacrificing the daily [ tamid ] offering, as the verse states: Passes by us continually [ tamid ].
+
+HEBREW:
+״נעשה נא עלית קיר קטנה״.רב ושמואל, חד אמר: עלייה פרועה היתה, וקירוה. וחד אמר: אכסדרה גדולה היתה וחלקוה לשנים.בשלמא למאן דאמר אכסדרה, היינו דכתיב ״קיר״ אלא למאן דאמר עלייה, מאי ״קיר״?שקירוה.בשלמא למאן דאמר עלייה, היינו דכתיב ״עליית״. אלא למאן דאמר אכסדרה, מאי ״עליית״?״מעולה״ שבבתים.״ונשים לו שם מטה ושלחן וכסא ומנורה״.אמר אביי, ואיתימא רבי יצחק: הרוצה להנות — יהנה, כאלישע. ושאינו רוצה להנות — אל יהנה, כשמואל הרמתי. שנאמר: ״ותשובתו הרמתה כי שם ביתו״, ואמר רבי יוחנן: שכל מקום שהלך שם — ביתו עמו.״ותאמר אל אישה הנה נא ידעתי כי איש אלהים קדוש הוא״, אמר רבי יוסי ברבי חנינא: מכאן שהאשה מכרת באורחין יותר מן האיש.״קדוש הוא״: מנא ידעה? רב ושמואל. חד אמר: שלא ראתה זבוב עובר על שלחנו, וחד אמר: סדין של פשתן הציעה על מטתו ולא ראתה קרי עליו.״קדוש הוא״ אמר רבי יוסי ברבי חנינא: הוא קדוש ומשרתו אינו קדוש. שנאמר: ״ויגש גיחזי להדפה״, אמר רבי יוסי ברבי חנינא: שאחזה בהוד יפיה.״עובר עלינו תמיד״, אמר רבי יוסי ברבי חנינא משום רבי אליעזר בן יעקב: כל המארח תלמיד חכם בתוך ביתו ומהנהו מנכסיו — מעלה עליו הכתוב כאילו מקריב תמידין.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac73953b9ad2bcc0401a028",
+      "entityType": "Person",
+      "display_heb_name": "רבי אליעזר בן יעקב"
+    },
+    {
+      "key": "6ac73977b9ad2bcc0401a0c1",
+      "entityType": "Person",
+      "display_heb_name": "שמואל הרמתי",
+      "roles": [
+        "Prophet"
+      ]
+    },
+    {
+      "key": "6ac7489b8944908bc22a11e4",
+      "entityType": "Person",
+      "display_heb_name": "רבי חנינא"
+    },
+    {
+      "key": "6ac748a28944908bc22a11ff",
+      "entityType": "Person",
+      "display_heb_name": "רב"
+    },
+    {
+      "key": "6ac748a68944908bc22a1211",
+      "entityType": "Person",
+      "display_heb_name": "רבי יוסי"
+    },
+    {
+      "key": "6ac748b88944908bc22a125a",
+      "entityType": "Person",
+      "display_heb_name": "רבי יצחק"
+    },
+    {
+      "key": "6ac748d68944908bc22a12d6",
+      "entityType": "Person",
+      "display_heb_name": "אביי"
+    },
+    {
+      "key": "6ac7493e8944908bc22a145b",
+      "entityType": "Person",
+      "display_heb_name": "אלישע"
+    },
+    {
+      "key": "6ac749888944908bc22a1567",
+      "entityType": "Place",
+      "display_heb_name": "שונם",
+      "placeType": "City"
+    },
+    {
+      "key": "6ac7498f8944908bc22a1585",
+      "entityType": "Person",
+      "display_heb_name": "שמואל"
+    },
+    {
+      "key": "6ac749998944908bc22a159e",
+      "entityType": "Person",
+      "display_heb_name": "יעקב"
+    },
+    {
+      "key": "6ac749998944908bc22a159f",
+      "entityType": "Person",
+      "display_heb_name": "גיחזי",
+      "timePeriod": "Tanach"
+    },
+    {
+      "key": "6ac7499a8944908bc22a15a0",
+      "entityType": "Place",
+      "display_heb_name": "רמה",
+      "placeType": "City"
+    },
+    {
+      "key": "6ac7499a8944908bc22a15a1",
+      "entityType": "Symbol",
+      "display_heb_name": "מטה",
+      "symbolType": "Other"
+    },
+    {
+      "key": "6ac7499a8944908bc22a15a2",
+      "entityType": "Symbol",
+      "display_heb_name": "שלחן",
+      "symbolType": "Other"
+    },
+    {
+      "key": "6ac7499a8944908bc22a15a3",
+      "entityType": "Symbol",
+      "display_heb_name": "כסא",
+      "symbolType": "Other"
+    },
+    {
+      "key": "6ac7499a8944908bc22a15a4",
+      "entityType": "Symbol",
+      "display_heb_name": "מנורה",
+      "symbolType": "Other"
+    },
+    {
+      "key": "6ac7499b8944908bc22a15a5",
+      "entityType": "Symbol",
+      "display_heb_name": "תמידין",
+      "symbolType": "Holy Object"
+    },
+    {
+      "key": "6ac7499b8944908bc22a15a6",
+      "entityType": "Animal",
+      "display_heb_name": "זבוב"
+    }
+  ]
+}

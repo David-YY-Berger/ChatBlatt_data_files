@@ -1,0 +1,89 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac7488f8944908bc22a11b0",
+            "entityType": "Person",
+            "display_heb_name": "רבן גמליאל",
+            "timePeriod": "Tanaim",
+            "isNonJew": false,
+            "isGroup": false,
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "rabban gamliel"
+        },
+        {
+            "key": "6ac7488f8944908bc22a11b1",
+            "entityType": "Person",
+            "display_heb_name": "רבי אליעזר",
+            "timePeriod": "Tanaim",
+            "isNonJew": false,
+            "isGroup": false,
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "rabbi eliezer"
+        },
+        {
+            "key": "6ac748908944908bc22a11b2",
+            "entityType": "Person",
+            "display_heb_name": "חכמים",
+            "timePeriod": "Tanaim",
+            "isGroup": true,
+            "display_en_name": "the rabbis"
+        },
+        {
+            "key": "6ac748908944908bc22a11b3",
+            "entityType": "Person",
+            "display_heb_name": "הכהנים",
+            "timePeriod": "Tanach",
+            "isNonJew": false,
+            "isGroup": true,
+            "roles": [
+                "Kohen"
+            ],
+            "display_en_name": "priests"
+        },
+        {
+            "key": "6ac748908944908bc22a11b4",
+            "entityType": "Place",
+            "display_heb_name": "בית המשתה",
+            "placeType": "Building or Structure",
+            "display_en_name": "wedding hall"
+        },
+        {
+            "key": "6ac748908944908bc22a11b5",
+            "entityType": "Symbol",
+            "display_heb_name": "שמע",
+            "symbolType": "Not Physical",
+            "display_en_name": "shema"
+        },
+        {
+            "key": "6ac748918944908bc22a11ba",
+            "entityType": "Symbol",
+            "display_heb_name": "העולה",
+            "symbolType": "Holy Object",
+            "display_en_name": "burnt offering"
+        },
+        {
+            "key": "6ac748928944908bc22a11bd",
+            "entityType": "Symbol",
+            "display_heb_name": "מוקדה",
+            "symbolType": "Other",
+            "display_en_name": "pyre"
+        },
+        {
+            "key": "6ac748938944908bc22a11c0",
+            "entityType": "Number",
+            "heb_unit": "סדר",
+            "contexts": [
+                {
+                    "en_context": "mishna orders",
+                    "heb_context": "סדרי משנה"
+                }
+            ],
+            "display_en_name": "6"
+        }
+    ],
+    "key": "BT_Berakhot_0_2a:1-5"
+}

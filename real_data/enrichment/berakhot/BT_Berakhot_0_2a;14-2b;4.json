@@ -1,0 +1,36 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748988944908bc22a11d6",
+            "entityType": "Person",
+            "isGroup": true,
+            "display_en_name": "tosafot"
+        },
+        {
+            "key": "6ac748988944908bc22a11d7",
+            "entityType": "Person",
+            "display_heb_name": "רבה בר רב שילא",
+            "display_en_name": "rabba bar rav sheila"
+        },
+        {
+            "key": "6ac748988944908bc22a11d8",
+            "entityType": "Place",
+            "placeType": "Country or Region",
+            "display_en_name": "eretz yisrael"
+        },
+        {
+            "key": "6ac748988944908bc22a11d9",
+            "entityType": "Place",
+            "placeType": "Country or Region",
+            "display_en_name": "babylonia"
+        },
+        {
+            "key": "6ac748998944908bc22a11da",
+            "entityType": "Symbol",
+            "display_heb_name": "כוכבים",
+            "symbolType": "Part of Nature",
+            "display_en_name": "stars"
+        }
+    ],
+    "key": "BT_Berakhot_0_2a:14-2b:4"
+}

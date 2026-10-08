@@ -1,0 +1,46 @@
+﻿COST: Tokens: Total=3378 approx cost=$0.003007 (Prompt=2472, Completion=906)
+SOURCE:
+Berakhot (Zeraim) 5a:2
+
+ENTITIES TO ENRICH (4):
+{"key":"6ac748d78944908bc22a12db","display_en_name":"rabbi levi bar hama","display_heb_name":"","all_en_names":["Rabbi Levi Bar Hama"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748d78944908bc22a12dc","display_en_name":"rabbi shimon ben lakish","display_heb_name":"","all_en_names":["Rabbi Shimon Ben Lakish"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748d78944908bc22a12dd","display_en_name":"good inclination","display_heb_name":"","all_en_names":["Good Inclination"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748d88944908bc22a12de","display_en_name":"evil inclination","display_heb_name":"","all_en_names":["Evil Inclination"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+Incidental to the verse, Tremble, and do not sin, the Gemara mentions that Rabbi Levi bar Hama said that Rabbi Shimon ben Lakish said: One should always incite his good inclination against his evil inclination, i.e., that one must constantly struggle so that his evil inclination does not lead him to transgression, as it is stated: "Tremble, and do not sin." If one succeeds and subdues his evil inclination, excellent, but if he does not succeed in subduing it, he should study Torah, as alluded to in the verse: Say to your heart. If he subdues his evil inclination, excellent; if not, he should recite Shema , which contains the acceptance of the yoke of God, and the concept of reward and punishment, as it is stated in the verse: Upon your bed, which alludes to Shema , where it says: When you lie down. If he subdues his evil inclination, excellent; if not, he should remind himself of the day of death, whose silence is alluded to in the continuation of the verse: And be still, Selah.
+
+HEBREW:
+אמר רבי לוי בר חמא, אמר רבי שמעון בן לקיש: לעולם ירגיז אדם יצר טוב על יצר הרע, שנאמר: ״רגזו ואל תחטאו״ אם נצחו — מוטב, ואם לאו — יעסוק בתורה, שנאמר: ״אמרו בלבבכם״. אם נצחו — מוטב, ואם לאו — יקרא קריאת שמע, שנאמר: ״על משכבכם״. אם נצחו — מוטב, ואם לאו — יזכור לו יום המיתה, שנאמר: ״ודמו סלה״.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748d78944908bc22a12db",
+      "entityType": "Person",
+      "display_heb_name": "רבי לוי בר חמא",
+      "timePeriod": "Amoraim"
+    },
+    {
+      "key": "6ac748d78944908bc22a12dc",
+      "entityType": "Person",
+      "display_heb_name": "רבי שמעון בן לקיש",
+      "timePeriod": "Amoraim"
+    },
+    {
+      "key": "6ac748d78944908bc22a12dd",
+      "entityType": "Symbol",
+      "display_heb_name": "יצר טוב",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac748d88944908bc22a12de",
+      "entityType": "Symbol",
+      "display_heb_name": "יצר הרע",
+      "symbolType": "Not Physical"
+    }
+  ]
+}

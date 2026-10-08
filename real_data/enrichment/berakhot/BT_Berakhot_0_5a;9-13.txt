@@ -1,0 +1,81 @@
+﻿COST: Tokens: Total=4882 approx cost=$0.005218 (Prompt=3176, Completion=1706)
+SOURCE:
+Berakhot (Zeraim) 5a:9-13
+
+ENTITIES TO ENRICH (7):
+{"key":"6ac748928944908bc22a11bc","display_en_name":"guilt-offering","display_heb_name":"","all_en_names":["Guilt-Offering"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748d98944908bc22a12e3","display_en_name":"god","display_heb_name":"","all_en_names":["God"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isNonJew":false,"isGroup":false,"roles":[]}
+{"key":"6ac748e28944908bc22a1306","display_en_name":"rava","display_heb_name":"רבא","all_en_names":["Rava"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748e28944908bc22a1307","display_en_name":"rav hisda","display_heb_name":"","all_en_names":["Rav Hisda"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748e28944908bc22a1308","display_en_name":"rav sehora","display_heb_name":"","all_en_names":["Rav Sehora"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748e28944908bc22a1309","display_en_name":"rav huna","display_heb_name":"","all_en_names":["Rav Huna"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748e38944908bc22a130a","display_en_name":"suffering","display_heb_name":"","all_en_names":["Suffering"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+Previously, the Gemara discussed suffering that results from ones transgressions. The Gemara shifts the focus and discusses suffering that does not result from ones transgressions and the suffering of the righteous. Rava, and some say Rav Hisda, said: If a person sees that suffering has befallen him, he should examine his actions. Generally, suffering comes about as punishment for ones transgressions, as it is stated: We will search and examine our ways, and return to God (Lamentations 3:40). If he examined his ways and found no transgression for which that suffering is appropriate, he may attribute his suffering to dereliction in the study of Torah. God punishes an individual for dereliction in the study of Torah in order to emphasize the gravity of the issue, as it is stated: Happy is the man whom You punish, Lord, and teach out of Your law (Psalms 94:12). This verse teaches us that his suffering will cause him to return to Your law. And if he did attribute his suffering to dereliction in the study of Torah, and did not find this to be so, he may be confident that these are afflictions of love, as it is stated: For whom the Lord loves, He rebukes, as does a father the son in whom he delights (Proverbs 3:12).So too, Rava said that Rav Sehora said that Rav Huna said: Anyone in whom the Holy One, Blessed be He, delights, He oppresses him with suffering, as it is stated: Yet in whom the Lord delights, He oppresses him with disease; to see if his soul would offer itself in guilt, that he might see his children, lengthen his days, and that the desire of the Lord might prosper by his hand (Isaiah 53:10). This verse illustrates that in whomever God delights, he afflicts with illness.I might have thought that God delights in him even if he does not accept his suffering with love. Therefore the verse teaches: If his soul would offer itself in guilt. Just as a guilt-offering is brought knowingly, as it is one of the sacrifices offered willingly, without coercion, so too his suffering must be accepted knowingly. And if one accepts that suffering with love, what is his reward? As the second part of the verse states: That he might see his children, lengthen his days. Moreover, in addition to these earthly rewards, his Torah study will endure and his Torah study will be successful, as it is stated: The purpose of the Lord, the Torah, the revelation of Gods will, might prosper by his hand.
+
+HEBREW:
+אמר רבא, ואיתימא רב חסדא: אם רואה אדם שיסורין באין עליו — יפשפש במעשיו, שנאמר: ״נחפשה דרכינו ונחקרה ונשובה עד ה׳״. פשפש ולא מצא — יתלה בבטול תורה, שנאמר: ״אשרי הגבר אשר תיסרנו יה ומתורתך תלמדנו״.ואם תלה ולא מצא — בידוע שיסורין של אהבה הם, שנאמר: ״כי את אשר יאהב ה׳ יוכיח״.אמר רבא, אמר רב סחורה, אמר רב הונא: כל שהקדוש ברוך הוא חפץ בו — מדכאו ביסורין, שנאמר: ״וה׳ חפץ דכאו החלי״.יכול אפילו לא קבלם מאהבה? — תלמוד לומר: ״אם תשים אשם נפשו״, מה אשם לדעת, אף יסורין — לדעת.ואם קבלם מה שכרו: ״יראה זרע יאריך ימים״. ולא עוד אלא שתלמודו מתקיים בידו, שנאמר: ״וחפץ ה׳ בידו יצלח״.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748928944908bc22a11bc",
+      "entityType": "Symbol",
+      "display_heb_name": "אשם",
+      "symbolType": "Holy Object"
+    },
+    {
+      "key": "6ac748d98944908bc22a12e3",
+      "entityType": "Person",
+      "display_heb_name": "הקדוש ברוך הוא",
+      "timePeriod": "No Time Period",
+      "isNonJew": false,
+      "isGroup": false
+    },
+    {
+      "key": "6ac748e28944908bc22a1306",
+      "entityType": "Person",
+      "display_heb_name": "רבא",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748e28944908bc22a1307",
+      "entityType": "Person",
+      "display_heb_name": "רב חסדא",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748e28944908bc22a1308",
+      "entityType": "Person",
+      "display_heb_name": "רב סחורה",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748e28944908bc22a1309",
+      "entityType": "Person",
+      "display_heb_name": "רב הונא",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748e38944908bc22a130a",
+      "entityType": "Symbol",
+      "display_heb_name": "יסורין",
+      "symbolType": "Not Physical"
+    }
+  ]
+}

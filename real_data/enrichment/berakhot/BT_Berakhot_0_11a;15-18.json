@@ -1,0 +1,63 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac749628944908bc22a14e2",
+            "entityType": "Person",
+            "display_heb_name": "רבי אלעזר בן עזריה",
+            "timePeriod": "Tanaim",
+            "isNonJew": false,
+            "isGroup": false,
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "rabbi elazar ben azarya"
+        },
+        {
+            "key": "6ac749a18944908bc22a15ba",
+            "entityType": "Person",
+            "display_heb_name": "בית שמאי",
+            "timePeriod": "Tanaim",
+            "isGroup": true,
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "beit shammai"
+        },
+        {
+            "key": "6ac749a18944908bc22a15bb",
+            "entityType": "Person",
+            "display_heb_name": "בית הלל",
+            "timePeriod": "Tanaim",
+            "isGroup": true,
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "beit hillel"
+        },
+        {
+            "key": "6ac749a48944908bc22a15c6",
+            "entityType": "Person",
+            "display_heb_name": "רבי ישמעאל",
+            "timePeriod": "Tanaim",
+            "isNonJew": false,
+            "isGroup": false,
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "rabbi yishmael"
+        },
+        {
+            "key": "6ac749a58944908bc22a15c8",
+            "entityType": "Number",
+            "heb_unit": "תנא",
+            "contexts": [
+                {
+                    "en_context": "tannaim at meal",
+                    "heb_context": "תנאים מסובין"
+                }
+            ],
+            "display_en_name": "2"
+        }
+    ],
+    "key": "BT_Berakhot_0_11a:15-18"
+}

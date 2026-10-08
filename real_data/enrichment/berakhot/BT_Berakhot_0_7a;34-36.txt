@@ -1,0 +1,114 @@
+﻿COST: Tokens: Total=6287 approx cost=$0.008675 (Prompt=3201, Completion=3086)
+SOURCE:
+Berakhot (Zeraim) 7a:34-36
+
+ENTITIES TO ENRICH (9):
+{"key":"6ac73992b9ad2bcc0401a125","display_en_name":"moses","display_heb_name":"משה","all_en_names":["Moses"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isNonJew":false,"isGroup":false,"roles":["Prophet"]}
+{"key":"6ac748be8944908bc22a1275","display_en_name":"rabbi yosei","display_heb_name":"רבי יוסי","all_en_names":["Rabbi Yosei"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","roles":["Tanna"]}
+{"key":"6ac748cc8944908bc22a12ac","display_en_name":"rabbi yohanan","display_heb_name":"רבי יוחנן","all_en_names":["Rabbi Yohanan"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748d98944908bc22a12e3","display_en_name":"god","display_heb_name":"הקדוש ברוך הוא","all_en_names":["God"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isNonJew":false,"isGroup":false,"roles":[]}
+{"key":"6ac7492c8944908bc22a1421","display_en_name":"gershom","display_heb_name":"","all_en_names":["Gershom"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac7492d8944908bc22a1422","display_en_name":"rehaviya","display_heb_name":"","all_en_names":["Rehaviya"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac7492d8944908bc22a1423","display_en_name":"rav yosef","display_heb_name":"","all_en_names":["Rav Yosef"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac7492d8944908bc22a1424","display_en_name":"israelites","display_heb_name":"","all_en_names":["Israelites"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac7492e8944908bc22a1425","display_en_name":"600000","display_heb_name":"","all_en_names":["600000"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"People","en_unit":"person","contexts":[{"en_context":"israelites in desert","source_keys":["BT_Berakhot_0_7a:34-36"]}]}
+
+PASSAGE:
+ENGLISH:
+On this subject, Rabbi Yohanan said in the name of Rabbi Yosei: Every statement to a person or to a nation that emerged from the mouth of the Holy One, Blessed be He, with a promise of good, even if it was conditional, He did not renege on it. Ultimately, every promise made by God will be fulfilled. From where do we derive that all of Gods promises are fulfilled? We know this from Moses our teacher, as God promised and said: Leave Me alone; I will destroy them and blot out their name from under heaven; and I will make from you a nation mightier and greater than they (Deuteronomy 9:14). Even though Moses prayed to have the decree repealed, and it was nullified, the promise was fulfilled and Moses descendants became a nation mightier and greater than the 600,000 Israelites in the desert. As it is stated with regard to the Levites: The sons of Moses: Gershom and Eliezer...and the sons of Eliezer were Rehaviya the chief. And Eliezer had no other sons; and the sons of Rehaviya were very many (I Chronicles 23:15-17). And Rav Yosef taught in a baraita : Many means more than 600,000. This is learned through a verbal analogy between the words many and many. It is written here with regard to Rehaviyas sons: Were very many. And it is written there with regard to the Israelites in Egypt: And the children of Israel became numerous and multiplied and were very many, and waxed exceeding mighty; and the land was filled with them (Exodus 1:7). Just as when the children of Israel were in Egypt, very many meant that there were 600,000 of them, so too the descendants of Rehaviya were 600,000.
+
+HEBREW:
+ואמר רבי יוחנן משום רבי יוסי: כל דבור ודבור שיצא מפי הקדוש ברוך הוא לטובה, אפילו על תנאי — לא חזר בו.מנא לן — ממשה רבינו, שנאמר ״הרף ממני ואשמידם וגו׳ ואעשה אותך לגוי עצום״. אף על גב דבעא משה רחמי עלה דמלתא ובטלה, אפילו הכי — אוקמה בזרעיה. שנאמר: ״בני משה גרשום ואליעזר. ויהיו בני אליעזר רחביה הראש וגו׳ ובני רחביה רבו למעלה וגו׳״.ותני רב יוסף: ״למעלה״ — מששים רבוא, אתיא ״רביה״ ״רביה״. כתיב הכא: ״רבו למעלה״, וכתיב התם: ״ובני ישראל פרו וישרצו וירבו״.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac73992b9ad2bcc0401a125",
+      "entityType": "Person",
+      "display_heb_name": "משה",
+      "timePeriod": "Tanach",
+      "isNonJew": false,
+      "isGroup": false,
+      "roles": [
+        "Prophet"
+      ]
+    },
+    {
+      "key": "6ac748be8944908bc22a1275",
+      "entityType": "Person",
+      "display_heb_name": "רבי יוסי",
+      "timePeriod": "Tanaim",
+      "roles": [
+        "Tanna"
+      ]
+    },
+    {
+      "key": "6ac748cc8944908bc22a12ac",
+      "entityType": "Person",
+      "display_heb_name": "רבי יוחנן",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748d98944908bc22a12e3",
+      "entityType": "Person",
+      "display_heb_name": "הקדוש ברוך הוא",
+      "timePeriod": "No Time Period",
+      "isNonJew": false,
+      "isGroup": false,
+      "roles": []
+    },
+    {
+      "key": "6ac7492c8944908bc22a1421",
+      "entityType": "Person",
+      "display_heb_name": "גרשום",
+      "timePeriod": "Tanach",
+      "isWoman": false,
+      "isNonJew": false,
+      "isGroup": false
+    },
+    {
+      "key": "6ac7492d8944908bc22a1422",
+      "entityType": "Person",
+      "display_heb_name": "רחביה",
+      "timePeriod": "Tanach",
+      "isWoman": false,
+      "isNonJew": false,
+      "isGroup": false
+    },
+    {
+      "key": "6ac7492d8944908bc22a1423",
+      "entityType": "Person",
+      "display_heb_name": "רב יוסף",
+      "timePeriod": "Amoraim",
+      "isWoman": false,
+      "isNonJew": false,
+      "isGroup": false,
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac7492e8944908bc22a1425",
+      "entityType": "Person",
+      "display_heb_name": "בני ישראל",
+      "timePeriod": "Tanach",
+      "isNonJew": false,
+      "isGroup": true
+    },
+    {
+      "key": "6ac7492e8944908bc22a1425",
+      "entityType": "Number",
+      "heb_unit": "אדם",
+      "contexts": [
+        {
+          "en_context": "israelites in desert",
+          "heb_context": "בני ישראל במדבר"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748aa8944908bc22a1222",
+            "entityType": "Number",
+            "heb_unit": "איש",
+            "contexts": [
+                {
+                    "en_context": "entering ruin",
+                    "heb_context": "כניסה לחורבה"
+                },
+                {
+                    "en_context": "torah study",
+                    "heb_context": "לימוד תורה"
+                }
+            ],
+            "display_en_name": "2"
+        }
+    ],
+    "key": "BT_Berakhot_0_3a:15-3b:9"
+}

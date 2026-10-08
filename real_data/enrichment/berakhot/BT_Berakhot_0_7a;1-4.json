@@ -1,0 +1,72 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748a28944908bc22a11ff",
+            "entityType": "Person",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rav"
+        },
+        {
+            "key": "6ac748a68944908bc22a1211",
+            "entityType": "Person",
+            "display_en_name": "yosei"
+        },
+        {
+            "key": "6ac748d98944908bc22a12e3",
+            "entityType": "Person",
+            "display_en_name": "god"
+        },
+        {
+            "key": "6ac749178944908bc22a13d1",
+            "entityType": "Person",
+            "display_heb_name": "רב זוטרא בר טוביה",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "zutra bar tovia"
+        },
+        {
+            "key": "6ac749178944908bc22a13d2",
+            "entityType": "Person",
+            "display_heb_name": "רבי ישמעאל בן אלישע",
+            "timePeriod": "Tanaim",
+            "roles": [
+                "Kohen",
+                "Tanna"
+            ],
+            "display_en_name": "yishmael ben elisha"
+        },
+        {
+            "key": "6ac749178944908bc22a13d3",
+            "entityType": "Place",
+            "display_heb_name": "הר קדשי",
+            "placeType": "Mountain",
+            "display_en_name": "my holy mountain"
+        },
+        {
+            "key": "6ac749188944908bc22a13d4",
+            "entityType": "Place",
+            "display_heb_name": "בית תפלתי",
+            "placeType": "Building or Structure",
+            "display_en_name": "house of my prayer"
+        },
+        {
+            "key": "6ac749188944908bc22a13d5",
+            "entityType": "Place",
+            "display_heb_name": "לפני ולפנים",
+            "placeType": "Building or Structure",
+            "display_en_name": "innermost sanctum"
+        },
+        {
+            "key": "6ac749188944908bc22a13d6",
+            "entityType": "Symbol",
+            "display_heb_name": "כסא",
+            "symbolType": "Holy Object",
+            "display_en_name": "throne"
+        }
+    ],
+    "key": "BT_Berakhot_0_7a:1-4"
+}

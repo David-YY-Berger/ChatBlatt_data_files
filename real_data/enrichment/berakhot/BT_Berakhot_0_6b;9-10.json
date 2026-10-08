@@ -1,0 +1,74 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac73959b9ad2bcc0401a041",
+            "entityType": "Person",
+            "timePeriod": "Tanach",
+            "roles": [
+                "Prophet"
+            ],
+            "display_en_name": "hosea"
+        },
+        {
+            "key": "6ac748ab8944908bc22a1228",
+            "entityType": "Person",
+            "display_heb_name": "רבי יהושע בן לוי",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "yehoshua ben levi"
+        },
+        {
+            "key": "6ac748d68944908bc22a12d6",
+            "entityType": "Person",
+            "display_heb_name": "אביי",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "abaye"
+        },
+        {
+            "key": "6ac748df8944908bc22a12fc",
+            "entityType": "Person",
+            "display_heb_name": "רבי זירא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "zeira"
+        },
+        {
+            "key": "6ac748f68944908bc22a135b",
+            "entityType": "Person",
+            "display_heb_name": "רב הונא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "huna"
+        },
+        {
+            "key": "6ac749068944908bc22a1399",
+            "entityType": "Person",
+            "display_heb_name": "רבי חלבו",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "helbo"
+        },
+        {
+            "key": "6ac749068944908bc22a139a",
+            "entityType": "Person",
+            "display_heb_name": "רבי תנחום",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "tanhum"
+        }
+    ],
+    "key": "BT_Berakhot_0_6b:9-10"
+}

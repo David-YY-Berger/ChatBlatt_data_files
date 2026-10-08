@@ -1,0 +1,32 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748e28944908bc22a1309",
+            "entityType": "Person",
+            "display_heb_name": "רב הונא",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rav huna"
+        },
+        {
+            "key": "6ac748f38944908bc22a134e",
+            "entityType": "Person",
+            "timePeriod": "Tanach",
+            "roles": [
+                "Prophet"
+            ],
+            "display_en_name": "isaiah"
+        },
+        {
+            "key": "6ac749048944908bc22a1392",
+            "entityType": "Person",
+            "display_heb_name": "רבי חלבו",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabbi helbo"
+        }
+    ],
+    "key": "BT_Berakhot_0_6b:37"
+}

@@ -1,0 +1,108 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac73970b9ad2bcc0401a0a4",
+            "entityType": "Person",
+            "roles": [
+                "King"
+            ],
+            "display_en_name": "david"
+        },
+        {
+            "key": "6ac748988944908bc22a11d7",
+            "entityType": "Person",
+            "display_heb_name": "רבה בר רב שילא",
+            "display_en_name": "rabba bar rav sheila"
+        },
+        {
+            "key": "6ac748ba8944908bc22a1262",
+            "entityType": "Person",
+            "roles": [
+                "King"
+            ],
+            "display_en_name": "solomon"
+        },
+        {
+            "key": "6ac7497e8944908bc22a1543",
+            "entityType": "Person",
+            "display_heb_name": "רב מתנא",
+            "display_en_name": "mattana"
+        },
+        {
+            "key": "6ac7497e8944908bc22a1544",
+            "entityType": "Place",
+            "display_heb_name": "מעי אמו",
+            "placeType": "Other",
+            "display_en_name": "mother's womb"
+        },
+        {
+            "key": "6ac7497e8944908bc22a1545",
+            "entityType": "Place",
+            "display_heb_name": "אויר העולם",
+            "placeType": "Other",
+            "display_en_name": "atmosphere of the world"
+        },
+        {
+            "key": "6ac7497e8944908bc22a1546",
+            "entityType": "Place",
+            "display_heb_name": "שדי אמו",
+            "placeType": "Other",
+            "display_en_name": "mother's breast"
+        },
+        {
+            "key": "6ac7497f8944908bc22a1547",
+            "entityType": "Number",
+            "heb_unit": "עולם",
+            "contexts": [
+                {
+                    "en_context": "david's life stages",
+                    "heb_context": "עולמות חיי דוד"
+                }
+            ],
+            "display_en_name": "5"
+        },
+        {
+            "key": "6ac7497f8944908bc22a1548",
+            "entityType": "Number",
+            "heb_unit": "תהילים",
+            "contexts": [
+                {
+                    "en_context": "david's psalm",
+                    "heb_context": "תהילים של דוד"
+                }
+            ],
+            "display_en_name": "103"
+        },
+        {
+            "key": "6ac749808944908bc22a154a",
+            "entityType": "Number",
+            "heb_unit": "ישעיהו",
+            "contexts": [
+                {
+                    "en_context": "isaiah reference",
+                    "heb_context": "הפניה לישעיהו"
+                }
+            ],
+            "display_en_name": "28"
+        },
+        {
+            "key": "6ac749808944908bc22a154b",
+            "entityType": "Number",
+            "heb_unit": "תהילים",
+            "contexts": [
+                {
+                    "en_context": "david's psalm",
+                    "heb_context": "תהילים של דוד"
+                }
+            ],
+            "display_en_name": "104"
+        },
+        {
+            "key": "6ac749818944908bc22a154e",
+            "entityType": "Food",
+            "display_heb_name": "חלב",
+            "display_en_name": "milk"
+        }
+    ],
+    "key": "BT_Berakhot_0_10a:12-20"
+}

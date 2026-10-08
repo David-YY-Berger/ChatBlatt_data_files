@@ -1,0 +1,100 @@
+﻿COST: Tokens: Total=9377 approx cost=$0.015060 (Prompt=3810, Completion=5567)
+SOURCE:
+Berakhot (Zeraim) 8a:16-20
+
+ENTITIES TO ENRICH (15):
+{"key":"6ac739c3b9ad2bcc0401a1da","display_en_name":"jacob","display_heb_name":"יעקב","all_en_names":["Jacob"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isNonJew":false,"isGroup":false,"roles":[]}
+{"key":"6ac748b48944908bc22a1248","display_en_name":"holy one, blessed be he","display_heb_name":"הקדוש ברוך הוא","all_en_names":["Holy One, Blessed Be He"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","roles":[]}
+{"key":"6ac748d68944908bc22a12d6","display_en_name":"abaye","display_heb_name":"אביי","all_en_names":["Abaye"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748e28944908bc22a1306","display_en_name":"rava","display_heb_name":"רבא","all_en_names":["Rava"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748e28944908bc22a1307","display_en_name":"rav hisda","display_heb_name":"רב חסדא","all_en_names":["Rav Hisda"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac7490c8944908bc22a13ae","display_en_name":"rabbi ami","display_heb_name":"רבי אמי","all_en_names":["Rabbi Ami"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":[]}
+{"key":"6ac7490c8944908bc22a13af","display_en_name":"rabbi asi","display_heb_name":"רבי אסי","all_en_names":["Rabbi Asi"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":[]}
+{"key":"6ac7494d8944908bc22a148f","display_en_name":"rafram bar pappa","display_heb_name":"","all_en_names":["Rafram Bar Pappa"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac7494d8944908bc22a1490","display_en_name":"rabbi hiyya bar ami","display_heb_name":"","all_en_names":["Rabbi Hiyya Bar Ami"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac7494d8944908bc22a1491","display_en_name":"ulla","display_heb_name":"","all_en_names":["Ulla"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac7494e8944908bc22a1492","display_en_name":"zion","display_heb_name":"","all_en_names":["Zion"],"all_heb_names":[],"entityType":"Place","alias_keys":[]}
+{"key":"6ac7494e8944908bc22a1493","display_en_name":"tiberias","display_heb_name":"","all_en_names":["Tiberias"],"all_heb_names":[],"entityType":"Place","alias_keys":[]}
+{"key":"6ac7494e8944908bc22a1494","display_en_name":"study hall","display_heb_name":"","all_en_names":["Study Hall"],"all_heb_names":[],"entityType":"Place","alias_keys":[]}
+{"key":"6ac7494e8944908bc22a1495","display_en_name":"4","display_heb_name":"","all_en_names":["4"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Measurement","en_unit":"cubit","contexts":[{"en_context":"halakha study area","source_keys":["BT_Berakhot_0_8a:16-20"]},{"en_context":"recognize acquaintance distance","source_keys":["BT_Berakhot_0_9b:11-15"]}]}
+{"key":"6ac7494f8944908bc22a1496","display_en_name":"13","display_heb_name":"","all_en_names":["13"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Misc","en_unit":"synagogue","contexts":[{"en_context":"synagogues in tiberias","source_keys":["BT_Berakhot_0_8a:16-20"]}]}
+
+PASSAGE:
+ENGLISH:
+Returning to the tractates central topic, Rava said to Rafram bar Pappa: Let the Master say to us some of those outstanding statements that you said in the name of Rav Hisda with regard to matters of the synagogue. Rafram said to him, Rav Hisda said as follows: What is the meaning of the verse: The Lord loves the gates of Zion [ Tziyyon ] more than all the dwellings of Jacob (Psalms 87:2)? This means that the Lord loves the gates distinguished [ metzuyanim ] through the study of halakha as they are the gates of Zion, the outstanding gates, more than the synagogues and study halls. Although those places are the most outstanding of the dwellings of Jacob, they are not engaged in the study of halakha . And this concept, that halakha is the most sublime pursuit, is expressed in that which Rabbi Hiyya bar Ami said in the name of Ulla: Since the day the Temple, where the Divine Presence rested in this world, was destroyed, the Holy One, Blessed be He, has only one place in His world where he reveals His presence exclusively; only the four cubits where the study of halakha is undertaken . This statement has practical ramifications. Abaye said: At first I studied in the house and prayed in the synagogue. Once I heard what Rabbi Hiyya bar Ami said in the name of Ulla: Since the day the Temple was destroyed, the Holy One, Blessed be He, has only one place in His world, only the four cubits of halakha alone, from which I understood the significance of the four cubits of halakha , and I pray only where I study. Similarly, the Gemara relates that Rabbi Ami and Rabbi Asi, despite the fact that they had thirteen synagogues in Tiberias, they would only pray between the pillars where they studied.
+
+HEBREW:
+אמר ליה רבא לרפרם בר פפא: לימא לן מר מהני מילי מעלייתא דאמרת משמיה דרב חסדא במילי דבי כנישתא.אמר ליה, הכי אמר רב חסדא: מאי דכתיב, ״אהב ה׳ שערי ציון מכל משכנות יעקב״: אוהב ה׳ שערים המצויינים בהלכה, יותר מבתי כנסיות ומבתי מדרשות.והיינו דאמר רבי חייא בר אמי משמיה דעולא: מיום שחרב בית המקדש אין לו להקדוש ברוך הוא בעולמו אלא ארבע אמות של הלכה בלבד.ואמר אביי: מריש הוה גריסנא בגו ביתא ומצלינא בבי כנישתא. כיון דשמענא להא דאמר רבי חייא בר אמי משמיה דעולא — מיום שחרב בית המקדש אין לו להקדוש ברוך הוא בעולמו אלא ארבע אמות של הלכה בלבד — לא הוה מצלינא אלא היכא דגריסנא.רבי אמי ורבי אסי אף על גב דהוו להו תליסר בי כנישתא בטבריא לא מצלו אלא ביני עמודי, היכא דהוו גרסי.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac7494d8944908bc22a148f",
+      "entityType": "Person",
+      "display_heb_name": "רפרם בר פפא",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac7494d8944908bc22a1490",
+      "entityType": "Person",
+      "display_heb_name": "רבי חייא בר אמי",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac7494d8944908bc22a1491",
+      "entityType": "Person",
+      "display_heb_name": "עולא",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac7494e8944908bc22a1492",
+      "entityType": "Place",
+      "display_heb_name": "ציון",
+      "placeType": "City"
+    },
+    {
+      "key": "6ac7494e8944908bc22a1493",
+      "entityType": "Place",
+      "display_heb_name": "טבריא",
+      "placeType": "City"
+    },
+    {
+      "key": "6ac7494e8944908bc22a1494",
+      "entityType": "Place",
+      "display_heb_name": "בית מדרש",
+      "placeType": "Building or Structure"
+    },
+    {
+      "key": "6ac7494e8944908bc22a1495",
+      "entityType": "Number",
+      "heb_unit": "אמה",
+      "contexts": [
+        {
+          "en_context": "halakha study area",
+          "heb_context": "אמות של הלכה"
+        }
+      ]
+    },
+    {
+      "key": "6ac7494f8944908bc22a1496",
+      "entityType": "Number",
+      "heb_unit": "בית כנסת",
+      "contexts": [
+        {
+          "en_context": "synagogues in tiberias",
+          "heb_context": "בי כנישתא בטבריא"
+        }
+      ]
+    }
+  ]
+}

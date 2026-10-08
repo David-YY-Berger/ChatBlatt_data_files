@@ -1,0 +1,30 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748a68944908bc22a1213",
+            "entityType": "Person",
+            "display_heb_name": "ישראל",
+            "display_en_name": "israel"
+        },
+        {
+            "key": "6ac748f68944908bc22a135b",
+            "entityType": "Person",
+            "display_heb_name": "רב הונא",
+            "display_en_name": "huna"
+        },
+        {
+            "key": "6ac7493b8944908bc22a1450",
+            "entityType": "Person",
+            "display_heb_name": "רבי שמעון בן יוחי",
+            "display_en_name": "shimon ben yohai"
+        },
+        {
+            "key": "6ac7493d8944908bc22a1457",
+            "entityType": "Place",
+            "display_heb_name": "ישראל",
+            "placeType": "Country or Region",
+            "display_en_name": "israel"
+        }
+    ],
+    "key": "BT_Berakhot_0_7b:23-25"
+}

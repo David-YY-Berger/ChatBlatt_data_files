@@ -1,0 +1,112 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac73979b9ad2bcc0401a0c6",
+            "entityType": "Person",
+            "display_heb_name": "חזקיהו",
+            "timePeriod": "Tanach",
+            "display_en_name": "hezekiah"
+        },
+        {
+            "key": "6ac748a28944908bc22a11ff",
+            "entityType": "Person",
+            "display_heb_name": "רב",
+            "timePeriod": "Amoraim",
+            "display_en_name": "rav"
+        },
+        {
+            "key": "6ac748cd8944908bc22a12af",
+            "entityType": "Person",
+            "display_heb_name": "רב נחמן בר יצחק",
+            "timePeriod": "Amoraim",
+            "display_en_name": "rav nahman bar yitzhak"
+        },
+        {
+            "key": "6ac748dd8944908bc22a12f6",
+            "entityType": "Person",
+            "display_heb_name": "רבי יצחק",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabbi yitzhak"
+        },
+        {
+            "key": "6ac748eb8944908bc22a132d",
+            "entityType": "Person",
+            "display_heb_name": "רבי חנינא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabbi hanina"
+        },
+        {
+            "key": "6ac748ed8944908bc22a1335",
+            "entityType": "Person",
+            "display_heb_name": "רב יהודה",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rav yehuda"
+        },
+        {
+            "key": "6ac748f08944908bc22a133f",
+            "entityType": "Person",
+            "display_heb_name": "אבא בנימין",
+            "timePeriod": "Tanaim",
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "abba binyamin"
+        },
+        {
+            "key": "6ac748f08944908bc22a1340",
+            "entityType": "Person",
+            "display_heb_name": "רבי יהושע בן לוי",
+            "display_en_name": "rabbi yehoshua ben levi"
+        },
+        {
+            "key": "6ac748f08944908bc22a1341",
+            "entityType": "Person",
+            "display_heb_name": "רבי חמא",
+            "display_en_name": "rabbi hama"
+        },
+        {
+            "key": "6ac748f18944908bc22a1342",
+            "entityType": "Person",
+            "timePeriod": "Tanach",
+            "isWoman": true,
+            "isNonJew": false,
+            "display_en_name": "rebecca"
+        },
+        {
+            "key": "6ac748f18944908bc22a1344",
+            "entityType": "Place",
+            "display_heb_name": "הקודש הקודשים",
+            "placeType": "Building or Structure",
+            "display_en_name": "holy of holies"
+        },
+        {
+            "key": "6ac748f18944908bc22a1345",
+            "entityType": "Symbol",
+            "display_heb_name": "שכינה",
+            "symbolType": "Not Physical",
+            "display_en_name": "divine presence"
+        },
+        {
+            "key": "6ac748f28944908bc22a1346",
+            "entityType": "Number",
+            "heb_unit": "ילד",
+            "contexts": [
+                {
+                    "en_context": "rebecca pregnancy",
+                    "heb_context": "הריון רבקה"
+                }
+            ],
+            "display_en_name": "2"
+        }
+    ],
+    "key": "BT_Berakhot_0_5b:21-24"
+}

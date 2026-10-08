@@ -1,0 +1,69 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748df8944908bc22a12fc",
+            "entityType": "Person",
+            "display_heb_name": "רבי זירא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "zeira"
+        },
+        {
+            "key": "6ac7494d8944908bc22a1491",
+            "entityType": "Person",
+            "display_heb_name": "עולא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "ulla"
+        },
+        {
+            "key": "6ac7496f8944908bc22a1510",
+            "entityType": "Person",
+            "display_heb_name": "רבי יוסי בן אליקים",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "yosei ben elyakim"
+        },
+        {
+            "key": "6ac7496f8944908bc22a1511",
+            "entityType": "Person",
+            "display_heb_name": "קהלא קדישא דבירושלים",
+            "timePeriod": "Amoraim",
+            "isGroup": true,
+            "display_en_name": "the holy community in jerusalem"
+        },
+        {
+            "key": "6ac7496f8944908bc22a1512",
+            "entityType": "Person",
+            "display_heb_name": "רבי אלעא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "ela"
+        },
+        {
+            "key": "6ac7496f8944908bc22a1513",
+            "entityType": "Person",
+            "display_heb_name": "רב ברונא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rav beruna"
+        },
+        {
+            "key": "6ac749708944908bc22a1514",
+            "entityType": "Plant",
+            "display_heb_name": "אסא",
+            "display_en_name": "myrtle"
+        }
+    ],
+    "key": "BT_Berakhot_0_9b:16-18"
+}

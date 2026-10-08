@@ -1,0 +1,31 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac749258944908bc22a1406",
+            "entityType": "Person",
+            "display_heb_name": "צדיק",
+            "isGroup": false,
+            "display_en_name": "righteous person"
+        },
+        {
+            "key": "6ac749258944908bc22a1407",
+            "entityType": "Person",
+            "display_heb_name": "רשע",
+            "isGroup": false,
+            "display_en_name": "wicked person"
+        },
+        {
+            "key": "6ac749268944908bc22a1408",
+            "entityType": "Number",
+            "heb_unit": "דבר",
+            "contexts": [
+                {
+                    "en_context": "moses requests granted",
+                    "heb_context": "בקשות משה שנענו"
+                }
+            ],
+            "display_en_name": "3"
+        }
+    ],
+    "key": "BT_Berakhot_0_7a:23-25"
+}

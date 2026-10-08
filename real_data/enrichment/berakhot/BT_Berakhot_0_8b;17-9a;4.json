@@ -1,0 +1,32 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac7495e8944908bc22a14d4",
+            "entityType": "Person",
+            "display_heb_name": "רבי שמעון",
+            "timePeriod": "Tanaim",
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "shimon"
+        },
+        {
+            "key": "6ac7495e8944908bc22a14d5",
+            "entityType": "Person",
+            "display_heb_name": "רב יצחק בר יוסף",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "yitzhak bar yosef"
+        },
+        {
+            "key": "6ac7495f8944908bc22a14d6",
+            "entityType": "Symbol",
+            "display_heb_name": "השכיבנו",
+            "symbolType": "Not Physical",
+            "display_en_name": "hashkivenu"
+        }
+    ],
+    "key": "BT_Berakhot_0_8b:17-9a:4"
+}

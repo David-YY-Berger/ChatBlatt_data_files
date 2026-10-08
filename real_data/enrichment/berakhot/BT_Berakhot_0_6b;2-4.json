@@ -1,0 +1,40 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac749008944908bc22a1381",
+            "entityType": "Symbol",
+            "display_heb_name": "נגה",
+            "symbolType": "Not Physical",
+            "display_en_name": "light"
+        },
+        {
+            "key": "6ac749008944908bc22a1382",
+            "entityType": "Symbol",
+            "display_heb_name": "חשכים",
+            "symbolType": "Not Physical",
+            "display_en_name": "darkness"
+        },
+        {
+            "key": "6ac749008944908bc22a1383",
+            "entityType": "Symbol",
+            "display_heb_name": "בשם ה׳",
+            "symbolType": "Not Physical",
+            "display_en_name": "name of the lord"
+        },
+        {
+            "key": "6ac749018944908bc22a1384",
+            "entityType": "Symbol",
+            "display_heb_name": "מצוה",
+            "symbolType": "Not Physical",
+            "display_en_name": "mitzvah"
+        },
+        {
+            "key": "6ac749018944908bc22a1385",
+            "entityType": "Symbol",
+            "display_heb_name": "לדבר הרשות",
+            "symbolType": "Not Physical",
+            "display_en_name": "mundane purpose"
+        }
+    ],
+    "key": "BT_Berakhot_0_6b:2-4"
+}

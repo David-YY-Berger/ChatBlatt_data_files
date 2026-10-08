@@ -1,0 +1,111 @@
+﻿COST: Tokens: Total=9002 approx cost=$0.014578 (Prompt=3603, Completion=5399)
+SOURCE:
+Berakhot (Zeraim) 7b:27-8a:4
+
+ENTITIES TO ENRICH (13):
+{"key":"6ac73970b9ad2bcc0401a0a4","display_en_name":"david","display_heb_name":"דוד","all_en_names":["David"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isNonJew":false,"isGroup":false,"roles":["Judge","King"]}
+{"key":"6ac748a68944908bc22a1213","display_en_name":"israel","display_heb_name":"ישראל","all_en_names":["Israel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isNonJew":false,"isGroup":true,"roles":[]}
+{"key":"6ac748af8944908bc22a1235","display_en_name":"rabbi aha","display_heb_name":"רבי אחא","all_en_names":["Rabbi Aha"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748b48944908bc22a1248","display_en_name":"holy one, blessed be he","display_heb_name":"הקדוש ברוך הוא","all_en_names":["Holy One, Blessed Be He"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","roles":[]}
+{"key":"6ac748be8944908bc22a1275","display_en_name":"rabbi yosei","display_heb_name":"רבי יוסי","all_en_names":["Rabbi Yosei"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","roles":["Tanna"]}
+{"key":"6ac748d98944908bc22a12e3","display_en_name":"god","display_heb_name":"הקדוש ברוך הוא","all_en_names":["God"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isNonJew":false,"isGroup":false,"roles":[]}
+{"key":"6ac748eb8944908bc22a132d","display_en_name":"rabbi hanina","display_heb_name":"רבי חנינא","all_en_names":["Rabbi Hanina"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac749098944908bc22a13a5","display_en_name":"congregation","display_heb_name":"הקהל","all_en_names":["Congregation"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"isGroup":true,"roles":[]}
+{"key":"6ac749408944908bc22a145f","display_en_name":"rabbi natan","display_heb_name":"","all_en_names":["Rabbi Natan"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749418944908bc22a1460","display_en_name":"masses","display_heb_name":"","all_en_names":["Masses"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749418944908bc22a1461","display_en_name":"nations of the world","display_heb_name":"","all_en_names":["Nations Of The World"],"all_heb_names":[],"entityType":"Nation","alias_keys":[]}
+{"key":"6ac749418944908bc22a1462","display_en_name":"torah study","display_heb_name":"","all_en_names":["Torah Study"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac749418944908bc22a1463","display_en_name":"peace","display_heb_name":"","all_en_names":["Peace"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+What is the meaning of that which is written: But as for me, let my prayer be unto You, Lord, in a time of favor; O God, in the abundance of Your mercy, answer me with the truth of Your salvation (Psalms 69:14)? It appears that the individual is praying that his prayers will coincide with a special time of Divine favor. When is a time of favor? It is at the time when the congregation is praying. It is beneficial to pray together with the congregation, for God does not fail to respond to the entreaties of the congregation. Rabbi Yosei, son of Rabbi Hanina, said that the unique quality of communal prayer is derived from here: Thus said the Lord, in a time of acceptance I have answered you and on a day of salvation I have aided you (Isaiah 49:8). Rabbi Aha, son of Rabbi Hanina, said that it is derived from here: Behold, God is mighty, He despises no one (Job 36:5). He adopts an alternative reading of the verse: Behold, God will not despise the prayer of the mighty, i.e., the community. And it is written: He has redeemed my soul in peace so that none came upon me; for there were many with me. God shall hear and answer them... (Psalms 55:19-20). This verse teaches that the prayer was answered because there were many with me when it was offered. That last proof was also taught in a baraita . Rabbi Natan says: From where do we know that the Holy One, Blessed be He, does not despise the prayer of the masses? As it is stated: Behold, God does not despise the mighty, and it is written: He has redeemed my soul in peace so that none came upon me; for there were many with me. Rabbi Natan interprets this not as David speaking about himself, but as God speaking to Israel. The Holy One, Blessed be He, says: Anyone who engages in Torah study, which is called peace in the verse: All its ways are peace (Proverbs 3:17); and in acts of kindness, and prays with the congregation, I ascribe to him credit as if he redeemed Me and My children from among the nations of the world.
+
+HEBREW:
+מאי דכתיב ״ואני תפלתי לך ה׳ עת רצון״. אימתי עת רצון — בשעה שהצבור מתפללין.רבי יוסי ברבי חנינא אמר מהכא: ״כה אמר ה׳ בעת רצון עניתיך״.רבי אחא ברבי חנינא אמר מהכא: ״הן אל כביר ולא ימאס״: וכתיב: ״פדה בשלום נפשי מקרב לי כי ברבים היו עמדי״.תניא נמי הכי, רבי נתן אומר: מנין שאין הקדוש ברוך הוא מואס בתפלתן של רבים שנאמר: ״הן אל כביר ולא ימאס״, וכתיב: ״פדה בשלום נפשי מקרב לי״ וגו׳, אמר הקדוש ברוך הוא: כל העוסק בתורה ובגמילות חסדים ומתפלל עם הצבור — מעלה אני עליו כאילו פדאני, לי ולבני, מבין אומות העולם.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac73970b9ad2bcc0401a0a4",
+      "entityType": "Person",
+      "timePeriod": "Tanach",
+      "isNonJew": false,
+      "isGroup": false
+    },
+    {
+      "key": "6ac748a68944908bc22a1213",
+      "entityType": "Person",
+      "timePeriod": "No Time Period",
+      "isNonJew": false,
+      "isGroup": true
+    },
+    {
+      "key": "6ac748af8944908bc22a1235",
+      "entityType": "Person",
+      "display_heb_name": "רבי אחא",
+      "timePeriod": "Amoraim"
+    },
+    {
+      "key": "6ac748b48944908bc22a1248",
+      "entityType": "Person",
+      "display_heb_name": "הקדוש ברוך הוא",
+      "timePeriod": "No Time Period"
+    },
+    {
+      "key": "6ac748be8944908bc22a1275",
+      "entityType": "Person",
+      "display_heb_name": "רבי יוסי",
+      "timePeriod": "Tanaim"
+    },
+    {
+      "key": "6ac748d98944908bc22a12e3",
+      "entityType": "Person",
+      "display_heb_name": "הקדוש ברוך הוא",
+      "timePeriod": "No Time Period",
+      "isNonJew": false,
+      "isGroup": false
+    },
+    {
+      "key": "6ac748eb8944908bc22a132d",
+      "entityType": "Person",
+      "display_heb_name": "רבי חנינא",
+      "timePeriod": "Amoraim"
+    },
+    {
+      "key": "6ac749098944908bc22a13a5",
+      "entityType": "Person",
+      "display_heb_name": "הצבור",
+      "isGroup": true
+    },
+    {
+      "key": "6ac749408944908bc22a145f",
+      "entityType": "Person",
+      "display_heb_name": "רבי נתן"
+    },
+    {
+      "key": "6ac749418944908bc22a1460",
+      "entityType": "Person",
+      "display_heb_name": "רבים",
+      "isGroup": true
+    },
+    {
+      "key": "6ac749418944908bc22a1461",
+      "entityType": "Nation",
+      "display_heb_name": "אומות העולם"
+    },
+    {
+      "key": "6ac749418944908bc22a1462",
+      "entityType": "Symbol",
+      "display_heb_name": "תורה",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac749418944908bc22a1463",
+      "entityType": "Symbol",
+      "display_heb_name": "שלום",
+      "symbolType": "Not Physical"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+﻿COST: Tokens: Total=4418 approx cost=$0.005851 (Prompt=2361, Completion=2057)
+SOURCE:
+Berakhot (Zeraim) 7b:26
+
+ENTITIES TO ENRICH (4):
+{"key":"6ac748a68944908bc22a1212","display_en_name":"elijah","display_heb_name":"אליהו הנביא","all_en_names":["Elijah"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","roles":["Prophet"]}
+{"key":"6ac7493b8944908bc22a1450","display_en_name":"shimon ben yohai","display_heb_name":"רבי שמעון בן יוחי","all_en_names":["Shimon Ben Yohai"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","roles":["Tanna"]}
+{"key":"6ac7493e8944908bc22a145b","display_en_name":"elisha","display_heb_name":"","all_en_names":["Elisha"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac7493f8944908bc22a145c","display_en_name":"shafat","display_heb_name":"","all_en_names":["Shafat"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+
+PASSAGE:
+ENGLISH:
+And Rabbi Yohanan said in the name of Rabbi Shimon ben Yohai: Service of Torah is greater than its study, i.e., serving a Torah scholar and spending time in his company is greater than learning Torah from him. Torah study is one component of a Torah life, but one who serves a Torah scholar learns about every aspect of life from his actions. This is derived from the verse that speaks in praise of Elisha, as it is stated: Here is Elisha son of Shafat, who poured water over Elijahs hands (II Kings 3:11). The verse does not say that he learned from Elijah, rather that he poured water, which teaches that the service of Torah represented by Elisha pouring water over Elijahs hands is greater than its study.
+
+HEBREW:
+ואמר רבי יוחנן משום רבי שמעון בן יוחי: גדולה שמושה של תורה יותר מלמודה, שנאמר: ״פה אלישע בן שפט אשר יצק מים על ידי אליהו״. ״למד״ לא נאמר, אלא ״יצק״ — מלמד שגדולה שמושה יותר מלמודה.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748a68944908bc22a1212",
+      "entityType": "Person",
+      "display_heb_name": "אליהו"
+    },
+    {
+      "key": "6ac7493b8944908bc22a1450",
+      "entityType": "Person",
+      "display_heb_name": "רבי שמעון בן יוחי"
+    },
+    {
+      "key": "6ac7493e8944908bc22a145b",
+      "entityType": "Person",
+      "display_heb_name": "אלישע",
+      "timePeriod": "Tanach"
+    },
+    {
+      "key": "6ac7493f8944908bc22a145c",
+      "entityType": "Person",
+      "display_heb_name": "שפט",
+      "timePeriod": "Tanach"
+    }
+  ]
+}

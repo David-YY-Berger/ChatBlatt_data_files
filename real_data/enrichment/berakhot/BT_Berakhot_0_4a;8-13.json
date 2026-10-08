@@ -1,0 +1,157 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac7395eb9ad2bcc0401a054",
+            "entityType": "Person",
+            "display_heb_name": "יונתן",
+            "display_en_name": "jonathan"
+        },
+        {
+            "key": "6ac73967b9ad2bcc0401a07b",
+            "entityType": "Person",
+            "display_heb_name": "שאול",
+            "roles": [
+                "King"
+            ],
+            "display_en_name": "saul"
+        },
+        {
+            "key": "6ac73970b9ad2bcc0401a0a4",
+            "entityType": "Person",
+            "display_heb_name": "דוד",
+            "roles": [
+                "King",
+                "Judge"
+            ],
+            "display_en_name": "david"
+        },
+        {
+            "key": "6ac7489b8944908bc22a11e2",
+            "entityType": "Person",
+            "display_heb_name": "רבי יהושע",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "yehoshua"
+        },
+        {
+            "key": "6ac748a18944908bc22a11fd",
+            "entityType": "Person",
+            "display_heb_name": "הקדוש ברוך הוא",
+            "display_en_name": "holy one"
+        },
+        {
+            "key": "6ac748b88944908bc22a1259",
+            "entityType": "Person",
+            "display_heb_name": "לוי",
+            "timePeriod": "Amoraim",
+            "display_en_name": "levi"
+        },
+        {
+            "key": "6ac748b88944908bc22a125a",
+            "entityType": "Person",
+            "display_heb_name": "רבי יצחק",
+            "timePeriod": "Amoraim",
+            "display_en_name": "yitzhak"
+        },
+        {
+            "key": "6ac748b88944908bc22a125b",
+            "entityType": "Person",
+            "display_heb_name": "רבי יושיהו פינטו",
+            "display_en_name": "yoshiyahu pinto"
+        },
+        {
+            "key": "6ac748b88944908bc22a125c",
+            "entityType": "Person",
+            "display_heb_name": "מפיבשת",
+            "timePeriod": "Tanach",
+            "display_en_name": "mefivoshet"
+        },
+        {
+            "key": "6ac748b98944908bc22a125d",
+            "entityType": "Person",
+            "display_heb_name": "רב אידי",
+            "timePeriod": "Amoraim",
+            "display_en_name": "idi"
+        },
+        {
+            "key": "6ac748b98944908bc22a125e",
+            "entityType": "Person",
+            "display_heb_name": "איש בשת",
+            "timePeriod": "Tanach",
+            "display_en_name": "ish boshet"
+        },
+        {
+            "key": "6ac748b98944908bc22a125f",
+            "entityType": "Person",
+            "display_heb_name": "כלאב",
+            "timePeriod": "Tanach",
+            "display_en_name": "kilav"
+        },
+        {
+            "key": "6ac748ba8944908bc22a1260",
+            "entityType": "Person",
+            "display_heb_name": "רבי יוחנן",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "yohanan"
+        },
+        {
+            "key": "6ac748ba8944908bc22a1261",
+            "entityType": "Person",
+            "display_heb_name": "דניאל",
+            "timePeriod": "Tanach",
+            "display_en_name": "daniel"
+        },
+        {
+            "key": "6ac748ba8944908bc22a1262",
+            "entityType": "Person",
+            "display_heb_name": "שלמה",
+            "timePeriod": "Tanach",
+            "display_en_name": "solomon"
+        },
+        {
+            "key": "6ac748bb8944908bc22a1263",
+            "entityType": "Symbol",
+            "display_heb_name": "תהילים",
+            "symbolType": "Holy Object"
+        },
+        {
+            "key": "6ac748bb8944908bc22a1264",
+            "entityType": "Symbol",
+            "display_heb_name": "ויקרא",
+            "symbolType": "Holy Object",
+            "display_en_name": "leviticus"
+        },
+        {
+            "key": "6ac748bb8944908bc22a1265",
+            "entityType": "Symbol",
+            "display_heb_name": "תוספתא",
+            "symbolType": "Holy Object",
+            "display_en_name": "tosefta"
+        },
+        {
+            "key": "6ac748bb8944908bc22a1266",
+            "entityType": "Symbol",
+            "display_heb_name": "משלי",
+            "symbolType": "Holy Object",
+            "display_en_name": "proverbs"
+        },
+        {
+            "key": "6ac748bb8944908bc22a1267",
+            "entityType": "Number",
+            "heb_unit": "שעה",
+            "contexts": [
+                {
+                    "en_context": "kings sleep",
+                    "heb_context": "מלכי מזרח ומערב ישנים"
+                }
+            ],
+            "display_en_name": "3"
+        }
+    ],
+    "key": "BT_Berakhot_0_4a:8-13"
+}

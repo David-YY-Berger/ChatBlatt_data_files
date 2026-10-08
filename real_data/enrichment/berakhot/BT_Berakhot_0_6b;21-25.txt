@@ -1,0 +1,74 @@
+﻿COST: Tokens: Total=4808 approx cost=$0.004795 (Prompt=3284, Completion=1524)
+SOURCE:
+Berakhot (Zeraim) 6b:21-25
+
+ENTITIES TO ENRICH (11):
+{"key":"6ac748cc8944908bc22a12ac","display_en_name":"rabbi yohanan","display_heb_name":"רבי יוחנן","all_en_names":["Rabbi Yohanan"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748cc8944908bc22a12ad","display_en_name":"rabbi elazar","display_heb_name":"רבי אלעזר","all_en_names":["Rabbi Elazar"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748cd8944908bc22a12af","display_en_name":"rav nahman bar yitzhak","display_heb_name":"רב נחמן בר יצחק","all_en_names":["Rav Nahman Bar Yitzhak"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":[]}
+{"key":"6ac748e28944908bc22a1309","display_en_name":"rav huna","display_heb_name":"רב הונא","all_en_names":["Rav Huna"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac7490b8944908bc22a13ac","display_en_name":"rav beivai bar abaye","display_heb_name":"","all_en_names":["Rav Beivai Bar Abaye"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac7490c8944908bc22a13ad","display_en_name":"rav dimi","display_heb_name":"","all_en_names":["Rav Dimi"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac7490c8944908bc22a13ae","display_en_name":"rabbi ami","display_heb_name":"","all_en_names":["Rabbi Ami"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac7490c8944908bc22a13af","display_en_name":"rabbi asi","display_heb_name":"","all_en_names":["Rabbi Asi"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac7490c8944908bc22a13b0","display_en_name":"cities by the sea","display_heb_name":"","all_en_names":["Cities By The Sea"],"all_heb_names":[],"entityType":"Place","alias_keys":[]}
+{"key":"6ac7490d8944908bc22a13b1","display_en_name":"2","display_heb_name":"","all_en_names":["2"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Misc","en_unit":"punishment","contexts":[{"en_context":"dependent on others","source_keys":["BT_Berakhot_0_6b:21-25"]}]}
+{"key":"6ac7490d8944908bc22a13b2","display_en_name":"kerum","display_heb_name":"","all_en_names":["Kerum"],"all_heb_names":[],"entityType":"Animal","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+Rav Huna already explained the beginning of the verse, The wicked walk round about. The Gemara explains the end of the verse: When vileness is exalted among the sons of men. One of the Sages said to Rav Beivai bar Abaye, and some say Rav Beivai said to Rav Nahman bar Yitzhak: What is the meaning of: When vileness is exalted among the sons of men? He said to him: These are matters of utmost importance, exalted, i.e., mitzvot or prayer, which people nonetheless treat with contempt, vileness among the sons of men. Rabbi Yohanan and his student, Rabbi Elazar, both said an alternative explanation of this verse: Once a person needs the help of others and loses dignity in their eyes, vileness among the sons of men, his face changes and becomes like a kerum , as it is stated: When [ kerum ] vileness is exalted among the sons of men. What is kerum referred to by Rabbi Yohanan and Rabbi Elazar? When Rav Dimi came to Babylonia from Eretz Yisrael he said: There is a bird in the cities by the sea called kerum and when the sun rises, the bird changes several colors. Similarly, one who becomes dependent upon others blushes in embarrassment. Rabbi Ami and Rabbi Asi both said: One who becomes dependent upon others, it is as if he was punished with two punishments: Fire and water. As it is stated: You have caused men to ride over our heads; we have gone through fire and water (Psalms 66:12).
+
+HEBREW:
+אמר ליה ההוא מרבנן לרב ביבי בר אביי, ואמרי לה רב ביבי לרב נחמן בר יצחק: מאי ״כרם זלות לבני אדם״?אמר ליה: אלו דברים שעומדים ברומו של עולם, ובני אדם מזלזלין בהן.רבי יוחנן ורבי אלעזר דאמרי תרוייהו: כיון שנצטרך אדם לבריות, פניו משתנות ככרום, שנאמר: ״כרם זלות לבני אדם״.מאי ״כרום״? כי אתא רב דימי, אמר: עוף אחד יש בכרכי הים, ו״כרום״ שמו, וכיון שחמה זורחת מתהפך לכמה גוונין.רבי אמי ורבי אסי דאמרי תרוייהו: כאלו נדון בשני דינים, אש ומים, שנאמר: ״הרכבת אנוש לראשנו באנו באש ובמים״.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac7490b8944908bc22a13ac",
+      "entityType": "Person",
+      "display_heb_name": "רב ביבי בר אביי",
+      "timePeriod": "Amoraim"
+    },
+    {
+      "key": "6ac7490c8944908bc22a13ad",
+      "entityType": "Person",
+      "display_heb_name": "רב דימי",
+      "timePeriod": "Amoraim"
+    },
+    {
+      "key": "6ac7490c8944908bc22a13ae",
+      "entityType": "Person",
+      "display_heb_name": "רבי אמי",
+      "timePeriod": "Amoraim"
+    },
+    {
+      "key": "6ac7490c8944908bc22a13af",
+      "entityType": "Person",
+      "display_heb_name": "רבי אסי",
+      "timePeriod": "Amoraim"
+    },
+    {
+      "key": "6ac7490c8944908bc22a13b0",
+      "entityType": "Place",
+      "display_heb_name": "כרכי הים"
+    },
+    {
+      "key": "6ac7490d8944908bc22a13b1",
+      "entityType": "Number",
+      "heb_unit": "דין",
+      "contexts": [
+        {
+          "en_context": "dependent on others",
+          "heb_context": "נצטרך אדם לבריות"
+        }
+      ]
+    },
+    {
+      "key": "6ac7490d8944908bc22a13b2",
+      "entityType": "Animal",
+      "display_heb_name": "כרום"
+    }
+  ]
+}

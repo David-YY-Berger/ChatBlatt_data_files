@@ -1,0 +1,71 @@
+﻿COST: Tokens: Total=6286 approx cost=$0.007012 (Prompt=3956, Completion=2330)
+SOURCE:
+Berakhot (Zeraim) 11b:10-19
+
+ENTITIES TO ENRICH (12):
+{"key":"6ac748cc8944908bc22a12ad","display_en_name":"rabbi elazar","display_heb_name":"רבי אלעזר","all_en_names":["Rabbi Elazar"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748d98944908bc22a12e3","display_en_name":"god","display_heb_name":"המקום","all_en_names":["God"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isNonJew":false,"isGroup":false,"roles":[]}
+{"key":"6ac748e28944908bc22a1306","display_en_name":"rava","display_heb_name":"רבא","all_en_names":["Rava"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748e28944908bc22a1309","display_en_name":"rav huna","display_heb_name":"רב הונא","all_en_names":["Rav Huna"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748ed8944908bc22a1335","display_en_name":"rav yehuda","display_heb_name":"רב יהודה","all_en_names":["Rav Yehuda"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac7498f8944908bc22a1585","display_en_name":"shmuel","display_heb_name":"שמואל","all_en_names":["Shmuel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac749ab8944908bc22a15e1","display_en_name":"bible","display_heb_name":"","all_en_names":["Bible"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[],"symbolType":"Holy Object"}
+{"key":"6ac749b08944908bc22a15f2","display_en_name":"rav hiyya bar ashi","display_heb_name":"","all_en_names":["Rav Hiyya Bar Ashi"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749b08944908bc22a15f3","display_en_name":"rav hamnuna","display_heb_name":"","all_en_names":["Rav Hamnuna"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749b18944908bc22a15f4","display_en_name":"house of israel","display_heb_name":"","all_en_names":["House Of Israel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac749b18944908bc22a15f5","display_en_name":"sifra","display_heb_name":"","all_en_names":["Sifra"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac749b28944908bc22a15f6","display_en_name":"torat kohanim","display_heb_name":"","all_en_names":["Torat Kohanim"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+The blessing: An abounding love, is about Gods love for us and includes praise for His giving us the Torah. Therefore, Rav Yehuda said that Shmuel said: One who arose to study, until he recites Shema he must recite a special blessing over the Torah. If he already recited Shema he need not recite that blessing, as he has exempted himself by reciting the blessing of: An abounding love, which includes the components of the blessing over the Torah.Having mentioned the blessing recited over Torah, the Gemara focuses on a dispute over what constitutes Torah in terms of requiring a blessing. Rav Huna said: For the study of Bible, one must recite a blessing, as it is the word of God, and for halakhic midrash, the derivation of halakhot from verses, one need not recite a blessing. And Rabbi Elazar said: For Bible and midrash, which includes halakhot derived from verses themselves, one must recite a blessing; for Mishna, which is only comprised of halakhic rulings issued by the Sages, one need not recite a blessing. And Rabbi Yohanan said: Even for Mishna, which includes final, binding halakhic rulings, one must recite a blessing as well, but for Talmud, which comprises a study of the Mishna and the rationales for its rulings, one need not recite a blessing. And Rava said: Even for Talmud, which is the means to analyze the significance of the halakhot , and is the only form of Torah study that leads one to its true meaning, one must recite a blessing. This statement is supported by the practical halakha derived from observation of Ravs practice. His student, Rav Hiyya bar Ashi, said: Many times I stood before Rav to study our chapter in the Sifra , also known as Torat Kohanim , the halakhic midrash on Leviticus, of the school of Rav, and I saw that Rav would first wash his hands, then recite a blessing, and only then he would teach us our chapter. This demonstrates that even before their study of Torat Kohanim , which, due to Ravs explanation of the reasons behind the halakhot , was the equivalent of studying Talmud, one must recite a blessing.The Gemara clarifies: What formula of blessings does he recite? There is a dispute over the formula of the blessings as well. Rav Yehuda said that Shmuel said: The formula of this blessing is like the standard formula for blessings recited over other mitzvot: Blessed are You, Lord our God, King of the universe, Who sanctified us with his mitzvot and commanded us to engage in matters of Torah. And Rabbi Yohanan concludes the blessing by adding the following: Lord our God, make the words of Your Torah sweet in our mouths and in the mouths of Your people, the house of Israel, so that we and our descendants and the descendants of Your people, the house of Israel, may be those who know Your name and engage in Your Torah. Blessed are You, Lord, Who teaches Torah to His people Israel. And Rav Hamnuna said an additional formula: Who has chosen us from all the peoples and given us His Torah. Blessed are You, Lord, Giver of the Torah. With regard to this formula, Rav Hamnuna said: This concise blessing is the most outstanding of all the blessings over the Torah, as it combines thanks to God for giving us the Torah as well as acclaim for the Torah and for Israel.Since several formulas for the blessing over Torah were suggested, each with its own distinct advantage, the Gemara concludes: Therefore, let us recite them all as blessings over the Torah.
+
+HEBREW:
+אמר רב יהודה אמר שמואל: השכים לשנות, עד שלא קרא קריאת שמע — צריך לברך. משקרא קריאת שמע — אינו צריך לברך, שכבר נפטר ב״אהבה רבה״.אמר רב הונא: למקרא צריך לברך, ולמדרש — אינו צריך לברך.ורבי אלעזר אמר: למקרא ולמדרש צריך לברך, למשנה — אינו צריך לברך.ורבי יוחנן אמר: אף למשנה נמי צריך לברך [אבל לתלמוד, אינו צריך לברך].ורבא אמר: אף לתלמוד צריך (לחזור ולברך) [לברך].דאמר רב חייא בר אשי: זימנין סגיאין הוה קאימנא קמיה דרב לתנויי פרקין ב״ספרא דבי רב״, הוה מקדים וקא משי ידיה, ובריך, ומתני לן פרקין.מאי מברך? אמר רב יהודה אמר שמואל: ״אשר קדשנו במצותיו וצונו לעסוק בדברי תורה״.ורבי יוחנן מסיים בה הכי ״הערב נא ה׳ אלהינו את דברי תורתך בפינו ובפיפיות עמך בית ישראל ונהיה אנחנו וצאצאינו וצאצאי עמך בית ישראל כלנו יודעי שמך ועוסקי תורתך ברוך אתה ה׳ המלמד תורה לעמו ישראל״.ורב המנונא אמר: ״אשר בחר בנו מכל העמים ונתן לנו את תורתו. ברוך אתה ה׳ נותן התורה״. אמר רב המנונא: זו היא מעולה שבברכות.הלכך לימרינהו לכולהו.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748d98944908bc22a12e3",
+      "entityType": "Person",
+      "display_heb_name": "ה׳"
+    },
+    {
+      "key": "6ac749ab8944908bc22a15e1",
+      "entityType": "Symbol",
+      "display_heb_name": "מקרא",
+      "symbolType": "Holy Object"
+    },
+    {
+      "key": "6ac749b08944908bc22a15f2",
+      "entityType": "Person",
+      "display_heb_name": "רב חייא בר אשי",
+      "timePeriod": "Amoraim"
+    },
+    {
+      "key": "6ac749b08944908bc22a15f3",
+      "entityType": "Person",
+      "display_heb_name": "רב המנונא",
+      "timePeriod": "Amoraim"
+    },
+    {
+      "key": "6ac749b18944908bc22a15f4",
+      "entityType": "Person",
+      "display_heb_name": "בית ישראל",
+      "isGroup": true
+    },
+    {
+      "key": "6ac749b18944908bc22a15f5",
+      "entityType": "Symbol",
+      "display_heb_name": "ספרא",
+      "symbolType": "Holy Object"
+    },
+    {
+      "key": "6ac749b28944908bc22a15f6",
+      "entityType": "Symbol",
+      "display_heb_name": "תורת כהנים",
+      "symbolType": "Holy Object"
+    }
+  ]
+}

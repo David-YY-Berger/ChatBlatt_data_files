@@ -1,0 +1,27 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac7488f8944908bc22a11b0",
+            "entityType": "Person",
+            "display_heb_name": "רבן גמליאל",
+            "timePeriod": "Tanaim",
+            "isGroup": false,
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "rabban gamliel"
+        },
+        {
+            "key": "6ac7489a8944908bc22a11e0",
+            "entityType": "Person",
+            "display_heb_name": "רבנן",
+            "timePeriod": "Tanaim",
+            "isGroup": true,
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "rabbis"
+        }
+    ],
+    "key": "BT_Berakhot_0_9a:5-7"
+}

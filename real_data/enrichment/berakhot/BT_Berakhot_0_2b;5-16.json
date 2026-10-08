@@ -1,0 +1,118 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac73953b9ad2bcc0401a029",
+            "entityType": "Person",
+            "display_heb_name": "רבי אליעזר",
+            "timePeriod": "Tanaim",
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "eliezer"
+        },
+        {
+            "key": "6ac73976b9ad2bcc0401a0ba",
+            "entityType": "Place",
+            "display_heb_name": "ירושלים",
+            "placeType": "City",
+            "display_en_name": "jerusalem"
+        },
+        {
+            "key": "6ac7489a8944908bc22a11df",
+            "entityType": "Person",
+            "display_heb_name": "רבי מאיר",
+            "timePeriod": "Tanaim",
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "meir"
+        },
+        {
+            "key": "6ac7489a8944908bc22a11e0",
+            "entityType": "Person",
+            "display_heb_name": "חכמים",
+            "timePeriod": "Tanaim",
+            "isGroup": true,
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "rabbis"
+        },
+        {
+            "key": "6ac7489a8944908bc22a11e1",
+            "entityType": "Person",
+            "display_heb_name": "נחמיה",
+            "timePeriod": "Tanach",
+            "display_en_name": "nehemiah"
+        },
+        {
+            "key": "6ac7489b8944908bc22a11e2",
+            "entityType": "Person",
+            "display_heb_name": "רבי יהושע",
+            "timePeriod": "Tanaim",
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "yehoshua"
+        },
+        {
+            "key": "6ac7489b8944908bc22a11e3",
+            "entityType": "Person",
+            "display_heb_name": "רבי יהודה",
+            "timePeriod": "Tanaim",
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "yehuda"
+        },
+        {
+            "key": "6ac7489b8944908bc22a11e4",
+            "entityType": "Person",
+            "display_heb_name": "רבי חנינא",
+            "timePeriod": "Tanaim",
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "hanina"
+        },
+        {
+            "key": "6ac7489b8944908bc22a11e5",
+            "entityType": "Person",
+            "display_heb_name": "רבי אחאי",
+            "timePeriod": "Tanaim",
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "ahai"
+        },
+        {
+            "key": "6ac7489c8944908bc22a11e6",
+            "entityType": "Person",
+            "display_heb_name": "רבי אחא",
+            "timePeriod": "Tanaim",
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "aha"
+        },
+        {
+            "key": "6ac7489c8944908bc22a11e7",
+            "entityType": "Number",
+            "heb_unit": "פועל",
+            "contexts": [
+                {
+                    "en_context": "building jerusalem walls",
+                    "heb_context": "בניין חומות ירושלים"
+                }
+            ],
+            "display_en_name": "0.5"
+        },
+        {
+            "key": "6ac7489c8944908bc22a11e8",
+            "entityType": "Food",
+            "display_heb_name": "מלח",
+            "display_en_name": "salt"
+        }
+    ],
+    "key": "BT_Berakhot_0_2b:5-16"
+}

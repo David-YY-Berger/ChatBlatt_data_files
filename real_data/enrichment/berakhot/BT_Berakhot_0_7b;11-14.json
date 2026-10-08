@@ -1,0 +1,156 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac73970b9ad2bcc0401a0a4",
+            "entityType": "Person",
+            "display_heb_name": "דוד",
+            "timePeriod": "Tanach",
+            "isNonJew": false,
+            "isGroup": false,
+            "roles": [
+                "King"
+            ],
+            "display_en_name": "david"
+        },
+        {
+            "key": "6ac73a18b9ad2bcc0401a2fd",
+            "entityType": "Person",
+            "timePeriod": "Tanach",
+            "isWoman": true,
+            "isNonJew": false,
+            "isGroup": false,
+            "display_en_name": "bathsheba"
+        },
+        {
+            "key": "6ac73a38b9ad2bcc0401a365",
+            "entityType": "Person",
+            "display_heb_name": "אבשלום",
+            "timePeriod": "Tanach",
+            "isWoman": false,
+            "isNonJew": false,
+            "isGroup": false,
+            "display_en_name": "absalom"
+        },
+        {
+            "key": "6ac748ab8944908bc22a1225",
+            "entityType": "Person",
+            "timePeriod": "Tanach",
+            "isWoman": false,
+            "isNonJew": false,
+            "isGroup": false,
+            "roles": [
+                "Prophet"
+            ],
+            "display_en_name": "natan"
+        },
+        {
+            "key": "6ac748cc8944908bc22a12ac",
+            "entityType": "Person",
+            "display_heb_name": "רבי יוחנן",
+            "timePeriod": "Amoraim",
+            "isWoman": false,
+            "isNonJew": false,
+            "isGroup": false,
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabbi yohanan"
+        },
+        {
+            "key": "6ac748d98944908bc22a12e3",
+            "entityType": "Person",
+            "display_heb_name": "הקדוש ברוך הוא",
+            "timePeriod": "No Time Period",
+            "isNonJew": false,
+            "isGroup": false,
+            "display_en_name": "god"
+        },
+        {
+            "key": "6ac7490a8944908bc22a13a8",
+            "entityType": "Number",
+            "heb_unit": "פרק",
+            "contexts": [
+                {
+                    "en_context": "samuel chapter",
+                    "heb_context": "שמואל פרק"
+                }
+            ],
+            "display_en_name": "12"
+        },
+        {
+            "key": "6ac749308944908bc22a142e",
+            "entityType": "Person",
+            "display_heb_name": "רבי שמעון בן יוחי",
+            "timePeriod": "Tanaim",
+            "isWoman": false,
+            "isNonJew": false,
+            "isGroup": false,
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "rabbi shimon ben yohai"
+        },
+        {
+            "key": "6ac749378944908bc22a1440",
+            "entityType": "Person",
+            "display_heb_name": "גוג",
+            "timePeriod": "No Time Period",
+            "isWoman": false,
+            "isNonJew": true,
+            "isGroup": false,
+            "display_en_name": "gog"
+        },
+        {
+            "key": "6ac749378944908bc22a1441",
+            "entityType": "Person",
+            "display_heb_name": "מגוג",
+            "timePeriod": "No Time Period",
+            "isWoman": false,
+            "isNonJew": true,
+            "isGroup": false,
+            "display_en_name": "magog"
+        },
+        {
+            "key": "6ac749388944908bc22a1442",
+            "entityType": "Person",
+            "display_heb_name": "רבי שמעון בן אבישלום",
+            "isWoman": false,
+            "isNonJew": false,
+            "isGroup": false,
+            "display_en_name": "rabbi shimon ben avishalom"
+        },
+        {
+            "key": "6ac749388944908bc22a1443",
+            "entityType": "Number",
+            "heb_unit": "פרק",
+            "contexts": [
+                {
+                    "en_context": "psalm chapter",
+                    "heb_context": "תהילים פרק"
+                }
+            ],
+            "display_en_name": "3"
+        },
+        {
+            "key": "6ac749388944908bc22a1445",
+            "entityType": "Number",
+            "heb_unit": "פרק",
+            "contexts": [
+                {
+                    "en_context": "psalm chapter",
+                    "heb_context": "תהילים פרק"
+                },
+                {
+                    "en_context": "psalms chapters",
+                    "heb_context": "תהילים פרקים"
+                },
+                {
+                    "en_context": "biblical citation",
+                    "heb_context": "ציטוט מקראי"
+                }
+            ],
+            "display_en_name": "2"
+        }
+    ],
+    "key": "BT_Berakhot_0_7b:11-14"
+}

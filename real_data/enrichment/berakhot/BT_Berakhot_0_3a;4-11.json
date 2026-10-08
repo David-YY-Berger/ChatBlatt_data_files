@@ -1,0 +1,115 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac7395ab9ad2bcc0401a049",
+            "entityType": "Person",
+            "display_heb_name": "ירמיהו",
+            "timePeriod": "Tanach",
+            "roles": [
+                "Prophet"
+            ],
+            "display_en_name": "jeremiah"
+        },
+        {
+            "key": "6ac7488f8944908bc22a11b1",
+            "entityType": "Person",
+            "display_heb_name": "רבי אליעזר",
+            "timePeriod": "Tanaim",
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "rabbi eliezer"
+        },
+        {
+            "key": "6ac748a18944908bc22a11fd",
+            "entityType": "Person",
+            "display_heb_name": "הקדוש ברוך הוא",
+            "display_en_name": "holy one"
+        },
+        {
+            "key": "6ac748a18944908bc22a11fe",
+            "entityType": "Person",
+            "display_heb_name": "רב יצחק בר שמואל",
+            "timePeriod": "Amoraim",
+            "display_en_name": "rav yitzhak bar shmuel"
+        },
+        {
+            "key": "6ac748a28944908bc22a11ff",
+            "entityType": "Person",
+            "display_heb_name": "רב",
+            "timePeriod": "Amoraim",
+            "display_en_name": "rav"
+        },
+        {
+            "key": "6ac748a28944908bc22a1200",
+            "entityType": "Place",
+            "display_heb_name": "ברקיע",
+            "placeType": "Not Physical",
+            "display_en_name": "upper worlds"
+        },
+        {
+            "key": "6ac748a28944908bc22a1201",
+            "entityType": "Nation",
+            "display_heb_name": "בני",
+            "display_en_name": "israel"
+        },
+        {
+            "key": "6ac748a38944908bc22a1202",
+            "entityType": "Symbol",
+            "display_heb_name": "היכלי",
+            "symbolType": "Holy Object",
+            "display_en_name": "temple"
+        },
+        {
+            "key": "6ac748a38944908bc22a1203",
+            "entityType": "Number",
+            "heb_unit": "משמרת",
+            "contexts": [
+                {
+                    "en_context": "night division",
+                    "heb_context": "חלוקת הלילה"
+                },
+                {
+                    "en_context": "night watches",
+                    "heb_context": "משמרות הלילה"
+                }
+            ],
+            "display_en_name": "3"
+        },
+        {
+            "key": "6ac748a38944908bc22a1204",
+            "entityType": "Number",
+            "heb_unit": "משמרת",
+            "contexts": [
+                {
+                    "en_context": "night division",
+                    "heb_context": "חלוקת הלילה"
+                },
+                {
+                    "en_context": "night watches",
+                    "heb_context": "משמרות הלילה"
+                }
+            ],
+            "display_en_name": "4"
+        },
+        {
+            "key": "6ac748a38944908bc22a1205",
+            "entityType": "Animal",
+            "display_heb_name": "חמור",
+            "display_en_name": "donkey"
+        },
+        {
+            "key": "6ac748a38944908bc22a1206",
+            "entityType": "Animal",
+            "display_heb_name": "כלבים",
+            "display_en_name": "dog"
+        },
+        {
+            "key": "6ac748a48944908bc22a1207",
+            "entityType": "Animal",
+            "display_heb_name": "ארי",
+            "display_en_name": "lion"
+        }
+    ],
+    "key": "BT_Berakhot_0_3a:4-11"
+}

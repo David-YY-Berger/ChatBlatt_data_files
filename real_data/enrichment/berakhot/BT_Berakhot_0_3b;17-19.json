@@ -1,0 +1,45 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748ab8944908bc22a1226",
+            "entityType": "Person",
+            "display_heb_name": "רבי זריקא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "zerika"
+        },
+        {
+            "key": "6ac748ab8944908bc22a1227",
+            "entityType": "Person",
+            "display_heb_name": "רבי אמי",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "ami"
+        },
+        {
+            "key": "6ac748ab8944908bc22a1228",
+            "entityType": "Person",
+            "display_heb_name": "רבי יהושע בן לוי",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "yehoshua ben levi"
+        },
+        {
+            "key": "6ac748ae8944908bc22a1232",
+            "entityType": "Person",
+            "display_heb_name": "רבי אבא בר כהנא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "abba bar kahana"
+        }
+    ],
+    "key": "BT_Berakhot_0_3b:17-19"
+}

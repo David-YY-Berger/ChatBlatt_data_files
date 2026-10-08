@@ -1,0 +1,53 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748d98944908bc22a12e3",
+            "entityType": "Person",
+            "display_heb_name": "ה׳",
+            "display_en_name": "god"
+        },
+        {
+            "key": "6ac749ab8944908bc22a15e1",
+            "entityType": "Symbol",
+            "display_heb_name": "מקרא",
+            "symbolType": "Holy Object",
+            "display_en_name": "bible"
+        },
+        {
+            "key": "6ac749b08944908bc22a15f2",
+            "entityType": "Person",
+            "display_heb_name": "רב חייא בר אשי",
+            "timePeriod": "Amoraim",
+            "display_en_name": "rav hiyya bar ashi"
+        },
+        {
+            "key": "6ac749b08944908bc22a15f3",
+            "entityType": "Person",
+            "display_heb_name": "רב המנונא",
+            "timePeriod": "Amoraim",
+            "display_en_name": "rav hamnuna"
+        },
+        {
+            "key": "6ac749b18944908bc22a15f4",
+            "entityType": "Person",
+            "display_heb_name": "בית ישראל",
+            "isGroup": true,
+            "display_en_name": "house of israel"
+        },
+        {
+            "key": "6ac749b18944908bc22a15f5",
+            "entityType": "Symbol",
+            "display_heb_name": "ספרא",
+            "symbolType": "Holy Object",
+            "display_en_name": "sifra"
+        },
+        {
+            "key": "6ac749b28944908bc22a15f6",
+            "entityType": "Symbol",
+            "display_heb_name": "תורת כהנים",
+            "symbolType": "Holy Object",
+            "display_en_name": "torat kohanim"
+        }
+    ],
+    "key": "BT_Berakhot_0_11b:10-19"
+}

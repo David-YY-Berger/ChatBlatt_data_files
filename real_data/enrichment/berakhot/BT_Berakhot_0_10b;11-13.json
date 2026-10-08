@@ -1,0 +1,15 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac749958944908bc22a1595",
+            "entityType": "Person",
+            "display_heb_name": "רבי יוסי בן זמרא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabbi yosei ben zimra"
+        }
+    ],
+    "key": "BT_Berakhot_0_10b:11-13"
+}

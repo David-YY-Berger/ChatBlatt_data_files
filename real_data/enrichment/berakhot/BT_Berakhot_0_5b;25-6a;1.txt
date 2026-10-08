@@ -1,0 +1,58 @@
+﻿COST: Tokens: Total=5365 approx cost=$0.007569 (Prompt=2656, Completion=2709)
+SOURCE:
+Berakhot (Zeraim) 5b:25-6a:1
+
+ENTITIES TO ENRICH (8):
+{"key":"6ac748be8944908bc22a1275","display_en_name":"rabbi yosei","display_heb_name":"רבי יוסי","all_en_names":["Rabbi Yosei"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","roles":["Tanna"]}
+{"key":"6ac748eb8944908bc22a132d","display_en_name":"rabbi hanina","display_heb_name":"רבי חנינא","all_en_names":["Rabbi Hanina"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748f38944908bc22a134d","display_en_name":"talmidei rabbeinu yona","display_heb_name":"","all_en_names":["Talmidei Rabbeinu Yona"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748f38944908bc22a134e","display_en_name":"isaiah","display_heb_name":"","all_en_names":["Isaiah"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748f48944908bc22a134f","display_en_name":"river","display_heb_name":"","all_en_names":["River"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748f48944908bc22a1350","display_en_name":"waves of the sea","display_heb_name":"","all_en_names":["Waves Of The Sea"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748f48944908bc22a1351","display_en_name":"sand","display_heb_name":"","all_en_names":["Sand"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac748f48944908bc22a1352","display_en_name":"grains","display_heb_name":"","all_en_names":["Grains"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+In terms of this reward, Rabbi Yosei, son of Rabbi Hanina said: One who waits in the synagogue for the other to finish his prayer merits the following blessings, as it is stated: If only you had listened to My mitzvot then your peace would be as a river, and your righteousness as the waves of the sea. Your seed would be as the sand, and the offspring of your body like the grains thereof; his name would be neither cut off nor destroyed from before Me (Isaiah 48:18-19). The explanation of this passage is based on the etymological similarity between the word mitzva and the word tzevet , which means group. If he keeps the other person company and does not abandon him after his prayer, all of the blessings that appear later in the verse will be fulfilled in him ( Talmidei Rabbeinu Yona ).
+
+HEBREW:
+אמר רבי יוסי ברבי חנינא: זוכה לברכות הללו, שנאמר: ״לוא הקשבת למצותי ויהי כנהר שלומך וצדקתך כגלי הים. ויהי כחול זרעך וצאצאי מעיך״ וגו׳.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748f38944908bc22a134d",
+      "entityType": "Person",
+      "isGroup": true
+    },
+    {
+      "key": "6ac748f38944908bc22a134e",
+      "entityType": "Person",
+      "display_heb_name": "ישעיהו",
+      "timePeriod": "Tanach",
+      "roles": [
+        "Prophet"
+      ]
+    },
+    {
+      "key": "6ac748f48944908bc22a134f",
+      "entityType": "Symbol",
+      "display_heb_name": "נהר",
+      "symbolType": "Part of Nature"
+    },
+    {
+      "key": "6ac748f48944908bc22a1350",
+      "entityType": "Symbol",
+      "display_heb_name": "גלי הים",
+      "symbolType": "Part of Nature"
+    },
+    {
+      "key": "6ac748f48944908bc22a1351",
+      "entityType": "Symbol",
+      "display_heb_name": "חול",
+      "symbolType": "Part of Nature"
+    }
+  ]
+}

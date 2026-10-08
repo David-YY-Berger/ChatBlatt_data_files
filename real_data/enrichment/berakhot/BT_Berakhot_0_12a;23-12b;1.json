@@ -1,0 +1,99 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748a28944908bc22a11ff",
+            "entityType": "Person",
+            "display_heb_name": "רב",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rav"
+        },
+        {
+            "key": "6ac748d98944908bc22a12e3",
+            "entityType": "Person",
+            "display_heb_name": "ה׳",
+            "timePeriod": "No Time Period",
+            "isNonJew": false,
+            "isGroup": false,
+            "roles": [],
+            "display_en_name": "god"
+        },
+        {
+            "key": "6ac7498f8944908bc22a1585",
+            "entityType": "Person",
+            "display_heb_name": "שמואל",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "shmuel"
+        },
+        {
+            "key": "6ac749c08944908bc22a162f",
+            "entityType": "Person",
+            "display_heb_name": "רבה בר חיננא סבא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabba bar hinnana sava"
+        },
+        {
+            "key": "6ac749c18944908bc22a1630",
+            "entityType": "Person",
+            "display_heb_name": "רב ששת",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rav sheshet"
+        },
+        {
+            "key": "6ac749c18944908bc22a1631",
+            "entityType": "Symbol",
+            "display_heb_name": "אמת ואמונה",
+            "symbolType": "Not Physical",
+            "display_en_name": "true and trustworthy"
+        },
+        {
+            "key": "6ac749c18944908bc22a1632",
+            "entityType": "Symbol",
+            "display_heb_name": "שם",
+            "symbolType": "Not Physical",
+            "display_en_name": "god's name"
+        },
+        {
+            "key": "6ac749c18944908bc22a1633",
+            "entityType": "Number",
+            "heb_unit": "מזמור",
+            "contexts": [
+                {
+                    "en_context": "biblical citation",
+                    "heb_context": "ציטוט מקראי"
+                }
+            ],
+            "display_en_name": "92"
+        },
+        {
+            "key": "6ac749c28944908bc22a1634",
+            "entityType": "Number",
+            "heb_unit": "מזמור",
+            "contexts": [
+                {
+                    "en_context": "biblical citation",
+                    "heb_context": "ציטוט מקראי"
+                }
+            ],
+            "display_en_name": "146"
+        },
+        {
+            "key": "6ac749c38944908bc22a1636",
+            "entityType": "Animal",
+            "display_heb_name": "חיויא",
+            "display_en_name": "snake"
+        }
+    ],
+    "key": "BT_Berakhot_0_12a:23-12b:1"
+}

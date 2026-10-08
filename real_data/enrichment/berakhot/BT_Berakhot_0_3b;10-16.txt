@@ -1,0 +1,147 @@
+﻿COST: Tokens: Total=6622 approx cost=$0.008089 (Prompt=3848, Completion=2774)
+SOURCE:
+Berakhot (Zeraim) 3b:10-16
+
+ENTITIES TO ENRICH (13):
+{"key":"6ac73970b9ad2bcc0401a0a4","display_en_name":"david","display_heb_name":"","all_en_names":["David"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isGroup":false,"roles":[]}
+{"key":"6ac7397bb9ad2bcc0401a0ce","display_en_name":"gideon","display_heb_name":"","all_en_names":["Gideon","Jerubbaal"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","isGroup":false,"roles":[]}
+{"key":"6ac7489b8944908bc22a11e2","display_en_name":"yehoshua","display_heb_name":"רבי יהושע","all_en_names":["Yehoshua"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","roles":["Tanna"]}
+{"key":"6ac748aa8944908bc22a1224","display_en_name":"yehuda hanasi","display_heb_name":"","all_en_names":["Yehuda Hanasi"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748ab8944908bc22a1225","display_en_name":"natan","display_heb_name":"","all_en_names":["Natan"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748ab8944908bc22a1226","display_en_name":"zerika","display_heb_name":"","all_en_names":["Zerika"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748ab8944908bc22a1227","display_en_name":"ami","display_heb_name":"","all_en_names":["Ami"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748ab8944908bc22a1228","display_en_name":"yehoshua ben levi","display_heb_name":"","all_en_names":["Yehoshua Ben Levi"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748ac8944908bc22a1229","display_en_name":"ashi","display_heb_name":"","all_en_names":["Ashi"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748ac8944908bc22a122a","display_en_name":"100","display_heb_name":"","all_en_names":["100"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"People","en_unit":"man","contexts":[{"en_context":"gideons army","source_keys":["BT_Berakhot_0_3b:10-16"]}]}
+{"key":"6ac748ad8944908bc22a122b","display_en_name":"2","display_heb_name":"","all_en_names":["2"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Time","en_unit":"watch","contexts":[{"en_context":"middle watches argument","source_keys":["BT_Berakhot_0_3b:10-16"]}]}
+{"key":"6ac748ad8944908bc22a122c","display_en_name":"6","display_heb_name":"","all_en_names":["6"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Time","en_unit":"hour","contexts":[{"en_context":"david awake","source_keys":["BT_Berakhot_0_3b:10-16"]}]}
+{"key":"6ac748ad8944908bc22a122d","display_en_name":"1.5","display_heb_name":"","all_en_names":["1.5"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Time","en_unit":"watch","contexts":[{"en_context":"watches plural","source_keys":["BT_Berakhot_0_3b:10-16"]}]}
+
+PASSAGE:
+ENGLISH:
+The Sages taught in a Tosefta : The night is comprised of four watches; this is the statement of Rabbi Yehuda HaNasi. Rabbi Natan says: The night is comprised of three watches.The Gemara explains: What is Rabbi Natans reasoning? As it is written: And Gideon, and the one hundred men who were with him, came to the edge of camp at the beginning of the middle watch (Judges 7:19). It was taught in the Tosefta : Middle means nothing other than that there is one before it and one after it. From the fact that the verse refers to a middle watch, the fact that the night is comprised of three watches may be inferred. And what does Rabbi Yehuda HaNasi say about this proof? He argues that it is inconclusive, as one could say: To what does middle refer? It refers to one of the two middle watches. And how would Rabbi Natan respond? He would say: Despite Rabbi Yehuda HaNasis objection, is: One of the middle watches, written in the verse? The middle watch is written. This indicates that the night is comprised of only three watches. What is Rabbi Yehuda HaNasis reasoning? Rabbi Zerika said that Rabbi Ami said that Rabbi Yehoshua ben Levi said: Rabbi Yehuda HaNasis opinion is based on a comparison of two verses. One verse says: At midnight I rise to give thanks for Your righteous laws (Psalms 119:62), and the other verse says: My eyes forestall the watches, that I will speak of Your word (Psalms 119:148). Taken together, these verses indicate that their author, King David, rose at midnight, two watches before dawn, in order to study Torah. How is it possible to reconcile these two verses? Only if there are four watches in the night does one who rises two watches before dawn rise at midnight. And how does Rabbi Natan reconcile these two verses? He holds in accordance with the opinion of Rabbi Yehoshua, for we learned in a mishna that Rabbi Yehoshua says: One is permitted to recite the morning Shema during the time when people rise, until the third hour of the day, as it is the custom of kings to rise during the third hour. Since it is customary for kings to rise during the third hour of the day, if David rose at midnight, he would be awake for six hours of the night and two hours of the day, which amounts to two watches. Therefore King David could say that he forestalls the watches, as he rose two watches before the rest of the kings in the world. Rav Ashi said that the verses can be reconciled in accordance with Rabbi Natans opinion in another way: One and one-half watches are still called watches in plural. Therefore King David could rise at midnight yet maintain that he forestalls the watches.
+
+HEBREW:
+תנו רבנן: ארבע משמרות הוי הלילה, דברי רבי. רבי נתן אומר: שלש.מאי טעמיה דרבי נתן — דכתיב: ״ויבא גדעון ומאה איש אשר אתו בקצה המחנה ראש האשמרת התיכונה״, תנא: אין ״תיכונה״ אלא שיש לפניה ולאחריה.ורבי, מאי ״תיכונה״ — אחת מן התיכונה שבתיכונות.ורבי נתן מי כתיב ״תיכונה שבתיכונות״? ״תיכונה״ כתיב!מאי טעמיה דרבי? אמר רבי זריקא, אמר רבי אמי, אמר רבי יהושע בן לוי: כתוב אחד אומר: ״חצות לילה אקום להודות לך על משפטי צדקך״, וכתוב אחד אומר: ״קדמו עיני אשמורות״ הא כיצד, ארבע משמרות הוי הלילה.ורבי נתן, סבר לה כרבי יהושע. דתנן, רבי יהושע אומר: עד שלש שעות, שכן דרך מלכים לעמוד בשלש שעות. שית דליליא, ותרתי דיממא, הוו להו שתי משמרות.רב אשי אמר: משמרה ופלגא נמי ״משמרות״ קרו להו.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac73970b9ad2bcc0401a0a4",
+      "entityType": "Person",
+      "display_heb_name": "דוד",
+      "roles": [
+        "King"
+      ]
+    },
+    {
+      "key": "6ac7397bb9ad2bcc0401a0ce",
+      "entityType": "Person",
+      "display_heb_name": "גדעון"
+    },
+    {
+      "key": "6ac7489b8944908bc22a11e2",
+      "entityType": "Person",
+      "display_heb_name": "רבי יהושע"
+    },
+    {
+      "key": "6ac748aa8944908bc22a1224",
+      "entityType": "Person",
+      "display_heb_name": "רבי יהודה הנשיא",
+      "timePeriod": "Tanaim",
+      "roles": [
+        "Tanna"
+      ]
+    },
+    {
+      "key": "6ac748ab8944908bc22a1225",
+      "entityType": "Person",
+      "display_heb_name": "רבי נתן",
+      "timePeriod": "Tanaim",
+      "roles": [
+        "Tanna"
+      ]
+    },
+    {
+      "key": "6ac748ab8944908bc22a1226",
+      "entityType": "Person",
+      "display_heb_name": "רבי זריקא",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748ab8944908bc22a1227",
+      "entityType": "Person",
+      "display_heb_name": "רבי אמי",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748ab8944908bc22a1228",
+      "entityType": "Person",
+      "display_heb_name": "רבי יהושע בן לוי",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748ac8944908bc22a1229",
+      "entityType": "Person",
+      "display_heb_name": "רב אשי",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748ac8944908bc22a122a",
+      "entityType": "Number",
+      "heb_unit": "איש",
+      "contexts": [
+        {
+          "en_context": "gideons army",
+          "heb_context": "צבא גדעון"
+        }
+      ]
+    },
+    {
+      "key": "6ac748ad8944908bc22a122b",
+      "entityType": "Number",
+      "heb_unit": "משמרת",
+      "contexts": [
+        {
+          "en_context": "middle watches argument",
+          "heb_context": "טיעון המשמרות התיכונות"
+        }
+      ]
+    },
+    {
+      "key": "6ac748ad8944908bc22a122c",
+      "entityType": "Number",
+      "heb_unit": "שעה",
+      "contexts": [
+        {
+          "en_context": "david awake",
+          "heb_context": "דוד ער"
+        }
+      ]
+    },
+    {
+      "key": "6ac748ad8944908bc22a122d",
+      "entityType": "Number",
+      "heb_unit": "משמרת",
+      "contexts": [
+        {
+          "en_context": "watches plural",
+          "heb_context": "משמרות בלשון רבים"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+﻿COST: Tokens: Total=3047 approx cost=$0.002564 (Prompt=2297, Completion=750)
+SOURCE:
+Berakhot (Zeraim) 9a:8-10
+
+ENTITIES TO ENRICH (2):
+{"key":"6ac7488f8944908bc22a11b0","display_en_name":"rabban gamliel","display_heb_name":"רבן גמליאל","all_en_names":["Rabban Gamliel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","isNonJew":false,"isGroup":false,"roles":["Tanna"]}
+{"key":"6ac7489a8944908bc22a11e0","display_en_name":"rabbis","display_heb_name":"רבנן","all_en_names":["Rabbis"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanaim","isGroup":true,"roles":["Tanna"]}
+
+PASSAGE:
+ENGLISH:
+We learned in the mishna that Rabban Gamliel told his sons: And that is not only with regard to the halakha of the recitation of Shema , but, rather, wherever the Rabbis say until midnight, the mitzva may be performed until dawn.The Gemara questions the formulation of the mishna: Does Rabban Gamliel say until midnight, that he teaches: And not only did they say? Rabban Gamliel does not restrict the time for the recitation of Shema until midnight, so why does he say, and not only do they say, implying that he agrees with that stringency?The Gemara explains that this is what Rabban Gamliel said to his sons: Even according to the Rabbis, who say that the mitzva may be performed only until midnight, the biblical obligation to perform the mitzva continues until dawn, and that which they say that it may only be recited until midnight is in order to distance a person from transgression.
+
+HEBREW:
+ולא זו בלבד אמרו, אלא וכו׳:ורבן גמליאל מי קאמר ״עד חצות״ דקתני ״ולא זו בלבד אמרו״?הכי קאמר להו רבן גמליאל לבניה: אפילו לרבנן דקאמרי ״עד חצות״, מצותה עד שיעלה עמוד השחר. והאי דקא אמרי עד חצות — כדי להרחיק אדם מן העבירה.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac7488f8944908bc22a11b0",
+      "entityType": "Person",
+      "display_heb_name": "רבן גמליאל",
+      "timePeriod": "Tanaim",
+      "isNonJew": false,
+      "isGroup": false,
+      "roles": [
+        "Tanna"
+      ]
+    },
+    {
+      "key": "6ac7489a8944908bc22a11e0",
+      "entityType": "Person",
+      "display_heb_name": "רבנן",
+      "timePeriod": "Tanaim",
+      "isGroup": true,
+      "roles": [
+        "Tanna"
+      ]
+    }
+  ]
+}

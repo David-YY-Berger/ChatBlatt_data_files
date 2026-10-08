@@ -1,0 +1,58 @@
+﻿COST: Tokens: Total=4660 approx cost=$0.004955 (Prompt=3043, Completion=1617)
+SOURCE:
+Berakhot (Zeraim) 6b:2-4
+
+ENTITIES TO ENRICH (10):
+{"key":"6ac748a78944908bc22a1214","display_en_name":"maharsha","display_heb_name":"","all_en_names":["Maharsha"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748b88944908bc22a125a","display_en_name":"yitzhak","display_heb_name":"רבי יצחק","all_en_names":["Yitzhak"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":[]}
+{"key":"6ac748d98944908bc22a12e3","display_en_name":"god","display_heb_name":"קודשא בריך הוא","all_en_names":["God"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"No Time Period","isNonJew":false,"isGroup":false,"roles":[]}
+{"key":"6ac748f38944908bc22a134e","display_en_name":"isaiah","display_heb_name":"ישעיהו","all_en_names":["Isaiah"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","roles":["Prophet"]}
+{"key":"6ac748fb8944908bc22a136e","display_en_name":"ravin bar rav adda","display_heb_name":"רבין בר רב אדא","all_en_names":["Ravin Bar Rav Adda"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac749008944908bc22a1381","display_en_name":"light","display_heb_name":"","all_en_names":["Light"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac749008944908bc22a1382","display_en_name":"darkness","display_heb_name":"","all_en_names":["Darkness"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac749008944908bc22a1383","display_en_name":"name of the lord","display_heb_name":"","all_en_names":["Name Of The Lord"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac749018944908bc22a1384","display_en_name":"mitzvah","display_heb_name":"","all_en_names":["Mitzvah"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac749018944908bc22a1385","display_en_name":"mundane purpose","display_heb_name":"","all_en_names":["Mundane Purpose"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+Additionally, Ravin bar Rav Adda said that Rabbi Yitzhak said: One who is accustomed to come to the synagogue and did not come one day, the Holy One, Blessed be He, asks about him, as it were, to determine what happened to him, as it is stated: Who among you fears the Lord? Who hears the voice of His servant? Though he walks in darkness and has no light, let him trust in the name of the Lord, and rely upon his God (Isaiah 50:10). In other words, God asks, who among you fears the Lord yet did not come to hear the voice of His servant the prayer leader, who engages in the service of God? He who went out before dawn and walks in darkness before prayer. If it is for a matter involving a mitzva that he went and absented himself from prayer in the synagogue, then, despite the darkness, there is light for him, the aura of his mitzva will protect him. But if it is for an optional matter, some mundane purpose, that he went and absented himself from prayer in the synagogue, then, even once the day begins, there is no light for him (Maharsha).The verse continues: Let him trust in the name of the Lord. The Gemara asks: What is the reason that God is so exacting with this person? The Gemara answers: Because he should have relied on the name of the Lord, and trusted that he would not incur any loss if he postponed dealing with his mundane matters until after prayer in the synagogue, and he did not rely on God.
+
+HEBREW:
+אמר רבין בר רב אדא, אמר רבי יצחק: כל הרגיל לבא לבית הכנסת ולא בא יום אחד, הקדוש ברוך הוא משאיל בו, שנאמר: ״מי בכם ירא ה׳ שמע בקול עבדו אשר הלך חשכים ואין נגה לו״.אם לדבר מצוה הלך — נוגה לו, ואם לדבר הרשות הלך — אין נוגה לו.״יבטח בשם ה׳״ מאי טעמא? — משום דהוה ליה לבטוח בשם ה׳, ולא בטח.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac749008944908bc22a1381",
+      "entityType": "Symbol",
+      "display_heb_name": "נגה",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac749008944908bc22a1382",
+      "entityType": "Symbol",
+      "display_heb_name": "חשכים",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac749008944908bc22a1383",
+      "entityType": "Symbol",
+      "display_heb_name": "בשם ה׳",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac749018944908bc22a1384",
+      "entityType": "Symbol",
+      "display_heb_name": "מצוה",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac749018944908bc22a1385",
+      "entityType": "Symbol",
+      "display_heb_name": "לדבר הרשות",
+      "symbolType": "Not Physical"
+    }
+  ]
+}

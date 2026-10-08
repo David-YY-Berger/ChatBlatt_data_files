@@ -1,0 +1,134 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac73970b9ad2bcc0401a0a4",
+            "entityType": "Person",
+            "display_heb_name": "דוד",
+            "roles": [
+                "King"
+            ],
+            "display_en_name": "david"
+        },
+        {
+            "key": "6ac7397bb9ad2bcc0401a0ce",
+            "entityType": "Person",
+            "display_heb_name": "גדעון",
+            "display_en_name": "gideon"
+        },
+        {
+            "key": "6ac7489b8944908bc22a11e2",
+            "entityType": "Person",
+            "display_heb_name": "רבי יהושע",
+            "display_en_name": "yehoshua"
+        },
+        {
+            "key": "6ac748aa8944908bc22a1224",
+            "entityType": "Person",
+            "display_heb_name": "רבי יהודה הנשיא",
+            "timePeriod": "Tanaim",
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "yehuda hanasi"
+        },
+        {
+            "key": "6ac748ab8944908bc22a1225",
+            "entityType": "Person",
+            "display_heb_name": "רבי נתן",
+            "timePeriod": "Tanaim",
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "natan"
+        },
+        {
+            "key": "6ac748ab8944908bc22a1226",
+            "entityType": "Person",
+            "display_heb_name": "רבי זריקא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "zerika"
+        },
+        {
+            "key": "6ac748ab8944908bc22a1227",
+            "entityType": "Person",
+            "display_heb_name": "רבי אמי",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "ami"
+        },
+        {
+            "key": "6ac748ab8944908bc22a1228",
+            "entityType": "Person",
+            "display_heb_name": "רבי יהושע בן לוי",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "yehoshua ben levi"
+        },
+        {
+            "key": "6ac748ac8944908bc22a1229",
+            "entityType": "Person",
+            "display_heb_name": "רב אשי",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "ashi"
+        },
+        {
+            "key": "6ac748ac8944908bc22a122a",
+            "entityType": "Number",
+            "heb_unit": "איש",
+            "contexts": [
+                {
+                    "en_context": "gideons army",
+                    "heb_context": "צבא גדעון"
+                }
+            ],
+            "display_en_name": "100"
+        },
+        {
+            "key": "6ac748ad8944908bc22a122b",
+            "entityType": "Number",
+            "heb_unit": "משמרת",
+            "contexts": [
+                {
+                    "en_context": "middle watches argument",
+                    "heb_context": "טיעון המשמרות התיכונות"
+                }
+            ],
+            "display_en_name": "2"
+        },
+        {
+            "key": "6ac748ad8944908bc22a122c",
+            "entityType": "Number",
+            "heb_unit": "שעה",
+            "contexts": [
+                {
+                    "en_context": "david awake",
+                    "heb_context": "דוד ער"
+                }
+            ],
+            "display_en_name": "6"
+        },
+        {
+            "key": "6ac748ad8944908bc22a122d",
+            "entityType": "Number",
+            "heb_unit": "משמרת",
+            "contexts": [
+                {
+                    "en_context": "watches plural",
+                    "heb_context": "משמרות בלשון רבים"
+                }
+            ],
+            "display_en_name": "1.5"
+        }
+    ],
+    "key": "BT_Berakhot_0_3b:10-16"
+}

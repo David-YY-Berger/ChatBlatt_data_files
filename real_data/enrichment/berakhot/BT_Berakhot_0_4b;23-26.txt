@@ -1,0 +1,105 @@
+﻿COST: Tokens: Total=5669 approx cost=$0.007031 (Prompt=3246, Completion=2423)
+SOURCE:
+Berakhot (Zeraim) 4b:23-26
+
+ENTITIES TO ENRICH (9):
+{"key":"6ac748a68944908bc22a1212","display_en_name":"elijah","display_heb_name":"אליהו","all_en_names":["Elijah"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Tanach","roles":["Prophet"]}
+{"key":"6ac748ba8944908bc22a1260","display_en_name":"yohanan","display_heb_name":"רבי יוחנן","all_en_names":["Yohanan"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"timePeriod":"Amoraim","roles":["Amora"]}
+{"key":"6ac748d28944908bc22a12c7","display_en_name":"elazar","display_heb_name":"","all_en_names":["Elazar"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748d38944908bc22a12c8","display_en_name":"avina","display_heb_name":"","all_en_names":["Avina"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748d38944908bc22a12c9","display_en_name":"michael","display_heb_name":"","all_en_names":["Michael"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748d38944908bc22a12ca","display_en_name":"gabriel","display_heb_name":"","all_en_names":["Gabriel"],"all_heb_names":[],"entityType":"Person","alias_keys":[],"roles":[]}
+{"key":"6ac748d48944908bc22a12cc","display_en_name":"2","display_heb_name":"","all_en_names":["2"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Time","en_unit":"flight","contexts":[{"en_context":"gabriel's mission","source_keys":["BT_Berakhot_0_4b:23-26"]}]}
+{"key":"6ac748d48944908bc22a12cd","display_en_name":"4","display_heb_name":"","all_en_names":["4"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Time","en_unit":"flight","contexts":[{"en_context":"elijah's travel","source_keys":["BT_Berakhot_0_4b:23-26"]}]}
+{"key":"6ac748d48944908bc22a12ce","display_en_name":"8","display_heb_name":"","all_en_names":["8"],"all_heb_names":[],"entityType":"Number","alias_keys":[],"numberCategory":"Time","en_unit":"flight","contexts":[{"en_context":"angel of death's travel","source_keys":["BT_Berakhot_0_4b:23-26"]}]}
+
+PASSAGE:
+ENGLISH:
+After this discussion of the statement that Rabbi Elazar said that Rabbi Avina said, another statement of Rabbi Elazar is cited. Rabbi Elazar bar Avina said: What was said about the angel Michael is greater than what was said about the angel Gabriel. As about Michael, it is written: And one of the seraphim flew to me (Isaiah 6:6), indicating that with a single flight, the seraph arrived and performed his mission, while regarding Gabriel, it is written: The man, Gabriel, whom I had seen at the beginning, in a vision, being caused to fly swiftly, approached close to me about the time of the evening offering (Daniel 9:21). The double language used in the phrase to fly swiftly [ muaf biaf] , indicates that he did not arrive at his destination in a single flight, but rather, that it took him two flights.To Rabbi Elazar bar Avina, it is clear that one of the seraphim refers to Michael, and the Gemara asks: From where is it inferred that the one mentioned in the verse is Michael? Rabbi Yohanan said: This is derived through a verbal analogy between the words one and one. Here, it is written: And one of the seraphim flew to me (Isaiah 6:6), and there, it is written: And behold, Michael, one of the chief ministers of the king, came to my aid (Daniel 10:13). Since the verse from Daniel refers to Michael as one, which aggadic midrash interprets as the unique one, so, too, one of the seraphs described in Isaiah must also refer to the unique one, Michael.This discussion in the Gemara concludes with a Tosefta that arrives at a hierarchy of angels based on the number of flights required by each to arrive at his destination. It was taught in a Tosefta : Michael, as stated above, in one flight; Gabriel, in two flights; Elijah the Prophet, in four flights; and the Angel of Death, in eight flights. During a time of plague, however, when the Angel of Death seems ubiquitous, he arrives everywhere in one flight.
+
+HEBREW:
+אמר רבי אלעזר בר אבינא: גדול מה שנאמר במיכאל יותר ממה שנאמר בגבריאל, דאילו במיכאל כתיב: ״ויעף אלי אחד מן השרפים״. ואילו גבי גבריאל כתיב: ״והאיש גבריאל אשר ראיתי בחזון בתחלה מעף ביעף וגו׳״.מאי משמע דהאי ״אחד״ מיכאל הוא?אמר רבי יוחנן: אתיא ״אחד״ ״אחד״. כתיב הכא ״ויעף אלי אחד מן השרפים״, וכתיב התם: ״והנה מיכאל אחד (מן) השרים הראשונים בא לעזרני״.תנא: מיכאל — באחת, גבריאל — בשתים, אליהו — בארבע, ומלאך המות — בשמנה. ובשעת המגפה, באחת.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac748a68944908bc22a1212",
+      "entityType": "Person",
+      "display_heb_name": "אליהו",
+      "timePeriod": "Tanach",
+      "roles": [
+        "Prophet"
+      ]
+    },
+    {
+      "key": "6ac748ba8944908bc22a1260",
+      "entityType": "Person",
+      "display_heb_name": "רבי יוחנן",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748d28944908bc22a12c7",
+      "entityType": "Person",
+      "display_heb_name": "רבי אלעזר",
+      "timePeriod": "Amoraim",
+      "roles": [
+        "Amora"
+      ]
+    },
+    {
+      "key": "6ac748d38944908bc22a12c8",
+      "entityType": "Person",
+      "display_heb_name": "אבינא",
+      "timePeriod": "Amoraim"
+    },
+    {
+      "key": "6ac748d38944908bc22a12c9",
+      "entityType": "Person",
+      "display_heb_name": "מיכאל",
+      "timePeriod": "No Time Period"
+    },
+    {
+      "key": "6ac748d38944908bc22a12ca",
+      "entityType": "Person",
+      "display_heb_name": "גבריאל",
+      "timePeriod": "No Time Period"
+    },
+    {
+      "key": "6ac748d48944908bc22a12cc",
+      "entityType": "Number",
+      "heb_unit": "טיסה",
+      "contexts": [
+        {
+          "en_context": "gabriel's mission",
+          "heb_context": "משימת גבריאל"
+        }
+      ]
+    },
+    {
+      "key": "6ac748d48944908bc22a12cd",
+      "entityType": "Number",
+      "heb_unit": "טיסה",
+      "contexts": [
+        {
+          "en_context": "elijah's travel",
+          "heb_context": "מסע אליהו"
+        }
+      ]
+    },
+    {
+      "key": "6ac748d48944908bc22a12ce",
+      "entityType": "Number",
+      "heb_unit": "טיסה",
+      "contexts": [
+        {
+          "en_context": "angel of death's travel",
+          "heb_context": "מסע מלאך המות"
+        }
+      ]
+    }
+  ]
+}

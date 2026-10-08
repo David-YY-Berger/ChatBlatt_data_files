@@ -1,0 +1,73 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748a28944908bc22a11ff",
+            "entityType": "Person",
+            "display_heb_name": "רב",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rav"
+        },
+        {
+            "key": "6ac749598944908bc22a14c3",
+            "entityType": "Person",
+            "display_heb_name": "רב פפא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rav pappa"
+        },
+        {
+            "key": "6ac749a18944908bc22a15ba",
+            "entityType": "Person",
+            "display_heb_name": "בית שמאי",
+            "timePeriod": "Tanaim",
+            "isGroup": true,
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "beit shammai"
+        },
+        {
+            "key": "6ac749a18944908bc22a15bb",
+            "entityType": "Person",
+            "display_heb_name": "בית הלל",
+            "timePeriod": "Tanaim",
+            "isGroup": true,
+            "roles": [
+                "Tanna"
+            ],
+            "display_en_name": "beit hillel"
+        },
+        {
+            "key": "6ac749a38944908bc22a15c0",
+            "entityType": "Person",
+            "display_heb_name": "רבי אבא בר זבדא",
+            "timePeriod": "Amoraim",
+            "roles": [
+                "Amora"
+            ],
+            "display_en_name": "rabbi abba bar zavda"
+        },
+        {
+            "key": "6ac749a38944908bc22a15c1",
+            "entityType": "Person",
+            "timePeriod": "Tanach",
+            "roles": [
+                "Prophet"
+            ],
+            "display_en_name": "ezekiel"
+        },
+        {
+            "key": "6ac749a38944908bc22a15c2",
+            "entityType": "Symbol",
+            "display_heb_name": "תפילין",
+            "symbolType": "Holy Object",
+            "display_en_name": "phylacteries"
+        }
+    ],
+    "key": "BT_Berakhot_0_11a:1-14"
+}

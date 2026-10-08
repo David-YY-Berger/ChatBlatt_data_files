@@ -1,0 +1,129 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac73970b9ad2bcc0401a0a4",
+            "entityType": "Person",
+            "display_heb_name": "דוד",
+            "timePeriod": "Tanach",
+            "isNonJew": false,
+            "roles": [
+                "King"
+            ],
+            "display_en_name": "david"
+        },
+        {
+            "key": "6ac748988944908bc22a11d8",
+            "entityType": "Place",
+            "display_heb_name": "ארץ ישראל",
+            "placeType": "Country or Region",
+            "display_en_name": "eretz yisrael"
+        },
+        {
+            "key": "6ac748cc8944908bc22a12ac",
+            "entityType": "Person",
+            "display_heb_name": "רבי יוחנן",
+            "timePeriod": "Amoraim",
+            "display_en_name": "rabbi yohanan"
+        },
+        {
+            "key": "6ac748cc8944908bc22a12ad",
+            "entityType": "Person",
+            "display_heb_name": "רבי אלעזר",
+            "timePeriod": "Amoraim",
+            "display_en_name": "rabbi elazar"
+        },
+        {
+            "key": "6ac748cc8944908bc22a12ae",
+            "entityType": "Person",
+            "display_heb_name": "רבי אבינא",
+            "timePeriod": "Amoraim",
+            "display_en_name": "rabbi avina"
+        },
+        {
+            "key": "6ac748cd8944908bc22a12af",
+            "entityType": "Person",
+            "display_heb_name": "רב נחמן בר יצחק",
+            "timePeriod": "Amoraim",
+            "display_en_name": "rav nahman bar yitzhak"
+        },
+        {
+            "key": "6ac748cd8944908bc22a12b0",
+            "entityType": "Person",
+            "display_heb_name": "עמוס",
+            "timePeriod": "Tanach",
+            "roles": [
+                "Prophet"
+            ],
+            "display_en_name": "amos"
+        },
+        {
+            "key": "6ac748cd8944908bc22a12b1",
+            "entityType": "Symbol",
+            "display_heb_name": "תהלה לדוד",
+            "symbolType": "Holy Object",
+            "display_en_name": "a psalm of david (psalms 145)"
+        },
+        {
+            "key": "6ac748ce8944908bc22a12b2",
+            "entityType": "Symbol",
+            "display_heb_name": "אשרי תמימי דרך",
+            "symbolType": "Holy Object",
+            "display_en_name": "psalms 119"
+        },
+        {
+            "key": "6ac748ce8944908bc22a12b3",
+            "entityType": "Symbol",
+            "display_heb_name": "הלל הגדול",
+            "symbolType": "Holy Object",
+            "display_en_name": "psalms 136"
+        },
+        {
+            "key": "6ac748ce8944908bc22a12b4",
+            "entityType": "Symbol",
+            "display_heb_name": "אשרי יושבי ביתך עוד יהללוך סלה",
+            "symbolType": "Holy Object",
+            "display_en_name": "psalms 84:5"
+        },
+        {
+            "key": "6ac748ce8944908bc22a12b5",
+            "entityType": "Symbol",
+            "display_heb_name": "פותח את ידך ומשביע לכל חי רצון",
+            "symbolType": "Holy Object",
+            "display_en_name": "psalms 145:16"
+        },
+        {
+            "key": "6ac748ce8944908bc22a12b6",
+            "entityType": "Symbol",
+            "display_heb_name": "נתן לחם לכל בשר כי לעולם חסדו",
+            "symbolType": "Holy Object",
+            "display_en_name": "psalms 136:25"
+        },
+        {
+            "key": "6ac748cf8944908bc22a12b7",
+            "entityType": "Symbol",
+            "display_heb_name": "סומך ה׳ לכל הנפלים וזוקף לכל הכפופים",
+            "symbolType": "Holy Object",
+            "display_en_name": "psalms 145:14"
+        },
+        {
+            "key": "6ac748cf8944908bc22a12b8",
+            "entityType": "Symbol",
+            "display_heb_name": "נפלה לא תוסיף קום בתולת ישראל",
+            "symbolType": "Holy Object",
+            "display_en_name": "amos 5:2"
+        },
+        {
+            "key": "6ac748cf8944908bc22a12b9",
+            "entityType": "Number",
+            "heb_unit": "פעמים",
+            "contexts": [
+                {
+                    "en_context": "alphabetical arrangement",
+                    "heb_context": "אלף בית"
+                }
+            ],
+            "display_en_name": "8"
+        }
+    ],
+    "key": "BT_Berakhot_0_4b:16-22"
+}

@@ -1,0 +1,62 @@
+﻿COST: Tokens: Total=4891 approx cost=$0.006404 (Prompt=2647, Completion=2244)
+SOURCE:
+Berakhot (Zeraim) 11a:24-25
+
+ENTITIES TO ENRICH (7):
+{"key":"6ac749a98944908bc22a15d8","display_en_name":"radiant lights","display_heb_name":"","all_en_names":["Radiant Lights"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac749a98944908bc22a15d9","display_en_name":"love of torah","display_heb_name":"","all_en_names":["Love Of Torah"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac749a98944908bc22a15da","display_en_name":"true and firm","display_heb_name":"","all_en_names":["True And Firm"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac749a98944908bc22a15db","display_en_name":"love of god","display_heb_name":"","all_en_names":["Love Of God"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac749aa8944908bc22a15dc","display_en_name":"true and faithful","display_heb_name":"","all_en_names":["True And Faithful"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac749aa8944908bc22a15dd","display_en_name":"long formula","display_heb_name":"","all_en_names":["Long Formula"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+{"key":"6ac749aa8944908bc22a15de","display_en_name":"short formula","display_heb_name":"","all_en_names":["Short Formula"],"all_heb_names":[],"entityType":"Symbol","alias_keys":[]}
+
+PASSAGE:
+ENGLISH:
+MISHNA: From the laws of the recitation of Shema itself, the mishna proceeds to discuss the blessings recited in conjunction with Shema . Here, the order is established: In the morning when reciting Shema , one recites two blessings beforehand, the first on the radiant lights and the second the blessing on the love of Torah, and one thereafter, which begins with: True and Firm [ emet veyatziv ]. And in the evening one recites two blessings beforehand, on the radiant lights and on the love of God, and two thereafter, the blessing of redemption: True and Faithful [ emet veemuna ], and the blessing: Help us lie down. With regard to the blessing: True and Faithful, whether one recites it in its long formula and whether one recites it in its short formula, he fulfills his obligation ( Tosafot ).However, the general principle is: Where the Sages said to recite a long blessing, one may not shorten it, and so too, wherever they said to recite a short blessing, one may not lengthen it. Where the Sages said that a blessing must conclude with a second blessing at the end, he may not fail to conclude with that blessing. Similarly, if the Sages said that a blessing must not conclude with a second blessing, one may not conclude with a blessing.
+
+HEBREW:
+מתני׳ בשחר מברך שתים לפניה ואחת לאחריה. ובערב מברך שתים לפניה ושתים לאחריה. אחת ארוכה ואחת קצרה.מקום שאמרו להאריך — אינו רשאי לקצר, לקצר — אינו רשאי להאריך. לחתום — אינו רשאי שלא לחתום, שלא לחתום — אינו רשאי לחתום.
+
+EXTRACTED (JSON):
+{
+  "entities": [
+    {
+      "key": "6ac749a98944908bc22a15d8",
+      "entityType": "Symbol",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac749a98944908bc22a15d9",
+      "entityType": "Symbol",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac749a98944908bc22a15da",
+      "entityType": "Symbol",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac749a98944908bc22a15db",
+      "entityType": "Symbol",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac749aa8944908bc22a15dc",
+      "entityType": "Symbol",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac749aa8944908bc22a15dd",
+      "entityType": "Symbol",
+      "display_heb_name": "ארוכה",
+      "symbolType": "Not Physical"
+    },
+    {
+      "key": "6ac749aa8944908bc22a15de",
+      "entityType": "Symbol",
+      "display_heb_name": "קצרה",
+      "symbolType": "Not Physical"
+    }
+  ]
+}

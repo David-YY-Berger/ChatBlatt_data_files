@@ -1,0 +1,91 @@
+﻿{
+    "entities": [
+        {
+            "key": "6ac748918944908bc22a11b9",
+            "entityType": "Symbol",
+            "symbolType": "Not Physical",
+            "display_en_name": "mishna"
+        },
+        {
+            "key": "6ac748948944908bc22a11c4",
+            "entityType": "Symbol",
+            "display_heb_name": "גמ׳",
+            "symbolType": "Not Physical",
+            "display_en_name": "gemara"
+        },
+        {
+            "key": "6ac748948944908bc22a11c5",
+            "entityType": "Symbol",
+            "symbolType": "Not Physical",
+            "display_en_name": "talmud"
+        },
+        {
+            "key": "6ac748948944908bc22a11c6",
+            "entityType": "Symbol",
+            "display_heb_name": "תורה שבעל פה",
+            "symbolType": "Not Physical",
+            "display_en_name": "oral torah"
+        },
+        {
+            "key": "6ac748948944908bc22a11c7",
+            "entityType": "Symbol",
+            "display_heb_name": "תורה שבכתב",
+            "symbolType": "Not Physical",
+            "display_en_name": "written torah"
+        },
+        {
+            "key": "6ac748958944908bc22a11c8",
+            "entityType": "Symbol",
+            "display_heb_name": "תמיד של שחר",
+            "symbolType": "Holy Object",
+            "display_en_name": "morning offering"
+        },
+        {
+            "key": "6ac748958944908bc22a11c9",
+            "entityType": "Symbol",
+            "display_heb_name": "תמיד של ערב",
+            "symbolType": "Holy Object",
+            "display_en_name": "evening offering"
+        },
+        {
+            "key": "6ac748958944908bc22a11ca",
+            "entityType": "Symbol",
+            "display_heb_name": "ברייתו של עולם",
+            "symbolType": "Not Physical",
+            "display_en_name": "creation of the world"
+        },
+        {
+            "key": "6ac748958944908bc22a11cb",
+            "entityType": "Symbol",
+            "symbolType": "Not Physical",
+            "display_en_name": "blessing"
+        },
+        {
+            "key": "6ac748958944908bc22a11cc",
+            "entityType": "Number",
+            "heb_unit": "ברכה",
+            "contexts": [
+                {
+                    "en_context": "morning shema before",
+                    "heb_context": "שמע של שחר לפני"
+                },
+                {
+                    "en_context": "shema blessings beforehand",
+                    "heb_context": "ברכות שמע לפני"
+                },
+                {
+                    "en_context": "morning shema beforehand",
+                    "heb_context": "שמע של שחר לפני"
+                }
+            ],
+            "display_en_name": "2"
+        },
+        {
+            "key": "6ac748968944908bc22a11ce",
+            "entityType": "Food",
+            "display_heb_name": "תרומה",
+            "display_en_name": "teruma"
+        }
+    ],
+    "key": "BT_Berakhot_0_2a:6-11"
+}
