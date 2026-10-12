@@ -1,0 +1,63 @@
+﻿{
+    "res": {
+        "en_summary": "Prayer rules: low place, feet aligned, pray first.",
+        "heb_summary": "הלכות תפילה: מקום נמוך, יישור רגליים, תפילה קודם אכילה.",
+        "passage_types": [
+            "LAW",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Yosei"
+                },
+                {
+                    "en_name": "Hanina"
+                },
+                {
+                    "en_name": "Eliezer Ben Yaakov"
+                },
+                {
+                    "en_name": "Yitzhak"
+                },
+                {
+                    "en_name": "Yohanan"
+                },
+                {
+                    "en_name": "God"
+                },
+                {
+                    "en_name": "Angels"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Kingdom Of Heaven"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Yosei",
+                    "term2": "Eliezer Ben Yaakov"
+                },
+                {
+                    "term1": "Yitzhak",
+                    "term2": "Yohanan"
+                },
+                {
+                    "term1": "Yohanan",
+                    "term2": "Yosei"
+                }
+            ],
+            "childOfFather": [
+                {
+                    "term1": "Yosei",
+                    "term2": "Hanina"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_10b:26-30"
+}

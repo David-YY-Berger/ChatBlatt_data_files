@@ -1,0 +1,209 @@
+﻿{
+    "res": {
+        "en_summary": "Benayahu, Evyatar, Moses, David, and midnight discussions.",
+        "heb_summary": "בניהו, אביתר, משה, דוד, ודיוני חצות הלילה.",
+        "passage_types": [
+            "STORY_TANACH",
+            "STORY_SAGES",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Benayahu"
+                },
+                {
+                    "en_name": "Yehoyada"
+                },
+                {
+                    "en_name": "Evyatar"
+                },
+                {
+                    "en_name": "Ahimelekh"
+                },
+                {
+                    "en_name": "Sanhedrin"
+                },
+                {
+                    "en_name": "Kereti"
+                },
+                {
+                    "en_name": "Peleti"
+                },
+                {
+                    "en_name": "David"
+                },
+                {
+                    "en_name": "Sages"
+                },
+                {
+                    "en_name": "Ahitophel"
+                },
+                {
+                    "en_name": "Yoav"
+                },
+                {
+                    "en_name": "Yitzhak Bar Adda"
+                },
+                {
+                    "en_name": "Yitzhak"
+                },
+                {
+                    "en_name": "Idi"
+                },
+                {
+                    "en_name": "Zeira"
+                },
+                {
+                    "en_name": "Moses"
+                },
+                {
+                    "en_name": "Pharaoh"
+                },
+                {
+                    "en_name": "Astrologers"
+                },
+                {
+                    "en_name": "Master"
+                },
+                {
+                    "en_name": "Ashi"
+                },
+                {
+                    "en_name": "Israel"
+                },
+                {
+                    "en_name": "Holy One Blessed Be He"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Egypt"
+                }
+            ],
+            "Nation": [
+                {
+                    "en_name": "Egypt"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Urim Vetummim"
+                },
+                {
+                    "en_name": "Lyre"
+                },
+                {
+                    "en_name": "Harp"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "23",
+                    "number_category": "Misc",
+                    "en_unit": "verse",
+                    "en_context": "i samuel chapter"
+                },
+                {
+                    "en_name": "9",
+                    "number_category": "Misc",
+                    "en_unit": "verse",
+                    "en_context": "i samuel verse"
+                },
+                {
+                    "en_name": "20",
+                    "number_category": "Misc",
+                    "en_unit": "verse",
+                    "en_context": "ii samuel chapter"
+                },
+                {
+                    "en_name": "57",
+                    "number_category": "Misc",
+                    "en_unit": "verse",
+                    "en_context": "psalms chapter"
+                },
+                {
+                    "en_name": "13",
+                    "number_category": "Time",
+                    "en_unit": "day",
+                    "en_context": "midnight prophecy"
+                },
+                {
+                    "en_name": "14",
+                    "number_category": "Time",
+                    "en_unit": "day",
+                    "en_context": "midnight prophecy"
+                }
+            ]
+        },
+        "Rel": {
+            "childOfFather": [
+                {
+                    "term1": "Benayahu",
+                    "term2": "Yehoyada"
+                },
+                {
+                    "term1": "Evyatar",
+                    "term2": "Ahimelekh"
+                },
+                {
+                    "term1": "Yitzhak",
+                    "term2": "Idi"
+                }
+            ],
+            "spokeWith": [
+                {
+                    "term1": "Sages",
+                    "term2": "Ahitophel"
+                },
+                {
+                    "term1": "Sages",
+                    "term2": "Sanhedrin"
+                },
+                {
+                    "term1": "Moses",
+                    "term2": "Israel"
+                },
+                {
+                    "term1": "Holy One Blessed Be He",
+                    "term2": "Moses"
+                }
+            ],
+            "EnemyOf": [
+                {
+                    "term1": "Moses",
+                    "term2": "Pharaoh"
+                }
+            ],
+            "prophesiedAbout": [
+                {
+                    "term1": "David",
+                    "term2": "Lyre"
+                },
+                {
+                    "term1": "David",
+                    "term2": "Harp"
+                },
+                {
+                    "term1": "Moses",
+                    "term2": "Egypt"
+                },
+                {
+                    "term1": "Moses",
+                    "term2": "Holy One Blessed Be He"
+                }
+            ],
+            "AliasOf": [
+                {
+                    "term1": "Kereti",
+                    "term2": "Sanhedrin"
+                },
+                {
+                    "term1": "Peleti",
+                    "term2": "Sanhedrin"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_3b:27-4a:7"
+}

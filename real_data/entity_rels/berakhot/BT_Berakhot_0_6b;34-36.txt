@@ -1,0 +1,54 @@
+﻿COST: Tokens: Total=4643 approx cost=$0.003323 (Prompt=3382, Completion=1261)
+SOURCE:
+Berakhot (Zeraim) 6b:34-36
+
+HEBREW:
+ואמר רבי חלבו, אמר רב הונא: כל אדם שיש בו יראת שמים — דבריו נשמעין, שנאמר: ״סוף דבר הכל נשמע את האלהים ירא וגו׳״.מאי ״כי זה כל האדם״? אמר רבי אלעזר, אמר הקדוש ברוך הוא: כל העולם כלו לא נברא אלא בשביל זה.רבי אבא בר כהנא אמר: שקול זה כנגד כל העולם כולו, רבי שמעון בן עזאי אומר, ואמרי לה רבי שמעון בן זומא אומר: כל העולם כולו לא נברא אלא לצוות לזה.
+
+ENGLISH:
+And Rabbi Helbo said that Rav Huna said: Any person who has the fear of Heaven, his words are heeded, as it is stated: The end of the matter, all having been heard: Fear God, and keep His commandments; for this is all of man (Ecclesiastes 12:13). The Gemara explains: The end of the matter, all having been heard, refers to the words of one who keeps His commandments; for this is all of man.With regard to the end of this verse, the Gemara asks: What is meant by, for this is all of man? Rabbi Elazar said: The Holy One, Blessed be He, said about him: The entire world was created only for this person. This is the ultimate person for which all of man was created. Rabbi Abba bar Kahana said: The end of this verse teaches that this is equivalent to the entire world, all of man. Rabbi Shimon ben Azzai, and some say Rabbi Shimon ben Zoma, says: Not only is he the equivalent of the entire world, but the entire world was created to serve as companions for him, so that he would have a society in which to live and with which to interact.
+
+EXTRACTED (JSON):
+{
+  "res": {
+    "en_summary": "Fear of Heaven makes one's words heeded",
+    "heb_summary": "יראת שמיים גורמת לדברי אדם להישמע",
+    "passage_types": [
+      "STORY_SAGES",
+      "PHILOSOPHIC"
+    ],
+    "Entities": {
+      "Person": [
+        {
+          "en_name": "Helbo"
+        },
+        {
+          "en_name": "Huna"
+        },
+        {
+          "en_name": "Elazar"
+        },
+        {
+          "en_name": "Abba Bar Kahana"
+        },
+        {
+          "en_name": "Shimon Ben Azzai"
+        },
+        {
+          "en_name": "Shimon Ben Zoma"
+        },
+        {
+          "en_name": "Holy One Blessed Be He"
+        }
+      ]
+    },
+    "Rel": {
+      "studiedFrom": [
+        {
+          "term1": "Helbo",
+          "term2": "Huna"
+        }
+      ]
+    }
+  }
+}

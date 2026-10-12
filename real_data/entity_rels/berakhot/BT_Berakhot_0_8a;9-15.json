@@ -1,0 +1,74 @@
+﻿{
+    "res": {
+        "en_summary": "Rabbis interpret \"time of finding\" and types of death.",
+        "heb_summary": "רבנים מפרשים \"עת מצא\" וסוגי מיתות.",
+        "passage_types": [
+            "STORY_SAGES",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Hanina"
+                },
+                {
+                    "en_name": "Natan"
+                },
+                {
+                    "en_name": "Nahman Bar Yitzhak"
+                },
+                {
+                    "en_name": "Yohanan"
+                },
+                {
+                    "en_name": "Rabba Bar Rav Sheila"
+                },
+                {
+                    "en_name": "Mar Zutra"
+                },
+                {
+                    "en_name": "Abraham Moshe Horovitz"
+                },
+                {
+                    "en_name": "Lord"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Eretz Yisrael"
+                },
+                {
+                    "en_name": "West"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Torah"
+                },
+                {
+                    "en_name": "Croup"
+                },
+                {
+                    "en_name": "Kiss Of Death"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "903",
+                    "number_category": "Misc",
+                    "en_unit": "type",
+                    "en_context": "types of death"
+                }
+            ]
+        },
+        "Rel": {
+            "AliasOf": [
+                {
+                    "term1": "West",
+                    "term2": "Eretz Yisrael"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_8a:9-15"
+}

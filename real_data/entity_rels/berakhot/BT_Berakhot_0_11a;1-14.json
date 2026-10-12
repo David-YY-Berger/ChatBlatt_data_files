@@ -1,0 +1,104 @@
+﻿{
+    "res": {
+        "en_summary": "Beit Shammai and Hillel debate Shema recitation.",
+        "heb_summary": "מחלוקת בית שמאי ובית הלל על קריאת שמע.",
+        "passage_types": [
+            "LAW"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Beit Shammai"
+                },
+                {
+                    "en_name": "Beit Hillel"
+                },
+                {
+                    "en_name": "Rav Pappa"
+                },
+                {
+                    "en_name": "Rav"
+                },
+                {
+                    "en_name": "Rabbi Abba Bar Zavda"
+                },
+                {
+                    "en_name": "Ezekiel"
+                },
+                {
+                    "en_name": "Groom"
+                },
+                {
+                    "en_name": "Mourner"
+                },
+                {
+                    "en_name": "One Who Marries A Virgin"
+                },
+                {
+                    "en_name": "One Who Marries A Widow"
+                },
+                {
+                    "en_name": "One Whose Ship Sank"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Sea"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Phylacteries"
+                },
+                {
+                    "en_name": "Splendor"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Rabbi Abba Bar Zavda",
+                    "term2": "Rav"
+                }
+            ],
+            "disagreedWith": [
+                {
+                    "term1": "Beit Shammai",
+                    "term2": "Beit Hillel"
+                }
+            ],
+            "associatedWithPlace": [
+                {
+                    "term1": "One Whose Ship Sank",
+                    "term2": "Sea"
+                }
+            ],
+            "prophesiedAbout": [
+                {
+                    "term1": "Ezekiel",
+                    "term2": "Phylacteries"
+                },
+                {
+                    "term1": "Ezekiel",
+                    "term2": "Splendor"
+                }
+            ],
+            "contrastedWith": [
+                {
+                    "term1": "One Who Marries A Virgin",
+                    "term2": "One Who Marries A Widow"
+                },
+                {
+                    "term1": "Groom",
+                    "term2": "One Whose Ship Sank"
+                },
+                {
+                    "term1": "Mourner",
+                    "term2": "One Whose Ship Sank"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_11a:1-14"
+}

@@ -1,0 +1,45 @@
+﻿{
+    "res": {
+        "en_summary": "Serving Torah scholars greater than Torah study.",
+        "heb_summary": "שירות תלמידי חכמים גדול מלימוד תורה.",
+        "passage_types": [
+            "STORY_SAGES",
+            "PHILOSOPHIC",
+            "STORY_TANACH"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Yohanan"
+                },
+                {
+                    "en_name": "Shimon Ben Yohai"
+                },
+                {
+                    "en_name": "Elisha"
+                },
+                {
+                    "en_name": "Shafat"
+                },
+                {
+                    "en_name": "Elijah"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Yohanan",
+                    "term2": "Shimon Ben Yohai"
+                }
+            ],
+            "childOfFather": [
+                {
+                    "term1": "Elisha",
+                    "term2": "Shafat"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_7b:26"
+}

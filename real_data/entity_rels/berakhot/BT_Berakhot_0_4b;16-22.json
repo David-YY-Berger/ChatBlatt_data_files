@@ -1,0 +1,151 @@
+﻿{
+    "res": {
+        "en_summary": "Sages discuss Psalms 145 significance, acrostic, sustenance, downfall.",
+        "heb_summary": "חכמים דנים משמעות תהילים קמה, אלפביתי, פרנסה, נפילה.",
+        "passage_types": [
+            "STORY_SAGES",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Yohanan"
+                },
+                {
+                    "en_name": "Elazar"
+                },
+                {
+                    "en_name": "Avina"
+                },
+                {
+                    "en_name": "David"
+                },
+                {
+                    "en_name": "Rav Nahman Bar Yitzhak"
+                },
+                {
+                    "en_name": "Amos"
+                },
+                {
+                    "en_name": "Israel"
+                },
+                {
+                    "en_name": "Enemies Of Israel"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "World-To-Come"
+                },
+                {
+                    "en_name": "Eretz Yisrael"
+                },
+                {
+                    "en_name": "West"
+                }
+            ],
+            "Nation": [
+                {
+                    "en_name": "Israel"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "A Psalm Of David (Psalms 145)"
+                },
+                {
+                    "en_name": "Psalms 119"
+                },
+                {
+                    "en_name": "Psalms 136"
+                },
+                {
+                    "en_name": "Great Hallel"
+                },
+                {
+                    "en_name": "Ashrei"
+                },
+                {
+                    "en_name": "Letter Nun"
+                },
+                {
+                    "en_name": "Divine Inspiration"
+                },
+                {
+                    "en_name": "Letter Samekh"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "3",
+                    "number_category": "Misc",
+                    "en_unit": "recitation",
+                    "en_context": "psalm 145 daily recitation"
+                },
+                {
+                    "en_name": "8",
+                    "number_category": "Misc",
+                    "en_unit": "arrangement",
+                    "en_context": "psalms 119 alphabetical arrangement"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Elazar",
+                    "term2": "Avina"
+                }
+            ],
+            "associatedWithPlace": [
+                {
+                    "term1": "Yohanan",
+                    "term2": "World-To-Come"
+                },
+                {
+                    "term1": "Elazar",
+                    "term2": "World-To-Come"
+                },
+                {
+                    "term1": "Avina",
+                    "term2": "World-To-Come"
+                },
+                {
+                    "term1": "Rav Nahman Bar Yitzhak",
+                    "term2": "Eretz Yisrael"
+                }
+            ],
+            "prophesiedAbout": [
+                {
+                    "term1": "Amos",
+                    "term2": "Israel"
+                },
+                {
+                    "term1": "David",
+                    "term2": "Israel"
+                }
+            ],
+            "comparedTo": [
+                {
+                    "term1": "A Psalm Of David (Psalms 145)",
+                    "term2": "Psalms 119"
+                },
+                {
+                    "term1": "A Psalm Of David (Psalms 145)",
+                    "term2": "Psalms 136"
+                }
+            ],
+            "AliasOf": [
+                {
+                    "term1": "A Psalm Of David (Psalms 145)",
+                    "term2": "Ashrei"
+                },
+                {
+                    "term1": "Psalms 136",
+                    "term2": "Great Hallel"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_4b:16-22"
+}

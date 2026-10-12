@@ -1,0 +1,139 @@
+﻿{
+    "res": {
+        "en_summary": "Sages dispute blessing over Torah study types.",
+        "heb_summary": "חכמים חלוקים על ברכת לימוד תורה.",
+        "passage_types": [
+            "LAW",
+            "STORY_SAGES"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Rav Yehuda"
+                },
+                {
+                    "en_name": "Shmuel"
+                },
+                {
+                    "en_name": "God"
+                },
+                {
+                    "en_name": "Rav Huna"
+                },
+                {
+                    "en_name": "Rabbi Elazar"
+                },
+                {
+                    "en_name": "Sages"
+                },
+                {
+                    "en_name": "Rabbi Yohanan"
+                },
+                {
+                    "en_name": "Rava"
+                },
+                {
+                    "en_name": "Rav"
+                },
+                {
+                    "en_name": "Rav Hiyya Bar Ashi"
+                },
+                {
+                    "en_name": "Rav Hamnuna"
+                },
+                {
+                    "en_name": "House Of Israel"
+                },
+                {
+                    "en_name": "Lord"
+                }
+            ],
+            "Nation": [
+                {
+                    "en_name": "Israel"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Torah"
+                },
+                {
+                    "en_name": "An Abounding Love"
+                },
+                {
+                    "en_name": "Shema"
+                },
+                {
+                    "en_name": "Bible"
+                },
+                {
+                    "en_name": "Halakhic Midrash"
+                },
+                {
+                    "en_name": "Midrash"
+                },
+                {
+                    "en_name": "Mishna"
+                },
+                {
+                    "en_name": "Talmud"
+                },
+                {
+                    "en_name": "Sifra"
+                },
+                {
+                    "en_name": "Torat Kohanim"
+                },
+                {
+                    "en_name": "Leviticus"
+                },
+                {
+                    "en_name": "Mitzvot"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Rav Yehuda",
+                    "term2": "Shmuel"
+                },
+                {
+                    "term1": "Rav Hiyya Bar Ashi",
+                    "term2": "Rav"
+                }
+            ],
+            "disagreedWith": [
+                {
+                    "term1": "Rav Huna",
+                    "term2": "Rabbi Elazar"
+                },
+                {
+                    "term1": "Rabbi Elazar",
+                    "term2": "Rabbi Yohanan"
+                },
+                {
+                    "term1": "Rabbi Yohanan",
+                    "term2": "Rava"
+                }
+            ],
+            "personBelongsToNation": [
+                {
+                    "term1": "House Of Israel",
+                    "term2": "Israel"
+                }
+            ],
+            "AliasOf": [
+                {
+                    "term1": "Sifra",
+                    "term2": "Torat Kohanim"
+                },
+                {
+                    "term1": "Lord",
+                    "term2": "God"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_11b:10-19"
+}

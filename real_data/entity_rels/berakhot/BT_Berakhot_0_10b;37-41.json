@@ -1,0 +1,59 @@
+﻿{
+    "res": {
+        "en_summary": "Sages dispute Shema recitation; Tarfon endangers self.",
+        "heb_summary": "חכמים חולקים על קריאת שמע; טרפון מסכן עצמו.",
+        "passage_types": [
+            "LAW",
+            "STORY_SAGES"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Beit Shammai"
+                },
+                {
+                    "en_name": "Beit Hillel"
+                },
+                {
+                    "en_name": "Tarfon"
+                },
+                {
+                    "en_name": "Highwaymen"
+                },
+                {
+                    "en_name": "Sages"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Road"
+                }
+            ]
+        },
+        "Rel": {
+            "disagreedWith": [
+                {
+                    "term1": "Beit Shammai",
+                    "term2": "Beit Hillel"
+                }
+            ],
+            "visited": [
+                {
+                    "term1": "Tarfon",
+                    "term2": "Road"
+                }
+            ],
+            "EnemyOf": [
+                {
+                    "term1": "Highwaymen",
+                    "term2": "Tarfon"
+                }
+            ],
+            "prophesiedAbout": [],
+            "comparedTo": [],
+            "contrastedWith": [],
+            "AliasOf": []
+        }
+    },
+    "key": "BT_Berakhot_0_10b:37-41"
+}

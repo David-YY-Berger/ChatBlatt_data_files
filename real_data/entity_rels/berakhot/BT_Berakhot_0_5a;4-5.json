@@ -1,0 +1,47 @@
+﻿{
+    "res": {
+        "en_summary": "Shema recitation protects from evil like a sword.",
+        "heb_summary": "קריאת שמע מגינה מרוע כחרב חדה.",
+        "passage_types": [
+            "STORY_SAGES",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Yitzhak"
+                },
+                {
+                    "en_name": "Mar Zutra"
+                },
+                {
+                    "en_name": "Ashi"
+                },
+                {
+                    "en_name": "Sages"
+                },
+                {
+                    "en_name": "Reshef"
+                },
+                {
+                    "en_name": "Ketev Meriri"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Double-Edged Sword"
+                },
+                {
+                    "en_name": "Torah"
+                }
+            ],
+            "Animal": [
+                {
+                    "en_name": "Eagle"
+                }
+            ]
+        },
+        "Rel": {}
+    },
+    "key": "BT_Berakhot_0_5a:4-5"
+}

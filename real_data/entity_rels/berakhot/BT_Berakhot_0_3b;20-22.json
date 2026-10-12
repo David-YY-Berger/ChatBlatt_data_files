@@ -1,0 +1,57 @@
+﻿{
+    "res": {
+        "en_summary": "David's nightly devotion: prayer, Torah, praise.",
+        "heb_summary": "דוד קם בלילה לתפילה, תורה ושבח.",
+        "passage_types": [
+            "STORY_TANACH",
+            "STORY_SAGES",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "David"
+                },
+                {
+                    "en_name": "Rabbi Oshaya"
+                },
+                {
+                    "en_name": "Rabbi Aha"
+                },
+                {
+                    "en_name": "Rabbi Zeira"
+                },
+                {
+                    "en_name": "Rav Ashi"
+                }
+            ],
+            "Animal": [
+                {
+                    "en_name": "Horse"
+                },
+                {
+                    "en_name": "Lion"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Rabbi Oshaya",
+                    "term2": "Rabbi Aha"
+                }
+            ],
+            "comparedTo": [
+                {
+                    "term1": "David",
+                    "term2": "Horse"
+                },
+                {
+                    "term1": "David",
+                    "term2": "Lion"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_3b:20-22"
+}

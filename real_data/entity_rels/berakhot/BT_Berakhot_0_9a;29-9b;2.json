@@ -1,0 +1,69 @@
+﻿{
+    "res": {
+        "en_summary": "God promised Abraham descendants' enslavement and liberation.",
+        "heb_summary": "אלוהים הבטיח לאברהם שיעבוד וגאולה לצאצאיו.",
+        "passage_types": [
+            "STORY_TANACH",
+            "STORY_SAGES"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Abraham"
+                },
+                {
+                    "en_name": "God"
+                },
+                {
+                    "en_name": "Israel"
+                },
+                {
+                    "en_name": "Moses"
+                },
+                {
+                    "en_name": "Yannai"
+                },
+                {
+                    "en_name": "School Of Rabbi Yannai"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "400",
+                    "number_category": "Time",
+                    "en_unit": "year",
+                    "en_context": "descendants' enslavement"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "School Of Rabbi Yannai",
+                    "term2": "Yannai"
+                }
+            ],
+            "spokeWith": [
+                {
+                    "term1": "God",
+                    "term2": "Abraham"
+                },
+                {
+                    "term1": "Israel",
+                    "term2": "Moses"
+                }
+            ],
+            "prophesiedAbout": [
+                {
+                    "term1": "God",
+                    "term2": "Abraham"
+                },
+                {
+                    "term1": "God",
+                    "term2": "Israel"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_9a:29-9b:2"
+}

@@ -1,0 +1,64 @@
+﻿{
+    "res": {
+        "en_summary": "Blessing conclusion determines obligation for food and prayer.",
+        "heb_summary": "קביעת ברכה לפי סיום, אוכל ותפילה.",
+        "passage_types": [
+            "LAW",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Sages"
+                },
+                {
+                    "en_name": "Rav"
+                },
+                {
+                    "en_name": "Yohanan"
+                },
+                {
+                    "en_name": "Rabba Bar Ulla"
+                }
+            ],
+            "Food": [
+                {
+                    "en_name": "Wine"
+                },
+                {
+                    "en_name": "Beer"
+                },
+                {
+                    "en_name": "Bread"
+                },
+                {
+                    "en_name": "Date"
+                }
+            ],
+            "Plant": [
+                {
+                    "en_name": "Date"
+                }
+            ]
+        },
+        "Rel": {
+            "disagreedWith": [
+                {
+                    "term1": "Rav",
+                    "term2": "Yohanan"
+                }
+            ],
+            "contrastedWith": [
+                {
+                    "term1": "Wine",
+                    "term2": "Beer"
+                },
+                {
+                    "term1": "Bread",
+                    "term2": "Date"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_12a:10-22"
+}

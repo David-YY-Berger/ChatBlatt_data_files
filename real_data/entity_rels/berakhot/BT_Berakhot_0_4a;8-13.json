@@ -1,0 +1,137 @@
+﻿{
+    "res": {
+        "en_summary": "David's piety, humility, and halakhic engagement debated by sages.",
+        "heb_summary": "חכמים דנים על חסידות, ענווה והלכה של דוד.",
+        "passage_types": [
+            "STORY_TANACH",
+            "STORY_SAGES",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "David"
+                },
+                {
+                    "en_name": "Levi"
+                },
+                {
+                    "en_name": "Yitzhak"
+                },
+                {
+                    "en_name": "Holy One Blessed Be He"
+                },
+                {
+                    "en_name": "Mefivoshet"
+                },
+                {
+                    "en_name": "Jonathan"
+                },
+                {
+                    "en_name": "Saul"
+                },
+                {
+                    "en_name": "Rav Yehoshua"
+                },
+                {
+                    "en_name": "Idi"
+                },
+                {
+                    "en_name": "Kilav"
+                },
+                {
+                    "en_name": "Yohanan"
+                },
+                {
+                    "en_name": "Daniel"
+                },
+                {
+                    "en_name": "Solomon"
+                },
+                {
+                    "en_name": "Ish Boshet"
+                },
+                {
+                    "en_name": "Kings Of The East And The West"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "3",
+                    "number_category": "Time",
+                    "en_unit": "hour",
+                    "en_context": "kings sleep"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Rav Yehoshua",
+                    "term2": "Idi"
+                },
+                {
+                    "term1": "David",
+                    "term2": "Mefivoshet"
+                }
+            ],
+            "childOfFather": [
+                {
+                    "term1": "Mefivoshet",
+                    "term2": "Jonathan"
+                },
+                {
+                    "term1": "Jonathan",
+                    "term2": "Saul"
+                },
+                {
+                    "term1": "Kilav",
+                    "term2": "David"
+                }
+            ],
+            "descendantOf": [
+                {
+                    "term1": "Mefivoshet",
+                    "term2": "Saul"
+                }
+            ],
+            "spokeWith": [
+                {
+                    "term1": "David",
+                    "term2": "Holy One Blessed Be He"
+                },
+                {
+                    "term1": "David",
+                    "term2": "Mefivoshet"
+                }
+            ],
+            "disagreedWith": [
+                {
+                    "term1": "Levi",
+                    "term2": "Yitzhak"
+                },
+                {
+                    "term1": "Kilav",
+                    "term2": "Mefivoshet"
+                }
+            ],
+            "contrastedWith": [
+                {
+                    "term1": "David",
+                    "term2": "Kings Of The East And The West"
+                }
+            ],
+            "AliasOf": [
+                {
+                    "term1": "Mefivoshet",
+                    "term2": "Ish Boshet"
+                },
+                {
+                    "term1": "Kilav",
+                    "term2": "Daniel"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_4a:8-13"
+}

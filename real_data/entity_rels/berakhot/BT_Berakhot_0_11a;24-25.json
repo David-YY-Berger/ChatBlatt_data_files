@@ -1,0 +1,60 @@
+﻿{
+    "res": {
+        "en_summary": "Shema blessings: long, short, conclusion rules.",
+        "heb_summary": "ברכות קריאת שמע: ארוכות, קצרות, וסיום.",
+        "passage_types": [
+            "LAW"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Sages"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Shema"
+                },
+                {
+                    "en_name": "Radiant Lights"
+                },
+                {
+                    "en_name": "Torah"
+                },
+                {
+                    "en_name": "True And Firm"
+                },
+                {
+                    "en_name": "God"
+                },
+                {
+                    "en_name": "Redemption"
+                },
+                {
+                    "en_name": "True And Faithful"
+                },
+                {
+                    "en_name": "Help Us Lie Down"
+                },
+                {
+                    "en_name": "Love Of Torah"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "2",
+                    "number_category": "Obligation",
+                    "en_unit": "blessing",
+                    "en_context": "morning shema before"
+                },
+                {
+                    "en_name": "1",
+                    "number_category": "Obligation",
+                    "en_unit": "blessing",
+                    "en_context": "morning shema after"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_11a:24-25"
+}

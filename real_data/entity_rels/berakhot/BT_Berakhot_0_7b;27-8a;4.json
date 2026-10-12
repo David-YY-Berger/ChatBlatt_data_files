@@ -1,0 +1,97 @@
+﻿{
+    "res": {
+        "en_summary": "Communal prayer brings divine favor and salvation.",
+        "heb_summary": "תפילת ציבור מביאה חסד וישועה אלוהית.",
+        "passage_types": [
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "God"
+                },
+                {
+                    "en_name": "Yosei"
+                },
+                {
+                    "en_name": "Hanina"
+                },
+                {
+                    "en_name": "Aha"
+                },
+                {
+                    "en_name": "Natan"
+                },
+                {
+                    "en_name": "David"
+                },
+                {
+                    "en_name": "Congregation"
+                },
+                {
+                    "en_name": "Masses"
+                },
+                {
+                    "en_name": "Israel"
+                },
+                {
+                    "en_name": "Isaiah"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "World"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Torah"
+                },
+                {
+                    "en_name": "Peace"
+                }
+            ]
+        },
+        "Rel": {
+            "childOfFather": [
+                {
+                    "term1": "Yosei",
+                    "term2": "Hanina"
+                },
+                {
+                    "term1": "Aha",
+                    "term2": "Hanina"
+                }
+            ],
+            "associatedWithPlace": [
+                {
+                    "term1": "Israel",
+                    "term2": "World"
+                },
+                {
+                    "term1": "God",
+                    "term2": "World"
+                }
+            ],
+            "prophesiedAbout": [
+                {
+                    "term1": "Isaiah",
+                    "term2": "Israel"
+                }
+            ],
+            "comparedTo": [
+                {
+                    "term1": "Torah",
+                    "term2": "Peace"
+                }
+            ],
+            "AliasOf": [
+                {
+                    "term1": "Congregation",
+                    "term2": "Masses"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_7b:27-8a:4"
+}

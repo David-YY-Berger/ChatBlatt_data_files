@@ -1,0 +1,102 @@
+﻿{
+    "res": {
+        "en_summary": "Rabbi Yosei teaches blessings for waiting in synagogue.",
+        "heb_summary": "רבי יוסי מלמד ברכות לממתינים בבית הכנסת.",
+        "passage_types": [
+            "STORY_SAGES",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Yosei"
+                },
+                {
+                    "en_name": "Hanina"
+                },
+                {
+                    "en_name": "Isaiah"
+                },
+                {
+                    "en_name": "Talmidei Rabbeinu Yona"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Peace"
+                },
+                {
+                    "en_name": "River"
+                },
+                {
+                    "en_name": "Righteousness"
+                },
+                {
+                    "en_name": "Waves"
+                },
+                {
+                    "en_name": "Seed"
+                },
+                {
+                    "en_name": "Sand"
+                },
+                {
+                    "en_name": "Name"
+                }
+            ]
+        },
+        "Rel": {
+            "childOfFather": [
+                {
+                    "term1": "Yosei",
+                    "term2": "Hanina"
+                }
+            ],
+            "prophesiedAbout": [
+                {
+                    "term1": "Isaiah",
+                    "term2": "Peace"
+                },
+                {
+                    "term1": "Isaiah",
+                    "term2": "River"
+                },
+                {
+                    "term1": "Isaiah",
+                    "term2": "Righteousness"
+                },
+                {
+                    "term1": "Isaiah",
+                    "term2": "Waves"
+                },
+                {
+                    "term1": "Isaiah",
+                    "term2": "Seed"
+                },
+                {
+                    "term1": "Isaiah",
+                    "term2": "Sand"
+                },
+                {
+                    "term1": "Isaiah",
+                    "term2": "Name"
+                }
+            ],
+            "comparedTo": [
+                {
+                    "term1": "Peace",
+                    "term2": "River"
+                },
+                {
+                    "term1": "Righteousness",
+                    "term2": "Waves"
+                },
+                {
+                    "term1": "Seed",
+                    "term2": "Sand"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_5b:25-6a:1"
+}

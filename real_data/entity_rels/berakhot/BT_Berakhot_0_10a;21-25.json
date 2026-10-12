@@ -1,0 +1,120 @@
+﻿{
+    "res": {
+        "en_summary": "Sages discuss God's attributes, soul's parallels.",
+        "heb_summary": "חכמים דנים תכונות ה', מקבילות הנפש.",
+        "passage_types": [
+            "STORY_SAGES",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Shimi Bar Ukva"
+                },
+                {
+                    "en_name": "Mar Ukva"
+                },
+                {
+                    "en_name": "Shimon Ben Pazi"
+                },
+                {
+                    "en_name": "Yehoshua Ben Levi"
+                },
+                {
+                    "en_name": "Hannah"
+                },
+                {
+                    "en_name": "Samuel"
+                },
+                {
+                    "en_name": "David"
+                },
+                {
+                    "en_name": "Yehuda Ben Menasya"
+                },
+                {
+                    "en_name": "Holy One Blessed Be He"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Holy Name"
+                },
+                {
+                    "en_name": "Rock"
+                },
+                {
+                    "en_name": "Artist"
+                },
+                {
+                    "en_name": "Soul"
+                },
+                {
+                    "en_name": "Body"
+                },
+                {
+                    "en_name": "World"
+                },
+                {
+                    "en_name": "Chamber Within A Chamber"
+                },
+                {
+                    "en_name": "Inner Sanctum"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "5",
+                    "number_category": "Misc",
+                    "en_unit": "instance",
+                    "en_context": "soul god parallels"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Shimi Bar Ukva",
+                    "term2": "Shimon Ben Pazi"
+                },
+                {
+                    "term1": "Mar Ukva",
+                    "term2": "Shimon Ben Pazi"
+                },
+                {
+                    "term1": "Shimon Ben Pazi",
+                    "term2": "Yehoshua Ben Levi"
+                }
+            ],
+            "childOfMother": [
+                {
+                    "term1": "Samuel",
+                    "term2": "Hannah"
+                }
+            ],
+            "spokeWith": [
+                {
+                    "term1": "Shimi Bar Ukva",
+                    "term2": "Shimon Ben Pazi"
+                }
+            ],
+            "comparedTo": [
+                {
+                    "term1": "Holy One Blessed Be He",
+                    "term2": "Artist"
+                },
+                {
+                    "term1": "Soul",
+                    "term2": "Holy One Blessed Be He"
+                }
+            ],
+            "AliasOf": [
+                {
+                    "term1": "Rock",
+                    "term2": "Artist"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_10a:21-25"
+}

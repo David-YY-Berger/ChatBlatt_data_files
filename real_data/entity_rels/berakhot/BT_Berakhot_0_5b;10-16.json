@@ -1,0 +1,66 @@
+﻿{
+    "res": {
+        "en_summary": "Sages heal students, discuss suffering, beauty, Torah.",
+        "heb_summary": "חכמים מרפאים תלמידים, דנים בסבל, יופי ותורה.",
+        "passage_types": [
+            "STORY_SAGES"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Yohanan"
+                },
+                {
+                    "en_name": "Hiyya Bar Abba"
+                },
+                {
+                    "en_name": "Hanina"
+                },
+                {
+                    "en_name": "Elazar"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "10",
+                    "number_category": "People",
+                    "en_unit": "son",
+                    "en_context": "rabbi yohanan children"
+                },
+                {
+                    "en_name": "2",
+                    "number_category": "Misc",
+                    "en_unit": "table",
+                    "en_context": "wealth and torah"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Hiyya Bar Abba",
+                    "term2": "Yohanan"
+                },
+                {
+                    "term1": "Elazar",
+                    "term2": "Yohanan"
+                }
+            ],
+            "spokeWith": [
+                {
+                    "term1": "Yohanan",
+                    "term2": "Hiyya Bar Abba"
+                },
+                {
+                    "term1": "Hanina",
+                    "term2": "Yohanan"
+                },
+                {
+                    "term1": "Yohanan",
+                    "term2": "Elazar"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_5b:10-16"
+}

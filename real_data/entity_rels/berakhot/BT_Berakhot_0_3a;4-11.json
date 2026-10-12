@@ -1,0 +1,129 @@
+﻿{
+    "res": {
+        "en_summary": "Rabbi Eliezer establishes night watches for Shema.",
+        "heb_summary": "רבי אליעזר קובע משמרות לילה לקריאת שמע.",
+        "passage_types": [
+            "LAW",
+            "STORY_SAGES",
+            "PHILOSOPHIC",
+            "PROPHECY"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Eliezer"
+                },
+                {
+                    "en_name": "Holy One Blessed Be He"
+                },
+                {
+                    "en_name": "Yitzhak Bar Shmuel"
+                },
+                {
+                    "en_name": "Rav"
+                },
+                {
+                    "en_name": "Jeremiah"
+                },
+                {
+                    "en_name": "Wife"
+                },
+                {
+                    "en_name": "Husband"
+                },
+                {
+                    "en_name": "Baby"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Temple"
+                },
+                {
+                    "en_name": "Upper Worlds"
+                },
+                {
+                    "en_name": "This World"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Temple"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "1",
+                    "number_category": "Time",
+                    "en_unit": "watch",
+                    "en_context": "shema recitation"
+                },
+                {
+                    "en_name": "3",
+                    "number_category": "Time",
+                    "en_unit": "watch",
+                    "en_context": "night division"
+                },
+                {
+                    "en_name": "4",
+                    "number_category": "Time",
+                    "en_unit": "watch",
+                    "en_context": "night division"
+                }
+            ],
+            "Animal": [
+                {
+                    "en_name": "Donkey"
+                },
+                {
+                    "en_name": "Dog"
+                },
+                {
+                    "en_name": "Lion"
+                }
+            ],
+            "Food": [
+                {
+                    "en_name": "Grape"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Yitzhak Bar Shmuel",
+                    "term2": "Rav"
+                }
+            ],
+            "spokeWith": [
+                {
+                    "term1": "Wife",
+                    "term2": "Husband"
+                }
+            ],
+            "associatedWithPlace": [
+                {
+                    "term1": "Holy One Blessed Be He",
+                    "term2": "Upper Worlds"
+                },
+                {
+                    "term1": "Holy One Blessed Be He",
+                    "term2": "Temple"
+                }
+            ],
+            "prophesiedAbout": [
+                {
+                    "term1": "Jeremiah",
+                    "term2": "Temple"
+                }
+            ],
+            "comparedTo": [
+                {
+                    "term1": "Holy One Blessed Be He",
+                    "term2": "Lion"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_3a:4-11"
+}

@@ -1,0 +1,81 @@
+﻿{
+    "res": {
+        "en_summary": "Demons are ubiquitous, causing fatigue and wear.",
+        "heb_summary": "שדים רבים גורמים עייפות ובלאי, אלוהים מגן.",
+        "passage_types": [
+            "STORY_SAGES",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Abba Binyamin"
+                },
+                {
+                    "en_name": "Abaye"
+                },
+                {
+                    "en_name": "Rav Huna"
+                },
+                {
+                    "en_name": "Rava"
+                },
+                {
+                    "en_name": "Demons"
+                },
+                {
+                    "en_name": "Rav Beivai Bar Abaye"
+                },
+                {
+                    "en_name": "Sages"
+                },
+                {
+                    "en_name": "God"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Afterbirth"
+                },
+                {
+                    "en_name": "Iron Tube"
+                },
+                {
+                    "en_name": "Iron Seal"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "1000",
+                    "number_category": "People",
+                    "en_unit": "demon",
+                    "en_context": "demons ubiquity"
+                },
+                {
+                    "en_name": "10000",
+                    "number_category": "People",
+                    "en_unit": "demon",
+                    "en_context": "demons ubiquity"
+                }
+            ],
+            "Animal": [
+                {
+                    "en_name": "Cat"
+                },
+                {
+                    "en_name": "Chicken"
+                }
+            ]
+        },
+        "Rel": {
+            "AllyOf": [
+                {
+                    "term1": "Sages",
+                    "term2": "Rav Beivai Bar Abaye"
+                }
+            ],
+            "AliasOf": []
+        }
+    },
+    "key": "BT_Berakhot_0_6a:2-6"
+}

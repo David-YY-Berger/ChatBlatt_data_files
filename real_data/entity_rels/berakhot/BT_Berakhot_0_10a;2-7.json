@@ -1,0 +1,89 @@
+﻿{
+    "res": {
+        "en_summary": "Berurya teaches Meir and heretic about repentance.",
+        "heb_summary": "ברוריה מלמדת מאיר וכופר על תשובה.",
+        "passage_types": [
+            "STORY_SAGES",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Yehuda"
+                },
+                {
+                    "en_name": "Shimon Ben Pazi"
+                },
+                {
+                    "en_name": "David"
+                },
+                {
+                    "en_name": "Meir"
+                },
+                {
+                    "en_name": "Berurya"
+                },
+                {
+                    "en_name": "God"
+                },
+                {
+                    "en_name": "Hooligans"
+                },
+                {
+                    "en_name": "Heretic"
+                },
+                {
+                    "en_name": "Congregation Of Israel"
+                },
+                {
+                    "en_name": "Isaiah"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Gehenna"
+                }
+            ],
+            "Nation": [
+                {
+                    "en_name": "Israel"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Yehuda",
+                    "term2": "Shimon Ben Pazi"
+                }
+            ],
+            "childOfFather": [
+                {
+                    "term1": "Yehuda",
+                    "term2": "Shimon Ben Pazi"
+                }
+            ],
+            "spokeWith": [
+                {
+                    "term1": "Meir",
+                    "term2": "Berurya"
+                },
+                {
+                    "term1": "Heretic",
+                    "term2": "Berurya"
+                }
+            ],
+            "prophesiedAbout": [
+                {
+                    "term1": "David",
+                    "term2": "Hooligans"
+                },
+                {
+                    "term1": "Isaiah",
+                    "term2": "Congregation Of Israel"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_10a:2-7"
+}

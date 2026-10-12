@@ -1,0 +1,195 @@
+﻿{
+    "res": {
+        "en_summary": "Sages debate Temple blessings, Shema, and halakhic inference.",
+        "heb_summary": "חכמים דנים בברכות בית המקדש, שמע, והלכה.",
+        "passage_types": [
+            "LAW",
+            "STORY_SAGES"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "High Priest"
+                },
+                {
+                    "en_name": "Priestly Watch"
+                },
+                {
+                    "en_name": "Abba"
+                },
+                {
+                    "en_name": "Yosei Bar Abba"
+                },
+                {
+                    "en_name": "Mattana"
+                },
+                {
+                    "en_name": "Yehuda"
+                },
+                {
+                    "en_name": "Shmuel"
+                },
+                {
+                    "en_name": "Zerika"
+                },
+                {
+                    "en_name": "Ami"
+                },
+                {
+                    "en_name": "Shimon Ben Lakish"
+                },
+                {
+                    "en_name": "Yitzhak Bar Yosef"
+                },
+                {
+                    "en_name": "Sages"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Temple"
+                },
+                {
+                    "en_name": "Babylonia"
+                },
+                {
+                    "en_name": "Eretz Yisrael"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Ten Commandments"
+                },
+                {
+                    "en_name": "Shema"
+                },
+                {
+                    "en_name": "Vehaya Im Shamoa"
+                },
+                {
+                    "en_name": "Vayomer"
+                },
+                {
+                    "en_name": "True And Firm"
+                },
+                {
+                    "en_name": "Avoda"
+                },
+                {
+                    "en_name": "Priestly Benediction"
+                },
+                {
+                    "en_name": "Amida Prayer"
+                },
+                {
+                    "en_name": "Outstretched Hands"
+                },
+                {
+                    "en_name": "An Abounding Love"
+                },
+                {
+                    "en_name": "Who Creates Light"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "1",
+                    "number_category": "Obligation",
+                    "en_unit": "blessing",
+                    "en_context": "single blessing"
+                },
+                {
+                    "en_name": "10",
+                    "number_category": "Obligation",
+                    "en_unit": "commandment",
+                    "en_context": "ten commandments"
+                },
+                {
+                    "en_name": "3",
+                    "number_category": "Obligation",
+                    "en_unit": "blessing",
+                    "en_context": "priestly blessings"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Yehuda",
+                    "term2": "Shmuel"
+                },
+                {
+                    "term1": "Zerika",
+                    "term2": "Ami"
+                },
+                {
+                    "term1": "Ami",
+                    "term2": "Shimon Ben Lakish"
+                }
+            ],
+            "spokeWith": [
+                {
+                    "term1": "Abba",
+                    "term2": "Yosei Bar Abba"
+                },
+                {
+                    "term1": "Abba",
+                    "term2": "Mattana"
+                },
+                {
+                    "term1": "Yosei Bar Abba",
+                    "term2": "Mattana"
+                },
+                {
+                    "term1": "Abba",
+                    "term2": "Yehuda"
+                },
+                {
+                    "term1": "Yosei Bar Abba",
+                    "term2": "Yehuda"
+                },
+                {
+                    "term1": "Yitzhak Bar Yosef",
+                    "term2": "Sages"
+                }
+            ],
+            "disagreedWith": [
+                {
+                    "term1": "Shmuel",
+                    "term2": "Shimon Ben Lakish"
+                }
+            ],
+            "associatedWithPlace": [
+                {
+                    "term1": "High Priest",
+                    "term2": "Temple"
+                },
+                {
+                    "term1": "Priestly Watch",
+                    "term2": "Temple"
+                },
+                {
+                    "term1": "Yitzhak Bar Yosef",
+                    "term2": "Eretz Yisrael"
+                },
+                {
+                    "term1": "Yitzhak Bar Yosef",
+                    "term2": "Babylonia"
+                }
+            ],
+            "comparedTo": [
+                {
+                    "term1": "Avoda",
+                    "term2": "Amida Prayer"
+                }
+            ],
+            "contrastedWith": [
+                {
+                    "term1": "An Abounding Love",
+                    "term2": "Who Creates Light"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_11b:20-12a:3"
+}

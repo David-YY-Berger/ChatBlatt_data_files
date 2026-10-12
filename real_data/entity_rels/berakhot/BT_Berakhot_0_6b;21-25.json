@@ -1,0 +1,88 @@
+﻿{
+    "res": {
+        "en_summary": "Sages interpret \"vileness exalted\" and dependence.",
+        "heb_summary": "חכמים מפרשים פסוק \"כי רמו זלות לבני אדם\".",
+        "passage_types": [
+            "PHILOSOPHIC",
+            "STORY_SAGES"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Huna"
+                },
+                {
+                    "en_name": "Beivai Bar Abaye"
+                },
+                {
+                    "en_name": "Nahman Bar Yitzhak"
+                },
+                {
+                    "en_name": "Yohanan"
+                },
+                {
+                    "en_name": "Elazar"
+                },
+                {
+                    "en_name": "Dimi"
+                },
+                {
+                    "en_name": "Ami"
+                },
+                {
+                    "en_name": "Asi"
+                },
+                {
+                    "en_name": "Sons Of Men"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Babylonia"
+                },
+                {
+                    "en_name": "Eretz Yisrael"
+                },
+                {
+                    "en_name": "Cities By The Sea"
+                }
+            ],
+            "Animal": [
+                {
+                    "en_name": "Kerum"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Elazar",
+                    "term2": "Yohanan"
+                }
+            ],
+            "spokeWith": [
+                {
+                    "term1": "Beivai Bar Abaye",
+                    "term2": "Nahman Bar Yitzhak"
+                }
+            ],
+            "visited": [
+                {
+                    "term1": "Dimi",
+                    "term2": "Babylonia"
+                },
+                {
+                    "term1": "Dimi",
+                    "term2": "Eretz Yisrael"
+                }
+            ],
+            "comparedTo": [
+                {
+                    "term1": "Sons Of Men",
+                    "term2": "Kerum"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_6b:21-25"
+}

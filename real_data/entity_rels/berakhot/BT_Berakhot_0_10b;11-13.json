@@ -1,0 +1,84 @@
+﻿{
+    "res": {
+        "en_summary": "Prayer based on merit of self versus others.",
+        "heb_summary": "תפילה על יסוד זכות עצמו או אחרים.",
+        "passage_types": [
+            "STORY_TANACH",
+            "STORY_SAGES",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Hezekiah"
+                },
+                {
+                    "en_name": "Rabbi Yohanan"
+                },
+                {
+                    "en_name": "Rabbi Yosei Ben Zimra"
+                },
+                {
+                    "en_name": "Moses"
+                },
+                {
+                    "en_name": "Abraham"
+                },
+                {
+                    "en_name": "Isaac"
+                },
+                {
+                    "en_name": "Israel"
+                },
+                {
+                    "en_name": "David"
+                },
+                {
+                    "en_name": "Rabbi Yehoshua Ben Levi"
+                },
+                {
+                    "en_name": "God"
+                },
+                {
+                    "en_name": "Children Of Israel"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Golden Calf"
+                },
+                {
+                    "en_name": "Stars Of The Heavens"
+                },
+                {
+                    "en_name": "Pit Of Corruption"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Rabbi Yohanan",
+                    "term2": "Rabbi Yosei Ben Zimra"
+                }
+            ],
+            "spokeWith": [
+                {
+                    "term1": "Moses",
+                    "term2": "God"
+                },
+                {
+                    "term1": "Hezekiah",
+                    "term2": "God"
+                }
+            ],
+            "contrastedWith": [
+                {
+                    "term1": "Moses",
+                    "term2": "Hezekiah"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_10b:11-13"
+}

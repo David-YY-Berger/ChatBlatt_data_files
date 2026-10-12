@@ -1,0 +1,50 @@
+﻿{
+    "res": {
+        "en_summary": "Sages teach prayer place protects Israel from enemies.",
+        "heb_summary": "חכמים מלמדים מקום תפילה מגן על ישראל מאויבים.",
+        "passage_types": [
+            "STORY_SAGES",
+            "PHILOSOPHIC",
+            "STORY_TANACH"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Yohanan"
+                },
+                {
+                    "en_name": "Shimon Ben Yohai"
+                },
+                {
+                    "en_name": "Huna"
+                },
+                {
+                    "en_name": "Israel"
+                },
+                {
+                    "en_name": "Children Of Wickedness"
+                }
+            ],
+            "Nation": [
+                {
+                    "en_name": "Israel"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Yohanan",
+                    "term2": "Shimon Ben Yohai"
+                }
+            ],
+            "EnemyOf": [
+                {
+                    "term1": "Children Of Wickedness",
+                    "term2": "Israel"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_7b:23-25"
+}

@@ -1,0 +1,119 @@
+﻿{
+    "res": {
+        "en_summary": "God promises redemption, Moses and Elijah pray.",
+        "heb_summary": "אלוהים מבטיח גאולה, משה ואליהו מתפללים.",
+        "passage_types": [
+            "STORY_TANACH",
+            "STORY_SAGES",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Moses"
+                },
+                {
+                    "en_name": "God"
+                },
+                {
+                    "en_name": "Israel"
+                },
+                {
+                    "en_name": "Elijah"
+                },
+                {
+                    "en_name": "Abbahu"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Egypt"
+                },
+                {
+                    "en_name": "Burning Bush"
+                },
+                {
+                    "en_name": "Mount Carmel"
+                }
+            ],
+            "Nation": [
+                {
+                    "en_name": "Israel"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Altar"
+                },
+                {
+                    "en_name": "Fire"
+                }
+            ]
+        },
+        "Rel": {
+            "spokeWith": [
+                {
+                    "term1": "God",
+                    "term2": "Moses"
+                },
+                {
+                    "term1": "Elijah",
+                    "term2": "God"
+                }
+            ],
+            "visited": [
+                {
+                    "term1": "Moses",
+                    "term2": "Burning Bush"
+                },
+                {
+                    "term1": "Elijah",
+                    "term2": "Mount Carmel"
+                }
+            ],
+            "prayedAt": [
+                {
+                    "term1": "Elijah",
+                    "term2": "Mount Carmel"
+                }
+            ],
+            "associatedWithPlace": [
+                {
+                    "term1": "Israel",
+                    "term2": "Egypt"
+                }
+            ],
+            "personBelongsToNation": [
+                {
+                    "term1": "Moses",
+                    "term2": "Israel"
+                },
+                {
+                    "term1": "Elijah",
+                    "term2": "Israel"
+                }
+            ],
+            "placeToNation": [
+                {
+                    "term1": "Egypt",
+                    "term2": "Israel"
+                },
+                {
+                    "term1": "Mount Carmel",
+                    "term2": "Israel"
+                }
+            ],
+            "prophesiedAbout": [
+                {
+                    "term1": "God",
+                    "term2": "Israel"
+                },
+                {
+                    "term1": "God",
+                    "term2": "Moses"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_9b:6-8"
+}

@@ -1,0 +1,154 @@
+﻿{
+    "res": {
+        "en_summary": "Sages discuss Torah reading, Yom Kippur, respecting elders.",
+        "heb_summary": "חכמים דנים קריאת תורה, יום כיפור, כבוד תלמיד חכם.",
+        "passage_types": [
+            "STORY_SAGES",
+            "LAW",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Rav Beivai Bar Abaye"
+                },
+                {
+                    "en_name": "Hiyya Bar Rav Of Difti"
+                },
+                {
+                    "en_name": "Rabbi Yehoshua Ben Levi"
+                },
+                {
+                    "en_name": "Rabbi Yehuda"
+                },
+                {
+                    "en_name": "Sons"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Atarot"
+                },
+                {
+                    "en_name": "Divon"
+                },
+                {
+                    "en_name": "Yazer"
+                },
+                {
+                    "en_name": "Nimra"
+                },
+                {
+                    "en_name": "Heshbon"
+                },
+                {
+                    "en_name": "Elaleh"
+                },
+                {
+                    "en_name": "Sevam"
+                },
+                {
+                    "en_name": "Nevo"
+                },
+                {
+                    "en_name": "Beon"
+                },
+                {
+                    "en_name": "Difti"
+                },
+                {
+                    "en_name": "Temple"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Tablets Of The Covenant"
+                },
+                {
+                    "en_name": "Broken Tablets"
+                },
+                {
+                    "en_name": "Ark Of The Covenant"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "2",
+                    "number_category": "Misc",
+                    "en_unit": "time",
+                    "en_context": "read torah portions"
+                },
+                {
+                    "en_name": "1",
+                    "number_category": "Misc",
+                    "en_unit": "time",
+                    "en_context": "read torah translation"
+                },
+                {
+                    "en_name": "9",
+                    "number_category": "Time",
+                    "en_unit": "day",
+                    "en_context": "tishrei eating"
+                },
+                {
+                    "en_name": "23",
+                    "number_category": "Misc",
+                    "en_unit": "verse",
+                    "en_context": "leviticus chapter"
+                },
+                {
+                    "en_name": "32",
+                    "number_category": "Misc",
+                    "en_unit": "verse",
+                    "en_context": "leviticus verse"
+                },
+                {
+                    "en_name": "10",
+                    "number_category": "Time",
+                    "en_unit": "day",
+                    "en_context": "tishrei fast"
+                },
+                {
+                    "en_name": "27",
+                    "number_category": "Misc",
+                    "en_unit": "verse",
+                    "en_context": "leviticus verse"
+                }
+            ],
+            "Animal": [
+                {
+                    "en_name": "Bird"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Rav Beivai Bar Abaye",
+                    "term2": "Hiyya Bar Rav Of Difti"
+                },
+                {
+                    "term1": "Sons",
+                    "term2": "Rabbi Yehoshua Ben Levi"
+                }
+            ],
+            "spokeWith": [
+                {
+                    "term1": "Hiyya Bar Rav Of Difti",
+                    "term2": "Rav Beivai Bar Abaye"
+                },
+                {
+                    "term1": "Rabbi Yehoshua Ben Levi",
+                    "term2": "Sons"
+                }
+            ],
+            "associatedWithPlace": [
+                {
+                    "term1": "Hiyya Bar Rav Of Difti",
+                    "term2": "Difti"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_8a:30-8b:7"
+}

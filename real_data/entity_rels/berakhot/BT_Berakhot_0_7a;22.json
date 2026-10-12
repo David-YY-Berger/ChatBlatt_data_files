@@ -1,0 +1,39 @@
+﻿{
+    "res": {
+        "en_summary": "Regret more effective than physical punishment.",
+        "heb_summary": "חרטה עדיפה מעונש גופני, כדברי חכמים.",
+        "passage_types": [
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Yohanan"
+                },
+                {
+                    "en_name": "Yosei"
+                },
+                {
+                    "en_name": "Reish Lakish"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "100",
+                    "number_category": "Misc",
+                    "en_unit": "lash",
+                    "en_context": "remorse vs lashes"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Yohanan",
+                    "term2": "Yosei"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_7a:22"
+}

@@ -1,0 +1,84 @@
+﻿{
+    "res": {
+        "en_summary": "Sages debate Shema blessing formula.",
+        "heb_summary": "חכמים דנים נוסח ברכת שמע.",
+        "passage_types": [
+            "LAW",
+            "STORY_SAGES",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Yehuda"
+                },
+                {
+                    "en_name": "Shmuel"
+                },
+                {
+                    "en_name": "Elazar"
+                },
+                {
+                    "en_name": "Pedat"
+                },
+                {
+                    "en_name": "Rabbis"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Shema"
+                },
+                {
+                    "en_name": "An Abounding Love"
+                },
+                {
+                    "en_name": "An Eternal Love"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Yehuda",
+                    "term2": "Shmuel"
+                },
+                {
+                    "term1": "Pedat",
+                    "term2": "Elazar"
+                }
+            ],
+            "childOfFather": [
+                {
+                    "term1": "Pedat",
+                    "term2": "Elazar"
+                }
+            ],
+            "disagreedWith": [
+                {
+                    "term1": "Yehuda",
+                    "term2": "Rabbis"
+                },
+                {
+                    "term1": "Shmuel",
+                    "term2": "Rabbis"
+                },
+                {
+                    "term1": "Elazar",
+                    "term2": "Rabbis"
+                },
+                {
+                    "term1": "Pedat",
+                    "term2": "Rabbis"
+                }
+            ],
+            "contrastedWith": [
+                {
+                    "term1": "An Abounding Love",
+                    "term2": "An Eternal Love"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_11b:8-9"
+}

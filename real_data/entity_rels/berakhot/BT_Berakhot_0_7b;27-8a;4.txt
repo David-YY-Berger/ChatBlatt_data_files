@@ -1,0 +1,107 @@
+﻿COST: Tokens: Total=7100 approx cost=$0.008977 (Prompt=3604, Completion=3496)
+SOURCE:
+Berakhot (Zeraim) 7b:27-8a:4
+
+HEBREW:
+מאי דכתיב ״ואני תפלתי לך ה׳ עת רצון״. אימתי עת רצון — בשעה שהצבור מתפללין.רבי יוסי ברבי חנינא אמר מהכא: ״כה אמר ה׳ בעת רצון עניתיך״.רבי אחא ברבי חנינא אמר מהכא: ״הן אל כביר ולא ימאס״: וכתיב: ״פדה בשלום נפשי מקרב לי כי ברבים היו עמדי״.תניא נמי הכי, רבי נתן אומר: מנין שאין הקדוש ברוך הוא מואס בתפלתן של רבים שנאמר: ״הן אל כביר ולא ימאס״, וכתיב: ״פדה בשלום נפשי מקרב לי״ וגו׳, אמר הקדוש ברוך הוא: כל העוסק בתורה ובגמילות חסדים ומתפלל עם הצבור — מעלה אני עליו כאילו פדאני, לי ולבני, מבין אומות העולם.
+
+ENGLISH:
+What is the meaning of that which is written: But as for me, let my prayer be unto You, Lord, in a time of favor; O God, in the abundance of Your mercy, answer me with the truth of Your salvation (Psalms 69:14)? It appears that the individual is praying that his prayers will coincide with a special time of Divine favor. When is a time of favor? It is at the time when the congregation is praying. It is beneficial to pray together with the congregation, for God does not fail to respond to the entreaties of the congregation. Rabbi Yosei, son of Rabbi Hanina, said that the unique quality of communal prayer is derived from here: Thus said the Lord, in a time of acceptance I have answered you and on a day of salvation I have aided you (Isaiah 49:8). Rabbi Aha, son of Rabbi Hanina, said that it is derived from here: Behold, God is mighty, He despises no one (Job 36:5). He adopts an alternative reading of the verse: Behold, God will not despise the prayer of the mighty, i.e., the community. And it is written: He has redeemed my soul in peace so that none came upon me; for there were many with me. God shall hear and answer them... (Psalms 55:19-20). This verse teaches that the prayer was answered because there were many with me when it was offered. That last proof was also taught in a baraita . Rabbi Natan says: From where do we know that the Holy One, Blessed be He, does not despise the prayer of the masses? As it is stated: Behold, God does not despise the mighty, and it is written: He has redeemed my soul in peace so that none came upon me; for there were many with me. Rabbi Natan interprets this not as David speaking about himself, but as God speaking to Israel. The Holy One, Blessed be He, says: Anyone who engages in Torah study, which is called peace in the verse: All its ways are peace (Proverbs 3:17); and in acts of kindness, and prays with the congregation, I ascribe to him credit as if he redeemed Me and My children from among the nations of the world.
+
+EXTRACTED (JSON):
+{
+  "res": {
+    "en_summary": "Communal prayer brings divine favor and salvation.",
+    "heb_summary": "תפילת ציבור מביאה חסד וישועה אלוהית.",
+    "passage_types": [
+      "PHILOSOPHIC"
+    ],
+    "Entities": {
+      "Person": [
+        {
+          "en_name": "God"
+        },
+        {
+          "en_name": "Yosei"
+        },
+        {
+          "en_name": "Hanina"
+        },
+        {
+          "en_name": "Aha"
+        },
+        {
+          "en_name": "Natan"
+        },
+        {
+          "en_name": "David"
+        },
+        {
+          "en_name": "Congregation"
+        },
+        {
+          "en_name": "Masses"
+        },
+        {
+          "en_name": "Israel"
+        },
+        {
+          "en_name": "Isaiah"
+        }
+      ],
+      "Place": [
+        {
+          "en_name": "World"
+        }
+      ],
+      "Symbol": [
+        {
+          "en_name": "Torah"
+        },
+        {
+          "en_name": "Peace"
+        }
+      ]
+    },
+    "Rel": {
+      "childOfFather": [
+        {
+          "term1": "Yosei",
+          "term2": "Hanina"
+        },
+        {
+          "term1": "Aha",
+          "term2": "Hanina"
+        }
+      ],
+      "associatedWithPlace": [
+        {
+          "term1": "Israel",
+          "term2": "World"
+        },
+        {
+          "term1": "God",
+          "term2": "World"
+        }
+      ],
+      "prophesiedAbout": [
+        {
+          "term1": "Isaiah",
+          "term2": "Israel"
+        }
+      ],
+      "comparedTo": [
+        {
+          "term1": "Torah",
+          "term2": "Peace"
+        }
+      ],
+      "AliasOf": [
+        {
+          "term1": "Congregation",
+          "term2": "Masses"
+        }
+      ]
+    }
+  }
+}

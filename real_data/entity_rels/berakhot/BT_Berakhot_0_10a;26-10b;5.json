@@ -1,0 +1,228 @@
+﻿{
+    "res": {
+        "en_summary": "Hezekiah's illness, prayer, and Isaiah's prophecy",
+        "heb_summary": "מחלת חזקיהו, תפילתו, ונבואת ישעיהו",
+        "passage_types": [
+            "STORY_TANACH",
+            "STORY_SAGES",
+            "PHILOSOPHIC",
+            "PROPHECY"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Hezekiah"
+                },
+                {
+                    "en_name": "Rav Hamnuna"
+                },
+                {
+                    "en_name": "Isaiah"
+                },
+                {
+                    "en_name": "Elijah"
+                },
+                {
+                    "en_name": "Ahab"
+                },
+                {
+                    "en_name": "Yehoram"
+                },
+                {
+                    "en_name": "Elisha"
+                },
+                {
+                    "en_name": "Amoz"
+                },
+                {
+                    "en_name": "Menashe"
+                },
+                {
+                    "en_name": "David"
+                },
+                {
+                    "en_name": "Rabbi Yohanan"
+                },
+                {
+                    "en_name": "Rabbi Eliezer"
+                },
+                {
+                    "en_name": "Job"
+                },
+                {
+                    "en_name": "Rabbi Hanan"
+                },
+                {
+                    "en_name": "Rabbi Shimon Ben Lakish"
+                },
+                {
+                    "en_name": "Rabbi Levi"
+                },
+                {
+                    "en_name": "Rav Yehuda"
+                },
+                {
+                    "en_name": "Rav"
+                },
+                {
+                    "en_name": "Solomon"
+                },
+                {
+                    "en_name": "God"
+                },
+                {
+                    "en_name": "Angel Of Destruction"
+                },
+                {
+                    "en_name": "Jehosaphat"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "World-To-Come"
+                },
+                {
+                    "en_name": "Shunem"
+                },
+                {
+                    "en_name": "Temple Sanctuary"
+                }
+            ],
+            "Nation": [
+                {
+                    "en_name": "Judea"
+                },
+                {
+                    "en_name": "Israel"
+                },
+                {
+                    "en_name": "Edom"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Book Of Remedies"
+                },
+                {
+                    "en_name": "Sharp Sword"
+                },
+                {
+                    "en_name": "Wall"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Rav Hamnuna",
+                    "term2": "Rav"
+                },
+                {
+                    "term1": "Rav Yehuda",
+                    "term2": "Rav"
+                }
+            ],
+            "childOfFather": [
+                {
+                    "term1": "Yehoram",
+                    "term2": "Ahab"
+                },
+                {
+                    "term1": "Isaiah",
+                    "term2": "Amoz"
+                },
+                {
+                    "term1": "Menashe",
+                    "term2": "Hezekiah"
+                },
+                {
+                    "term1": "Solomon",
+                    "term2": "David"
+                }
+            ],
+            "descendantOf": [
+                {
+                    "term1": "Hezekiah",
+                    "term2": "David"
+                },
+                {
+                    "term1": "Hezekiah",
+                    "term2": "Solomon"
+                }
+            ],
+            "spokeWith": [
+                {
+                    "term1": "Hezekiah",
+                    "term2": "Isaiah"
+                },
+                {
+                    "term1": "Elijah",
+                    "term2": "Ahab"
+                },
+                {
+                    "term1": "Yehoram",
+                    "term2": "Elisha"
+                },
+                {
+                    "term1": "God",
+                    "term2": "Isaiah"
+                },
+                {
+                    "term1": "David",
+                    "term2": "Angel Of Destruction"
+                }
+            ],
+            "associatedWithPlace": [
+                {
+                    "term1": "Hezekiah",
+                    "term2": "Temple Sanctuary"
+                }
+            ],
+            "personBelongsToNation": [
+                {
+                    "term1": "Hezekiah",
+                    "term2": "Judea"
+                },
+                {
+                    "term1": "Ahab",
+                    "term2": "Israel"
+                },
+                {
+                    "term1": "Yehoram",
+                    "term2": "Israel"
+                },
+                {
+                    "term1": "David",
+                    "term2": "Judea"
+                },
+                {
+                    "term1": "Jehosaphat",
+                    "term2": "Israel"
+                }
+            ],
+            "AllyOf": [
+                {
+                    "term1": "Jehosaphat",
+                    "term2": "Edom"
+                }
+            ],
+            "prophesiedAbout": [
+                {
+                    "term1": "Isaiah",
+                    "term2": "Hezekiah"
+                },
+                {
+                    "term1": "Isaiah",
+                    "term2": "World-To-Come"
+                }
+            ],
+            "comparedTo": [
+                {
+                    "term1": "Hezekiah",
+                    "term2": "David"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_10a:26-10b:5"
+}

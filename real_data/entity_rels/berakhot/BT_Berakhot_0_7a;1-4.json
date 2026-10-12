@@ -1,0 +1,139 @@
+﻿{
+    "res": {
+        "en_summary": "God prays; Sages discuss divine mercy.",
+        "heb_summary": "הקדוש ברוך הוא מתפלל; חכמים דנים ברחמים.",
+        "passage_types": [
+            "STORY_SAGES",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Yohanan"
+                },
+                {
+                    "en_name": "Yosei"
+                },
+                {
+                    "en_name": "Holy One, Blessed Be He"
+                },
+                {
+                    "en_name": "Rav Zutra Bar Tovia"
+                },
+                {
+                    "en_name": "Rav"
+                },
+                {
+                    "en_name": "Israel"
+                },
+                {
+                    "en_name": "Yishmael Ben Elisha"
+                },
+                {
+                    "en_name": "Akatriel Ya"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Holy Mountain"
+                },
+                {
+                    "en_name": "House Of My Prayer"
+                },
+                {
+                    "en_name": "Innermost Sanctum"
+                },
+                {
+                    "en_name": "Holy Of Holies"
+                }
+            ],
+            "Nation": [
+                {
+                    "en_name": "Israel"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Throne"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "56",
+                    "number_category": "Misc",
+                    "en_unit": "chapter",
+                    "en_context": "isaiah chapter reference"
+                },
+                {
+                    "en_name": "7",
+                    "number_category": "Misc",
+                    "en_unit": "verse",
+                    "en_context": "isaiah verse reference"
+                },
+                {
+                    "en_name": "6",
+                    "number_category": "Misc",
+                    "en_unit": "chapter",
+                    "en_context": "isaiah chapter reference"
+                },
+                {
+                    "en_name": "1",
+                    "number_category": "Time",
+                    "en_unit": "day",
+                    "en_context": "yom kippur"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Yohanan",
+                    "term2": "Yosei"
+                },
+                {
+                    "term1": "Rav Zutra Bar Tovia",
+                    "term2": "Rav"
+                }
+            ],
+            "spokeWith": [
+                {
+                    "term1": "Yishmael Ben Elisha",
+                    "term2": "Akatriel Ya"
+                }
+            ],
+            "prayedAt": [
+                {
+                    "term1": "Yishmael Ben Elisha",
+                    "term2": "Holy Of Holies"
+                }
+            ],
+            "associatedWithPlace": [
+                {
+                    "term1": "Holy One, Blessed Be He",
+                    "term2": "Holy Mountain"
+                },
+                {
+                    "term1": "Holy One, Blessed Be He",
+                    "term2": "House Of My Prayer"
+                },
+                {
+                    "term1": "Akatriel Ya",
+                    "term2": "Holy Of Holies"
+                }
+            ],
+            "personBelongsToNation": [
+                {
+                    "term1": "Yishmael Ben Elisha",
+                    "term2": "Israel"
+                }
+            ],
+            "AliasOf": [
+                {
+                    "term1": "Akatriel Ya",
+                    "term2": "Holy One, Blessed Be He"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_7a:1-4"
+}

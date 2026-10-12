@@ -1,0 +1,105 @@
+﻿{
+    "res": {
+        "en_summary": "Rava's advice: cutting meat, Aramean bed, synagogue.",
+        "heb_summary": "עצות רבא: בשר, מיטה ארמית, בית כנסת.",
+        "passage_types": [
+            "LAW",
+            "STORY_SAGES"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Rava"
+                },
+                {
+                    "en_name": "Sons"
+                },
+                {
+                    "en_name": "Rav Pappa"
+                },
+                {
+                    "en_name": "Aramean Woman"
+                },
+                {
+                    "en_name": "Sages"
+                },
+                {
+                    "en_name": "Rabbi Yehoshua Ben Levi"
+                },
+                {
+                    "en_name": "Abaye"
+                },
+                {
+                    "en_name": "Community"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Synagogue"
+                },
+                {
+                    "en_name": "City"
+                }
+            ],
+            "Nation": [
+                {
+                    "en_name": "Aram"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Phylacteries"
+                }
+            ]
+        },
+        "Rel": {
+            "childOfFather": [
+                {
+                    "term1": "Sons",
+                    "term2": "Rava"
+                }
+            ],
+            "spokeWith": [
+                {
+                    "term1": "Rava",
+                    "term2": "Sons"
+                },
+                {
+                    "term1": "Rav Pappa",
+                    "term2": "Aramean Woman"
+                }
+            ],
+            "associatedWithPlace": [
+                {
+                    "term1": "Rava",
+                    "term2": "Synagogue"
+                },
+                {
+                    "term1": "Rabbi Yehoshua Ben Levi",
+                    "term2": "Synagogue"
+                },
+                {
+                    "term1": "Abaye",
+                    "term2": "Synagogue"
+                },
+                {
+                    "term1": "Community",
+                    "term2": "Synagogue"
+                }
+            ],
+            "personToTribeOfIsrael": [],
+            "personBelongsToNation": [
+                {
+                    "term1": "Aramean Woman",
+                    "term2": "Aram"
+                }
+            ],
+            "placeToNation": [],
+            "prophesiedAbout": [],
+            "comparedTo": [],
+            "contrastedWith": [],
+            "AliasOf": []
+        }
+    },
+    "key": "BT_Berakhot_0_8b:8-12"
+}

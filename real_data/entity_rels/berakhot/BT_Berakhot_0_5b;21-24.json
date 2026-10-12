@@ -1,0 +1,114 @@
+﻿{
+    "res": {
+        "en_summary": "Abba Binyamin's prayer and bed orientation discussed.",
+        "heb_summary": "תפילת אבא בנימין וכיוון מיטתו נדונו.",
+        "passage_types": [
+            "LAW",
+            "STORY_SAGES",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Abba Binyamin"
+                },
+                {
+                    "en_name": "Rav Yehuda"
+                },
+                {
+                    "en_name": "Rav"
+                },
+                {
+                    "en_name": "Rabbi Yehoshua Ben Levi"
+                },
+                {
+                    "en_name": "Hezekiah"
+                },
+                {
+                    "en_name": "Rabbi Hama"
+                },
+                {
+                    "en_name": "Rabbi Hanina"
+                },
+                {
+                    "en_name": "Rabbi Yitzhak"
+                },
+                {
+                    "en_name": "Rav Nahman Bar Yitzhak"
+                },
+                {
+                    "en_name": "Sages"
+                },
+                {
+                    "en_name": "Rebecca"
+                },
+                {
+                    "en_name": "God"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Temple"
+                },
+                {
+                    "en_name": "Holy Of Holies"
+                },
+                {
+                    "en_name": "Wall"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Divine Presence"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "2",
+                    "number_category": "Misc",
+                    "en_unit": "thing",
+                    "en_context": "abba binyamin's practices"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Rav Yehuda",
+                    "term2": "Rav"
+                },
+                {
+                    "term1": "Rabbi Yehoshua Ben Levi",
+                    "term2": "Rav"
+                },
+                {
+                    "term1": "Rabbi Hama",
+                    "term2": "Rabbi Hanina"
+                },
+                {
+                    "term1": "Rabbi Hanina",
+                    "term2": "Rabbi Yitzhak"
+                }
+            ],
+            "spokeWith": [
+                {
+                    "term1": "Hezekiah",
+                    "term2": "God"
+                }
+            ],
+            "prayedAt": [
+                {
+                    "term1": "Hezekiah",
+                    "term2": "Wall"
+                }
+            ],
+            "associatedWithPlace": [
+                {
+                    "term1": "Abba Binyamin",
+                    "term2": "Temple"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_5b:21-24"
+}

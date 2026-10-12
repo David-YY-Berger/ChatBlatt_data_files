@@ -1,0 +1,115 @@
+﻿{
+    "res": {
+        "en_summary": "Gemara explains Psalms juxtaposition of Absalom and Gog.",
+        "heb_summary": "הגמרא מסבירה השוואת תהילים אבשלום וגוג ומגוג.",
+        "passage_types": [
+            "STORY_SAGES",
+            "PHILOSOPHIC",
+            "PROPHECY"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Heretic"
+                },
+                {
+                    "en_name": "Abbahu"
+                },
+                {
+                    "en_name": "David"
+                },
+                {
+                    "en_name": "Absalom"
+                },
+                {
+                    "en_name": "Saul"
+                },
+                {
+                    "en_name": "Yohanan"
+                },
+                {
+                    "en_name": "Sages"
+                },
+                {
+                    "en_name": "Lord"
+                },
+                {
+                    "en_name": "Mashiach"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Cave"
+                }
+            ],
+            "Nation": [
+                {
+                    "en_name": "Gog"
+                },
+                {
+                    "en_name": "Magog"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Psalms"
+                },
+                {
+                    "en_name": "Commandments"
+                },
+                {
+                    "en_name": "Works Of His Hands"
+                }
+            ]
+        },
+        "Rel": {
+            "childOfFather": [
+                {
+                    "term1": "Absalom",
+                    "term2": "David"
+                }
+            ],
+            "spokeWith": [
+                {
+                    "term1": "Heretic",
+                    "term2": "Abbahu"
+                }
+            ],
+            "associatedWithPlace": [
+                {
+                    "term1": "David",
+                    "term2": "Cave"
+                }
+            ],
+            "prophesiedAbout": [
+                {
+                    "term1": "David",
+                    "term2": "Gog"
+                },
+                {
+                    "term1": "David",
+                    "term2": "Magog"
+                },
+                {
+                    "term1": "David",
+                    "term2": "Lord"
+                },
+                {
+                    "term1": "David",
+                    "term2": "Mashiach"
+                }
+            ],
+            "comparedTo": [
+                {
+                    "term1": "Absalom",
+                    "term2": "Gog"
+                },
+                {
+                    "term1": "Absalom",
+                    "term2": "Magog"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_10a:8-11"
+}

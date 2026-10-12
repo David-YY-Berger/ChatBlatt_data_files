@@ -1,0 +1,29 @@
+﻿{
+    "res": {
+        "en_summary": "Gemara clarifies evening Shema, priests eating teruma.",
+        "heb_summary": "גמרא מבהירה קריאת שמע ערבית, אכילת תרומה לכהנים.",
+        "passage_types": [
+            "LAW",
+            "STORY_SAGES"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Master"
+                },
+                {
+                    "en_name": "Tanna"
+                },
+                {
+                    "en_name": "Priests"
+                }
+            ],
+            "Food": [
+                {
+                    "en_name": "Teruma"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_2a:12-13"
+}

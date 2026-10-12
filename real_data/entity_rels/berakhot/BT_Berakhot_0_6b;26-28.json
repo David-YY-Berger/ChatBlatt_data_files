@@ -1,0 +1,121 @@
+﻿{
+    "res": {
+        "en_summary": "Vigilance for daily prayers, Elijah's afternoon prayer answered.",
+        "heb_summary": "יש להקפיד על תפילות, תפילת אליהו נענתה במנחה.",
+        "passage_types": [
+            "LAW",
+            "STORY_TANACH",
+            "STORY_SAGES",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Helbo"
+                },
+                {
+                    "en_name": "Huna"
+                },
+                {
+                    "en_name": "Elijah"
+                },
+                {
+                    "en_name": "Abraham"
+                },
+                {
+                    "en_name": "Isaac"
+                },
+                {
+                    "en_name": "Israel"
+                },
+                {
+                    "en_name": "God"
+                },
+                {
+                    "en_name": "Yohanan"
+                },
+                {
+                    "en_name": "Nahman Bar Yitzhak"
+                },
+                {
+                    "en_name": "Jacob"
+                }
+            ],
+            "Nation": [
+                {
+                    "en_name": "Israel"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Afternoon Prayer"
+                },
+                {
+                    "en_name": "Fire"
+                },
+                {
+                    "en_name": "Sorcery"
+                },
+                {
+                    "en_name": "Evening Prayer"
+                },
+                {
+                    "en_name": "Incense"
+                },
+                {
+                    "en_name": "Evening Offering"
+                },
+                {
+                    "en_name": "Morning Prayer"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Helbo",
+                    "term2": "Huna"
+                }
+            ],
+            "childOfFather": [
+                {
+                    "term1": "Isaac",
+                    "term2": "Abraham"
+                },
+                {
+                    "term1": "Israel",
+                    "term2": "Isaac"
+                }
+            ],
+            "spokeWith": [
+                {
+                    "term1": "Elijah",
+                    "term2": "God"
+                }
+            ],
+            "personBelongsToNation": [
+                {
+                    "term1": "Elijah",
+                    "term2": "Israel"
+                }
+            ],
+            "prophesiedAbout": [
+                {
+                    "term1": "Elijah",
+                    "term2": "God"
+                },
+                {
+                    "term1": "Elijah",
+                    "term2": "Israel"
+                }
+            ],
+            "AliasOf": [
+                {
+                    "term1": "Israel",
+                    "term2": "Jacob"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_6b:26-28"
+}

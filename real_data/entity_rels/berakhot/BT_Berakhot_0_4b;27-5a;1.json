@@ -1,0 +1,28 @@
+﻿{
+    "res": {
+        "en_summary": "Torah scholar's bedtime Shema recitation",
+        "heb_summary": "תלמיד חכם ותפילת שמע לפני השינה",
+        "passage_types": [
+            "LAW"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Torah Scholar"
+                },
+                {
+                    "en_name": "Abaye"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "1",
+                    "number_category": "Misc",
+                    "en_unit": "verse",
+                    "en_context": "bedtime prayer"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_4b:27-5a:1"
+}

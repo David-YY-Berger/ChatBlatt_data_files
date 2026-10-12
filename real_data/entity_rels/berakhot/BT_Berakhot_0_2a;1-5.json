@@ -1,0 +1,120 @@
+﻿{
+    "res": {
+        "en_summary": "Shema recitation times, sages debate, Rabban Gamliel's ruling.",
+        "heb_summary": "זמני קריאת שמע, מחלוקת חכמים, פסיקת רבן גמליאל.",
+        "passage_types": [
+            "LAW",
+            "STORY_SAGES"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Rabbi Eliezer"
+                },
+                {
+                    "en_name": "Rabbis"
+                },
+                {
+                    "en_name": "Rabban Gamliel"
+                },
+                {
+                    "en_name": "Rabban Gamliel's Sons"
+                },
+                {
+                    "en_name": "Priests"
+                },
+                {
+                    "en_name": "Groom"
+                },
+                {
+                    "en_name": "Bride"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Wedding Hall"
+                },
+                {
+                    "en_name": "Altar"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Shema"
+                },
+                {
+                    "en_name": "Yoke Of Heaven"
+                },
+                {
+                    "en_name": "Mitzvot"
+                },
+                {
+                    "en_name": "Torah"
+                },
+                {
+                    "en_name": "Pyre"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "1",
+                    "number_category": "Time",
+                    "en_unit": "day",
+                    "en_context": "eating sacrifices"
+                }
+            ],
+            "Food": [
+                {
+                    "en_name": "Teruma"
+                },
+                {
+                    "en_name": "Sin-Offering"
+                },
+                {
+                    "en_name": "Guilt-Offering"
+                }
+            ]
+        },
+        "Rel": {
+            "childOfFather": [
+                {
+                    "term1": "Rabban Gamliel's Sons",
+                    "term2": "Rabban Gamliel"
+                }
+            ],
+            "spouseOf": [
+                {
+                    "term1": "Groom",
+                    "term2": "Bride"
+                }
+            ],
+            "disagreedWith": [
+                {
+                    "term1": "Rabbi Eliezer",
+                    "term2": "Rabbis"
+                },
+                {
+                    "term1": "Rabban Gamliel",
+                    "term2": "Rabbis"
+                }
+            ],
+            "visited": [
+                {
+                    "term1": "Rabban Gamliel's Sons",
+                    "term2": "Wedding Hall"
+                }
+            ],
+            "associatedWithPlace": [
+                {
+                    "term1": "Priests",
+                    "term2": "Altar"
+                }
+            ],
+            "prophesiedAbout": [],
+            "comparedTo": [],
+            "contrastedWith": [],
+            "AliasOf": []
+        }
+    },
+    "key": "BT_Berakhot_0_2a:1-5"
+}

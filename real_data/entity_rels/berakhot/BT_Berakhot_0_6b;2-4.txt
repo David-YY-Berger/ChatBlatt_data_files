@@ -1,0 +1,56 @@
+﻿COST: Tokens: Total=5617 approx cost=$0.005588 (Prompt=3459, Completion=2158)
+SOURCE:
+Berakhot (Zeraim) 6b:2-4
+
+HEBREW:
+אמר רבין בר רב אדא, אמר רבי יצחק: כל הרגיל לבא לבית הכנסת ולא בא יום אחד, הקדוש ברוך הוא משאיל בו, שנאמר: ״מי בכם ירא ה׳ שמע בקול עבדו אשר הלך חשכים ואין נגה לו״.אם לדבר מצוה הלך — נוגה לו, ואם לדבר הרשות הלך — אין נוגה לו.״יבטח בשם ה׳״ מאי טעמא? — משום דהוה ליה לבטוח בשם ה׳, ולא בטח.
+
+ENGLISH:
+Additionally, Ravin bar Rav Adda said that Rabbi Yitzhak said: One who is accustomed to come to the synagogue and did not come one day, the Holy One, Blessed be He, asks about him, as it were, to determine what happened to him, as it is stated: Who among you fears the Lord? Who hears the voice of His servant? Though he walks in darkness and has no light, let him trust in the name of the Lord, and rely upon his God (Isaiah 50:10). In other words, God asks, who among you fears the Lord yet did not come to hear the voice of His servant the prayer leader, who engages in the service of God? He who went out before dawn and walks in darkness before prayer. If it is for a matter involving a mitzva that he went and absented himself from prayer in the synagogue, then, despite the darkness, there is light for him, the aura of his mitzva will protect him. But if it is for an optional matter, some mundane purpose, that he went and absented himself from prayer in the synagogue, then, even once the day begins, there is no light for him (Maharsha).The verse continues: Let him trust in the name of the Lord. The Gemara asks: What is the reason that God is so exacting with this person? The Gemara answers: Because he should have relied on the name of the Lord, and trusted that he would not incur any loss if he postponed dealing with his mundane matters until after prayer in the synagogue, and he did not rely on God.
+
+EXTRACTED (JSON):
+{
+  "res": {
+    "en_summary": "God asks about absent synagogue attendee",
+    "heb_summary": "ה' שואל על נעדר מבית הכנסת",
+    "passage_types": [
+      "STORY_SAGES",
+      "PHILOSOPHIC"
+    ],
+    "Entities": {
+      "Person": [
+        {
+          "en_name": "Ravin Bar Rav Adda"
+        },
+        {
+          "en_name": "Yitzhak"
+        },
+        {
+          "en_name": "Holy One, Blessed Be He"
+        },
+        {
+          "en_name": "Lord"
+        }
+      ],
+      "Place": [
+        {
+          "en_name": "Synagogue"
+        }
+      ]
+    },
+    "Rel": {
+      "studiedFrom": [
+        {
+          "term1": "Ravin Bar Rav Adda",
+          "term2": "Yitzhak"
+        }
+      ],
+      "AliasOf": [
+        {
+          "term1": "Holy One, Blessed Be He",
+          "term2": "Lord"
+        }
+      ]
+    }
+  }
+}

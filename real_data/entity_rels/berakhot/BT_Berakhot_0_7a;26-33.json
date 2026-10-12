@@ -1,0 +1,152 @@
+﻿{
+    "res": {
+        "en_summary": "God's justice, Moses's requests, divine revelations.",
+        "heb_summary": "צדק אלוקי, בקשות משה, התגלויות אלוהיות.",
+        "passage_types": [
+            "STORY_TANACH",
+            "PHILOSOPHIC",
+            "LAW"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Master"
+                },
+                {
+                    "en_name": "Moses"
+                },
+                {
+                    "en_name": "God"
+                },
+                {
+                    "en_name": "Rabbi Yohanan"
+                },
+                {
+                    "en_name": "Rabbi Meir"
+                },
+                {
+                    "en_name": "Rabbi Yehoshua Ben Korha"
+                },
+                {
+                    "en_name": "Rabbi Shmuel Bar Nahmani"
+                },
+                {
+                    "en_name": "Rabbi Yonatan"
+                },
+                {
+                    "en_name": "Rav Hana Bar Bizna"
+                },
+                {
+                    "en_name": "Rabbi Shimon Hasida"
+                },
+                {
+                    "en_name": "Israel"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "World-To-Come"
+                },
+                {
+                    "en_name": "This World"
+                },
+                {
+                    "en_name": "Burning Bush"
+                }
+            ],
+            "Nation": [
+                {
+                    "en_name": "Israel"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Divine Presence"
+                },
+                {
+                    "en_name": "Phylacteries"
+                },
+                {
+                    "en_name": "Knot Of The Phylacteries"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "2",
+                    "number_category": "Obligation",
+                    "en_unit": "request",
+                    "en_context": "moses's granted requests"
+                },
+                {
+                    "en_name": "1",
+                    "number_category": "Obligation",
+                    "en_unit": "request",
+                    "en_context": "moses's ungranted request"
+                },
+                {
+                    "en_name": "3",
+                    "number_category": "Misc",
+                    "en_unit": "act",
+                    "en_context": "moses's humility at bush"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Rabbi Shmuel Bar Nahmani",
+                    "term2": "Rabbi Yonatan"
+                },
+                {
+                    "term1": "Rav Hana Bar Bizna",
+                    "term2": "Rabbi Shimon Hasida"
+                }
+            ],
+            "disagreedWith": [
+                {
+                    "term1": "Rabbi Yohanan",
+                    "term2": "Rabbi Meir"
+                },
+                {
+                    "term1": "Rabbi Yehoshua Ben Korha",
+                    "term2": "Rabbi Yonatan"
+                }
+            ],
+            "visited": [
+                {
+                    "term1": "Moses",
+                    "term2": "Burning Bush"
+                }
+            ],
+            "associatedWithPlace": [
+                {
+                    "term1": "Moses",
+                    "term2": "World-To-Come"
+                },
+                {
+                    "term1": "God",
+                    "term2": "World-To-Come"
+                },
+                {
+                    "term1": "Moses",
+                    "term2": "This World"
+                },
+                {
+                    "term1": "God",
+                    "term2": "This World"
+                }
+            ],
+            "personBelongsToNation": [
+                {
+                    "term1": "Moses",
+                    "term2": "Israel"
+                }
+            ],
+            "prophesiedAbout": [],
+            "comparedTo": [],
+            "contrastedWith": [],
+            "AliasOf": []
+        }
+    },
+    "key": "BT_Berakhot_0_7a:26-33"
+}

@@ -1,0 +1,143 @@
+﻿{
+    "res": {
+        "en_summary": "Rabbi Yosei learns from Elijah, hears God's lament.",
+        "heb_summary": "רבי יוסי לומד מאליהו, שומע קינת ה'.",
+        "passage_types": [
+            "STORY_SAGES",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Rabbi Yosei"
+                },
+                {
+                    "en_name": "Elijah"
+                },
+                {
+                    "en_name": "Holy One"
+                },
+                {
+                    "en_name": "Children Of Israel"
+                },
+                {
+                    "en_name": "Maharsha"
+                },
+                {
+                    "en_name": "Rabbi Shem Tov Ibn Shaprut"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Jerusalem"
+                },
+                {
+                    "en_name": "Ruin"
+                },
+                {
+                    "en_name": "Road"
+                },
+                {
+                    "en_name": "House"
+                },
+                {
+                    "en_name": "Temple"
+                },
+                {
+                    "en_name": "Synagogue"
+                },
+                {
+                    "en_name": "Study Hall"
+                }
+            ],
+            "Nation": [
+                {
+                    "en_name": "Israel"
+                },
+                {
+                    "en_name": "Nations Of The World"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Heavenly Voice"
+                },
+                {
+                    "en_name": "Kaddish Prayer"
+                },
+                {
+                    "en_name": "King"
+                },
+                {
+                    "en_name": "Father"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "3",
+                    "number_category": "Misc",
+                    "en_unit": "thing",
+                    "en_context": "learned from elijah"
+                }
+            ],
+            "Animal": [
+                {
+                    "en_name": "Dove"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Rabbi Yosei",
+                    "term2": "Elijah"
+                }
+            ],
+            "spokeWith": [
+                {
+                    "term1": "Rabbi Yosei",
+                    "term2": "Elijah"
+                }
+            ],
+            "associatedWithPlace": [
+                {
+                    "term1": "Rabbi Yosei",
+                    "term2": "Ruin"
+                },
+                {
+                    "term1": "Elijah",
+                    "term2": "Ruin"
+                },
+                {
+                    "term1": "Holy One",
+                    "term2": "House"
+                },
+                {
+                    "term1": "Holy One",
+                    "term2": "Temple"
+                }
+            ],
+            "personBelongsToNation": [
+                {
+                    "term1": "Children Of Israel",
+                    "term2": "Israel"
+                }
+            ],
+            "comparedTo": [
+                {
+                    "term1": "Heavenly Voice",
+                    "term2": "Dove"
+                },
+                {
+                    "term1": "Holy One",
+                    "term2": "King"
+                },
+                {
+                    "term1": "Holy One",
+                    "term2": "Father"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_3a:12-14"
+}

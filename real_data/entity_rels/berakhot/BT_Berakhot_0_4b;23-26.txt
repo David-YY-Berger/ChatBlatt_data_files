@@ -1,0 +1,109 @@
+﻿COST: Tokens: Total=6936 approx cost=$0.008629 (Prompt=3576, Completion=3360)
+SOURCE:
+Berakhot (Zeraim) 4b:23-26
+
+HEBREW:
+אמר רבי אלעזר בר אבינא: גדול מה שנאמר במיכאל יותר ממה שנאמר בגבריאל, דאילו במיכאל כתיב: ״ויעף אלי אחד מן השרפים״. ואילו גבי גבריאל כתיב: ״והאיש גבריאל אשר ראיתי בחזון בתחלה מעף ביעף וגו׳״.מאי משמע דהאי ״אחד״ מיכאל הוא?אמר רבי יוחנן: אתיא ״אחד״ ״אחד״. כתיב הכא ״ויעף אלי אחד מן השרפים״, וכתיב התם: ״והנה מיכאל אחד (מן) השרים הראשונים בא לעזרני״.תנא: מיכאל — באחת, גבריאל — בשתים, אליהו — בארבע, ומלאך המות — בשמנה. ובשעת המגפה, באחת.
+
+ENGLISH:
+After this discussion of the statement that Rabbi Elazar said that Rabbi Avina said, another statement of Rabbi Elazar is cited. Rabbi Elazar bar Avina said: What was said about the angel Michael is greater than what was said about the angel Gabriel. As about Michael, it is written: And one of the seraphim flew to me (Isaiah 6:6), indicating that with a single flight, the seraph arrived and performed his mission, while regarding Gabriel, it is written: The man, Gabriel, whom I had seen at the beginning, in a vision, being caused to fly swiftly, approached close to me about the time of the evening offering (Daniel 9:21). The double language used in the phrase to fly swiftly [ muaf biaf] , indicates that he did not arrive at his destination in a single flight, but rather, that it took him two flights.To Rabbi Elazar bar Avina, it is clear that one of the seraphim refers to Michael, and the Gemara asks: From where is it inferred that the one mentioned in the verse is Michael? Rabbi Yohanan said: This is derived through a verbal analogy between the words one and one. Here, it is written: And one of the seraphim flew to me (Isaiah 6:6), and there, it is written: And behold, Michael, one of the chief ministers of the king, came to my aid (Daniel 10:13). Since the verse from Daniel refers to Michael as one, which aggadic midrash interprets as the unique one, so, too, one of the seraphs described in Isaiah must also refer to the unique one, Michael.This discussion in the Gemara concludes with a Tosefta that arrives at a hierarchy of angels based on the number of flights required by each to arrive at his destination. It was taught in a Tosefta : Michael, as stated above, in one flight; Gabriel, in two flights; Elijah the Prophet, in four flights; and the Angel of Death, in eight flights. During a time of plague, however, when the Angel of Death seems ubiquitous, he arrives everywhere in one flight.
+
+EXTRACTED (JSON):
+{
+  "res": {
+    "en_summary": "Angels' flight speeds contrasted by sages' teachings",
+    "heb_summary": "מהירות תעופת מלאכים נלמדת מדברי חכמים",
+    "passage_types": [
+      "STORY_SAGES",
+      "PHILOSOPHIC"
+    ],
+    "Entities": {
+      "Person": [
+        {
+          "en_name": "Elazar"
+        },
+        {
+          "en_name": "Avina"
+        },
+        {
+          "en_name": "Elazar Bar Avina"
+        },
+        {
+          "en_name": "Michael"
+        },
+        {
+          "en_name": "Gabriel"
+        },
+        {
+          "en_name": "Yohanan"
+        },
+        {
+          "en_name": "Elijah"
+        },
+        {
+          "en_name": "Angel Of Death"
+        },
+        {
+          "en_name": "Isaiah"
+        },
+        {
+          "en_name": "Daniel"
+        }
+      ],
+      "Number": [
+        {
+          "en_name": "1",
+          "number_category": "Measurement",
+          "en_unit": "flight",
+          "en_context": "michael angel travel speed"
+        },
+        {
+          "en_name": "2",
+          "number_category": "Measurement",
+          "en_unit": "flight",
+          "en_context": "gabriel angel travel speed"
+        },
+        {
+          "en_name": "4",
+          "number_category": "Measurement",
+          "en_unit": "flight",
+          "en_context": "elijah angel travel speed"
+        },
+        {
+          "en_name": "8",
+          "number_category": "Measurement",
+          "en_unit": "flight",
+          "en_context": "angel of death travel speed"
+        }
+      ]
+    },
+    "Rel": {
+      "studiedFrom": [
+        {
+          "term1": "Elazar",
+          "term2": "Avina"
+        }
+      ],
+      "contrastedWith": [
+        {
+          "term1": "Michael",
+          "term2": "Gabriel"
+        },
+        {
+          "term1": "Gabriel",
+          "term2": "Elijah"
+        },
+        {
+          "term1": "Elijah",
+          "term2": "Angel Of Death"
+        }
+      ],
+      "AliasOf": [
+        {
+          "term1": "Elazar Bar Avina",
+          "term2": "Elazar"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+﻿{
+    "res": {
+        "en_summary": "God asks about absent synagogue attendee",
+        "heb_summary": "ה' שואל על נעדר מבית הכנסת",
+        "passage_types": [
+            "STORY_SAGES",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Ravin Bar Rav Adda"
+                },
+                {
+                    "en_name": "Yitzhak"
+                },
+                {
+                    "en_name": "Holy One, Blessed Be He"
+                },
+                {
+                    "en_name": "Lord"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Synagogue"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Ravin Bar Rav Adda",
+                    "term2": "Yitzhak"
+                }
+            ],
+            "AliasOf": [
+                {
+                    "term1": "Holy One, Blessed Be He",
+                    "term2": "Lord"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_6b:2-4"
+}

@@ -1,0 +1,55 @@
+﻿COST: Tokens: Total=4526 approx cost=$0.003283 (Prompt=3267, Completion=1259)
+SOURCE:
+Berakhot (Zeraim) 9b:25-10a:1
+
+HEBREW:
+כל פרשה שהיתה חביבה על דוד, פתח בה ב״אשרי״ וסיים בה ב״אשרי״. פתח ב״אשרי״, דכתיב: ״אשרי האיש״. וסיים ב״אשרי״, דכתיב: ״אשרי כל חוסי בו״.
+
+ENGLISH:
+Every chapter that was dear to David, he began with happy is and concluded with happy is. He opened with happy is, as it is written: Happy is the man who has not walked in the counsel of the wicked or stood in the way of sinners or sat in the dwelling place of the scornful (Psalms 1:1). And he concluded with happy, as it is written at the end of the chapter: Pay homage in purity, lest He be angry, and you perish on the way when His anger is kindled suddenly. Happy are those who take refuge in Him (Psalms 2:12). We see that these two chapters actually constitute a single chapter.
+
+EXTRACTED (JSON):
+{
+  "res": {
+    "en_summary": "David's Psalms begin and end with 'happy is'.",
+    "heb_summary": "פרקי דוד מתחילים ומסתיימים ב'אשרי'.",
+    "passage_types": [
+      "PHILOSOPHIC"
+    ],
+    "Entities": {
+      "Person": [
+        {
+          "en_name": "David"
+        },
+        {
+          "en_name": "The Man"
+        },
+        {
+          "en_name": "The Wicked"
+        },
+        {
+          "en_name": "Sinners"
+        },
+        {
+          "en_name": "The Scornful"
+        }
+      ]
+    },
+    "Rel": {
+      "contrastedWith": [
+        {
+          "term1": "The Man",
+          "term2": "The Wicked"
+        },
+        {
+          "term1": "The Man",
+          "term2": "Sinners"
+        },
+        {
+          "term1": "The Man",
+          "term2": "The Scornful"
+        }
+      ]
+    }
+  }
+}

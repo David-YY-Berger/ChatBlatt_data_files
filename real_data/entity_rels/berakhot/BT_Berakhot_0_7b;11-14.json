@@ -1,0 +1,102 @@
+﻿{
+    "res": {
+        "en_summary": "David's joy despite Absalom's rebellion.",
+        "heb_summary": "שמחת דוד למרות מרד אבשלום.",
+        "passage_types": [
+            "STORY_TANACH",
+            "STORY_SAGES",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Yohanan"
+                },
+                {
+                    "en_name": "Shimon Ben Yohai"
+                },
+                {
+                    "en_name": "Gog"
+                },
+                {
+                    "en_name": "Magog"
+                },
+                {
+                    "en_name": "David"
+                },
+                {
+                    "en_name": "Absalom"
+                },
+                {
+                    "en_name": "Natan"
+                },
+                {
+                    "en_name": "Shimon Ben Avishalom"
+                },
+                {
+                    "en_name": "Holy One, Blessed Be He"
+                },
+                {
+                    "en_name": "Lord"
+                },
+                {
+                    "en_name": "He That Sits In Heaven"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Heaven"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Yohanan",
+                    "term2": "Shimon Ben Yohai"
+                }
+            ],
+            "childOfFather": [
+                {
+                    "term1": "Absalom",
+                    "term2": "David"
+                }
+            ],
+            "spokeWith": [
+                {
+                    "term1": "Natan",
+                    "term2": "David"
+                },
+                {
+                    "term1": "Holy One, Blessed Be He",
+                    "term2": "Natan"
+                }
+            ],
+            "EnemyOf": [
+                {
+                    "term1": "Absalom",
+                    "term2": "David"
+                },
+                {
+                    "term1": "Gog",
+                    "term2": "Lord"
+                },
+                {
+                    "term1": "Magog",
+                    "term2": "Lord"
+                }
+            ],
+            "prophesiedAbout": [
+                {
+                    "term1": "Natan",
+                    "term2": "David"
+                },
+                {
+                    "term1": "Holy One, Blessed Be He",
+                    "term2": "David"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_7b:11-14"
+}

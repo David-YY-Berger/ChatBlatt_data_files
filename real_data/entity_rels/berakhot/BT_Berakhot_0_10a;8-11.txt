@@ -1,0 +1,125 @@
+﻿COST: Tokens: Total=6886 approx cost=$0.008453 (Prompt=3599, Completion=3287)
+SOURCE:
+Berakhot (Zeraim) 10a:8-11
+
+HEBREW:
+אמר ליה ההוא מינא לרבי אבהו, כתיב: ״מזמור לדוד בברחו מפני אבשלום בנו״, וכתיב: ״לדוד מכתם בברחו מפני שאול במערה״. הי מעשה הוה ברישא? מכדי מעשה שאול הוה ברישא, לכתוב ברישא.אמר ליה: אתון דלא דרשיתון סמוכין — קשיא לכו, אנן דדרשינן סמוכים — לא קשיא לן.דאמר רבי יוחנן: סמוכין מן התורה מנין — שנאמר: ״סמוכים לעד לעולם עשוים באמת וישר״.למה נסמכה פרשת אבשלום לפרשת גוג ומגוג — שאם יאמר לך אדם: כלום יש עבד שמורד ברבו?! אף אתה אמור לו: כלום יש בן שמורד באביו? אלא הוה, הכא נמי הוה.
+
+ENGLISH:
+In explaining passages from Psalms, the Gemara relates another instance of a response to the question of a heretic: A certain heretic said to Rabbi Abbahu, it is written: A Psalm of David, when he fled from his son, Absalom (Psalms 3:1), and similarly it is said: To the chief musician, al tashhet , a mikhtam of David when fleeing from Saul into the cave (Psalms 57:1). Which event was first? Since the event with Saul was first, it would have been appropriate to write it first. Rabbi Abbahu said to him: For you, who do not employ the homiletic method of juxtaposition of verses, it is difficult. But for us, who employ the homiletic method of juxtaposition of verses, it is not difficult, as the Sages commonly homiletically infer laws and moral lessons from the juxtaposition of two verses.Regarding the juxtaposition of verses, Rabbi Yohanan said: From where in the Bible is it derived that one may draw homiletical inferences from the juxtaposition of verses? As it is said: The works of His hands in truth and justice, all His commandments are sure. Adjoined forever and ever, made in truth and uprightness (Psalms 111:7-8). Conclude from here that it is appropriate to draw inferences from the juxtaposition of Gods commandments. Accordingly, Davids fleeing from Absalom is situated where it is in order to juxtapose it to the next chapter, which mentions the war of Gog and Magog; the second chapter of Psalms opens: Why are the nations in an uproar? Why was the chapter of Absalom juxtaposed with the chapter of Gog and Magog? They are juxtaposed so that if a person should say to you, expressing doubt with regard to the prophecy of the war of Gog and Magog against the Lord and against His anointed: Is there a slave who rebels against his master? Is there someone capable of rebelling against God? You too say to him: Is there a son who rebels against his father and severs the relationship with the one who brought him into the world and raised him? Yet, nevertheless, there was such a son, Absalom, and so too there can be a situation where people will seek to rebel against God.
+
+EXTRACTED (JSON):
+{
+  "res": {
+    "en_summary": "Gemara explains Psalms juxtaposition of Absalom and Gog.",
+    "heb_summary": "הגמרא מסבירה השוואת תהילים אבשלום וגוג ומגוג.",
+    "passage_types": [
+      "STORY_SAGES",
+      "PHILOSOPHIC",
+      "PROPHECY"
+    ],
+    "Entities": {
+      "Person": [
+        {
+          "en_name": "Heretic"
+        },
+        {
+          "en_name": "Abbahu"
+        },
+        {
+          "en_name": "David"
+        },
+        {
+          "en_name": "Absalom"
+        },
+        {
+          "en_name": "Saul"
+        },
+        {
+          "en_name": "Yohanan"
+        },
+        {
+          "en_name": "Sages"
+        },
+        {
+          "en_name": "Lord"
+        },
+        {
+          "en_name": "Mashiach"
+        }
+      ],
+      "Place": [
+        {
+          "en_name": "Cave"
+        }
+      ],
+      "Nation": [
+        {
+          "en_name": "Gog"
+        },
+        {
+          "en_name": "Magog"
+        }
+      ],
+      "Symbol": [
+        {
+          "en_name": "Psalms"
+        },
+        {
+          "en_name": "Commandments"
+        },
+        {
+          "en_name": "Works Of His Hands"
+        }
+      ]
+    },
+    "Rel": {
+      "childOfFather": [
+        {
+          "term1": "Absalom",
+          "term2": "David"
+        }
+      ],
+      "spokeWith": [
+        {
+          "term1": "Heretic",
+          "term2": "Abbahu"
+        }
+      ],
+      "associatedWithPlace": [
+        {
+          "term1": "David",
+          "term2": "Cave"
+        }
+      ],
+      "prophesiedAbout": [
+        {
+          "term1": "David",
+          "term2": "Gog"
+        },
+        {
+          "term1": "David",
+          "term2": "Magog"
+        },
+        {
+          "term1": "David",
+          "term2": "Lord"
+        },
+        {
+          "term1": "David",
+          "term2": "Mashiach"
+        }
+      ],
+      "comparedTo": [
+        {
+          "term1": "Absalom",
+          "term2": "Gog"
+        },
+        {
+          "term1": "Absalom",
+          "term2": "Magog"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,106 @@
+﻿{
+    "res": {
+        "en_summary": "Evening Shema recitation times and rabbinic disagreements.",
+        "heb_summary": "זמני קריאת שמע, מחלוקות חכמים, והוכחות מקראיות.",
+        "passage_types": [
+            "LAW"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Rabbi Meir"
+                },
+                {
+                    "en_name": "Nehemiah"
+                },
+                {
+                    "en_name": "Rabbi Eliezer"
+                },
+                {
+                    "en_name": "Rabbi Yehoshua"
+                },
+                {
+                    "en_name": "Rabbi Yehuda"
+                },
+                {
+                    "en_name": "Rabbi Hanina"
+                },
+                {
+                    "en_name": "Rabbi Ahai"
+                },
+                {
+                    "en_name": "Rabbi Aha"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Jerusalem"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Walls Of Jerusalem"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "1",
+                    "number_category": "Misc",
+                    "en_unit": "time",
+                    "en_context": "meal times comparison"
+                },
+                {
+                    "en_name": "0.5",
+                    "number_category": "People",
+                    "en_unit": "worker",
+                    "en_context": "workers building walls"
+                }
+            ],
+            "Food": [
+                {
+                    "en_name": "Bread"
+                },
+                {
+                    "en_name": "Salt"
+                }
+            ]
+        },
+        "Rel": {
+            "spokeWith": [
+                {
+                    "term1": "Rabbi Yehuda",
+                    "term2": "Rabbi Meir"
+                }
+            ],
+            "disagreedWith": [
+                {
+                    "term1": "Rabbi Eliezer",
+                    "term2": "Rabbi Yehoshua"
+                },
+                {
+                    "term1": "Rabbi Meir",
+                    "term2": "Rabbi Yehoshua"
+                },
+                {
+                    "term1": "Rabbi Hanina",
+                    "term2": "Rabbi Yehoshua"
+                },
+                {
+                    "term1": "Rabbi Ahai",
+                    "term2": "Rabbi Hanina"
+                },
+                {
+                    "term1": "Rabbi Aha",
+                    "term2": "Rabbi Hanina"
+                }
+            ],
+            "associatedWithPlace": [
+                {
+                    "term1": "Nehemiah",
+                    "term2": "Jerusalem"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_2b:5-16"
+}

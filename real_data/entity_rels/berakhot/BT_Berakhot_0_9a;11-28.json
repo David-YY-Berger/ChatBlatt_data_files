@@ -1,0 +1,151 @@
+﻿{
+    "res": {
+        "en_summary": "Sages dispute Paschal lamb eating time until dawn.",
+        "heb_summary": "חכמים חלוקים על זמן אכילת קרבן פסח עד הבוקר.",
+        "passage_types": [
+            "LAW",
+            "STORY_TANACH",
+            "STORY_SAGES"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Gamliel"
+                },
+                {
+                    "en_name": "Yosef"
+                },
+                {
+                    "en_name": "Elazar Ben Azarya"
+                },
+                {
+                    "en_name": "Akiva"
+                },
+                {
+                    "en_name": "Eliezer"
+                },
+                {
+                    "en_name": "Yehoshua"
+                },
+                {
+                    "en_name": "Abba"
+                },
+                {
+                    "en_name": "Children Of Israel"
+                },
+                {
+                    "en_name": "Egyptians"
+                },
+                {
+                    "en_name": "God"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Egypt"
+                }
+            ],
+            "Nation": [
+                {
+                    "en_name": "Egypt"
+                },
+                {
+                    "en_name": "Israel"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "2",
+                    "number_category": "Time",
+                    "en_unit": "night",
+                    "en_context": "paschal lamb eating"
+                },
+                {
+                    "en_name": "1",
+                    "number_category": "Time",
+                    "en_unit": "night",
+                    "en_context": "peace offering eating"
+                },
+                {
+                    "en_name": "3",
+                    "number_category": "Misc",
+                    "en_unit": "time",
+                    "en_context": "paschal lamb stages"
+                },
+                {
+                    "en_name": "15",
+                    "number_category": "Time",
+                    "en_unit": "day",
+                    "en_context": "israel departure"
+                }
+            ],
+            "Animal": [
+                {
+                    "en_name": "Paschal Lamb"
+                }
+            ],
+            "Food": [
+                {
+                    "en_name": "Paschal Lamb"
+                },
+                {
+                    "en_name": "Matzot"
+                },
+                {
+                    "en_name": "Bitter Herbs"
+                }
+            ]
+        },
+        "Rel": {
+            "disagreedWith": [
+                {
+                    "term1": "Elazar Ben Azarya",
+                    "term2": "Akiva"
+                },
+                {
+                    "term1": "Eliezer",
+                    "term2": "Yehoshua"
+                }
+            ],
+            "visited": [
+                {
+                    "term1": "Children Of Israel",
+                    "term2": "Egypt"
+                }
+            ],
+            "associatedWithPlace": [
+                {
+                    "term1": "Egyptians",
+                    "term2": "Egypt"
+                }
+            ],
+            "personBelongsToNation": [
+                {
+                    "term1": "Children Of Israel",
+                    "term2": "Israel"
+                },
+                {
+                    "term1": "Egyptians",
+                    "term2": "Egypt"
+                }
+            ],
+            "EnemyOf": [
+                {
+                    "term1": "Egyptians",
+                    "term2": "Children Of Israel"
+                }
+            ],
+            "prophesiedAbout": [
+                {
+                    "term1": "God",
+                    "term2": "Egypt"
+                },
+                {
+                    "term1": "God",
+                    "term2": "Children Of Israel"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_9a:11-28"
+}

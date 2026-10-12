@@ -1,0 +1,55 @@
+﻿{
+    "res": {
+        "en_summary": "Sages teach struggle against evil inclination",
+        "heb_summary": "חכמים מלמדים מאבק ביצר הרע",
+        "passage_types": [
+            "STORY_SAGES",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Levi Bar Hama"
+                },
+                {
+                    "en_name": "Shimon Ben Lakish"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Good Inclination"
+                },
+                {
+                    "en_name": "Evil Inclination"
+                },
+                {
+                    "en_name": "Torah"
+                },
+                {
+                    "en_name": "Shema"
+                },
+                {
+                    "en_name": "Yoke Of God"
+                },
+                {
+                    "en_name": "Day Of Death"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Levi Bar Hama",
+                    "term2": "Shimon Ben Lakish"
+                }
+            ],
+            "contrastedWith": [
+                {
+                    "term1": "Good Inclination",
+                    "term2": "Evil Inclination"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_5a:2"
+}

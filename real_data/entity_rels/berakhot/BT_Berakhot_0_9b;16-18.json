@@ -1,0 +1,133 @@
+﻿{
+    "res": {
+        "en_summary": "Sages debate prayer, kings, and redemption.",
+        "heb_summary": "חכמים דנים תפילה, מלכים, וגאולה.",
+        "passage_types": [
+            "STORY_SAGES",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Yosei Ben Elyakim"
+                },
+                {
+                    "en_name": "Holy Community In Jerusalem"
+                },
+                {
+                    "en_name": "Zeira"
+                },
+                {
+                    "en_name": "Yohanan"
+                },
+                {
+                    "en_name": "Ela"
+                },
+                {
+                    "en_name": "Ulla"
+                },
+                {
+                    "en_name": "Rav Beruna"
+                },
+                {
+                    "en_name": "Kings Of Israel"
+                },
+                {
+                    "en_name": "Kings Of The Nations Of The World"
+                },
+                {
+                    "en_name": "Vatikin"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Jerusalem"
+                },
+                {
+                    "en_name": "King's Palace"
+                },
+                {
+                    "en_name": "Babylonia"
+                }
+            ],
+            "Nation": [
+                {
+                    "en_name": "Israel"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Redemption"
+                },
+                {
+                    "en_name": "Prayer"
+                },
+                {
+                    "en_name": "Crown"
+                }
+            ],
+            "Plant": [
+                {
+                    "en_name": "Myrtle"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Yosei Ben Elyakim",
+                    "term2": "Holy Community In Jerusalem"
+                }
+            ],
+            "spokeWith": [
+                {
+                    "term1": "Yosei Ben Elyakim",
+                    "term2": "Zeira"
+                },
+                {
+                    "term1": "Ela",
+                    "term2": "Ulla"
+                }
+            ],
+            "visited": [
+                {
+                    "term1": "Zeira",
+                    "term2": "King's Palace"
+                },
+                {
+                    "term1": "Ulla",
+                    "term2": "Babylonia"
+                }
+            ],
+            "associatedWithPlace": [
+                {
+                    "term1": "Holy Community In Jerusalem",
+                    "term2": "Jerusalem"
+                },
+                {
+                    "term1": "Rav Beruna",
+                    "term2": "Babylonia"
+                }
+            ],
+            "personBelongsToNation": [
+                {
+                    "term1": "Kings Of Israel",
+                    "term2": "Israel"
+                }
+            ],
+            "comparedTo": [
+                {
+                    "term1": "Kings Of Israel",
+                    "term2": "Kings Of The Nations Of The World"
+                }
+            ],
+            "contrastedWith": [
+                {
+                    "term1": "Kings Of Israel",
+                    "term2": "Kings Of The Nations Of The World"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_9b:16-18"
+}

@@ -1,0 +1,45 @@
+﻿{
+    "res": {
+        "en_summary": "David's Psalms begin and end with 'happy is'.",
+        "heb_summary": "פרקי דוד מתחילים ומסתיימים ב'אשרי'.",
+        "passage_types": [
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "David"
+                },
+                {
+                    "en_name": "The Man"
+                },
+                {
+                    "en_name": "The Wicked"
+                },
+                {
+                    "en_name": "Sinners"
+                },
+                {
+                    "en_name": "The Scornful"
+                }
+            ]
+        },
+        "Rel": {
+            "contrastedWith": [
+                {
+                    "term1": "The Man",
+                    "term2": "The Wicked"
+                },
+                {
+                    "term1": "The Man",
+                    "term2": "Sinners"
+                },
+                {
+                    "term1": "The Man",
+                    "term2": "The Scornful"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_9b:25-10a:1"
+}

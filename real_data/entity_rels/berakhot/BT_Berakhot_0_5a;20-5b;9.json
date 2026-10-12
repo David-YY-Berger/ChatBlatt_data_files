@@ -1,0 +1,131 @@
+﻿{
+    "res": {
+        "en_summary": "Burying sons, Torah, charity atone for transgressions.",
+        "heb_summary": "קבורת בנים, תורה, צדקה מכפרים על עבירות.",
+        "passage_types": [
+            "LAW",
+            "STORY_SAGES",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Rabbi Yohanan"
+                },
+                {
+                    "en_name": "Rabbi Shimon Bar Yohai"
+                },
+                {
+                    "en_name": "Rav Hai Gaon"
+                },
+                {
+                    "en_name": "Tosafot"
+                },
+                {
+                    "en_name": "Gemara"
+                },
+                {
+                    "en_name": "Victim Of Catastrophe"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Eretz Yisrael"
+                },
+                {
+                    "en_name": "Babylonia"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Altar Of Atonement"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "16",
+                    "number_category": "Misc",
+                    "en_unit": "chapter",
+                    "en_context": "proverbs chapter reference"
+                },
+                {
+                    "en_name": "6",
+                    "number_category": "Misc",
+                    "en_unit": "verse",
+                    "en_context": "proverbs verse reference"
+                },
+                {
+                    "en_name": "21",
+                    "number_category": "Misc",
+                    "en_unit": "chapter",
+                    "en_context": "proverbs chapter reference"
+                },
+                {
+                    "en_name": "23",
+                    "number_category": "Misc",
+                    "en_unit": "chapter",
+                    "en_context": "proverbs chapter reference"
+                },
+                {
+                    "en_name": "32",
+                    "number_category": "Misc",
+                    "en_unit": "chapter",
+                    "en_context": "jeremiah chapter reference"
+                },
+                {
+                    "en_name": "18",
+                    "number_category": "Misc",
+                    "en_unit": "verse",
+                    "en_context": "jeremiah verse reference"
+                },
+                {
+                    "en_name": "13",
+                    "number_category": "Misc",
+                    "en_unit": "chapter",
+                    "en_context": "leviticus chapter reference"
+                },
+                {
+                    "en_name": "4",
+                    "number_category": "Misc",
+                    "en_unit": "sign",
+                    "en_context": "leprosy signs"
+                },
+                {
+                    "en_name": "10",
+                    "number_category": "People",
+                    "en_unit": "son",
+                    "en_context": "rabbi yohanan's deceased sons"
+                }
+            ]
+        },
+        "Rel": {
+            "spokeWith": [
+                {
+                    "term1": "Rabbi Yohanan",
+                    "term2": "Victim Of Catastrophe"
+                }
+            ],
+            "disagreedWith": [
+                {
+                    "term1": "Gemara",
+                    "term2": "Rabbi Yohanan"
+                }
+            ],
+            "associatedWithPlace": [
+                {
+                    "term1": "Gemara",
+                    "term2": "Babylonia"
+                },
+                {
+                    "term1": "Gemara",
+                    "term2": "Eretz Yisrael"
+                },
+                {
+                    "term1": "Rabbi Yohanan",
+                    "term2": "Eretz Yisrael"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_5a:20-5b:9"
+}

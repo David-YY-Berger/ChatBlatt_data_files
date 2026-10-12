@@ -1,0 +1,143 @@
+﻿{
+    "res": {
+        "en_summary": "David's five worlds, five praises to God.",
+        "heb_summary": "דוד שר חמישה שירי הלל לאל.",
+        "passage_types": [
+            "STORY_SAGES",
+            "STORY_TANACH",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Yohanan"
+                },
+                {
+                    "en_name": "Shimon Ben Yohai"
+                },
+                {
+                    "en_name": "Solomon"
+                },
+                {
+                    "en_name": "David"
+                },
+                {
+                    "en_name": "Abbahu"
+                },
+                {
+                    "en_name": "Yehuda"
+                },
+                {
+                    "en_name": "Mattana"
+                },
+                {
+                    "en_name": "Rabba Bar Rav Sheila"
+                },
+                {
+                    "en_name": "Sages"
+                },
+                {
+                    "en_name": "God"
+                },
+                {
+                    "en_name": "Angels"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Earth"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Wisdom"
+                },
+                {
+                    "en_name": "Torah"
+                },
+                {
+                    "en_name": "Loving-Kindness"
+                },
+                {
+                    "en_name": "Holy Name"
+                },
+                {
+                    "en_name": "Kingship"
+                },
+                {
+                    "en_name": "Glory"
+                },
+                {
+                    "en_name": "Majesty"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "5",
+                    "number_category": "Misc",
+                    "en_unit": "world",
+                    "en_context": "david's stages of life"
+                }
+            ],
+            "Animal": [
+                {
+                    "en_name": "Animal"
+                }
+            ],
+            "Food": [
+                {
+                    "en_name": "Milk"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Yohanan",
+                    "term2": "Shimon Ben Yohai"
+                }
+            ],
+            "childOfFather": [
+                {
+                    "term1": "Solomon",
+                    "term2": "David"
+                }
+            ],
+            "spokeWith": [
+                {
+                    "term1": "David",
+                    "term2": "God"
+                }
+            ],
+            "associatedWithPlace": [
+                {
+                    "term1": "David",
+                    "term2": "Earth"
+                }
+            ],
+            "prophesiedAbout": [
+                {
+                    "term1": "Solomon",
+                    "term2": "David"
+                }
+            ],
+            "comparedTo": [
+                {
+                    "term1": "David",
+                    "term2": "Wisdom"
+                },
+                {
+                    "term1": "David",
+                    "term2": "Loving-Kindness"
+                }
+            ],
+            "contrastedWith": [
+                {
+                    "term1": "God",
+                    "term2": "Animal"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_10a:12-20"
+}

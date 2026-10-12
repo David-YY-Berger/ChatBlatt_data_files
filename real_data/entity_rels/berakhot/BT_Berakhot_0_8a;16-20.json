@@ -1,0 +1,161 @@
+﻿{
+    "res": {
+        "en_summary": "Halakha study surpasses prayer, even in synagogues.",
+        "heb_summary": "לימוד הלכה עולה על תפילה, אפילו בבתי כנסת.",
+        "passage_types": [
+            "PHILOSOPHIC",
+            "STORY_SAGES"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Rava"
+                },
+                {
+                    "en_name": "Rafram Bar Pappa"
+                },
+                {
+                    "en_name": "Rav Hisda"
+                },
+                {
+                    "en_name": "Rabbi Hiyya Bar Ami"
+                },
+                {
+                    "en_name": "Ulla"
+                },
+                {
+                    "en_name": "Abaye"
+                },
+                {
+                    "en_name": "Rabbi Ami"
+                },
+                {
+                    "en_name": "Rabbi Asi"
+                },
+                {
+                    "en_name": "Jacob"
+                },
+                {
+                    "en_name": "Holy One, Blessed Be He"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Zion"
+                },
+                {
+                    "en_name": "Tiberias"
+                },
+                {
+                    "en_name": "Temple"
+                },
+                {
+                    "en_name": "House"
+                },
+                {
+                    "en_name": "Synagogue"
+                },
+                {
+                    "en_name": "Study Hall"
+                },
+                {
+                    "en_name": "Between The Pillars"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Divine Presence"
+                },
+                {
+                    "en_name": "Gates Of Zion"
+                },
+                {
+                    "en_name": "Four Cubits Of Halakha"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "4",
+                    "number_category": "Measurement",
+                    "en_unit": "cubit",
+                    "en_context": "halakha study space"
+                },
+                {
+                    "en_name": "13",
+                    "number_category": "Misc",
+                    "en_unit": "synagogue",
+                    "en_context": "synagogues in tiberias"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Rafram Bar Pappa",
+                    "term2": "Rav Hisda"
+                },
+                {
+                    "term1": "Rabbi Hiyya Bar Ami",
+                    "term2": "Ulla"
+                }
+            ],
+            "spokeWith": [
+                {
+                    "term1": "Rava",
+                    "term2": "Rafram Bar Pappa"
+                }
+            ],
+            "prayedAt": [
+                {
+                    "term1": "Abaye",
+                    "term2": "House"
+                },
+                {
+                    "term1": "Abaye",
+                    "term2": "Synagogue"
+                },
+                {
+                    "term1": "Abaye",
+                    "term2": "Between The Pillars"
+                },
+                {
+                    "term1": "Rabbi Ami",
+                    "term2": "Between The Pillars"
+                },
+                {
+                    "term1": "Rabbi Asi",
+                    "term2": "Between The Pillars"
+                }
+            ],
+            "associatedWithPlace": [
+                {
+                    "term1": "Holy One, Blessed Be He",
+                    "term2": "Temple"
+                },
+                {
+                    "term1": "Rabbi Ami",
+                    "term2": "Tiberias"
+                },
+                {
+                    "term1": "Rabbi Asi",
+                    "term2": "Tiberias"
+                }
+            ],
+            "contrastedWith": [
+                {
+                    "term1": "Gates Of Zion",
+                    "term2": "Synagogue"
+                },
+                {
+                    "term1": "Gates Of Zion",
+                    "term2": "Study Hall"
+                },
+                {
+                    "term1": "Temple",
+                    "term2": "Four Cubits Of Halakha"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_8a:16-20"
+}

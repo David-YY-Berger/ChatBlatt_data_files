@@ -1,0 +1,54 @@
+﻿{
+    "res": {
+        "en_summary": "Rabbis debate Egypt's spoils and emptying.",
+        "heb_summary": "רבנים דנים בביזת מצרים וריקונה.",
+        "passage_types": [
+            "STORY_TANACH",
+            "STORY_SAGES"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Ami"
+                },
+                {
+                    "en_name": "Reish Lakish"
+                },
+                {
+                    "en_name": "Israel"
+                },
+                {
+                    "en_name": "Egyptians"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Egypt"
+                }
+            ],
+            "Nation": [
+                {
+                    "en_name": "Egypt"
+                },
+                {
+                    "en_name": "Israel"
+                }
+            ]
+        },
+        "Rel": {
+            "disagreedWith": [
+                {
+                    "term1": "Ami",
+                    "term2": "Reish Lakish"
+                }
+            ],
+            "EnemyOf": [
+                {
+                    "term1": "Israel",
+                    "term2": "Egypt"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_9b:3-5"
+}

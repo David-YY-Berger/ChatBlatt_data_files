@@ -1,0 +1,67 @@
+﻿{
+    "res": {
+        "en_summary": "Sages debate prayer juxtaposition, verses, and interruption.",
+        "heb_summary": "חכמים דנים סמיכת גאולה לתפילה ופסוקים.",
+        "passage_types": [
+            "LAW",
+            "STORY_SAGES"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Yohanan"
+                },
+                {
+                    "en_name": "Elazar"
+                },
+                {
+                    "en_name": "Ashi"
+                },
+                {
+                    "en_name": "Sages"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "World-To-Come"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Lord, Open My Lips"
+                },
+                {
+                    "en_name": "May The Words Of My Mouth And The Meditation Of My Heart Be Acceptable Before You, Lord, My Rock, And My Redeemer"
+                },
+                {
+                    "en_name": "Help Us Lie Down"
+                }
+            ]
+        },
+        "Rel": {
+            "disagreedWith": [
+                {
+                    "term1": "Elazar",
+                    "term2": "Yohanan"
+                },
+                {
+                    "term1": "Ashi",
+                    "term2": "Yohanan"
+                }
+            ],
+            "associatedWithPlace": [
+                {
+                    "term1": "Yohanan",
+                    "term2": "World-To-Come"
+                }
+            ],
+            "comparedTo": [
+                {
+                    "term1": "Lord, Open My Lips",
+                    "term2": "Help Us Lie Down"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_9b:19-24"
+}

@@ -1,0 +1,72 @@
+﻿{
+    "res": {
+        "en_summary": "Sages debate provoking wicked, reconciling scriptural contradictions.",
+        "heb_summary": "חכמים דנים בהקנטת רשעים, מיישבים סתירות במקרא.",
+        "passage_types": [
+            "LAW",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Yohanan"
+                },
+                {
+                    "en_name": "Shimon Ben Yohai"
+                },
+                {
+                    "en_name": "Maharsha"
+                },
+                {
+                    "en_name": "Dostai"
+                },
+                {
+                    "en_name": "Matun"
+                },
+                {
+                    "en_name": "Yitzhak"
+                },
+                {
+                    "en_name": "Huna"
+                },
+                {
+                    "en_name": "Habakkuk"
+                },
+                {
+                    "en_name": "Lord"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Heaven"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Torah"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Yohanan",
+                    "term2": "Shimon Ben Yohai"
+                }
+            ],
+            "childOfFather": [
+                {
+                    "term1": "Dostai",
+                    "term2": "Matun"
+                }
+            ],
+            "prophesiedAbout": [
+                {
+                    "term1": "Habakkuk",
+                    "term2": "Lord"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_7b:15-22"
+}

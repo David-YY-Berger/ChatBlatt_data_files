@@ -1,0 +1,50 @@
+﻿{
+    "res": {
+        "en_summary": "Sages discuss reward for various religious acts.",
+        "heb_summary": "חכמים דנים על שכר מצוות שונות.",
+        "passage_types": [
+            "PHILOSOPHIC",
+            "STORY_SAGES"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Zeira"
+                },
+                {
+                    "en_name": "Abaye"
+                },
+                {
+                    "en_name": "Rava"
+                },
+                {
+                    "en_name": "Pappa"
+                },
+                {
+                    "en_name": "Zutra"
+                },
+                {
+                    "en_name": "Sheshet"
+                },
+                {
+                    "en_name": "Ashi"
+                },
+                {
+                    "en_name": "Amoraim"
+                },
+                {
+                    "en_name": "Isaiah"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "58",
+                    "number_category": "Misc",
+                    "en_unit": "chapter",
+                    "en_context": "isaiah book reference"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_6b:11-17"
+}

@@ -1,0 +1,85 @@
+﻿{
+    "res": {
+        "en_summary": "Sages debate Shema recitation time and blessings.",
+        "heb_summary": "חכמים דנים זמן קריאת שמע וברכותיה.",
+        "passage_types": [
+            "LAW",
+            "STORY_SAGES"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Yehoshua"
+                },
+                {
+                    "en_name": "Yehuda"
+                },
+                {
+                    "en_name": "Shmuel"
+                },
+                {
+                    "en_name": "Hisda"
+                },
+                {
+                    "en_name": "Ukva"
+                },
+                {
+                    "en_name": "Mani"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Shema"
+                },
+                {
+                    "en_name": "Torah"
+                },
+                {
+                    "en_name": "Mitzva"
+                },
+                {
+                    "en_name": "Blessing"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "3",
+                    "number_category": "Time",
+                    "en_unit": "hour",
+                    "en_context": "shema recitation time"
+                },
+                {
+                    "en_name": "2",
+                    "number_category": "Misc",
+                    "en_unit": "blessing",
+                    "en_context": "blessings before shema"
+                },
+                {
+                    "en_name": "1",
+                    "number_category": "Misc",
+                    "en_unit": "blessing",
+                    "en_context": "blessing after shema"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Yehuda",
+                    "term2": "Shmuel"
+                },
+                {
+                    "term1": "Hisda",
+                    "term2": "Ukva"
+                }
+            ],
+            "comparedTo": [
+                {
+                    "term1": "Shema",
+                    "term2": "Torah"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_10b:31-36"
+}

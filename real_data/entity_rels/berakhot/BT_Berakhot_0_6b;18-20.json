@@ -1,0 +1,32 @@
+﻿{
+    "res": {
+        "en_summary": "Praying behind synagogue is wicked, Elijah killed man.",
+        "heb_summary": "תפילה מאחורי בית כנסת רשע, אליהו הרג איש.",
+        "passage_types": [
+            "LAW",
+            "STORY_SAGES"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Rav Huna"
+                },
+                {
+                    "en_name": "Abaye"
+                },
+                {
+                    "en_name": "Elijah"
+                }
+            ]
+        },
+        "Rel": {
+            "disagreedWith": [
+                {
+                    "term1": "Abaye",
+                    "term2": "Rav Huna"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_6b:18-20"
+}

@@ -1,0 +1,73 @@
+﻿{
+    "res": {
+        "en_summary": "Morning and evening prayer blessings, bowing during prayer.",
+        "heb_summary": "ברכות תפילה בוקר וערב, קידה בתפילה.",
+        "passage_types": [
+            "LAW",
+            "STORY_SAGES"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Rabba Bar Hinnana Sava"
+                },
+                {
+                    "en_name": "Rav"
+                },
+                {
+                    "en_name": "Shmuel"
+                },
+                {
+                    "en_name": "Hiyya Bar Rav"
+                },
+                {
+                    "en_name": "Rav Sheshet"
+                },
+                {
+                    "en_name": "God"
+                }
+            ],
+            "Animal": [
+                {
+                    "en_name": "Snake"
+                }
+            ],
+            "Plant": [
+                {
+                    "en_name": "Cane"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Rabba Bar Hinnana Sava",
+                    "term2": "Rav"
+                }
+            ],
+            "childOfFather": [
+                {
+                    "term1": "Hiyya Bar Rav",
+                    "term2": "Rav"
+                }
+            ],
+            "spokeWith": [
+                {
+                    "term1": "Shmuel",
+                    "term2": "Hiyya Bar Rav"
+                }
+            ],
+            "comparedTo": [
+                {
+                    "term1": "Rav Sheshet",
+                    "term2": "Cane"
+                },
+                {
+                    "term1": "Rav Sheshet",
+                    "term2": "Snake"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_12a:23-12b:1"
+}

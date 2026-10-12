@@ -1,0 +1,42 @@
+﻿COST: Tokens: Total=5125 approx cost=$0.004585 (Prompt=3356, Completion=1769)
+SOURCE:
+Berakhot (Zeraim) 6b:18-20
+
+HEBREW:
+אמר רב הונא: כל המתפלל אחורי בית הכנסת נקרא ״רשע״, שנאמר: ״סביב רשעים יתהלכון״.אמר אביי: לא אמרן אלא דלא מהדר אפיה לבי כנישתא, אבל מהדר אפיה לבי כנישתא — לית לן בה.ההוא גברא דקא מצלי אחורי בי כנישתא, ולא מהדר אפיה לבי כנישתא. חלף אליהו. חזייה, אידמי ליה כטייעא, אמר ליה: כדו בר קיימת קמי מרך?! שלף ספסרא וקטליה.
+
+ENGLISH:
+Back to the topic of deference for a synagogue, the Gemara records that Rav Huna said: One who prays behind the synagogue is called wicked, as while the entire congregation is facing one direction to pray, he faces the opposite direction creating the impression that he is treating the synagogue and its congregation with contempt. As it is stated: The wicked walk round about, when vileness is exalted among the sons of men (Psalms 12:9). In other words, only the wicked walk round about the synagogue in order to pray. Abaye said: This halakha was said only in a case where one does not turn his face toward the synagogue. But where he turns his face toward the synagogue and prays we have no prohibition in that case.To reinforce the gravity of this prohibition, the Gemara relates: A certain individual prayed behind the synagogue and did not turn to face the synagogue. Elijah the Prophet passed by and he saw him. He appeared to him as an Arab [ tayaa ]. Elijah said: This is how [ kadu bar ] you stand before your Master? Elijah drew a sword and killed him.
+
+EXTRACTED (JSON):
+{
+  "res": {
+    "en_summary": "Praying behind synagogue is wicked, Elijah killed man.",
+    "heb_summary": "תפילה מאחורי בית כנסת רשע, אליהו הרג איש.",
+    "passage_types": [
+      "LAW",
+      "STORY_SAGES"
+    ],
+    "Entities": {
+      "Person": [
+        {
+          "en_name": "Rav Huna"
+        },
+        {
+          "en_name": "Abaye"
+        },
+        {
+          "en_name": "Elijah"
+        }
+      ]
+    },
+    "Rel": {
+      "disagreedWith": [
+        {
+          "term1": "Abaye",
+          "term2": "Rav Huna"
+        }
+      ]
+    }
+  }
+}

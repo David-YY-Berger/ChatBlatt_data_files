@@ -1,0 +1,83 @@
+﻿{
+    "res": {
+        "en_summary": "Rav Huna's wine turned to vinegar, then restored.",
+        "heb_summary": "יין רב הונא הפך לחומץ, ואז שב.",
+        "passage_types": [
+            "STORY_SAGES",
+            "PHILOSOPHIC",
+            "LAW"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Rav Huna"
+                },
+                {
+                    "en_name": "Rav Yehuda"
+                },
+                {
+                    "en_name": "Rav Sala"
+                },
+                {
+                    "en_name": "Sages"
+                },
+                {
+                    "en_name": "Rav Adda Bar Ahava"
+                },
+                {
+                    "en_name": "Holy One Blessed Be He"
+                },
+                {
+                    "en_name": "Tenant Farmer"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "400",
+                    "number_category": "Measurement",
+                    "en_unit": "barrel",
+                    "en_context": "rav hunas wine loss"
+                }
+            ],
+            "Food": [
+                {
+                    "en_name": "Wine"
+                },
+                {
+                    "en_name": "Vinegar"
+                },
+                {
+                    "en_name": "Grape"
+                }
+            ],
+            "Plant": [
+                {
+                    "en_name": "Grapevine"
+                }
+            ]
+        },
+        "Rel": {
+            "spokeWith": [
+                {
+                    "term1": "Rav Huna",
+                    "term2": "Rav Yehuda"
+                },
+                {
+                    "term1": "Rav Huna",
+                    "term2": "Sages"
+                },
+                {
+                    "term1": "Rav Huna",
+                    "term2": "Rav Adda Bar Ahava"
+                }
+            ],
+            "contrastedWith": [
+                {
+                    "term1": "Wine",
+                    "term2": "Vinegar"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_5b:17-20"
+}

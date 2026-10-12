@@ -1,0 +1,70 @@
+﻿{
+    "res": {
+        "en_summary": "Sunset purification, day clears, priests eat teruma.",
+        "heb_summary": "שקיעת השמש, טהרת היום, כהנים אוכלים תרומה.",
+        "passage_types": [
+            "LAW"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Tosafot"
+                },
+                {
+                    "en_name": "Rabba Bar Rav Sheila"
+                },
+                {
+                    "en_name": "Priests"
+                },
+                {
+                    "en_name": "Sages"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "West"
+                },
+                {
+                    "en_name": "Eretz Yisrael"
+                },
+                {
+                    "en_name": "Babylonia"
+                }
+            ],
+            "Food": [
+                {
+                    "en_name": "Teruma"
+                }
+            ]
+        },
+        "Rel": {
+            "disagreedWith": [
+                {
+                    "term1": "Rabba Bar Rav Sheila",
+                    "term2": "Tosafot"
+                }
+            ],
+            "associatedWithPlace": [
+                {
+                    "term1": "Rabba Bar Rav Sheila",
+                    "term2": "Babylonia"
+                },
+                {
+                    "term1": "Sages",
+                    "term2": "Babylonia"
+                },
+                {
+                    "term1": "Sages",
+                    "term2": "Eretz Yisrael"
+                }
+            ],
+            "AliasOf": [
+                {
+                    "term1": "West",
+                    "term2": "Eretz Yisrael"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_2a:14-2b:4"
+}

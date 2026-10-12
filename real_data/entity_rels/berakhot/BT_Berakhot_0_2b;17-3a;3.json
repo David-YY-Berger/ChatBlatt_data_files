@@ -1,0 +1,60 @@
+﻿{
+    "res": {
+        "en_summary": "Rabbi Meir and Eliezer's Shema times reconciled.",
+        "heb_summary": "דעות רבי מאיר ואליעזר על זמן קריאת שמע.",
+        "passage_types": [
+            "LAW"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Meir"
+                },
+                {
+                    "en_name": "Priests"
+                },
+                {
+                    "en_name": "Tannaim"
+                },
+                {
+                    "en_name": "Eliezer"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "2",
+                    "number_category": "People",
+                    "en_unit": "tanna",
+                    "en_context": "differing opinions"
+                },
+                {
+                    "en_name": "1",
+                    "number_category": "Time",
+                    "en_unit": "watch",
+                    "en_context": "end of shema"
+                }
+            ],
+            "Food": [
+                {
+                    "en_name": "Teruma"
+                },
+                {
+                    "en_name": "Meal"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Tannaim",
+                    "term2": "Meir"
+                },
+                {
+                    "term1": "Tannaim",
+                    "term2": "Eliezer"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_2b:17-3a:3"
+}

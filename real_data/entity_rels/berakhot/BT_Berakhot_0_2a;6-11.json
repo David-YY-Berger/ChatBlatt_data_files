@@ -1,0 +1,83 @@
+﻿{
+    "res": {
+        "en_summary": "Gemara discusses Shema recitation order, morning versus evening.",
+        "heb_summary": "הגמרא דנה בסדר קריאת שמע, ערב מול בוקר.",
+        "passage_types": [
+            "LAW",
+            "STORY_TANACH",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Tanna"
+                },
+                {
+                    "en_name": "Priests"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Mishna"
+                },
+                {
+                    "en_name": "Gemara"
+                },
+                {
+                    "en_name": "Oral Torah"
+                },
+                {
+                    "en_name": "Written Torah"
+                },
+                {
+                    "en_name": "Shema"
+                },
+                {
+                    "en_name": "Evening Shema"
+                },
+                {
+                    "en_name": "Morning Shema"
+                },
+                {
+                    "en_name": "Morning Offering"
+                },
+                {
+                    "en_name": "Evening Offering"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "2",
+                    "number_category": "Obligation",
+                    "en_unit": "blessing",
+                    "en_context": "morning shema blessings"
+                },
+                {
+                    "en_name": "1",
+                    "number_category": "Obligation",
+                    "en_unit": "blessing",
+                    "en_context": "morning shema blessings"
+                }
+            ]
+        },
+        "Rel": {
+            "comparedTo": [
+                {
+                    "term1": "Oral Torah",
+                    "term2": "Written Torah"
+                },
+                {
+                    "term1": "Morning Offering",
+                    "term2": "Evening Offering"
+                }
+            ],
+            "contrastedWith": [
+                {
+                    "term1": "Evening Shema",
+                    "term2": "Morning Shema"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_2a:6-11"
+}

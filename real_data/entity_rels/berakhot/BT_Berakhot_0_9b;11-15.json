@@ -1,0 +1,107 @@
+﻿{
+    "res": {
+        "en_summary": "Shema, phylacteries, and prayer times discussed by Sages.",
+        "heb_summary": "זמן קריאת שמע, תפילין ותפילה נדונים על ידי חכמים.",
+        "passage_types": [
+            "LAW",
+            "STORY_SAGES"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Rabbi Meir"
+                },
+                {
+                    "en_name": "Rabbi Akiva"
+                },
+                {
+                    "en_name": "Aherim"
+                },
+                {
+                    "en_name": "Rav Huna"
+                },
+                {
+                    "en_name": "Abaye"
+                },
+                {
+                    "en_name": "Vatikin"
+                },
+                {
+                    "en_name": "Rabbi Yohanan"
+                },
+                {
+                    "en_name": "Rabbi Zeira"
+                },
+                {
+                    "en_name": "God"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Ritual Fringes"
+                },
+                {
+                    "en_name": "Phylacteries"
+                },
+                {
+                    "en_name": "Blessing Of Redemption"
+                },
+                {
+                    "en_name": "Prayer"
+                },
+                {
+                    "en_name": "Shema"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "4",
+                    "number_category": "Measurement",
+                    "en_unit": "cubit",
+                    "en_context": "distance for recognition"
+                }
+            ],
+            "Animal": [
+                {
+                    "en_name": "Wolf"
+                },
+                {
+                    "en_name": "Dog"
+                },
+                {
+                    "en_name": "Donkey"
+                },
+                {
+                    "en_name": "Wild Donkey"
+                }
+            ]
+        },
+        "Rel": {
+            "disagreedWith": [
+                {
+                    "term1": "Rabbi Meir",
+                    "term2": "Rabbi Akiva"
+                },
+                {
+                    "term1": "Rabbi Meir",
+                    "term2": "Aherim"
+                },
+                {
+                    "term1": "Rabbi Akiva",
+                    "term2": "Aherim"
+                }
+            ],
+            "comparedTo": [
+                {
+                    "term1": "Wolf",
+                    "term2": "Dog"
+                },
+                {
+                    "term1": "Donkey",
+                    "term2": "Wild Donkey"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_9b:11-15"
+}

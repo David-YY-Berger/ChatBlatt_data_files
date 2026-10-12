@@ -1,0 +1,38 @@
+﻿COST: Tokens: Total=4645 approx cost=$0.003700 (Prompt=3213, Completion=1432)
+SOURCE:
+Berakhot (Zeraim) 4b:27-5a:1
+
+HEBREW:
+אם תלמיד חכם הוא — אין צריך. אמר אביי: אף תלמיד חכם מיבעי ליה למימר חד פסוקא דרחמי, כגון: ״בידך אפקיד רוחי, פדיתה אותי ה׳ אל אמת״.
+
+ENGLISH:
+If one is a Torah scholar, he need not recite Shema on his bed since he is always engaged in the study of Torah and will likely fall asleep engrossed in matters of Torah. Abaye said: Even a Torah scholar must recite at least one verse of prayer, such as: Into Your hand I trust my spirit; You have redeemed me, Lord, God of truth (Psalms 31:6).
+
+EXTRACTED (JSON):
+{
+  "res": {
+    "en_summary": "Torah scholar's bedtime Shema recitation",
+    "heb_summary": "תלמיד חכם ותפילת שמע לפני השינה",
+    "passage_types": [
+      "LAW"
+    ],
+    "Entities": {
+      "Person": [
+        {
+          "en_name": "Torah Scholar"
+        },
+        {
+          "en_name": "Abaye"
+        }
+      ],
+      "Number": [
+        {
+          "en_name": "1",
+          "number_category": "Misc",
+          "en_unit": "verse",
+          "en_context": "bedtime prayer"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,113 @@
+﻿{
+    "res": {
+        "en_summary": "God's anger, rooster's crest, Rabbi Yehoshua ben Levi.",
+        "heb_summary": "כעס ה', כרבולת התרנגול, רבי יהושע בן לוי.",
+        "passage_types": [
+            "STORY_SAGES",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Abaye"
+                },
+                {
+                    "en_name": "Holy One, Blessed Be He"
+                },
+                {
+                    "en_name": "Rabbi Yehoshua Ben Levi"
+                },
+                {
+                    "en_name": "Heretic"
+                },
+                {
+                    "en_name": "Rabbi Meir"
+                },
+                {
+                    "en_name": "Kings Of The East And The West"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "East"
+                },
+                {
+                    "en_name": "West"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Crown"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "3",
+                    "number_category": "Time",
+                    "en_unit": "hour",
+                    "en_context": "early day"
+                },
+                {
+                    "en_name": "1",
+                    "number_category": "Misc",
+                    "en_unit": "leg",
+                    "en_context": "rooster posture"
+                },
+                {
+                    "en_name": "145",
+                    "number_category": "Misc",
+                    "en_unit": "psalm",
+                    "en_context": "psalms verse reference"
+                },
+                {
+                    "en_name": "9",
+                    "number_category": "Misc",
+                    "en_unit": "verse",
+                    "en_context": "psalms verse number"
+                },
+                {
+                    "en_name": "17",
+                    "number_category": "Misc",
+                    "en_unit": "proverb",
+                    "en_context": "proverbs verse reference"
+                },
+                {
+                    "en_name": "26",
+                    "number_category": "Misc",
+                    "en_unit": "verse",
+                    "en_context": "proverbs verse number"
+                }
+            ],
+            "Animal": [
+                {
+                    "en_name": "Rooster"
+                }
+            ]
+        },
+        "Rel": {
+            "disagreedWith": [
+                {
+                    "term1": "Heretic",
+                    "term2": "Rabbi Yehoshua Ben Levi"
+                }
+            ],
+            "associatedWithPlace": [
+                {
+                    "term1": "Kings Of The East And The West",
+                    "term2": "East"
+                },
+                {
+                    "term1": "Kings Of The East And The West",
+                    "term2": "West"
+                }
+            ],
+            "EnemyOf": [
+                {
+                    "term1": "Heretic",
+                    "term2": "Rabbi Yehoshua Ben Levi"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_7a:16-21"
+}

@@ -1,0 +1,111 @@
+﻿{
+    "res": {
+        "en_summary": "Hezekiah's six innovations, Sages disagreed with three.",
+        "heb_summary": "שישה חידושי חזקיהו, חכמים הסכימו על שלושה.",
+        "passage_types": [
+            "STORY_TANACH",
+            "LAW",
+            "STORY_SAGES"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Hezekiah"
+                },
+                {
+                    "en_name": "Sages"
+                },
+                {
+                    "en_name": "Ahaz"
+                },
+                {
+                    "en_name": "Israel"
+                },
+                {
+                    "en_name": "Shmuel"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Gihon"
+                },
+                {
+                    "en_name": "Pool Of Siloam"
+                },
+                {
+                    "en_name": "Sanctuary"
+                }
+            ],
+            "Nation": [
+                {
+                    "en_name": "Assyria"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Book Of Remedies"
+                },
+                {
+                    "en_name": "Copper Snake"
+                },
+                {
+                    "en_name": "Doors Of The Sanctuary"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "6",
+                    "number_category": "Misc",
+                    "en_unit": "action",
+                    "en_context": "hezekiah's innovative actions"
+                },
+                {
+                    "en_name": "3",
+                    "number_category": "Misc",
+                    "en_unit": "action",
+                    "en_context": "sages agreed with hezekiah"
+                },
+                {
+                    "en_name": "30",
+                    "number_category": "Time",
+                    "en_unit": "day",
+                    "en_context": "adar intercalation"
+                }
+            ],
+            "Animal": [
+                {
+                    "en_name": "Snake"
+                }
+            ]
+        },
+        "Rel": {
+            "childOfFather": [
+                {
+                    "term1": "Hezekiah",
+                    "term2": "Ahaz"
+                }
+            ],
+            "disagreedWith": [
+                {
+                    "term1": "Sages",
+                    "term2": "Hezekiah"
+                }
+            ],
+            "associatedWithPlace": [
+                {
+                    "term1": "Hezekiah",
+                    "term2": "Gihon"
+                },
+                {
+                    "term1": "Hezekiah",
+                    "term2": "Pool Of Siloam"
+                },
+                {
+                    "term1": "Hezekiah",
+                    "term2": "Sanctuary"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_10b:6-10"
+}

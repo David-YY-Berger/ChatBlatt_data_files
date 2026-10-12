@@ -1,0 +1,141 @@
+﻿{
+    "res": {
+        "en_summary": "Sages praise Medes, Persians' conduct, discuss prophecy.",
+        "heb_summary": "חכמים מהללים מנהגי מדי ופרס, דנים בנבואה.",
+        "passage_types": [
+            "LAW",
+            "STORY_TANACH",
+            "STORY_SAGES",
+            "PHILOSOPHIC",
+            "PROPHECY"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Rava"
+                },
+                {
+                    "en_name": "Akiva"
+                },
+                {
+                    "en_name": "Adda Bar Ahava"
+                },
+                {
+                    "en_name": "Jacob"
+                },
+                {
+                    "en_name": "Rachel"
+                },
+                {
+                    "en_name": "Leah"
+                },
+                {
+                    "en_name": "Gamliel"
+                },
+                {
+                    "en_name": "Yosef"
+                },
+                {
+                    "en_name": "God"
+                },
+                {
+                    "en_name": "Consecrated Ones"
+                },
+                {
+                    "en_name": "Mighty Ones"
+                },
+                {
+                    "en_name": "Proudly Exulting Ones"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Field"
+                },
+                {
+                    "en_name": "Gehenna"
+                },
+                {
+                    "en_name": "Babylonia"
+                }
+            ],
+            "Nation": [
+                {
+                    "en_name": "Media"
+                },
+                {
+                    "en_name": "Persia"
+                },
+                {
+                    "en_name": "Babylon"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "3",
+                    "number_category": "Misc",
+                    "en_unit": "aspect",
+                    "en_context": "conduct of medes"
+                }
+            ],
+            "Food": [
+                {
+                    "en_name": "Meat"
+                }
+            ]
+        },
+        "Rel": {
+            "spouseOf": [
+                {
+                    "term1": "Rachel",
+                    "term2": "Jacob"
+                },
+                {
+                    "term1": "Leah",
+                    "term2": "Jacob"
+                }
+            ],
+            "spokeWith": [
+                {
+                    "term1": "Jacob",
+                    "term2": "Rachel"
+                },
+                {
+                    "term1": "Jacob",
+                    "term2": "Leah"
+                }
+            ],
+            "associatedWithPlace": [
+                {
+                    "term1": "Jacob",
+                    "term2": "Field"
+                },
+                {
+                    "term1": "Rachel",
+                    "term2": "Field"
+                },
+                {
+                    "term1": "Leah",
+                    "term2": "Field"
+                }
+            ],
+            "placeToNation": [
+                {
+                    "term1": "Babylonia",
+                    "term2": "Babylon"
+                }
+            ],
+            "prophesiedAbout": [
+                {
+                    "term1": "God",
+                    "term2": "Gehenna"
+                },
+                {
+                    "term1": "God",
+                    "term2": "Babylon"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_8b:13-16"
+}

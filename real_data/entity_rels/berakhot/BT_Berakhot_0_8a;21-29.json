@@ -1,0 +1,126 @@
+﻿{
+    "res": {
+        "en_summary": "Sages discuss labor, teachers, and synagogue conduct.",
+        "heb_summary": "חכמים דנים בעבודה, רבנים, והתנהגות בבית כנסת.",
+        "passage_types": [
+            "STORY_SAGES",
+            "LAW",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Hiyya Bar Ami"
+                },
+                {
+                    "en_name": "Ulla"
+                },
+                {
+                    "en_name": "Shimi Ben Gera"
+                },
+                {
+                    "en_name": "Solomon"
+                },
+                {
+                    "en_name": "Pharaoh's Daughter"
+                },
+                {
+                    "en_name": "Rav Huna Bar Yehuda"
+                },
+                {
+                    "en_name": "Menahem"
+                },
+                {
+                    "en_name": "Ami"
+                },
+                {
+                    "en_name": "Abbahu"
+                },
+                {
+                    "en_name": "Rav Pappa"
+                },
+                {
+                    "en_name": "Rav Sheshet"
+                },
+                {
+                    "en_name": "God"
+                },
+                {
+                    "en_name": "Isaiah"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "World-To-Come"
+                },
+                {
+                    "en_name": "Synagogue"
+                }
+            ],
+            "Nation": [
+                {
+                    "en_name": "Egypt"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Torah Scroll"
+                },
+                {
+                    "en_name": "Oral Torah"
+                },
+                {
+                    "en_name": "Written Torah"
+                },
+                {
+                    "en_name": "Torah"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Hiyya Bar Ami",
+                    "term2": "Ulla"
+                },
+                {
+                    "term1": "Rav Huna Bar Yehuda",
+                    "term2": "Menahem"
+                },
+                {
+                    "term1": "Menahem",
+                    "term2": "Ami"
+                }
+            ],
+            "spouseOf": [
+                {
+                    "term1": "Solomon",
+                    "term2": "Pharaoh's Daughter"
+                }
+            ],
+            "visited": [
+                {
+                    "term1": "Abbahu",
+                    "term2": "Synagogue"
+                },
+                {
+                    "term1": "Rav Sheshet",
+                    "term2": "Synagogue"
+                }
+            ],
+            "personBelongsToNation": [
+                {
+                    "term1": "Pharaoh's Daughter",
+                    "term2": "Egypt"
+                }
+            ],
+            "prophesiedAbout": [
+                {
+                    "term1": "Isaiah",
+                    "term2": "God"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_8a:21-29"
+}

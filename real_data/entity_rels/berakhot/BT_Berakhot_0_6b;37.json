@@ -1,0 +1,29 @@
+﻿{
+    "res": {
+        "en_summary": "Obligation to greet others and return greetings",
+        "heb_summary": "חובת הקדמת שלום והשבתו לאדם",
+        "passage_types": [
+            "LAW",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Helbo"
+                },
+                {
+                    "en_name": "Huna"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Helbo",
+                    "term2": "Huna"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_6b:37"
+}

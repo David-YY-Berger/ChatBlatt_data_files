@@ -1,0 +1,24 @@
+﻿{
+    "res": {
+        "en_summary": "Rabbis establish Shema fence to prevent transgression.",
+        "heb_summary": "חכמים גזרו גדר לשמע למנוע עבירה.",
+        "passage_types": [
+            "LAW",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Gamliel"
+                },
+                {
+                    "en_name": "Rabbis"
+                },
+                {
+                    "en_name": "Sages"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_4a:19-4b:5"
+}

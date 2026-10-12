@@ -1,0 +1,165 @@
+﻿{
+    "res": {
+        "en_summary": "Sages discuss Elisha's room, holiness, and accepting gifts.",
+        "heb_summary": "חכמים דנים בחדר אלישע, קדושתו, וקבלת מתנות.",
+        "passage_types": [
+            "STORY_TANACH",
+            "STORY_SAGES",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Elisha"
+                },
+                {
+                    "en_name": "Woman From Shunem"
+                },
+                {
+                    "en_name": "Husband"
+                },
+                {
+                    "en_name": "Rav"
+                },
+                {
+                    "en_name": "Shmuel"
+                },
+                {
+                    "en_name": "Abaye"
+                },
+                {
+                    "en_name": "Yitzhak"
+                },
+                {
+                    "en_name": "Samuel"
+                },
+                {
+                    "en_name": "Yohanan"
+                },
+                {
+                    "en_name": "Yosei Son Of Hanina"
+                },
+                {
+                    "en_name": "Geihazi"
+                },
+                {
+                    "en_name": "Eliezer Ben Yaakov"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Shunem"
+                },
+                {
+                    "en_name": "Rama"
+                }
+            ],
+            "Nation": [
+                {
+                    "en_name": "Israel"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Bed"
+                },
+                {
+                    "en_name": "Table"
+                },
+                {
+                    "en_name": "Stool"
+                },
+                {
+                    "en_name": "Candlestick"
+                },
+                {
+                    "en_name": "White Linen Sheet"
+                },
+                {
+                    "en_name": "Altar"
+                },
+                {
+                    "en_name": "Daily Offering"
+                }
+            ],
+            "Animal": [
+                {
+                    "en_name": "Fly"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Yosei Son Of Hanina",
+                    "term2": "Eliezer Ben Yaakov"
+                }
+            ],
+            "spouseOf": [
+                {
+                    "term1": "Woman From Shunem",
+                    "term2": "Husband"
+                }
+            ],
+            "spokeWith": [
+                {
+                    "term1": "Woman From Shunem",
+                    "term2": "Husband"
+                },
+                {
+                    "term1": "Geihazi",
+                    "term2": "Woman From Shunem"
+                }
+            ],
+            "disagreedWith": [
+                {
+                    "term1": "Rav",
+                    "term2": "Shmuel"
+                }
+            ],
+            "visited": [
+                {
+                    "term1": "Elisha",
+                    "term2": "Shunem"
+                }
+            ],
+            "associatedWithPlace": [
+                {
+                    "term1": "Woman From Shunem",
+                    "term2": "Shunem"
+                },
+                {
+                    "term1": "Husband",
+                    "term2": "Shunem"
+                },
+                {
+                    "term1": "Samuel",
+                    "term2": "Rama"
+                }
+            ],
+            "personBelongsToNation": [
+                {
+                    "term1": "Samuel",
+                    "term2": "Israel"
+                }
+            ],
+            "placeToNation": [
+                {
+                    "term1": "Rama",
+                    "term2": "Israel"
+                }
+            ],
+            "contrastedWith": [
+                {
+                    "term1": "Elisha",
+                    "term2": "Samuel"
+                },
+                {
+                    "term1": "Elisha",
+                    "term2": "Geihazi"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_10b:14-25"
+}

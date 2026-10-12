@@ -1,0 +1,150 @@
+﻿{
+    "res": {
+        "en_summary": "Rejoicing groom earns Torah, rebuilds Jerusalem, thanks-offering.",
+        "heb_summary": "שמחת חתן זוכה לתורה, בונה ירושלים, קרבן תודה.",
+        "passage_types": [
+            "STORY_SAGES",
+            "LAW",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Helbo"
+                },
+                {
+                    "en_name": "Huna"
+                },
+                {
+                    "en_name": "Groom"
+                },
+                {
+                    "en_name": "Bride"
+                },
+                {
+                    "en_name": "Yehoshua Ben Levi"
+                },
+                {
+                    "en_name": "Moses"
+                },
+                {
+                    "en_name": "God"
+                },
+                {
+                    "en_name": "Abbahu"
+                },
+                {
+                    "en_name": "Nahman Bar Yitzhak"
+                },
+                {
+                    "en_name": "Yoshiyahu Pinto"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Sinai"
+                },
+                {
+                    "en_name": "Jerusalem"
+                },
+                {
+                    "en_name": "Temple"
+                },
+                {
+                    "en_name": "House Of The Lord"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Voice Of Joy"
+                },
+                {
+                    "en_name": "Voice Of Gladness"
+                },
+                {
+                    "en_name": "Voice Of Groom"
+                },
+                {
+                    "en_name": "Voice Of Bride"
+                },
+                {
+                    "en_name": "Voice Of Those Who Say: Give Thanks To The Lord Of Hosts"
+                },
+                {
+                    "en_name": "Torah"
+                },
+                {
+                    "en_name": "Wedding Day"
+                },
+                {
+                    "en_name": "Day Of Revelation At Sinai"
+                },
+                {
+                    "en_name": "Shofar"
+                },
+                {
+                    "en_name": "Lightning"
+                },
+                {
+                    "en_name": "Thick Cloud"
+                },
+                {
+                    "en_name": "Thanks-Offering"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "5",
+                    "number_category": "People",
+                    "en_unit": "voice",
+                    "en_context": "groom's feast violation"
+                },
+                {
+                    "en_name": "3",
+                    "number_category": "Time",
+                    "en_unit": "day",
+                    "en_context": "sinai revelation"
+                },
+                {
+                    "en_name": "2",
+                    "number_category": "People",
+                    "en_unit": "sound",
+                    "en_context": "sinai revelation kolot"
+                },
+                {
+                    "en_name": "1",
+                    "number_category": "People",
+                    "en_unit": "sound",
+                    "en_context": "sinai revelation first shofar"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Helbo",
+                    "term2": "Huna"
+                }
+            ],
+            "spokeWith": [
+                {
+                    "term1": "Moses",
+                    "term2": "God"
+                }
+            ],
+            "comparedTo": [
+                {
+                    "term1": "Wedding Day",
+                    "term2": "Day Of Revelation At Sinai"
+                }
+            ],
+            "AliasOf": [
+                {
+                    "term1": "Temple",
+                    "term2": "House Of The Lord"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_6b:29-33"
+}

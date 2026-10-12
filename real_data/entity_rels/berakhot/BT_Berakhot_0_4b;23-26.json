@@ -1,0 +1,99 @@
+﻿{
+    "res": {
+        "en_summary": "Angels' flight speeds contrasted by sages' teachings",
+        "heb_summary": "מהירות תעופת מלאכים נלמדת מדברי חכמים",
+        "passage_types": [
+            "STORY_SAGES",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Elazar"
+                },
+                {
+                    "en_name": "Avina"
+                },
+                {
+                    "en_name": "Elazar Bar Avina"
+                },
+                {
+                    "en_name": "Michael"
+                },
+                {
+                    "en_name": "Gabriel"
+                },
+                {
+                    "en_name": "Yohanan"
+                },
+                {
+                    "en_name": "Elijah"
+                },
+                {
+                    "en_name": "Angel Of Death"
+                },
+                {
+                    "en_name": "Isaiah"
+                },
+                {
+                    "en_name": "Daniel"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "1",
+                    "number_category": "Measurement",
+                    "en_unit": "flight",
+                    "en_context": "michael angel travel speed"
+                },
+                {
+                    "en_name": "2",
+                    "number_category": "Measurement",
+                    "en_unit": "flight",
+                    "en_context": "gabriel angel travel speed"
+                },
+                {
+                    "en_name": "4",
+                    "number_category": "Measurement",
+                    "en_unit": "flight",
+                    "en_context": "elijah angel travel speed"
+                },
+                {
+                    "en_name": "8",
+                    "number_category": "Measurement",
+                    "en_unit": "flight",
+                    "en_context": "angel of death travel speed"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Elazar",
+                    "term2": "Avina"
+                }
+            ],
+            "contrastedWith": [
+                {
+                    "term1": "Michael",
+                    "term2": "Gabriel"
+                },
+                {
+                    "term1": "Gabriel",
+                    "term2": "Elijah"
+                },
+                {
+                    "term1": "Elijah",
+                    "term2": "Angel Of Death"
+                }
+            ],
+            "AliasOf": [
+                {
+                    "term1": "Elazar Bar Avina",
+                    "term2": "Elazar"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_4b:23-26"
+}

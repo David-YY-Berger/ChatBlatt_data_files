@@ -1,0 +1,76 @@
+﻿{
+    "res": {
+        "en_summary": "Moses requested God's presence, distinction, and ways.",
+        "heb_summary": "משה ביקש נוכחות אלוהית, הבדלה ודרכים.",
+        "passage_types": [
+            "STORY_TANACH",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Moses"
+                },
+                {
+                    "en_name": "Yohanan"
+                },
+                {
+                    "en_name": "Yosei"
+                },
+                {
+                    "en_name": "God"
+                },
+                {
+                    "en_name": "Israel"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "Earth"
+                }
+            ],
+            "Nation": [
+                {
+                    "en_name": "Israel"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Divine Presence"
+                },
+                {
+                    "en_name": "Your Ways"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "3",
+                    "number_category": "Misc",
+                    "en_unit": "request",
+                    "en_context": "moses requests from god"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Yohanan",
+                    "term2": "Yosei"
+                }
+            ],
+            "spokeWith": [
+                {
+                    "term1": "Moses",
+                    "term2": "God"
+                }
+            ],
+            "personBelongsToNation": [
+                {
+                    "term1": "Moses",
+                    "term2": "Israel"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_7a:23-25"
+}

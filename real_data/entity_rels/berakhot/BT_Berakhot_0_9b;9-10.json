@@ -1,0 +1,41 @@
+﻿{
+    "res": {
+        "en_summary": "Morning Shema recitation times, distinguishing colors.",
+        "heb_summary": "זמני קריאת שמע בבוקר, הבחנה בין צבעים.",
+        "passage_types": [
+            "LAW"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Eliezer"
+                },
+                {
+                    "en_name": "Yehoshua"
+                },
+                {
+                    "en_name": "Kings"
+                }
+            ],
+            "Number": [
+                {
+                    "en_name": "3",
+                    "number_category": "Time",
+                    "en_unit": "hour",
+                    "en_context": "shema recitation period"
+                }
+            ],
+            "Food": [
+                {
+                    "en_name": "Leek"
+                }
+            ],
+            "Plant": [
+                {
+                    "en_name": "Leek"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_9b:9-10"
+}

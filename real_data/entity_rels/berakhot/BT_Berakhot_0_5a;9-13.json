@@ -1,0 +1,53 @@
+﻿{
+    "res": {
+        "en_summary": "Suffering, Torah study, and God's love.",
+        "heb_summary": "ייסורים, לימוד תורה, ואהבת ה'.",
+        "passage_types": [
+            "PHILOSOPHIC",
+            "STORY_SAGES"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Rava"
+                },
+                {
+                    "en_name": "Hisda"
+                },
+                {
+                    "en_name": "Sehora"
+                },
+                {
+                    "en_name": "Huna"
+                },
+                {
+                    "en_name": "God"
+                }
+            ],
+            "Symbol": [
+                {
+                    "en_name": "Torah"
+                },
+                {
+                    "en_name": "Guilt-Offering"
+                },
+                {
+                    "en_name": "Revelation Of God's Will"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Rava",
+                    "term2": "Sehora"
+                },
+                {
+                    "term1": "Sehora",
+                    "term2": "Huna"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_5a:9-13"
+}

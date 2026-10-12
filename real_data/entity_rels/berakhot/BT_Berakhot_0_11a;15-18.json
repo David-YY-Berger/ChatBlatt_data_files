@@ -1,0 +1,61 @@
+﻿{
+    "res": {
+        "en_summary": "Sages debate Shema recitation positions, Hillel vs Shammai.",
+        "heb_summary": "חכמים דנים עמדות קריאת שמע, הלל נגד שמאי.",
+        "passage_types": [
+            "STORY_SAGES",
+            "LAW"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "Beit Hillel"
+                },
+                {
+                    "en_name": "Beit Shammai"
+                },
+                {
+                    "en_name": "Yishmael"
+                },
+                {
+                    "en_name": "Elazar Ben Azarya"
+                },
+                {
+                    "en_name": "Students"
+                },
+                {
+                    "en_name": "Rashba"
+                }
+            ]
+        },
+        "Rel": {
+            "studiedFrom": [
+                {
+                    "term1": "Yishmael",
+                    "term2": "Beit Hillel"
+                },
+                {
+                    "term1": "Elazar Ben Azarya",
+                    "term2": "Beit Hillel"
+                }
+            ],
+            "disagreedWith": [
+                {
+                    "term1": "Yishmael",
+                    "term2": "Elazar Ben Azarya"
+                },
+                {
+                    "term1": "Beit Hillel",
+                    "term2": "Beit Shammai"
+                }
+            ],
+            "contrastedWith": [
+                {
+                    "term1": "Beit Hillel",
+                    "term2": "Beit Shammai"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_11a:15-18"
+}

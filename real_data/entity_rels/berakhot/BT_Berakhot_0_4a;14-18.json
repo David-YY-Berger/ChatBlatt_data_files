@@ -1,0 +1,144 @@
+﻿{
+    "res": {
+        "en_summary": "David's piety, Jacob's fear, God's promise.",
+        "heb_summary": "חסידות דוד, פחד יעקב, הבטחת ה'.",
+        "passage_types": [
+            "STORY_TANACH",
+            "PHILOSOPHIC"
+        ],
+        "Entities": {
+            "Person": [
+                {
+                    "en_name": "David"
+                },
+                {
+                    "en_name": "Rabbi Yosei"
+                },
+                {
+                    "en_name": "Holy One Blessed Be He"
+                },
+                {
+                    "en_name": "Jacob"
+                },
+                {
+                    "en_name": "Esau"
+                },
+                {
+                    "en_name": "Rabbi Yaakov Bar Idi"
+                },
+                {
+                    "en_name": "Joshua"
+                },
+                {
+                    "en_name": "Ezra"
+                },
+                {
+                    "en_name": "Sages"
+                },
+                {
+                    "en_name": "Israel"
+                }
+            ],
+            "Place": [
+                {
+                    "en_name": "World-To-Come"
+                },
+                {
+                    "en_name": "Land Of The Living"
+                },
+                {
+                    "en_name": "Canaan"
+                },
+                {
+                    "en_name": "Eretz Yisrael"
+                },
+                {
+                    "en_name": "Babylonia"
+                }
+            ],
+            "Nation": [
+                {
+                    "en_name": "Israel"
+                },
+                {
+                    "en_name": "Babylonia"
+                }
+            ]
+        },
+        "Rel": {
+            "spokeWith": [
+                {
+                    "term1": "David",
+                    "term2": "Holy One Blessed Be He"
+                },
+                {
+                    "term1": "Jacob",
+                    "term2": "Holy One Blessed Be He"
+                }
+            ],
+            "visited": [
+                {
+                    "term1": "Jacob",
+                    "term2": "Canaan"
+                },
+                {
+                    "term1": "Israel",
+                    "term2": "Eretz Yisrael"
+                }
+            ],
+            "associatedWithPlace": [
+                {
+                    "term1": "David",
+                    "term2": "Land Of The Living"
+                },
+                {
+                    "term1": "Holy One Blessed Be He",
+                    "term2": "World-To-Come"
+                },
+                {
+                    "term1": "Holy One Blessed Be He",
+                    "term2": "Land Of The Living"
+                },
+                {
+                    "term1": "Holy One Blessed Be He",
+                    "term2": "Eretz Yisrael"
+                }
+            ],
+            "personBelongsToNation": [
+                {
+                    "term1": "David",
+                    "term2": "Israel"
+                },
+                {
+                    "term1": "Jacob",
+                    "term2": "Israel"
+                },
+                {
+                    "term1": "Joshua",
+                    "term2": "Israel"
+                },
+                {
+                    "term1": "Ezra",
+                    "term2": "Israel"
+                }
+            ],
+            "EnemyOf": [
+                {
+                    "term1": "Jacob",
+                    "term2": "Esau"
+                }
+            ],
+            "placeToNation": [
+                {
+                    "term1": "Canaan",
+                    "term2": "Israel"
+                },
+                {
+                    "term1": "Eretz Yisrael",
+                    "term2": "Israel"
+                }
+            ]
+        }
+    },
+    "key": "BT_Berakhot_0_4a:14-18"
+}
