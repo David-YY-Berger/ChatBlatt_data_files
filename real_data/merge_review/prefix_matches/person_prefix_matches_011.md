@@ -2,25 +2,17 @@
 
 Persons whose names are identical once a title prefix is removed (e.g. `akiva`, `rabbi akiva`, `rav akiva`). These are the most likely duplicates.
 
-**How to review:** under each group tick `[x]` on exactly ONE line:
-- `- [x] merge` - these entities are the same; merge them into one.
-- `- [x] dont merge` - they are different; keep them separate.
-Leave both unticked to decide later (undecided groups are ignored). Tip: to merge most groups,
-just tick `dont merge` on the few exceptions (and vice versa) - a later step can apply a default
-to the unticked rest. Do not edit the `<!-- merge-group: ... -->` comments (machine-readable).
+This file contains entity details only. Make prefix merge decisions in the consolidated `confidence_person_prefix_matches.md` file.
 
 Groups in this file: 38
 
 ---
 
 <details>
-<summary><b>Group 336: "yosei" (15 entities)</b> - undecided</summary>
+<summary><b>Group 336: "yosei" (15 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:yosei", "kind": "prefix", "keys": ["6ae9a9cd2d4f0e70e49efe4c", "6ae9c65019b5b1a9270047d6", "6ae9c66819b5b1a927004806", "6aea0ee9277ed6220976a813", "6aea43cd77173b9acdf273e0", "6aea9ac4696908d81587563c", "6ae9b5fb2d4f0e70e49f0acd", "6ae9aa0c2d4f0e70e49eff51", "6ae9ac072d4f0e70e49f05b9", "6ae9ac5a2d4f0e70e49f06aa", "6aea0f72277ed6220976a901", "6aea1943277ed6220976b08b", "6aea493477173b9acdf27676", "6aeaa7d8696908d815876135", "6aeaac23696908d8158763b1"]} -->
 Suggested final display name: `yosei`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rabbi yosei` (key: `6ae9a9cd2d4f0e70e49efe4c`)
 - Hebrew name: רבי יוסי
@@ -252,13 +244,10 @@ Suggested final display name: `yosei`
 ---
 
 <details>
-<summary><b>Group 337: "yosei bar avin" (3 entities)</b> - undecided</summary>
+<summary><b>Group 337: "yosei bar avin" (3 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:yosei bar avin", "kind": "prefix", "keys": ["6ae9ab162d4f0e70e49f0300", "6aea9428696908d815875405", "6ae9aab62d4f0e70e49f01b6"]} -->
 Suggested final display name: `yosei bar avin`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rabbi yosei bar avin` (key: `6ae9ab162d4f0e70e49f0300`)
 - Hebrew name: רבי יוסי בר אבין
@@ -298,13 +287,10 @@ Suggested final display name: `yosei bar avin`
 ---
 
 <details>
-<summary><b>Group 338: "yosei bar hanina" (2 entities)</b> - undecided</summary>
+<summary><b>Group 338: "yosei bar hanina" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:yosei bar hanina", "kind": "prefix", "keys": ["6ae9b5782d4f0e70e49f0982", "6ae9ac7b2d4f0e70e49f06fc"]} -->
 Suggested final display name: `yosei bar hanina`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rabbi yosei bar hanina` (key: `6ae9b5782d4f0e70e49f0982`)
 - Hebrew name: רבי יוסי בר חנינא
@@ -341,13 +327,10 @@ Suggested final display name: `yosei bar hanina`
 ---
 
 <details>
-<summary><b>Group 339: "yosei bar rabbi hanina" (2 entities)</b> - undecided</summary>
+<summary><b>Group 339: "yosei bar rabbi hanina" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:yosei bar rabbi hanina", "kind": "prefix", "keys": ["6aea9b90696908d815875792", "6ae9ac6e2d4f0e70e49f06dd"]} -->
 Suggested final display name: `yosei bar rabbi hanina`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rabbi yosei bar rabbi hanina` (key: `6aea9b90696908d815875792`)
 - Hebrew name: רבי יוסי בר רבי חנינא
@@ -372,13 +355,10 @@ Suggested final display name: `yosei bar rabbi hanina`
 ---
 
 <details>
-<summary><b>Group 340: "yosei bar yehuda" (3 entities)</b> - undecided</summary>
+<summary><b>Group 340: "yosei bar yehuda" (3 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:yosei bar yehuda", "kind": "prefix", "keys": ["6ae9b8872d4f0e70e49f10d2", "6aea229a277ed6220976b576", "6ae9b77a2d4f0e70e49f0e67"]} -->
 Suggested final display name: `yosei bar yehuda`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rabbi yosei bar yehuda` (key: `6ae9b8872d4f0e70e49f10d2`)
 - Hebrew name: רבי יוסי בר יהודה
@@ -414,13 +394,10 @@ Suggested final display name: `yosei bar yehuda`
 ---
 
 <details>
-<summary><b>Group 341: "yosei bar zevida" (2 entities)</b> - undecided</summary>
+<summary><b>Group 341: "yosei bar zevida" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:yosei bar zevida", "kind": "prefix", "keys": ["6ae9ab162d4f0e70e49f0301", "6ae9abb72d4f0e70e49f04e3"]} -->
 Suggested final display name: `yosei bar zevida`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rabbi yosei bar zevida` (key: `6ae9ab162d4f0e70e49f0301`)
 - Hebrew name: רבי יוסי בר זבידא
@@ -446,13 +423,10 @@ Suggested final display name: `yosei bar zevida`
 ---
 
 <details>
-<summary><b>Group 342: "yosei ben durmaskit" (2 entities)</b> - undecided</summary>
+<summary><b>Group 342: "yosei ben durmaskit" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:yosei ben durmaskit", "kind": "prefix", "keys": ["6aea017d36d4ca9dc9d89dc1", "6aeaa2a4696908d815875c9e"]} -->
 Suggested final display name: `yosei ben durmaskit`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rabbi yosei ben durmaskit` (key: `6aea017d36d4ca9dc9d89dc1`)
 - Hebrew name: רבי יוסי בן דורמסקית
@@ -475,13 +449,10 @@ Suggested final display name: `yosei ben durmaskit`
 ---
 
 <details>
-<summary><b>Group 343: "yosei ben halafta" (2 entities)</b> - undecided</summary>
+<summary><b>Group 343: "yosei ben halafta" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:yosei ben halafta", "kind": "prefix", "keys": ["6ae9f60036d4ca9dc9d89485", "6aea549577173b9acdf27f82"]} -->
 Suggested final display name: `yosei ben halafta`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rabbi yosei ben halafta` (key: `6ae9f60036d4ca9dc9d89485`)
 - Hebrew name: רבי יוסי בריבי
@@ -504,13 +475,10 @@ Suggested final display name: `yosei ben halafta`
 ---
 
 <details>
-<summary><b>Group 344: "yosei ben hameshullam" (2 entities)</b> - undecided</summary>
+<summary><b>Group 344: "yosei ben hameshullam" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:yosei ben hameshullam", "kind": "prefix", "keys": ["6aeaa713696908d815875fdf", "6aea22f0277ed6220976b627"]} -->
 Suggested final display name: `yosei ben hameshullam`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rabbi yosei ben hameshullam` (key: `6aeaa713696908d815875fdf`)
 - Hebrew name: רבי יוסי בן המשולם
@@ -534,13 +502,10 @@ Suggested final display name: `yosei ben hameshullam`
 ---
 
 <details>
-<summary><b>Group 345: "yosei ben honi" (2 entities)</b> - undecided</summary>
+<summary><b>Group 345: "yosei ben honi" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:yosei ben honi", "kind": "prefix", "keys": ["6aea1ead277ed6220976b3df", "6aea9306696908d815875210"]} -->
 Suggested final display name: `yosei ben honi`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rabbi yosei ben honi` (key: `6aea1ead277ed6220976b3df`)
 - Hebrew name: רבי יוסי בן חוני
@@ -561,13 +526,10 @@ Suggested final display name: `yosei ben honi`
 ---
 
 <details>
-<summary><b>Group 346: "yosei ben keifar" (2 entities)</b> - undecided</summary>
+<summary><b>Group 346: "yosei ben keifar" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:yosei ben keifar", "kind": "prefix", "keys": ["6aea0e51277ed6220976a6e8", "6ae9ad032d4f0e70e49f0854"]} -->
 Suggested final display name: `yosei ben keifar`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rabbi yosei ben keifar` (key: `6aea0e51277ed6220976a6e8`)
 - Hebrew name: רבי יוסי בן כיפר
@@ -593,13 +555,10 @@ Suggested final display name: `yosei ben keifar`
 ---
 
 <details>
-<summary><b>Group 347: "yosei ben kisma" (2 entities)</b> - undecided</summary>
+<summary><b>Group 347: "yosei ben kisma" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:yosei ben kisma", "kind": "prefix", "keys": ["6aea530577173b9acdf27ebb", "6aea52c177173b9acdf27e70"]} -->
 Suggested final display name: `yosei ben kisma`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rabbi yosei ben kisma` (key: `6aea530577173b9acdf27ebb`)
 - Hebrew name: רבי יוסי בן קסמא
@@ -623,13 +582,10 @@ Suggested final display name: `yosei ben kisma`
 ---
 
 <details>
-<summary><b>Group 348: "yosei ben shaul" (2 entities)</b> - undecided</summary>
+<summary><b>Group 348: "yosei ben shaul" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:yosei ben shaul", "kind": "prefix", "keys": ["6ae9b8bb2d4f0e70e49f115e", "6ae9c7e619b5b1a927004b22"]} -->
 Suggested final display name: `yosei ben shaul`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rabbi yosei ben shaul` (key: `6ae9b8bb2d4f0e70e49f115e`)
 - Hebrew name: רבי יוסי בן שאול
@@ -658,13 +614,10 @@ Suggested final display name: `yosei ben shaul`
 ---
 
 <details>
-<summary><b>Group 349: "yosei ben yoezer" (2 entities)</b> - undecided</summary>
+<summary><b>Group 349: "yosei ben yoezer" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:yosei ben yoezer", "kind": "prefix", "keys": ["6aea5a6577173b9acdf28331", "6ae9b55d2d4f0e70e49f093b"]} -->
 Suggested final display name: `yosei ben yoezer`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rabbi yosei ben yoezer` (key: `6aea5a6577173b9acdf28331`)
 - Hebrew name: רבי יוסי בן יועזר
@@ -692,13 +645,10 @@ Suggested final display name: `yosei ben yoezer`
 ---
 
 <details>
-<summary><b>Group 350: "yosei ben zimra" (2 entities)</b> - undecided</summary>
+<summary><b>Group 350: "yosei ben zimra" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:yosei ben zimra", "kind": "prefix", "keys": ["6ae9aa892d4f0e70e49f010f", "6ae9ab982d4f0e70e49f048b"]} -->
 Suggested final display name: `yosei ben zimra`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rabbi yosei ben zimra` (key: `6ae9aa892d4f0e70e49f010f`)
 - Hebrew name: רבי יוסי בן זמרא
@@ -721,13 +671,10 @@ Suggested final display name: `yosei ben zimra`
 ---
 
 <details>
-<summary><b>Group 351: "yosei hagelili" (2 entities)</b> - undecided</summary>
+<summary><b>Group 351: "yosei hagelili" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:yosei hagelili", "kind": "prefix", "keys": ["6ae9ac682d4f0e70e49f06cd", "6ae9ac632d4f0e70e49f06c5"]} -->
 Suggested final display name: `yosei hagelili`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rabbi yosei hagelili` (key: `6ae9ac682d4f0e70e49f06cd`)
 - Hebrew name: רבי יוסי הגלילי
@@ -790,13 +737,10 @@ Suggested final display name: `yosei hagelili`
 ---
 
 <details>
-<summary><b>Group 352: "yosei the galilean" (2 entities)</b> - undecided</summary>
+<summary><b>Group 352: "yosei the galilean" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:yosei the galilean", "kind": "prefix", "keys": ["6aea01db36d4ca9dc9d89e80", "6ae9b6422d4f0e70e49f0b7c"]} -->
 Suggested final display name: `yosei the galilean`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rabbi yosei the galilean` (key: `6aea01db36d4ca9dc9d89e80`)
 - Hebrew name: רבי יוסי הגלילי
@@ -819,13 +763,10 @@ Suggested final display name: `yosei the galilean`
 ---
 
 <details>
-<summary><b>Group 353: "yosei the priest" (2 entities)</b> - undecided</summary>
+<summary><b>Group 353: "yosei the priest" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:yosei the priest", "kind": "prefix", "keys": ["6ae9fa3036d4ca9dc9d897c8", "6ae9b5752d4f0e70e49f097a"]} -->
 Suggested final display name: `yosei the priest`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rabbi yosei the priest` (key: `6ae9fa3036d4ca9dc9d897c8`)
 - Hebrew name: רבי יוסי הכהן
@@ -850,13 +791,10 @@ Suggested final display name: `yosei the priest`
 ---
 
 <details>
-<summary><b>Group 354: "yoshiya" (2 entities)</b> - undecided</summary>
+<summary><b>Group 354: "yoshiya" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:yoshiya", "kind": "prefix", "keys": ["6ae9aabd2d4f0e70e49f01ce", "6ae9aad62d4f0e70e49f022d"]} -->
 Suggested final display name: `yoshiya`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rabbi yoshiya` (key: `6ae9aabd2d4f0e70e49f01ce`)
 - Hebrew name: רבי יאשיה
@@ -907,13 +845,10 @@ Suggested final display name: `yoshiya`
 ---
 
 <details>
-<summary><b>Group 355: "yoshiyahu pinto" (2 entities)</b> - undecided</summary>
+<summary><b>Group 355: "yoshiyahu pinto" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:yoshiyahu pinto", "kind": "prefix", "keys": ["6ae9aab32d4f0e70e49f01ad", "6ae9aa122d4f0e70e49eff6f"]} -->
 Suggested final display name: `yoshiyahu pinto`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rabbi yoshiyahu pinto` (key: `6ae9aab32d4f0e70e49f01ad`)
 - Hebrew name: -
@@ -934,13 +869,10 @@ Suggested final display name: `yoshiyahu pinto`
 ---
 
 <details>
-<summary><b>Group 356: "yoshiyya" (2 entities)</b> - undecided</summary>
+<summary><b>Group 356: "yoshiyya" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:yoshiyya", "kind": "prefix", "keys": ["6aea01da36d4ca9dc9d89e7f", "6ae9fe8f36d4ca9dc9d89c1d"]} -->
 Suggested final display name: `yoshiyya`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rabbi yoshiyya` (key: `6aea01da36d4ca9dc9d89e7f`)
 - Hebrew name: רבי יאשיה
@@ -963,13 +895,10 @@ Suggested final display name: `yoshiyya`
 ---
 
 <details>
-<summary><b>Group 357: "zakkai" (3 entities)</b> - undecided</summary>
+<summary><b>Group 357: "zakkai" (3 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:zakkai", "kind": "prefix", "keys": ["6aea15ad277ed6220976ad57", "6aea491077173b9acdf27630", "6ae9ab402d4f0e70e49f037e"]} -->
 Suggested final display name: `zakkai`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rabbi zakkai` (key: `6aea15ad277ed6220976ad57`)
 - Hebrew name: רבי זכאי
@@ -1006,13 +935,10 @@ Suggested final display name: `zakkai`
 ---
 
 <details>
-<summary><b>Group 358: "zeira" (3 entities)</b> - undecided</summary>
+<summary><b>Group 358: "zeira" (3 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:zeira", "kind": "prefix", "keys": ["6ae9a9d52d4f0e70e49efe6f", "6ae9ac832d4f0e70e49f0714", "6ae9a9d92d4f0e70e49efe80"]} -->
 Suggested final display name: `zeira`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rabbi zeira` (key: `6ae9a9d52d4f0e70e49efe6f`)
 - Hebrew name: רבי זירא
@@ -1126,13 +1052,10 @@ Suggested final display name: `zeira`
 ---
 
 <details>
-<summary><b>Group 359: "zeiri" (2 entities)</b> - undecided</summary>
+<summary><b>Group 359: "zeiri" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:zeiri", "kind": "prefix", "keys": ["6ae9b56c2d4f0e70e49f0964", "6ae9aaf12d4f0e70e49f0280"]} -->
 Suggested final display name: `zeiri`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rabbi zeiri` (key: `6ae9b56c2d4f0e70e49f0964`)
 - Hebrew name: -
@@ -1158,13 +1081,10 @@ Suggested final display name: `zeiri`
 ---
 
 <details>
-<summary><b>Group 360: "zekharya" (2 entities)</b> - undecided</summary>
+<summary><b>Group 360: "zekharya" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:zekharya", "kind": "prefix", "keys": ["6aea51ad77173b9acdf27cbc", "6ae9f28536d4ca9dc9d890d3"]} -->
 Suggested final display name: `zekharya`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rabbi zekharya` (key: `6aea51ad77173b9acdf27cbc`)
 - Hebrew name: רבי זכריה
@@ -1186,13 +1106,10 @@ Suggested final display name: `zekharya`
 ---
 
 <details>
-<summary><b>Group 361: "zerika" (3 entities)</b> - undecided</summary>
+<summary><b>Group 361: "zerika" (3 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:zerika", "kind": "prefix", "keys": ["6ae9b6092d4f0e70e49f0af3", "6ae9b5a32d4f0e70e49f09f2", "6ae9a9d12d4f0e70e49efe5f"]} -->
 Suggested final display name: `zerika`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rabbi zerika` (key: `6ae9b6092d4f0e70e49f0af3`)
 - Hebrew name: רבי זריקא
@@ -1233,13 +1150,10 @@ Suggested final display name: `zerika`
 ---
 
 <details>
-<summary><b>Group 362: "zevida" (2 entities)</b> - undecided</summary>
+<summary><b>Group 362: "zevida" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:zevida", "kind": "prefix", "keys": ["6aea0ee9277ed6220976a814", "6aeb7462816324266c28a514"]} -->
 Suggested final display name: `zevida`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rabbi zevida` (key: `6aea0ee9277ed6220976a814`)
 - Hebrew name: רבי זבידא
@@ -1261,13 +1175,10 @@ Suggested final display name: `zevida`
 ---
 
 <details>
-<summary><b>Group 363: "zutra bar toviya" (3 entities)</b> - undecided</summary>
+<summary><b>Group 363: "zutra bar toviya" (3 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:zutra bar toviya", "kind": "prefix", "keys": ["6aea18c6277ed6220976af95", "6ae9ac1b2d4f0e70e49f05f6", "6aea01b936d4ca9dc9d89e38"]} -->
 Suggested final display name: `zutra bar toviya`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rabbi zutra bar toviya` (key: `6aea18c6277ed6220976af95`)
 - Hebrew name: רבי זוטרא בר טוביה
@@ -1299,13 +1210,10 @@ Suggested final display name: `zutra bar toviya`
 ---
 
 <details>
-<summary><b>Group 364: "rehumi" (2 entities)</b> - undecided</summary>
+<summary><b>Group 364: "rehumi" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:rehumi", "kind": "prefix", "keys": ["6aea942b696908d81587540c", "6aea1537277ed6220976ac7e"]} -->
 Suggested final display name: `rehumi`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rav rehumi` (key: `6aea942b696908d81587540c`)
 - Hebrew name: רב רחומי
@@ -1331,13 +1239,10 @@ Suggested final display name: `rehumi`
 ---
 
 <details>
-<summary><b>Group 365: "romanus" (2 entities)</b> - undecided</summary>
+<summary><b>Group 365: "romanus" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:romanus", "kind": "prefix", "keys": ["6aea0f1f277ed6220976a87f", "6ae9b6472d4f0e70e49f0b85"]} -->
 Suggested final display name: `romanus`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rav romanus` (key: `6aea0f1f277ed6220976a87f`)
 - Hebrew name: רבי רומנוס
@@ -1359,13 +1264,10 @@ Suggested final display name: `romanus`
 ---
 
 <details>
-<summary><b>Group 366: "sala hasida" (2 entities)</b> - undecided</summary>
+<summary><b>Group 366: "sala hasida" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:sala hasida", "kind": "prefix", "keys": ["6ae9ab772d4f0e70e49f0428", "6aea52b477173b9acdf27e61"]} -->
 Suggested final display name: `sala hasida`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rav sala hasida` (key: `6ae9ab772d4f0e70e49f0428`)
 - Hebrew name: רב סלא חסידא
@@ -1387,13 +1289,10 @@ Suggested final display name: `sala hasida`
 ---
 
 <details>
-<summary><b>Group 367: "samma" (5 entities)</b> - undecided</summary>
+<summary><b>Group 367: "samma" (5 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:samma", "kind": "prefix", "keys": ["6aea1483277ed6220976ab72", "6aea9345696908d815875278", "6aea5aca77173b9acdf28408", "6aea9355696908d815875296", "6aeb5d85816324266c28a443"]} -->
 Suggested final display name: `samma`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rav samma` (key: `6aea1483277ed6220976ab72`)
 - Hebrew name: רב סמא
@@ -1446,13 +1345,10 @@ Suggested final display name: `samma`
 ---
 
 <details>
-<summary><b>Group 368: "sehora" (2 entities)</b> - undecided</summary>
+<summary><b>Group 368: "sehora" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:sehora", "kind": "prefix", "keys": ["6ae9ab472d4f0e70e49f0396", "6ae9a9fc2d4f0e70e49eff0a"]} -->
 Suggested final display name: `sehora`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rav sehora` (key: `6ae9ab472d4f0e70e49f0396`)
 - Hebrew name: רב סחורה
@@ -1478,13 +1374,10 @@ Suggested final display name: `sehora`
 ---
 
 <details>
-<summary><b>Group 369: "seorim" (2 entities)</b> - undecided</summary>
+<summary><b>Group 369: "seorim" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:seorim", "kind": "prefix", "keys": ["6aea007836d4ca9dc9d89da0", "6ae8f303733d1062d7904201"]} -->
 Suggested final display name: `seorim`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rav seorim` (key: `6aea007836d4ca9dc9d89da0`)
 - Hebrew name: רב שעורים
@@ -1507,13 +1400,10 @@ Suggested final display name: `seorim`
 ---
 
 <details>
-<summary><b>Group 370: "shalman" (2 entities)</b> - undecided</summary>
+<summary><b>Group 370: "shalman" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:shalman", "kind": "prefix", "keys": ["6ae9f80b36d4ca9dc9d8963c", "6ae8eaa9733d1062d79035fc"]} -->
 Suggested final display name: `shalman`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rav shalman` (key: `6ae9f80b36d4ca9dc9d8963c`)
 - Hebrew name: רב שלמן
@@ -1534,13 +1424,10 @@ Suggested final display name: `shalman`
 ---
 
 <details>
-<summary><b>Group 371: "sheila bar avina" (2 entities)</b> - undecided</summary>
+<summary><b>Group 371: "sheila bar avina" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:sheila bar avina", "kind": "prefix", "keys": ["6aea59e177173b9acdf28216", "6aeab35a696908d81587672f"]} -->
 Suggested final display name: `sheila bar avina`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rav sheila bar avina` (key: `6aea59e177173b9acdf28216`)
 - Hebrew name: רב שילא בר אבינא
@@ -1565,13 +1452,10 @@ Suggested final display name: `sheila bar avina`
 ---
 
 <details>
-<summary><b>Group 372: "sheisha" (4 entities)</b> - undecided</summary>
+<summary><b>Group 372: "sheisha" (4 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:sheisha", "kind": "prefix", "keys": ["6ae9b9702d4f0e70e49f12e3", "6aeaa20d696908d815875b7a", "6ae9aaea2d4f0e70e49f026a", "6aea9b05696908d8158756a5"]} -->
 Suggested final display name: `sheisha`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rav sheisha` (key: `6ae9b9702d4f0e70e49f12e3`)
 - Hebrew name: רב שישא
@@ -1616,13 +1500,10 @@ Suggested final display name: `sheisha`
 ---
 
 <details>
-<summary><b>Group 373: "sheizevi" (2 entities)</b> - undecided</summary>
+<summary><b>Group 373: "sheizevi" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:sheizevi", "kind": "prefix", "keys": ["6aea3d4077173b9acdf26f82", "6aea01f536d4ca9dc9d89ebd"]} -->
 Suggested final display name: `sheizevi`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rav sheizevi` (key: `6aea3d4077173b9acdf26f82`)
 - Hebrew name: רב שיזבי

@@ -2,25 +2,17 @@
 
 Persons whose names are identical once a title prefix is removed (e.g. `akiva`, `rabbi akiva`, `rav akiva`). These are the most likely duplicates.
 
-**How to review:** under each group tick `[x]` on exactly ONE line:
-- `- [x] merge` - these entities are the same; merge them into one.
-- `- [x] dont merge` - they are different; keep them separate.
-Leave both unticked to decide later (undecided groups are ignored). Tip: to merge most groups,
-just tick `dont merge` on the few exceptions (and vice versa) - a later step can apply a default
-to the unticked rest. Do not edit the `<!-- merge-group: ... -->` comments (machine-readable).
+This file contains entity details only. Make prefix merge decisions in the consolidated `confidence_person_prefix_matches.md` file.
 
 Groups in this file: 3
 
 ---
 
 <details>
-<summary><b>Group 422: "zevid bar oshaya" (2 entities)</b> - undecided</summary>
+<summary><b>Group 422: "zevid bar oshaya" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:zevid bar oshaya", "kind": "prefix", "keys": ["6aea5a4477173b9acdf28306", "6aea572d77173b9acdf2815c"]} -->
 Suggested final display name: `zevid bar oshaya`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rav zevid bar oshaya` (key: `6aea5a4477173b9acdf28306`)
 - Hebrew name: רב זביד בר אושעיא
@@ -41,13 +33,10 @@ Suggested final display name: `zevid bar oshaya`
 ---
 
 <details>
-<summary><b>Group 423: "zutra" (3 entities)</b> - undecided</summary>
+<summary><b>Group 423: "zutra" (3 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:zutra", "kind": "prefix", "keys": ["6ae9aabd2d4f0e70e49f01cd", "6aea434277173b9acdf272f8", "6ae9aa192d4f0e70e49eff87"]} -->
 Suggested final display name: `zutra`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rav zutra` (key: `6ae9aabd2d4f0e70e49f01cd`)
 - Hebrew name: רב זוטרא
@@ -83,13 +72,10 @@ Suggested final display name: `zutra`
 ---
 
 <details>
-<summary><b>Group 424: "zutra bar toviyya" (2 entities)</b> - undecided</summary>
+<summary><b>Group 424: "zutra bar toviyya" (2 entities)</b></summary>
 
 <!-- merge-group: {"id": "prefix:zutra bar toviyya", "kind": "prefix", "keys": ["6aea5a0477173b9acdf2824d", "6aea001c36d4ca9dc9d89ce8"]} -->
 Suggested final display name: `zutra bar toviyya`
-
-- [ ] merge
-- [ ] dont merge
 
 #### Entity 1: `rav zutra bar toviyya` (key: `6aea5a0477173b9acdf2824d`)
 - Hebrew name: רב זוטרא בר טוביה
