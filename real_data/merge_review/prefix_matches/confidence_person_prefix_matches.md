@@ -2915,7 +2915,7 @@ Groups: 424
 
 397. **45%** "yosef" (14 entities) <!-- merge-confidence: {"id": "prefix:yosef", "confidence": 45, "keys": ["6aea533b77173b9acdf27f01", "6ae9aab92d4f0e70e49f01be", "6ae9f86236d4ca9dc9d896e0", "6aea26e9277ed6220976b977", "6aeaa1d0696908d815875b18", "6aeb10e9816324266c28a25b", "6ae9aa392d4f0e70e49efff6", "6ae9ab282d4f0e70e49f033c", "6ae9b5e82d4f0e70e49f0a98", "6aea1539277ed6220976ac85", "6aea2357277ed6220976b6df", "6aeaa267696908d815875c1f", "6aeaa2c5696908d815875cd7", "6aeab304696908d8158766c0"]} -->
 - [ ] merge
-- [ ] dont merge
+- [x] dont merge
    - weakest pair: `rav yosef` vs `yosef`
    - base 85% (title-prefix)
    - -15: Hebrew names differ
@@ -2931,7 +2931,7 @@ Groups: 424
 
 399. **44%** "levi" (4 entities) <!-- merge-confidence: {"id": "prefix:levi", "confidence": 44, "keys": ["6ae8aab8545535391e1dca78", "6ae8f170733d1062d7903cc3", "6ae9b6682d4f0e70e49f0bde", "6ae9aa812d4f0e70e49f00f0"]} -->
 - [ ] merge
-- [ ] dont merge
+- [x] dont merge
    - weakest pair: `levi` vs `levi`
    - base 85% (title-prefix)
    - -30: isGroup differs
@@ -2941,7 +2941,7 @@ Groups: 424
 
 400. **31%** "hanina" (6 entities) <!-- merge-confidence: {"id": "prefix:hanina", "confidence": 31, "keys": ["6ae9aa052d4f0e70e49eff34", "6aea262a277ed6220976b82b", "6aeab3d2696908d8158767d5", "6ae9a9c62d4f0e70e49efe2f", "6aeab3b4696908d8158767a5", "6ae9acd32d4f0e70e49f07de"]} -->
 - [ ] merge
-- [ ] dont merge
+- [x] dont merge
    - weakest pair: `rabbi hanina` vs `rav hanina`
    - base 85% (title-prefix)
    - -20: time period differs
@@ -2951,7 +2951,7 @@ Groups: 424
 
 401. **28%** "nehemya" (5 entities) <!-- merge-confidence: {"id": "prefix:nehemya", "confidence": 28, "keys": ["6ae9ad062d4f0e70e49f0860", "6aeaa226696908d815875ba8", "6aea492177173b9acdf27655", "6ae9abe42d4f0e70e49f0562", "6aea0f51277ed6220976a8d0"]} -->
 - [ ] merge
-- [ ] dont merge
+- [x] dont merge
    - weakest pair: `nehemya` vs `nehemya`
    - base 85% (title-prefix)
    - -20: time period differs
@@ -2961,7 +2961,7 @@ Groups: 424
 
 402. **25%** "amram" (6 entities) <!-- merge-confidence: {"id": "prefix:amram", "confidence": 25, "keys": ["6ae8d359dafb34fd0cdc2101", "6ae9b88b2d4f0e70e49f10dd", "6aeafad6816324266c289fc2", "6aeb11c9816324266c28a3b3", "6aeab2fa696908d8158766b3", "6ae9ac2e2d4f0e70e49f0629"]} -->
 - [ ] merge
-- [ ] dont merge
+- [x] dont merge
    - weakest pair: `amram` vs `amram`
    - base 85% (title-prefix)
    - -20: time period differs
@@ -2970,7 +2970,7 @@ Groups: 424
 
 403. **25%** "eliezer" (12 entities) <!-- merge-confidence: {"id": "prefix:eliezer", "confidence": 25, "keys": ["6ae8aa17545535391e1dc8b4", "6ae8f2ff733d1062d79041f8", "6ae8f364733d1062d79042fe", "6ae8f446733d1062d79043c1", "6ae9ad062d4f0e70e49f0861", "6ae9b5dd2d4f0e70e49f0a7b", "6ae9b6302d4f0e70e49f0b59", "6ae9f31a36d4ca9dc9d89245", "6ae9f66936d4ca9dc9d8957a", "6aea1916277ed6220976b038", "6aea48a977173b9acdf2758a", "6ae9a9be2d4f0e70e49efe09"]} -->
 - [ ] merge
-- [ ] dont merge
+- [x] dont merge
    - weakest pair: `eliezer` vs `eliezer`
    - base 85% (title-prefix)
    - -20: time period differs
@@ -2979,7 +2979,7 @@ Groups: 424
 
 404. **25%** "hillel" (7 entities) <!-- merge-confidence: {"id": "prefix:hillel", "confidence": 25, "keys": ["6ae8e365733d1062d7902b28", "6ae9b7432d4f0e70e49f0ddf", "6aea22db277ed6220976b603", "6aeb105f816324266c28a18c", "6aea50b577173b9acdf27b47", "6aea5ada77173b9acdf28424", "6ae9b8262d4f0e70e49f0fea"]} -->
 - [ ] merge
-- [ ] dont merge
+- [x] dont merge
    - weakest pair: `hillel` vs `hillel`
    - base 85% (title-prefix)
    - -20: time period differs
@@ -2988,7 +2988,7 @@ Groups: 424
 
 405. **25%** "hiyya" (14 entities) <!-- merge-confidence: {"id": "prefix:hiyya", "confidence": 25, "keys": ["6ae9aac52d4f0e70e49f01f0", "6ae9ac862d4f0e70e49f071e", "6ae9b7722d4f0e70e49f0e59", "6ae9bf0319b5b1a927004701", "6aea447a77173b9acdf27517", "6aea491677173b9acdf2763c", "6aeb1007816324266c28a12a", "6ae9aac12d4f0e70e49f01dd", "6aea51bf77173b9acdf27cdf", "6ae9b5812d4f0e70e49f0997", "6ae9f65936d4ca9dc9d89553", "6aea48ba77173b9acdf275a0", "6aea5a4977173b9acdf28307", "6aeab38c696908d815876775"]} -->
 - [ ] merge
-- [ ] dont merge
+- [x] dont merge
    - weakest pair: `hiyya` vs `hiyya`
    - base 85% (title-prefix)
    - -20: time period differs
@@ -2997,7 +2997,7 @@ Groups: 424
 
 406. **25%** "shimon" (11 entities) <!-- merge-confidence: {"id": "prefix:shimon", "confidence": 25, "keys": ["6aea570377173b9acdf28117", "6ae9aac12d4f0e70e49f01df", "6ae9f87236d4ca9dc9d89708", "6ae8f1e2733d1062d7903e6a", "6ae9b5652d4f0e70e49f0954", "6ae9b6582d4f0e70e49f0bb5", "6aea0ee7277ed6220976a80f", "6aea9306696908d815875211", "6aeaa3f3696908d815875e94", "6aeaa816696908d81587619c", "6aeb1146816324266c28a2ef"]} -->
 - [ ] merge
-- [ ] dont merge
+- [x] dont merge
    - weakest pair: `rabbi shimon` vs `shimon`
    - base 85% (title-prefix)
    - -20: time period differs
@@ -3006,7 +3006,7 @@ Groups: 424
 
 407. **25%** "yaakov" (6 entities) <!-- merge-confidence: {"id": "prefix:yaakov", "confidence": 25, "keys": ["6ae9ab782d4f0e70e49f0429", "6aea263e277ed6220976b84a", "6aea51fc77173b9acdf27d36", "6ae9b7f02d4f0e70e49f0f64", "6aea1eca277ed6220976b405", "6ae9aa9a2d4f0e70e49f0150"]} -->
 - [ ] merge
-- [ ] dont merge
+- [x] dont merge
    - weakest pair: `rabbi yaakov` vs `rav yaakov`
    - base 85% (title-prefix)
    - -20: time period differs
@@ -3015,7 +3015,7 @@ Groups: 424
 
 408. **25%** "yehoshua" (6 entities) <!-- merge-confidence: {"id": "prefix:yehoshua", "confidence": 25, "keys": ["6ae9a9c52d4f0e70e49efe2d", "6ae9a9de2d4f0e70e49efe90", "6ae9a9d22d4f0e70e49efe61", "6ae9c7f019b5b1a927004b35", "6aeb1049816324266c28a170", "6aeb119d816324266c28a37b"]} -->
 - [ ] merge
-- [ ] dont merge
+- [x] dont merge
    - weakest pair: `rav yehoshua` vs `yehoshua`
    - base 85% (title-prefix)
    - -20: time period differs
@@ -3033,7 +3033,7 @@ Groups: 424
 
 410. **25%** "yitzhak" (11 entities) <!-- merge-confidence: {"id": "prefix:yitzhak", "confidence": 25, "keys": ["6ae9aa092d4f0e70e49eff47", "6aeab3ec696908d8158767f8", "6ae9ab9e2d4f0e70e49f049b", "6ae9b5872d4f0e70e49f09a8", "6aea599377173b9acdf2818b", "6ae9a9d92d4f0e70e49efe7e", "6ae9b5dd2d4f0e70e49f0a7a", "6aea549e77173b9acdf27f90", "6aeaa346696908d815875db4", "6aeaac2b696908d8158763c0", "6aeab2d0696908d815876678"]} -->
 - [ ] merge
-- [ ] dont merge
+- [x] dont merge
    - weakest pair: `rabbi yitzhak` vs `rav yitzhak`
    - base 85% (title-prefix)
    - -20: time period differs
@@ -3042,7 +3042,7 @@ Groups: 424
 
 411. **25%** "yonatan" (3 entities) <!-- merge-confidence: {"id": "prefix:yonatan", "confidence": 25, "keys": ["6ae9aa332d4f0e70e49effe3", "6ae9aaee2d4f0e70e49f0277", "6aea2306277ed6220976b64f"]} -->
 - [ ] merge
-- [ ] dont merge
+- [x] dont merge
    - weakest pair: `yonatan` vs `yonatan`
    - base 85% (title-prefix)
    - -20: time period differs
@@ -3051,7 +3051,7 @@ Groups: 424
 
 412. **25%** "yosei" (15 entities) <!-- merge-confidence: {"id": "prefix:yosei", "confidence": 25, "keys": ["6ae9a9cd2d4f0e70e49efe4c", "6ae9c65019b5b1a9270047d6", "6ae9c66819b5b1a927004806", "6aea0ee9277ed6220976a813", "6aea43cd77173b9acdf273e0", "6aea9ac4696908d81587563c", "6ae9b5fb2d4f0e70e49f0acd", "6ae9aa0c2d4f0e70e49eff51", "6ae9ac072d4f0e70e49f05b9", "6ae9ac5a2d4f0e70e49f06aa", "6aea0f72277ed6220976a901", "6aea1943277ed6220976b08b", "6aea493477173b9acdf27676", "6aeaa7d8696908d815876135", "6aeaac23696908d8158763b1"]} -->
 - [ ] merge
-- [ ] dont merge
+- [x] dont merge
    - weakest pair: `rabbi yosei` vs `yosei`
    - base 85% (title-prefix)
    - -20: time period differs
@@ -3060,61 +3060,61 @@ Groups: 424
 
 413. **0%** "aha" (28 entities) <!-- merge-confidence: {"id": "prefix:aha", "confidence": 0, "keys": ["6ae9aa472d4f0e70e49f0020", "6ae9aac92d4f0e70e49f0201", "6ae9ab9a2d4f0e70e49f0491", "6ae9b5b72d4f0e70e49f0a29", "6ae9b7c62d4f0e70e49f0f12", "6ae9b8582d4f0e70e49f106d", "6ae9c72419b5b1a92700498f", "6ae9f3be36d4ca9dc9d893a0", "6ae9fe7236d4ca9dc9d89bde", "6aea0f7f277ed6220976a920", "6aea1879277ed6220976af03", "6aea43a977173b9acdf273a4", "6aea43ea77173b9acdf27414", "6aeb6b11816324266c28a4a2", "6ae9a9c62d4f0e70e49efe31", "6ae9ac242d4f0e70e49f060c", "6ae9b5262d4f0e70e49f08a9", "6ae9b5932d4f0e70e49f09c8", "6ae9b6f12d4f0e70e49f0d15", "6ae9c63519b5b1a92700479b", "6aea0eaf277ed6220976a7a7", "6aea0eea277ed6220976a815", "6aea426d77173b9acdf271ac", "6aea521377173b9acdf27d5e", "6aea5c4277173b9acdf28516", "6aea9467696908d81587546c", "6aeaa7cf696908d81587611d", "6aeab417696908d81587683f"]} -->
 - [ ] merge
-- [ ] dont merge
+- [x] dont merge
    - non-Tanna/Amora roles present; group is not mergeable by this candidate list
    - `rav aha` has non-Tanna/Amora role(s): Kohen
 
 414. **0%** "daniel" (2 entities) <!-- merge-confidence: {"id": "prefix:daniel", "confidence": 0, "keys": ["6ae8ea37733d1062d7903545", "6aea437477173b9acdf2734b"]} -->
 - [ ] merge
-- [ ] dont merge
+- [x] dont merge
    - non-Tanna/Amora roles present; group is not mergeable by this candidate list
    - `daniel` has non-Tanna/Amora role(s): Prophet
 
 415. **0%** "elazar" (14 entities) <!-- merge-confidence: {"id": "prefix:elazar", "confidence": 0, "keys": ["6aea01d436d4ca9dc9d89e74", "6ae9a9e92d4f0e70e49efebf", "6ae9b5e32d4f0e70e49f0a8b", "6ae9b5e72d4f0e70e49f0a96", "6ae9b5eb2d4f0e70e49f0aa4", "6ae9b9122d4f0e70e49f1212", "6ae9c74f19b5b1a9270049da", "6aea51ef77173b9acdf27d23", "6aeaa26a696908d815875c27", "6ae9aa3e2d4f0e70e49f0008", "6ae9b9c02d4f0e70e49f1394", "6aea1470277ed6220976ab5d", "6aea2208277ed6220976b457", "6aeaa185696908d815875a94"]} -->
 - [ ] merge
-- [ ] dont merge
+- [x] dont merge
    - non-Tanna/Amora roles present; group is not mergeable by this candidate list
    - `elazar` has non-Tanna/Amora role(s): Kohen
 
 416. **0%** "ezra" (2 entities) <!-- merge-confidence: {"id": "prefix:ezra", "confidence": 0, "keys": ["6ae8ef50733d1062d7903a9f", "6aea9b5b696908d815875739"]} -->
 - [ ] merge
-- [ ] dont merge
+- [x] dont merge
    - non-Tanna/Amora roles present; group is not mergeable by this candidate list
    - `ezra` has non-Tanna/Amora role(s): Prophet, Kohen
 
 417. **0%** "haggai" (2 entities) <!-- merge-confidence: {"id": "prefix:haggai", "confidence": 0, "keys": ["6ae8eb6c733d1062d79036a9", "6aea3d0977173b9acdf26f44"]} -->
 - [ ] merge
-- [ ] dont merge
+- [x] dont merge
    - non-Tanna/Amora roles present; group is not mergeable by this candidate list
    - `haggai` has non-Tanna/Amora role(s): Prophet
 
 418. **0%** "menahem" (4 entities) <!-- merge-confidence: {"id": "prefix:menahem", "confidence": 0, "keys": ["6ae8e6fd733d1062d79031b7", "6ae9b7242d4f0e70e49f0d9a", "6aea006036d4ca9dc9d89d6b", "6aeab307696908d8158766c8"]} -->
 - [ ] merge
-- [ ] dont merge
+- [x] dont merge
    - non-Tanna/Amora roles present; group is not mergeable by this candidate list
    - `menahem` has non-Tanna/Amora role(s): King
 
 419. **0%** "menashe" (2 entities) <!-- merge-confidence: {"id": "prefix:menashe", "confidence": 0, "keys": ["6ae9aa802d4f0e70e49f00ed", "6ae9b7192d4f0e70e49f0d7e"]} -->
 - [ ] merge
-- [ ] dont merge
+- [x] dont merge
    - non-Tanna/Amora roles present; group is not mergeable by this candidate list
    - `menashe` has non-Tanna/Amora role(s): King
 
 420. **0%** "pinehas" (6 entities) <!-- merge-confidence: {"id": "prefix:pinehas", "confidence": 0, "keys": ["6ae9aa162d4f0e70e49eff7e", "6aea930e696908d81587521f", "6aeaa2ea696908d815875d20", "6aea15fe277ed6220976adfc", "6ae9b6452d4f0e70e49f0b81", "6aea931c696908d815875234"]} -->
 - [ ] merge
-- [ ] dont merge
+- [x] dont merge
    - non-Tanna/Amora roles present; group is not mergeable by this candidate list
    - `pinehas` has non-Tanna/Amora role(s): Kohen, Prophet
 
 421. **0%** "tzadok" (2 entities) <!-- merge-confidence: {"id": "prefix:tzadok", "confidence": 0, "keys": ["6ae9ab5a2d4f0e70e49f03cf", "6ae9ab752d4f0e70e49f041f"]} -->
 - [ ] merge
-- [ ] dont merge
+- [x] dont merge
    - non-Tanna/Amora roles present; group is not mergeable by this candidate list
    - `tzadok` has non-Tanna/Amora role(s): Kohen
 
 422. **0%** "yannai" (3 entities) <!-- merge-confidence: {"id": "prefix:yannai", "confidence": 0, "keys": ["6ae9b56c2d4f0e70e49f0962", "6aea3cf277173b9acdf26f1d", "6ae9aa632d4f0e70e49f0084"]} -->
 - [ ] merge
-- [ ] dont merge
+- [x] dont merge
    - non-Tanna/Amora roles present; group is not mergeable by this candidate list
    - `yannai` has non-Tanna/Amora role(s): King
 
